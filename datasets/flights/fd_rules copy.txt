@@ -1,4 +1,0 @@
-flight -> scheduled_dept
-flight -> actual_dept
-flight -> scheduled_arrival
-flight -> actual_arrival
