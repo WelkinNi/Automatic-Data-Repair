@@ -1,0 +1,21 @@
+id,beer_name,style,ounces,abv,ibu,brewery_id,brewery_name,city,state
+590,Bomb Lager (Old Recipe),American Amber / Red Lager,12.0,0.046,nan,60,Kona Brewing Company,Kona,VT
+2522,Country Pale Ale,Cider,12.0,0.08,17.0,295,Epic Brewing,Westminster,MA
+2643,Pumpion,American Amber / Red Ale,12.0,0.073,nan,6,Laughing Dog Brewing Company,Denver,OH
+104,Peacemaker Pale Ale,American Pale Ale (APA),12.0,0.04,nan,149,Black Market Brewing Company,Raleigh,NC
+1049,Luchesa Lager,Keller Bier / Zwickel Bier,16.0,0.048,35.0,184,Sockeye Brewing Company,Boulder,TX
+1468,Wolverine Premium Lager,American Pale Lager,12.0,0.047,17.0,402,Wolverine State Brewing Company,Grand Rapids,MI
+1286,Bikini Beer,Bock,16.0,0.042,nan,173,Dry Dock Brewing Company,Brooklyn,IL
+855,Firemans #4 Blonde Ale (2013),American IPA,16.0,0.051,21.0,380,Sun King Brewing Company,Blanco,TX
+545,Missouri Mule India Pale Ale,American Porter,12.0,0.06,12.0,69,Appalachian Mountain Brewery,Boone,NC
+164,RecreationAle,Kölsch,12.0,0.047,65.0,469,Quest Brewing Company,Athens,GA
+2183,Atlantic Amber Ale (2007),Cream Ale,12.0,0.058,35.0,45,Branchline Brewing Company,Newburgh,AL
+1188,Duke's Cold Nose Brown Ale,American Brown Ale,16.0,0.051,nan,404,Epic Brewing,Jacksonville,FL
+2086,Brooklyn Lager (12 oz.),American Amber / Red Ale,12.0,0.058,nan,158,Westbrook Brewing Company,Flagstaff,CO
+29,Very Noddy Lager (Current),American Double / Imperial IPA,16.0,0.07,nan,530,Buckbean Brewing Company,Reno,OR
+2347,Hunny Do Wheat,American Pale Ale (APA),12.0,0.048,18.0,45,Third Street Brewhouse,Cold Spring,MN
+1054,Devils Head Red Ale,Fruit / Vegetable Beer,12.0,0.06,nan,438,Pete's Brewing Company,Chicago,MN
+1491,Hopworks IPA (2012),American Pale Ale (APA),16.0,0.066,20.0,548,18th Street Brewery,Bloomington,OR
+687,Chomolungma Honey Nut Brown Ale,English Brown Ale,12.0,0.06,nan,92,Jackie O's Pub & Brewery,Athens,OH
+957,Saranac Traditional Lager (2000),Fruit / Vegetable Beer,12.0,0.04,nan,120,Matt Brewing Company,Utica,NY
+2427,Suncaster Summer Wheat,American Pale Wheat Ale,12.0,0.047,28.0,105,Sierra Nevada Brewing Company,Meadville,IN

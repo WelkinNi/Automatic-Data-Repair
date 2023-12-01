@@ -1,0 +1,21 @@
+ID,id,beer_name,style,ounces,abv,ibu,brewery_id,brewery_name,city,state
+1185,957,Longboard Island Lager,American Amber / Red Lager,16.0,0.049,18.0,220,Kona Brewing Company,Seattle,IA
+2325,1903,Country Pale Ale,English Pale Ale,12.0,0.051,nan,295,Wachusett Brewing Company,Erie,MA
+956,1085,Thrasher Session India Pale Ale,Saison / Farmhouse Ale,12.0,0.047,nan,6,Infamous Brewing Company,Boston,RI
+1216,2329,Peacemaker Pale Ale,American Pale Ale (APA),12.0,0.049,47.0,161,Lonerider Brewing Company,Raleigh,NC
+1516,2070,Luchesa Lager,Keller Bier / Zwickel Bier,12.0,0.045,35.0,234,Oasis Texas Brewing Company,San Diego,TX
+2392,1468,Wolverine Premium Lager,American Pale Lager,12.0,0.047,nan,402,Wolverine State Brewing Company,Ann Arbor,CO
+770,2626,Adam's Stout,American Porter,12.0,0.054,nan,173,Evil Twin Brewing,Brooklyn,SD
+1686,54,Firemans #4 Blonde Ale (2013),American Blonde Ale,12.0,0.06,21.0,128,Real Ale Brewing Company,Blanco,CA
+131,1092,Porter (a/k/a Black Gold Porter),American Porter,12.0,0.06,nan,152,Appalachian Mountain Brewery,Boone,NC
+2136,1997,RecreationAle,American Pale Ale (APA),12.0,0.071,36.0,425,Sea Dog Brewing Company,Flagstaff,GA
+1483,148,Grapefruit Jungle (GFJ),Saison / Farmhouse Ale,12.0,0.058,35.0,238,Newburgh Brewing Company,Newburgh,CO
+331,1188,Duke's Cold Nose Brown Ale,American Brown Ale,12.0,0.044,nan,161,Bold City Brewery,San Diego,DC
+1239,125,Screaming Eagle Special Ale ESB,American Pale Wheat Ale,12.0,0.058,nan,371,Stillmank Beer Company,Sheridan,CO
+467,1569,Hydraulion Red,American Brown Ale,16.0,0.099,nan,530,Moat Mountain Smoke House & Brew...,Spirit Lake,FL
+2170,1574,Duluchan India Pale Ale,American Amber / Red Ale,12.0,0.075,25.0,142,Third Street Brewhouse,Cold Spring,MN
+1639,1058,Leatherhead Red,American Pale Wheat Ale,12.0,0.047,nan,125,Pete's Brewing Company,Longmont,NM
+1096,653,Hopworks IPA (2012),American IPA,16.0,nan,75.0,34,Hopworks Urban Brewery,Tampa,CA
+1131,687,Java the Hop,English Brown Ale,12.0,0.068,nan,131,Big Elm Brewing,Athens,OH
+1295,2577,Bomb Lager (Old Recipe),American Pale Lager,12.0,0.048,nan,299,Matt Brewing Company,Chandler,ID
+861,603,Plum St. Porter,American Pale Wheat Ale,12.0,0.05,nan,149,Four String Brewing Company,Stevens Point,OH

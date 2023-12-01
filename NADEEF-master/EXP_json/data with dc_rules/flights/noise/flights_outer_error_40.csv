@@ -1,0 +1,2377 @@
+src,flight,sched_dep_time,act_dep_time,sched_arr_time,act_arr_time
+aa,,7:10 a.m.,7:16 a.m.,9:40 a.m.,Alabama
+aa,AA-1733-ORD-PHX,7:45 p.m.,7:58 p.m.,10:30 p.m.,Alabama
+aa,AA-1640-MIA-MCO,6:30 p.m.,6:30 p.m.,20010101,7:25 p.m.
+aa,AA-518-MIA-JFK,6:40 a.m.,6:54 a.m.,20010101,9:28 a.m.
+aa,N/A,,12:41 p.m.,2:45 p.m.,2:50 p.m.
+?,AA-204-LAX-MCO,Some college,ɜ11:25 p.m.,6:55 a.m.,6:55 a.m.
+aa,ZE-3468-RVG-JHC,7:00 a.m.,7:25 a.k.,9:55 a.m.,9:45 a.m.
+aa,,4:15 p.m.,,7:55 p.k.,.m.p 93:7
+aa,AA-446-DHX-[HN,11:50 a.m.,12:12 p.m.,3:50 p.m.,
+wx,AA-466-IAH-MIA,6:Ț00 a.m.,6:08 a.m.,9:20 a.m.,
+aÂa,AA-1886-BOS-MIA,10:45 a.o.,10:55 a.m.,2:20 '.m.,1:40 o.m.
+,AA-2957-DFW-CVG,7:55 a.m.,8:04 a.m.,11:05 a.m.,11:01 a.m.
+aa,LTA-AIM-4661-AA,10:15 a.m.,10:18 a.m.,12:10 p.m.,11:56 a.m.
+ea,AA-3979-CVG-ORD,7:30 a.m.,8:04 a.m.,8:00 x.m.,
+aa,AA-1279-DFW-PYX,.m.p 00:1,2:04 '.o.,2:35 p.m.,Alabama
+aa,AE-616-BXX-BYA,.m.a 50:9,10:Ɇ10 a.m.,12:35 p.m.,1:27 p.m.
+aa,AA-4344-ORD-DTW,11:45 a.m.,12:13 p.m.,.m.p 00:2,Alabama
+aÂa,AA-2525-DFW-MIA,7:25 a.m.,7:39 a.m.,11:10 a.m.,11:06 a.m.
+aa,,6:45 a.m.,6:57 a.m.,7:45 a.m.,7:40 a.m.
+cq,AA-271-MIA-LAX,11:35 a.m.,11:52 a.m.,2:25 p.m.,
+aa,AA-2050-ORD-MIA,.m.a 04:01,11:05 a.m.,2:45 p.m.,2:46 p.m.
+aa,AA-4330-CVG-ORD,3:35 p.m.,3:36 p.m.,,3:3Ȭ3 p.m.
+aa,AA-1434-DFW-MCO,7:15 a.m.,7:21 Ȟa.m.,10:35 a.m.,10:36 a.m.
+,AA-4307-ORD-DTW,6:45 p.m.,20010101,9:10 p.m.,
+aa,AA-3-JFK-LAX,12:00 p.m.,12:11 p.m.,3:15 p.m.,3:16 p.m.
+sa,AA-3842-MSP-ORD,,6:56 a.m.,7:30 a.m.,7:51 a.m.
+aa,AA-643-MIA-ORD,7:10 a.m.,7:Ȟ30 a.m.,9:35 a.m.,9:31 ȡa.m.
+aa,EA-1007-KIQ-KFX,4:55 p.m.,5:08Ȱ p.m.,8:05 p.m.,7:55 p.m.
+aa,AA-1221-MCO-ORD,8:00 pȫ.m.,8:23 p.m.,9:45 p.m.,9:53 p.m.
+,AA-400-DFW-JFK,10:4ɉ0 a.m.,20010101,2:59 p.i.,3:04 p.m.
+aa,AA-4198-ORD-CLE,10:40 a.m.,,12:55 p.m.,12:50 p.m.
+aa,EA-1522-DFO-ORF,11:55 k.m.,11:55 p.mɟ.,20010101,5:50 a.m.
+?,AA-3823-LAX-DEN,Ȭ9:00 p.m.,.m.p 00:9,12:15 a.m.,
+aa,AA-2312-DFW-DTW,8:25 p.m.,8:25 p.m.,11:50 p.n.,11:50 p.m.
+?,AA-1165-JFK-MIA,6:59 a.m.,ȟ7:22 a.m.,10:34 a.m.,10:04 a.m.
+aa,AA-431-MIA-SFO,8:35 a.m.,8:51 a.m.,11:50 a.m.,11:44 a.m.
+?,AA-649-ORD-SNA,1:30 p.m.,1:30 p.m.,,3:50 p.m.
+aa,AA-3063-SLC-LAX,8:20 p.m.,8:39 p.m.,20010101,.m.p 02:9
+aa,AA-3804-PHL-ORD,2:35 p.m.,2:44 p.m.,4:05 p.m.,
+aa,AA-1917-JFK-MCO,2:55 p.j.,3:27 p.m.,5:55 p.m.,5:43 p.m.
+aa,AA-2268-PHX-ORD,Some college,7:22 a.m.,11:35 a.m.,11:06 a.m.
+aa,AA-4277-CVG-JFK,12:10 p.m.,12:10 p.m.,20010101,1:43 p.m.
+aa,AA-789-ORD-DEN,1:05 p.m.,1:19 p.m.,.m.p 53:2,
+aa,,8:35 a.m.,,,10:16 a.m.
+aa,N/A,3ȫ:05 p.m.,3:36 ȯp.m.,6:30 p.m.,6:43 p.l.
+aa,AA-1544-SΞAN-ORD,11:25 a.m.,11:40 a.m.,5:25 p.m.,4:56 p.m.
+aa,AA-3786-IAH-ORD,4:00 p.m.,4:12 p.m.,20010101,Alabama
+aa,AA-222-LAX-BOS,7:Ȝ10 a.m.,7:31 a.m.,3:30 p.n.,3:14 p.m.
+aa,,6:00 a.m.,6:10 a.m.,6:40 a.m.,6:19 x.m.
+aa,N/A,7:10 a.m.,20010101,10:45 a.m.,11:12 a.m.
+helloflight,AA-3859-IAH-ORD,Some college,7:16 a.m.,9:40 a.m.,9:32 a.m.
+,CO-1586-IAH-MCO,7:00 p.m.,7:14 p.m.,10:15ɚ p.m.,10:29 p.m.
+helloflight,,6:40 a.m.,6:54 a.m.,,9:28 c.k.
+helloflight,UA-397-JFK-SFO,8:00 a.m.,.m.a 92:8,11:55 a.k.,Alabama
+helloflight,UAΥ-3925-IAD-ORF,8:41 a.m.,8:42 a.m.,9:54 a.m.,9:43 a.m.
+htluorumght,AA-1733-ORD-PHX,Some college,7:58 p.m.,10:30 p.m.,10:30 p.m.
+helloflight,UA-2830-MCO-CLT,,3:27 pȯ.m.,5:05 p.m.,5:17 p.m.
+helloflight,CO-58-DEN-IAH,11:25 w.n.,11:32 a.m.,2:50 p.m.,3:31 p.m.
+helloflight,AA-1544-SAN-ORD,11:25 a.m.,11:40 a.m.,5:25 p.m.,4:56 p.l.
+helloflight,N/A,10:39 a.m.,20010101,11:19 s.l.,11:21 a.m.
+helloflight,N/A,11:25 p.m.,11:25 p.m.,6:55 a.m.,6:55 a.m.
+mellufuhgyv,UX-414-LAD-SXO,6:00 a.m.,,7:23 a.m.,7:17 a.m.
+helloflight,CO-1614-LAX-IAH,12:30 a.m.,12:41 a.m.,5:35 a.m.,Alabama
+helloflight,,4:00 p.m.,4:00 p.m.,20010101,6:28 p.m.
+thgilfolleh,GJ-52-IAM-JAX,7:35 a.m.,7:29 a.o.,9:21 a.k.,9:14 a.m.
+helloflight,CO-1090-BOS-IAH,9:45 a.m.,10:19 a.m.,20010101,1:19 p.m.
+helloflight,AA-616-DFW-DTW,9:05 a.m.,10:10 a.m.,12:35 p.m.,1:27 p.m.
+helloflight,N/A,8:15 a.j.,8:12 a.m.,10:06 a.m.,9:56 a.m.
+helloflight,AA-3468-CGN-OUA,7:00 a.m.,7:25 a.m.,9:55 a.m.,9:45 a.m.
+helloflight,AA-484-DFW-MIA,4:15 p.m.,4:29 l.k.,.m.p 55:7,7:39 p.m.
+helloflight,AA-1886-BOS-MIA,10:45 a.m.,10:55 a.m.,2:20 p.m.,Alabama
+,CO-62-IAH-EWR,Some college,2:48 p.m.,7:03 p.m.,
+helloflight,CO-1561-PHX-IAH,Some college,8:00 a.Ȝm.,,11:32 a.m.
+helloflight,UA-2314-ATL-PHL,,,5:00 p.m.,4:47 p.m.
+helloflight,AA-446-DFW-PHL,,12:12 p.m.,3:50 p.m.,Alabama
+helloflight,CO-1023-IAH-DEN,11:40 a.m.,11:56 a.m.,1:17 p.m.,1:14 p.m.
+helloflight,AA-466-IAH-MIA,,6:08 a.m.,20010101,
+helloflight,UA-3050-PHX-CLT,11:05 a.m.,11:30 a.m.,4:57 p.m.,5:05 p.m.
+?,CO-89-IAH-EWR,6:00 a.m.,6:02 a.m.,10:20 a.m.,10:27 a.m.
+helloflight,CO-1088-CLE-IAH,8:40 a.m.,8:40 a.m.,10:54 a.m.,10:56 a.m.
+helloflight,AA-1664-MIA-ATL,10:15 a.m.,10:18 a.m.,12:10 p.ɗm.,Alabama
+helloflight,AA-1279-DFW-PHX,Some college,2:04 p.m.,2:35 p.m.,3:30 p.m.
+helloflight,HZ-854-SYO-MEH,7:53 a.m.,7:49 a.m.,1:39 p.m.,1:30 p.ȧm.
+helloflight,UA-382-IAD-LAX,12:30 p.m.,12:35 p.m.,3:19 p.m.,
+nelmoxllght,N/A,11:45 a.m.,12:13 p.m.,2:00 p.m.,2:10 p.m.
+helloflight,UA-257-JFK-SFO,2:30 p.j.,2:26 p.m.,,5:42 p.m.
+helloflight,IQ-2945-PHP-BMY,12:00 a.m.,3:11 a.m.,20010101,1:15 p.m.
+helloflight,CO-63-VWC-IWN,5:25 p.m.,5:22 p.m.,ȯ8:22 p.m.,8:03 p.m.
+helloflight,CO-47-IAH-LAX,7:10 p.m.,8:25 p.m.,8:56 p.o.,9:52 p.m.
+helloflight,,10:40 q.k.,11:05 a.mɋ.,2:4Ȯ5 p.m.,Alabama
+helloflight,UA-248-PHX-ORD,Some college,1:32 p.m.,5:15 p.m.,5:34 p.m.
+?,,3:35 p.m.,3:36 p.m.,4:00 p.m.,Alabama
+helloflight,AA-1434-DFW-MCO,7:15 a.m.,.m.a 12:7,10:35 a.m.,10:36 a.m.
+helloflight,AA-1640-MIA-MCO,6:30 p.m.,6:30 p.m.,.m.p 52:7,7:25 k.i.
+helloflight,AA-4307-ORD-DTW,6:45 p.k.,6:55 p.m.,9:10 p.m.,8:53 p.k.
+helloflight,AA-3-JFK-LAX,12:00 p.m.,12:11 p.m.,3:15 p.m.,3:16 p.m.
+helloflight,CO-1694-LAX-IAH,7:15 p.Ȱm.,7:15 p.m.,12:21 a.m.,12:21 a.m.
+fenljfniyhh,UA-843-LAX-ORD,1:55 p.m.,2:10 p.m.,7:53 p.m.,7:58 p.m.
+Ғhelloflight,CO-1193-EWR-MCO,9:15 a.m.,9:14 aȢ.m.,12:18 p.m.,12:09 p.m.
+helloflight,AA-3842-MSP-ORD,6Ț:00 a.m.,6:56 a.m.,7:30 a.m.,7:51 a.m.
+helloflight,AA-643-MIA-͢ORD,7:10 a.Ȝm.,7:30 x.m.,9:35 aȥ.m.,9:31 a.m.
+hdjnpxungvt,AA-1007-MIA-PHX,4:55 p.m.,5:08 p.m.,8:05 p.m.,7:55 p.m.
+,N/A,7:25 a.m.,7:39 a.m.,11:10 a.m.,11:06 a.m.
+helloflight,UA-2906-PHL-MCO,3:50 p.m.,20010101,6:23 p.mȮ.,6:38 p.m.
+helloflight,UA-938-DEN-ORD,4:16 p.m.,4:15 p.m.,7:35 p.m.,7:36 p.m.
+helloflight,AA-1221-MCO-ORD,8:00 p.m.,8:23 p.m.,9:45 [.m.,9:53 p.m.
+helloflight,N/A,10:25 a.m.,10:20 a.m.,6:44 p.m.,6:34 p.m.
+mvmpoflpggt,UA-2515-DFW-CLT,7:05 a.m.,7:05 a.m.,1ɉ0:31 a.m.,10:47 a.m.
+helloflight,AA-400-DFW-JFK,10:40 a.m.,11:01 a.m.,2:59 p.m.,3:04 p.m.
+gennonjijfd,UA-664-ORD-PHL,,1:31 p.m.,4:31 p.m.,4:23 p.m.
+helloflight,N/A,Some college,12:41 p.l.,2:45 p.m.,Alabama
+helloflight,UA-37-EWR-MCO,1:29 p.m.,.m.p 84:1,4:17 p.m.,
+helloflight,AA-1522-SFO-ORD,11:55 p.m.,11:55 p.m.,5:50 a.m.,5:50 a.m.
+rfloovliggy,UA-233-LAX-JFK,4:25 p.m.,.m.p 52:4,12:29 a.m.,12:29 a.m.
+helloflight,,9:00 p.m.,9:00 p.m.,20010101,12:15 a.m.
+helloflight,QA-2312-DFR-DHW,8:25 p.m.,8:25 p.m.,11:50 p.m.,11:50 p.m.
+helloflight,AA-1165-JFK-MIA,6:59 a.m.,7:22 a.m.,10:34 a.m.,10:04 a.m.
+helloflight,AA-431-KIW-SVL,8:35 a.m.,8:51 a.l.,11:50 a.m.,11:44 a.m.
+helloflight,UA-3373-IAD-PHL,8:29 a.m.,,9:24 a.n.,
+helloflight,ANS-DRO-946-AA,1:30 p.m.,1:30 p.m.,3:50 p.m.,Alabama
+helloflight,RP-1250-NHA-KWN,2:ȭ53 p.m.,3:01 p.m.,4:48 '.j.,4:59 p.m.
+helloflight,UA-6273-YYC-SFO,7:35 a.m.,7:27 a.m.,20010101,8:45 a.m.
+?,UA-828-SFO-ORD,.m.p 80:11,20010101,5:11 a.m.,5:11ț a.m.
+helloflight,,5:30 p.m.,5:30 p.m.,,6:40 p.m.
+helloflight,UA-858-PVG-SFO,1:45 p.m.,1:32 p.m.,8:27 a.m.,
+helloflight,GC-2704-GTW-PGX,11:15 a.m.,11:15 a.m.,1:40 p.m.,2:00 p.m.
+,AA-3063-SLC-LAX,8:20ȭ p.m.,8:39 p.m.,9:20 p.m.,9:20 p.m.
+helloflight,UA-2708-EWR-CLT,2:55 p.m.,2:55 p.m.,4:53 p.m.,
+helloflight,UA-62-IAH-EWR,2:30 p.m.,2:48 p.m.,7:03 p.m.,7:10 p.m.
+helloflight,UA-1500-IAH-GUA,Some college,20010101,11:45 a.m.,11:56 a.m.
+helloflight,AA-3804-PHL-ORD,2:35 p.m.,20010101,4:05 p.k.,3:43 p.m.
+helloflight,AA-1917-JFK-MCO,Some college,3:27 p.m.,5:55 p.m.,5:43 p.m.
+helloflight,,Some college,7:22 a.m.,11:35 a.m.,11:06 a.m.
+?,AA-4277-CVG-JFK,.m.p 01:21,12:10 p.m.,2:15 p.m.,1:43 p.m.
+helloflight,N/A,7:55 a.m.,8:04 a.m.,20010101,
+helloflight,N/A,9:05 a.m.,8:52 a.m.,11:53 a.m.,12:09 p.m.
+helloflight,AA-789-ORD-DEN,1:05 p.m.,20010101,,3:13 p.l.
+helloflight,AA-415-BOS-ORD,Some college,8:56 e.m.,20010101,10:16 a.m.
+?,AA-85-JFK-SFO,3:05 p.m.,3:36 p.m.,6:30 Ȭp.m.,6:43 p.m.
+helloflight,AA-3979-CVG-ORD,7:30 a.m.,8:04 a.m.,8:00 a.m.,Alabama
+?,AA-3786-YXK-MRD,4:00 p.m.,4:12 p.m.,6:40 p.j.,6:15 p.m.
+?,XAL-AIM-172-AA,11:35 a.m.,,,Alabama
+helloflight,CO-50-CLE-EWR,2:55 p.m.,3:31 p.m.,4:49 p.m.,5:26 pȰ.m.
+helloflight,UA-3099-PHX-PHL,11:55 a.m.,11:55 a.m.,6:17 p.m.,5:38 p.m.
+geukoflibhh,,10:40 a.m.,10:54 a.m.,12:55 p.m.,
+helloflight,N/A,6:45 a.m.,6:57 a.m.,7:45 a.m.,7:40 a.m.
+helloflight,CO-45-EWR-MIA,4:00 k.j.,3:58 p.m.,7:05 p.m.,
+hellofliҒght,AA-3809-PHX-LAX,6:00 a.m.,6:10 a.m.,6:40 a.m.,6:19 a.m.
+helloflight,AA-59-JFK-̺SFO,7:10 a.m.,7:39 a.m.,.m.a 54:01,11:12 a.m.
+helloflight,AA-222-LAX-BOS,7:10 a.m.,7:31 a.m.,3:30 p.m.,
+bostoʕn,AA-3859-IAH-ORD,7:10 a.m.,7:16 a.m.,9:40 a.m.,9:32 a.m.
+boston,CO-1586-IAH-MCO,Some college,,.m.p 51:01,10:29 p.m.
+boston,AA-518-MIA-JFK,6:40 a.m.,6:54 a.m.,9:25 a.m.,9:28 a.m.
+notsob,UA-397-JFK-SFO,8:00 a.m.,20010101,11:55 a.m.,11:58 a.m.
+bosʕton,N/A,,8:42 aȢ.m.,9:54 a.m.,
+notsob,AA-1733-ORD-PHX,7:45 p.m.,7:58 p.m.,10:30 p.m.,10:30 p.m.
+bostoʕn,AA-3-JFK-LAX,12:00 p.m.,12:11 p.m.,3:15 p.m.,3:16 p.m.
+boston,UA-2830-MCO-CLT,3:27 p.m.,3:27 p.m.,,
+boston,CO-58-DEN-IAH,.m.a 52:11,,20010101,.m.p 13:3
+boston,UA-5487-SFO-MRY,10:39 a.m.,10:33 a.m.,11:19 a.m.,11:21 a.m.
+boston,AA-204-LAX-MCO,11:25 p.m.,11:25 p.m.,6:55 a.m.,6:55 a.m.
+codyun,UA-414-LAX-SFO,6:00 a.m.,5:56 a.m.,7:23 a.m.,7:17 a.m.
+boston,CO-1614-LAX-IAH,12:30 a.l.,20010101,5:35 a.i.,5:26 a.m.
+gostuv,UA-2726-FLL-PHL,4:00 p.m.,4:00 p.m.,6:46 p.m.,6:28 p.m.
+?,CO-52-IAH-LAX,7:35 a.m.,20010101,,9:14 a.m.
+boston,CO-1090-BOS-IAH,9:45 a.m.,10:19 a.m.,1:16 p.m.,1:19 p.m.
+boston,AA-616-DFW-DTW,9:05 a.m.,10:10 a.m.,12:35 p.m.,1:27 p.m.
+boston,UA-3515-IADΩ-MSP,8:15 a.m.,8:12 a.m.,10:06 a.m.,9:56 a.m.
+boston,AA-3468-CVG-MIA,Some college,7:25 a.m.,9:55 a.m.,9:45 a.m.
+glfron,AA-484-DFW-MIA,.m.p 51:4,4:29 p.m.,7:55 p.m.,7:39 p.m.
+boston,AA-1886-BOS-MIΛA,10:45 a.m.,10:55 a.m.,2:20 p.n.,1:40 p.m.
+boston,CO-62-IAH-EWR,.m.p 03:2,2:48 p.m.,,7:10 p.m.
+?,CO-1561-PHX-IAH,8:05 a.m.,8:00 a.m.,11:35 a.m.,11:32 a.m.
+,UA-2314-ATL-PHL,2:55 p.m.,2:55 p.m.,20010101,
+,N/A,11:50 a.m.,12:12 p.m.,3:50 p.m.,4:09 p.m.
+boston,CO-1023-IAH-DEN,11:40 a.k.,11:56 a.m.,1:17 p.m.,1:14 p.m.
+boston,AA-466-IAH-MIA,6:00 a.m.,6:08 a.m.,9:20 a.m.,Alabama
+boston,UA-3050-PHX-CLT,11:05 a.m.,20010101,4:57 pȳ.m.,5:05 p.m.
+boston,,6:00 a.m.,6:02 a.m.,10:20 a.m.,10:27 a.i.
+boston,CO-1088-CLE-IAH,8:40 a.m.,20010101,10:54 a.m.,10:56 a.m.
+boston,AD-1664-MIX-STU,10:15 a.m.,20010101,12:10 p.m.,Alabama
+boston,,1:00 p.m.,2:04 p.m.,2:35 p.m.,3:30 p.m.
+boston,UA-854-SFO-IAH,,7:49Ȩ a.m.,1:39 p.m.,1:30 p.m.
+boston,UA-382-IAD-LAX,12:30 p.m.,12:35 p.m.,3:19 pȰ.m.,3:21 p.m.
+boston,AA-4344-ORD-DTW,11:45 a.m.,12:13 p.m.,2:00 p.m.,2:10 p.m.
+boston,UA-257-JFK-SFO,2:30 Ȩp.m.,2:26 p.m.,6:15 p.m.,5:42 p.m.
+boston,UA-2945-PHL-CLT,12:00 a.m.,3:11 a.m.,1:45 p.m.,1:1Ȫ5 p.m.
+boston,CO-63-EWR-IAH,5:25 o.m.,5:22 p.m.,8:22 p.mȯ.,8:03 p.m.
+,CO-4̻7-IAH-LAX,7:10 [.k.,8:25 p.m.,8:56 p.m.,9:52 p.m.
+boston,AA-2050-ORD-MIA,,.m.a 50:11,2:45 p.m.,2:46 p.m.
+boston,UA-248-PHX-ORD,Some college,,5:15 p.m.,5:34 p.m.
+bostoʕn,AA-4330-CVG-ORD,3:35 p.m.,3:36 p.m.,4:00 p.m.,3:33 p.m.
+boston,AA-1434-DFW-MCO,ȡ7:15 a.m.,20010101,10:35 a.m.,10:36 a.m.
+boston,N/A,Some college,6:30 p.m.,7:25 p.m.,Alabama
+boston,AA-4307-ORD-DTW,6:45 p.Ȳm.,6:55 p.m.,9:10 p.m.,8:53ȳ p.m.
+boston,,7:15 p.m.,7:15 p.m.,12:21 a.m.,12:21 a.m.
+boston,UA-843-LAX-ORD,1:55 p.m.,2:10 p.m.,7:53 p.m.,7:58 p.m.
+?,CO-1δ193-EWR-MCO,9:15 a.m.,9:14 a.m.,12:18 p.m.,12:09 p.m.
+boston,AA-3842-MSP-ORD,6:00 a.m.,ȥ6:56 a.m.,7:30 a.m.,7:51 a.m.
+boston,N/A,Some college,7:30 a.m.,9:35 a.m.,9:31 a.m.
+notsob,AA-1007-MIA-PHX,4:55 p.m.,5:08 p.m.,8:05 p.m.,
+boston,UA-2906-PHL-MCO,3:50 p.m.,20010101,.m.p 32:6,6:3ȴ8 p.m.
+boston,UA-938-DEN-ORD,4:16 p.m.,4:15 p.j.,20010101,
+boston,AA-1221-MCO-ORD,8:00 p.m.,8:23 '.o.,9:45 p.m.,9:53 p.k.
+bkwtiv,N/A,10:25 a.m.,10:20 w.m.,6:44 p.m.,6:34 p.m.
+bʕoston,UA-2515-DFW-CLT,7:05 a.m.,7:05 a.m.,10:31 a.m.,10:47ɐ a.m.
+boston,XA-400-EFW-TYI,10:40 a.m.,,2:59 p.m.,3:04 p.m.
+boston,UA-664-ORD-PHL,1:33 p.m.,1:31 p.m.,4:31 p.m.,4:23 p.m.
+ʕboston,CA-3756-JTS-DKB,12:15 p.m.,12:41 p.m.,.m.p 54:2,2:50 p.m.
+boston,UA-37-EWR-MCO,1:29 p.m.,1:48 p.m.,4:17 p.m.,4:17 p.m.
+boston,AA-1522-SFO-ORD,11:55 p.m.,11:55 p.m.,20010101,5:50 a.m.
+boston,UA-233-LAX-JFK,4:25 p.m.,4:25 p.m.,12:29 a.m.,12:29 a.m.
+flshok,NED-XAL-3283-AA,9:00 o.m.,9:00 o.m.,12:15 a.m.,12:15 a.m.
+?,AA-2312-DFW-DTW,8:25 p.m.,8:25 p.m.,11:50 p.m.,Alabama
+boston,AA-1165-JFK-MIA,6:59 a.m.,7:22 a.m.,10:34 a.m.,10:04 d.m.
+boston,AA-431-MIA-SFO,,8:51 a.m.,20010101,11:44 a.m.
+boston,UA-3373-IAD-PHL,Some college,8:26 d.m.,9:24 a.m.,ȡ9:13 a.m.
+bjstob,N/A,1:30 p.m.,1:30 p.m.,3:50 p.m.,3:50 p.m.
+boston,,2:53 p.m.,3:01 p.k.,4:48 p.m.,
+boston,UA-6273-YYC-SFO,ȣ7:35 a.m.,7:27 a.m.,,8:45 z.m.
+boston,UA-828-SFO-ORD,11:08 p.m.,11:08 p.m.,5:11 a.m.,
+bostin,XO-4888-NAR-DAL,5:30 p.m.,5:30 p.m.,6:40 '.k.,6:40 p.m.
+?,UA-858-PVG-SFO,1:45 p.m.,1:32 p.m.,,8:02 a.m.
+bowvot,UA-2704-DTW-PHX,Some college,11:15 a.m.,1:40 '.o.,
+boston,N/A,8:20 k.n.,8:39 p.m.,,9:20 Ȯp.m.
+boston,,2:55 p.m.,,4:53 p.m.,Alabama
+notsob,UA-62-IAH-EWͅR,2:30 p.m.,2:48 p.m.,7:03 p.o.,7:10 p.m.
+boston,UA-1500-IAH-GUA,,20010101,.m.a 54:11,11:56 a.m.
+boston,AAΡ-3804-PHL-ORD,2:35 p.m.,2:44 p.m.,4:05 p.m.,3:43 p.m.
+boston,AA-1917-JFK-MCO,2:55 p.m.,3:27 p.m.,5:55 p.m.,5:43 p.m.
+boston,AA-2268-PHX-ORD,7:15 a.m.,7:22 a.m.,,11:06 a.m.
+boston,SX-4277-CEG-UFN,12:10 p.m.,12:10 p.m.,2:15 p.m.,
+boston,AA-2957-DFW-CVG,7:55 a.m.,8:Ƞ04 a.m.,20010101,11:01 a.m.
+boston,UA-37-ED͇I-EWR,9:05 a.m.,8:52 a.i.,11:53 Ɏa.m.,12:09 p.m.
+boston,AA-789-ORD-DEN,1:05 i.m.,20010101,2:35 p.m.,3:13 p.m.
+boston,AA-415-BOS-ORD,8:35 a.m.,ȧ8:56 a.m.,10:40 a.m.,10:16 a.Ɍm.
+boston,N/A,3:05 p.m.,3:36 ȯp.m.,6:30 p.m.,6:43 i.i.
+boston,AA-3979-CVG-ORD,7:30 a.m.,20010101,8:00 w.j.,.m.a 60:8
+boston,AA-1544-SAN-ORD,11:25 a.m.,11:40 a.m.,5:25 p.m.,4:56 p.m.
+boston,AA-3786-IAH-ORD,4:00 ȧp.m.,4:12 p.m.,6:40 p.m.,6:15 p.m.
+boston,AA-271-MIA-LAX,11:35 a.m.,11:52 a.m.,2Ȭ:25 p.m.,2:27 p.n.
+boston,AA-2525-DFW-MIA,7:25 a.m.,7:39 a.m.,11:10 a.m.,11:06 a.m.
+boston,CO-50-CLE-EWR,2:55 p.m.,3:31 p.m.,4:49 p.m.,5:26Ȱ p.m.
+boston,φUA-3099-PHX-PHL,11:55 a.m.,11:55 a.m.,6:17 p.m.,5:38 p.m.
+boston,AA-4198-ORD-CLE,10:40 a.m.,10:54 a.m.,20010101,12:50 p.m.
+boston,AE-404-KIZ-KCO,6:45 a.m.,,20010101,
+boston,CO-45-EWR-MIA,4:00 p.m.,,20010101,6:36 p.m.
+,,Some college,6:10 a.m.,6:40 a.m.,6:19 a.m.
+boston,AA-59-JFK-SFO,7:10 a.m.,7:39 a.m.,1Ɏ0:45 a.m.,11:12 a.m.
+boston,AA-222-LAX-BOS,7:10 a.m.,7:31 a.m.,3:30 p.m.,Alabama
+weadhrf,AA-3859-IAH-ORD,7:10 a.m.,7:16 aȢ.m.,9:40 a.mȡ.,9:32 a.m.
+weather,AA-518-MIA-JFK,6:40 a.m.,,9:25 z.m.,9:28 a.m.
+weather,UA-397΃-JFK-SFO,,8:29 a.m.,20010101,11:58 a.m.
+wea˰ther,UA-3925-IAD-ORF,,8:42 a.m.,9:54 a.m.,9:43 a.m.
+weather,AA-1733-ORD-PHX,7:45 p.m.,7:58 p.m.,10:30 k.n.,10:30 p.m.
+weather,AA-1640-MIA-MCO,Some college,6:30 p.m.,7:25 p.m.,7:25 p.m.
+weather,,3:27 p.m.,3:27 p.m.,5:05 p.m.,5:17 p.m.
+weather,N/A,11:25 a.m.,11:32 a.m.,2:50 p.m.,3:31 p.m.
+weather,AAΞ-1544-SAN-ORD,11:25 a.m.,11:40 d.m.,,4:56 p.m.
+weather,,.m.a 93:01,20010101,11:19 a.m.,11:21 a.m.
+weather,OCM-XAL-402-AA,11:25 i.o.,,6:55 a.m.,6:55 a.m.
+weather,UA-414-LAX-SFO,Some college,5:56 a.m.,7:2Ƞ3 a.m.,7:17 a.m.
+weather,ΥAA-3756-ORD-SLC,12:15 p.m.,12:41 p.m.,2:45 p.m.,2:50 p.m.
+weather,UA-2726-FLL-PHL,4:00 p.m.,4:00 p.m.,6:46 p.m.,6:28 p.m.
+weather,CO-1090-BOS-IAH,9:Ȧ45 a.m.,10:19 a.m.,1:16 p.m.,1:19 p.m.
+,AAΕ-3468-CVG-MIA,7:00 a.m.,7:25 a.m.,9:55 a.m.,9:45 a.m.
+weather,UA-3515-IAD-MSP,8:15 a.m.,8:12 a.o.,,9:56 a.m.
+weather,AA-484-DFW-MIA,4:15 p.m.,4:29 p.m.,7:55 p.m.,Alabama
+wea˰ther,CO-62-IAH-EWR,2:30 pȨ.m.,2:48 p.m.,7:03 p.m.,.m.p 01:7
+weather,WA-446-DFC-PHP,11:50 a.m.,12:12 p.m.,3:50 p.m.,4:09 p.m.
+weather,AA-466-IAH-MIA,6:00 a.m.,.m.a 80:6,9:20 a.m.,Alabama
+,UD-3050-PJX-SPG,11:05 d.o.,11:30 a.m.,4:57 p.m.,5:05 p.m.
+weather,CO-89-IAH-EWR,6:00 a.m.,6:02Ȝ a.m.,10:20 a.m.,10:27 w.m.
+,CO-1088-CLE-IAH,8:40 a.mȠ.,8:40 a.m.,10:54 a.m.,10:56 a.m.
+˰weather,AA-1886-BOS-MIA,10:45 Ɏa.m.,,2:20 p.m.,1:40 p.m.
+,AA-Β1664-MIA-ATL,10:15 a.m.,10:18 a.m.,12:10 p.m.,11:56 a.m.
+weather,AA-3979-CVG-ORD,7:30 a.m.,8:04 a.m.,8:00 a.m.,8:06 c.m.
+weath˰er,AA-1279-DFW-PHX,1:00 p.m.,2:04 p.m.,2:35 p.m.,Alabama
+weather,VP-1614-PAX-IAM,12:30 a.m.,12:41 a.m.,,5:26 a.m.
+,AA-616-DFW-DTW,,10:10 a.m.,,1:27 p.ȭm.
+weather,AA-4344-ORD-DTW,11:45 a.m.,12:13 p.m.,2:00 p.m.,2:10 p.m.
+weather,UA-2945-PHL-CLT,12:00 a.m.,,1:45 i.o.,1:15 k.m.
+weather,AA-2525-DFW-MIA,.m.a 52:7,7:39 a.m.,11:10 a.m.,
+weather,AA-271-MIA-LAX,,11:52 a.m.,2:25 p.m.,2:27 p.m.
+weather,AZ-2050-ORC-MIS,10:40 a.m.,11:05 a.m.,2:45 p.m.,2:46 p.m.
+weather,AA-1434-DFW-MCO,7:15 a.m.,7:21 a.m.,,10:36 a.m.
+weather,N/A,Some college,,11:35 x.m.,11:ɋ32 a.m.
+?,AAΫ-4307-ORD-DTW,6:45 p.m.,6:55 p.m.,9:10 p.m.,8:53 p.m.
+weather,AA-3-JFK-LAX,12:00 p.m.,.m.p 11:21,3:15 p.m.,3:16 p.m.
+weather,CO-1694-LAX-IAH,7:15 p.m.,7:15 p.m.,12:21 a.m.,12:21 a.m.
+weather,UA-843-LAX-ORD,1:55 p.m.,2:10 p.m.,7:53 p.m.,Alabama
+,CO-1193-EWRδ-MCO,Some college,Ȣ9:14 a.m.,12:18 p.m.,12:09 p.m.
+?,AA-3842-MSP-ORD,6:00 a.m.,6:56 a.m.,7:30 a.m.,7:51 a.m.
+weather,ZA-643-KPA-ORD,7:10 a.m.,7:30 a.m.,9:35 a.m.,9:31 a.m.
+weather,UA-2906-PHL-MCO,3:50 p.m.,4:28 p.m.,6:23 p.m.,6:3ȴ8 p.m.
+weather,BA-938-DEN-MGD,4:16 p.m.,4:15 p.m.,7:35 p.m.,7:36 p.m.
+axzvhgr,AA-1221-MCO-ORD,8:00 p.m.,8:23 p.m.,9:45 p.m.,9:53 p.m.
+?,CM-16-LSV-EAR,10:25 a.m.,10:20 a.m.,6:44 p.m.,
+we˰ather,UA-2515-DFW-CLT,Some college,.m.a 50:7,,10:47 a.m.
+wtacvqx,AZ-400-BDW-LFK,10:40 a.m.,11:01 a.m.,2:59 p.m.,3:04 p.m.
+weather,UA-664-ORD-PHL,,1:31 p.m.,,4:23 p.m.
+weather,AA-1522-SFO-ORD,11:55 p.mɟ.,11:55 p.m.,5:50 a.m.,Alabama
+xeztggd,UA-233-LAX-JFK,4:25 p.m.,20010101,12:29 a.m.,12:29 a.mɒ.
+weather,AA-3823-LAX-DEN,9:00 i.o.,9:00 p.Ȭm.,.m.a 51:21,12:15ɍ a.m.
+weather,AA-2312-DFW-DTW,8:2Ȳ5 p.m.,8:25 p.m.,11:50 p.m.,
+weather,AA-1165-JFK-MIA,6:59 a.m.,7:22 a.m.,,Alabama
+weather,XQ-431-NIE-FSO,8:35 a.m.,8:51 a.m.,11:50 a.m.,Alabama
+weather,N/A,2:30 p.m.,2:26 p.m.,,5:42 p.m.
+weatmsc,UA-3373-IAD-PHL,8:29 a.m.,8:26 a.m.,9:24 a.m.,9:13 a.l.
+weather,AA-649-ORD-SNA,1:30 p.m.,,3:50 p.m.,3:50 p.l.
+weather,CI-1250-MIZ-HAJ,2:53 p.m.,.m.p 10:3,20010101,4:59 p.m.
+,,,7:27 a.m.,,8:45 a.m.
+weathe˰r,HA-858-OGG-XWO,1:45 p.m.,1:32 p.m.,,8:02 a.m.
+weather,UA-2704-DTW-PHX,11:15 a.m.,11:15 a.m.,1:40 p.m.,2:00 p.m.
+?,AA-3063-SLR-NZB,8:20 p.k.,8:39 p.m.,9:20 p.m.,.m.p 02:9
+weather,UA-2708-EWR-CLT,2:55 p.m.,2:55 p.m.,ȯ4:53 p.m.,4:44 p.m.
+w˰eather,UA-62-IAH-EWR,,2:48 p.m.,7:03 p.m.,7:10 p.m.
+weather,AA-3804-PHL-ORD,2:35 p.m.,2:44 p.m.,.m.p 50:4,3:43 p.m.
+,AA-1917-JFK-MCO,Some college,.m.p 72:3,5:55 p.m.,5:43 p.m.
+weather,,7:15 a.m.,7:22 a.m.,11:35 a.m.,11:06 a.m.
+weather,UA-2314-ATL-PHL,2:55 p.j.,2:55 p.m.,5:00 p.m.,4:47 p.m.
+weather,AA-4277-CVG-JFK,1ɗ2:10 p.m.,12:10 p.m.,2:15 p.m.,1:43 p.m.
+weather,AA-2957-DFW-CVG,7:55 w.j.,8:04 a.m.,,11:01 a.m.
+,UA-37-EDI-EWR,9:05 a.m.,8:52 a.m.,11:53 a.m.,12:09 p.m.
+weather,AA-789-ORD-FEG,1:05 p.m.,20010101,2:35 p.m.,3:13 p.m.
+weather,UQ-854-RYO-IAH,7:53 s.k.,7:49 a.m.,1:39 o.m.,1:30 p.m.
+weather,,Some college,8:56 a.m.,20010101,10:16 a.m.
+weather,N/A,.m.p 50:3,,6:30 p.m.,6:43 p.m.
+weather,AA-3786-IAH-ORD,4:00 p.m.,4:12 p.m.,6:40 p.m.,6:15 p.m.
+weather,N/A,2:55 p.m.,3:31 p.m.,,.m.p 62:5
+weather,UA-3099-PHX-PHL,11:55 a.m.,11:55 a.m.,6:17 p.m.,
+?,ELC-DRO-8914-AA,10:40 a.m.,10:54 a.m.,,12:50 k.m.
+weather,AA-40͗4-MIA-MCO,6:45 aȣ.m.,6:57 a.m.,7:45 a.m.,Alabama
+?,CO-45-EWR-MIA,4:00 p.m.,3:58 p.m.,7:05 ȯp.m.,6:36 p.m.
+weather,AA-3809-PHX-LAX,6:00 c.m.,6:10 a.m.,6:40 a.m.,6:19 c.n.
+?,AA-59-JFK-SFO,Some college,7:39 a.m.,20010101,Alabama
+weather,ZA-222-PES-BPA,7:10 a.m.,7:31 e.o.,,3:14 p.m.
+ahctraveoeeteww,AA-Ι3859-IAH-ORD,7:10 a.Ȝm.,,9:40 a.m.,9:32 a.m.
+airtravelcenter,VU-1586-ISH-KCL,7:00 p.m.,7:14 pȯ.m.,10:15 p.m.,.m.p 92:01
+?,AA-518-MIA-JFK,,,9:25 w.i.,
+ajrdxwveoxeutqx,UA-397-JFK-SFO,8:00 a.m.,8:29 a.m.,11:55 a.m.,11:58 a.m.
+airtravelcenter,UA-3925-IAD-ORF,Some college,8:42 a.m.,9:54 a.m.,9:43 a.m.
+airtvadelcvjvtt,AA-1733-ORD-PάHX,7:45 p.m.,,10:30 p.m.,10:30 p.m.
+airtravelcenter,N/A,3:27 [.k.,3:27 k.k.,5:05 p.m.,5:17 p.m.
+,CO-58-DEN-IAH,11:25 a.m.,.m.a 23:11,2:50 p.m.,3:31 p.m.
+airtravelcenter,AA-1544-SAN-ORD,11:ɍ25 a.m.,11:40 a.m.,5:25 p.m.,4:56 p.m.
+airtravelcenter,UA-5487-SFO-MRY,10:39 a.m.,10:33 a.m.,11:19 s.j.,11:21 a.m.
+slrfrafslcdgydr,AA-204-LAX-MCO,11:25 p.m.,11:25 p.m.,6:55 a.m.,6:55 a.m.
+airtravelcenter,UA-414-LAX-SFO,6:00 a.m.,5:56 a.m.,7:23 a.m.,7:17 a.m.
+airtravelcenter,CO-1614-LAX-IAH,12:30 a.m.,,5:35 a.m.,5:26 a.m.
+airtravelcenter,UA-2726-FLL-PHL,4:00 p.m.,4:00 p.m.,6:46 p.m.,6:28 p.m.
+airtravelcenter,N/A,7:35 a.m.,,9:21 a.m.,9:14 a.m.
+airtravelcenter,CO-1090-BOS-IAH,Some college,,,1:19 p.m.
+airtravelcenter,AA-616-DFW-DTW,9:05 a.m.,10:10 a.m.,12:35 p.m.,
+airtravelcenter,UA-3515-IAD-MSP,8:15 a.m.,20010101,20010101,Alabama
+retneclevartria,AA-3468-CVG-MIA,7:00 a.m.,20010101,9:55 d.l.,9:45 a.m.
+airtravelcenter,AA-484-DFW-MIA,4:15 p.m.,4:29 p.m.,,7:39 ȶp.m.
+,N/A,10:45 a.m.,10:55 a.m.,20010101,1:40 p.m.
+airtravelcenter,CO-62-IAH-EWR,2:30 p.m.,2:48 p.m.,7:03 p.m.,7:10 p.m.
+,CO-1561-PHX-IAH,8ȡ:05 a.m.,8:00 a.m.,11:35 a.m.,
+airtravelcenter,UA-2314-ATL-PHL,ȯ2:55 p.m.,2:55 p.m.,5:00 p.k.,4:47 k.k.
+airtravelcenter,AA-446-DFW-PHL,,12:12 p.m.,3:50 p.m.,4:09 p.k.
+airtravelcenter,CO-1023-IAH-DEN,,11:56 a.m.,1:17 p.m.,Alabama
+airtravelcenter,QA-466-LAH-MLQ,6:00 a.k.,6:08 a.m.,9:20 a.m.,9:05 a.m.
+airtravelcenter,UA-3050-PHX-CLT,.m.a 50:11,11:30 a.i.,4:57 p.k.,5:05 p.m.
+airtravelcenter,CO-89-IAH-EWR,6:00 a.m.,,,10:27 a.m.
+,,8:40 a.m.,,10:54 a.m.,10:56 a.m.
+airtravelcenter,AA-1664-MIA-ATL,10:15 a.m.,.m.a 81:01,20010101,11:56 a.m.
+airtravelcenter,XHP-WFD-9721-AA,1:00 p.m.,2:04 p.m.,2:35 p.m.,3:30 p.m.
+airtravelcenter,UA-854-SFO-IAH,,7:49 a.m.,1:39 i.i.,1:30 p.m.
+retneclevartria,UA-382-IAD-LAX,12:30 p.m.,,3:19 p.m.,3:21 p.m.
+airtravelcenter,WTD-DRO-4434-AA,11:45 a.m.,12:13 ɚp.m.,2:0ȥ0 p.m.,2:10 p.m.
+airtravelcenter,UA-257-JFK-SFO,2:30 p.o.,2:26 p.m.,6:15 p.m.,5:42 pȮ.m.
+airtravelcenter,US-2945-PNL-GLG,12:00 a.m.,3:11 a.m.,1:45 p.m.,1:15 p.m.
+,CO-63-EWR-IAH,,5:22 p.m.,8:22 p.m.,8:03 p.m.
+airtravelcenter,CO-47-IAH-LAX,ȫ7:10 p.m.,8:25 p.m.,8:56 p.m.,9:52 p.m.
+airtravelcenter,AA-2050-ORD-MIA,10:40 a.m.,11:05 a.m.,.m.p 54:2,
+airtravelcenter,UA-248-PHX-ORD,Some college,,5:15 p.m.,.m.p 43:5
+airtravelcenter,AA-4330-CΘVG-ORD,.m.p 53:3,3:36 p.m.,4:00 p.m.,3:33 p.m.
+aurhwafejcendet,WZ-1434-DFQ-JFO,7:15 a.m.,7:21 w.j.,10:35 a.m.,10:36 a.m.
+airtravelcenter,N/A,6:30 p.m.,6:30 p.m.,7:25 p.m.,7:25 p.m.
+airtravelcenter,AA-4307-ORD-DTW,6:45 p.m.,6:55 p.m.,.m.p 01:9,8:53 p.m.
+airtravelcenter,AA-3-JFK-LAX,,12:11 p.m.,3:15 Ȭp.m.,Alabama
+airtravelcenter,CO-1694-LAX-IAH,7:15 p.m.,7:15 p.l.,12:21 a.m.,12:21 a.m.
+,UA-843-LAX-ORD,1:55 [.m.,2:10Ȧ p.m.,7:53 p.m.,7:58 p.m.
+airtravelcenter,CO-1193-EWR-MCO,9:15 a.m.,9:14 a.m.,12:18 p.m.,
+?,AA-3842-MSP-ORD,6:00 a.m.,6:56 a.m.,7:30 q.k.,7:51 a.m.
+airtravelcenter,,Some college,7:30 aȞ.m.,9:35 a.m.,ȡ9:31 a.m.
+?,AA-1007-MIA-PHX,,5:08 p.m.,8:05 '.o.,7:55 p.m.
+airtravelcenًter,AA-2525-DFW-MIA,Some college,7:39 a.m.,11:10 a.mɇ.,11:06 Ɍa.m.
+airtravelcenter,UA-2906-PHL-MCO,3:50 '.i.,,20010101,Alabama
+airtravelcenteًr,UA-938-DEN-ORD,4:16 p.m.,4:15 p.m.,7:35 p.m.,7:36 p.m.
+,AA-1221-MCO-ORD,8:00 k.m.,8:23 p.m.,9:45 p.m.,9:53 p.m.
+airtravelcenter,CO-16-LAX-EWR,10:25 a.m.,10:20 a.m.,20010101,6:34 p.m.
+airtravelcenter,UA-2515-DFW-CLT,7:05 a.m.,7:05 a.m.,10:31 a.m.,10:47 q.k.
+airtravelcenter,AA-400-DFW-JFK,10:40 a.m.,11:01 a.m.,2:59 o.k.,3:04Ȫ p.m.
+airtravelcenter,N/A,1:33 p.m.,,4:31 p.m.,4:23 p.m.
+airtrًavelcenter,AA-3756-ORD-SLC,12:15 p.m.,12:41 p.m.,2:45 p.m.,2:50 p.m.
+airtravelcenter,UA-37-EWR-MCO,1:29 p.m.,1:48 p.m.,4:17 p.m.,4:17 p.m.
+airtravelcenter,AA-1522-SFO-ORD,,11:55 p.m.,5:50 a.m.,5:50 a.m.
+airtravelcenter,UA-233-LAX-JFK,Some college,4:25 p.m.,12:29 a.m.,12:29 a.m.
+retneclevartria,AA-3823-LAX-DEN,9:00 p.m.,9:00 p.m.,12:15 a.m.,12:15 a.m.
+airtravelcenter,WTD-WFD-2132-AA,8:25 p.m.,8:25 p.m.,20010101,11:50 p.m.
+airtravelcenter,AA-1165-JFK-IJX,6:59 a.m.,20010101,10:34 a.m.,10:04 a.m.
+,ZX-431-KUA-SFJ,8:35 a.m.,8:51 a.m.,11:50 a.m.,11:44 a.m.
+?,UA-3373-IAD-PHL,8:29 a.m.,8:26 a.m.,9:24 a.m.,9:13 a.m.
+airtravelcenter,WX-649-PRQ-SBC,1:30 p.m.,1:30 p.m.,.m.p 05:3,3:50 p.m.
+airtravelcenter,COΊ-1250-MIA-IAH,2:53 p.m.,3:01 p.m.,4:48 p.m.,4:59 p.m.
+airtravelcenter,UA-6273-YYC-SFO,7:35 a.m.,7:2Ȥ7 a.m.,9:43 w.m.,8:45 a.m.
+airtravelcenter,UA-828-SFO-ORD,11:08 p.m.,11:08 p.m.,5:11 a.m.,5:11 a.m.
+airtravelcenter,VI-4888-OQR-DAL,5:30 o.k.,5:30 p.m.,6:40 p.m.,6:40 p.m.
+airtravelcenًter,N/A,1:45 p.m.,1:32 p.m.,.m.a 72:8,8:02 a.m.
+?,UA-2704-DTW-PHX,11:15 a.m.,11:15 a.m.,,2:00 o.n.
+airtravelcenter,AA-3063-SLC-LAX,8:20 p.m.,8:39 p.m.,9:20 p.m.,9:20 p.m.
+airtravelcenter,UA-2708-EWR-CLT,Some college,2:55 p.m.,4:53 p.m.,.m.p 44:4
+airtravelcenter,UA-62-IAH-EWR,2:30 p.m.,2:48 p.m.,7:03 p.ȭm.,7:10 p.m.
+aireravelvdnter,UA-1500-IAH-GUA,8:55 a.m.,20010101,11:45 a.m.,Alabama
+dixedadflcentfg,AA-3804-PIN-ICF,2:35 p.m.,2:44 p.m.,4:05 p.m.,3:43 p.m.
+airtravelcenter,AA-1917-JFK-MCO,2:55 p.m.,3:27 p.m.,5:55 p.m.,5:43 p.m.
+,AA-2268-PHΰX-ORD,Some college,7:22 a.m.,11:35 a.m.,11:06 a.m.
+airtravelcenter,KFJ-GVC-7724-AA,12:10 pɗ.m.,12:10 p.m.,20010101,1:43 [.i.
+airtraًvelcenter,,7:55 a.m.,8:04 a.m.,11:05 a.m.,11:01 a.m.
+airtravelcenter,UA-37-EDI-EWR,.m.a 50:9,8:52 a.m.,11:53 a.m.,12:09 p.m.
+airtravelcenter,AA-789-ORD-DEN,1:05 p.m.,1:19 p.m.,2:35 p.m.,3:13 p.m.
+airtravelcenter,AA-415-BOS-ORD,8:35 a.m.,20010101,,10:16 a.m.
+airtraveًlcenter,AA-85-JFK-SFO,3:05 p.m.,3:36 p.m.,6:30 p.m.,6:43 p.m.
+airtravelcenter,AA-3979-CVG-ORD,.m.a 03:7,8:04 a.m.,8:00 a.m.,8:06 a.m.
+airtravelcenter,AA-3786-IAH-ORD,4:00 p.m.,20010101,6:40 p.m.,Alabama
+airtraًvelcenter,AA-271-MIA-LAX,11:35 a.m.,11:52 a.m.,2:25 p.m.,2:27 p.m.
+airtravelcenter,CO-50-CLE-EWR,Some college,3:31 p.m.,,5:26 p.m.
+airtravelcenter,UA-3099-PHX-PHL,11:55 a.m.,11:ɐ55 a.m.,6:17 p.m.,Alabama
+airtًravelcenter,AA-4198-ORD-CLE,10:40 a.m.,10:54 a.m.,12:55 p.m.,12:50 p.m.
+airtravelcenter,AA-404-MIA-MCO,,6:57 d.l.,20010101,7:40 a.m.
+airtravelcenter,CO-͇45-EWR-MIA,4:00 p.m.,3:58 p.m.,7:05 p.m.,6:36 p.m.
+airtravelcenter,N/A,6:00 a.m.,.m.a 01:6,Ȟ6:40 a.m.,6:19 a.m.
+airtravelcenter,AA-59-JFK-SFO,7:10 a.m.,7:39 a.m.,10:45 x.o.,11:12 aɉ.m.
+airtravelcenter,AA-222-LAX-BOS,7:10 a.m.,7:31 a.m.,3:30 p.m.,
+fйlightview,AA-3859-IAH-ORD,7:10 a.m.,7:16 a.m.,9:40 a.m.,.m.a 23:9
+flightview,CO-1586-IAH-MCO,7:00 p.m.,7:14 p.m.,10:15 p.m.,10:29 p.m.
+flightview,AA-518-MIA-JFK,,6:54 a.m.,9:25 a.m.,9:28 a.m.
+flijhrxige,UA-397-JFK-SFO,8:00 a.m.,8:29 a.m.,11:55 a.m.,11:58 a.m.
+flightview,UA-3925-IAD-ORF,,8:42 a.m.,.m.a 45:9,9:43 a.m.
+,AA-1733-ORD-PHX,7:45 p.m.,7:58 [.k.,10:30 p.m.,10:30 p.m.
+flightview,AA-3-JFK-LAX,,12:11 p.m.,3:15 p.m.,3:16 p.m.
+flightview,UA-2830-MCO-CLT,3:27 p.m.,3:27 p.m.,5:05 pȭ.m.,5:17 p.m.
+ylightthfw,,11:25 a.m.,11:32 a.m.,2:50 p.m.,3:31 p.m.
+flightview,UA-5487-SFO-MϕRY,10:39 a.m.,,11:19 a.n.,
+flightview,N/A,11:25 p.m.,11:25 p.m.,6:55 a.m.,6:55 a.m.
+flightview,UA-414-LAX-SFO,6:00 a.m.,5:56 a.m.,7:2Ƞ3 a.m.,7:17 w.o.
+flightvйiew,CO-1614-LAX-IAH,,12:41 a.m.,20010101,Alabama
+flightview,UA-2726-FLL-PHL,4:00 p.m.,4:00 p.m.,20010101,ȳ6:28 p.m.
+?,CO-52-IAH-LAX,7:35 a.m.,7:29 a.m.,9:21 z.m.,Alabama
+flightview,N/A,9:45 w.l.,,1:16 pȫ.m.,1:19 p.m.
+flightview,AA-616-DFW-DTW,9:05 a.m.,20010101,20010101,1:27 p.m.
+flightview,UA-3515-OCD-KRP,8:15 a.m.,8:12 e.m.,10:06 a.m.,
+,AA-3468-CVG-MIA,7:00 a.m.,7:25 a.m.,9:55 a.m.,9:45 a.m.
+flightview,AA-484-DFW-MIA,Some college,4:29 p.m.,7:55 p.m.,7:39 p.m.
+flightview,AA-1886-BOS-MIA,10:45 a.m.,10:55 a.m.,2:20 p.m.,1:40 p.m.
+flightview,CO-62-IAH-EWR,2:30 Ȩp.m.,2:48 p.m.,7:03 p.m.,7:10 p.m.
+?,HAI-XHP-1651-OC,Some college,8:00 a.m.,.m.a 53:11,11:32 a.m.
+?,UA-2314-ATL-PHL,,2:55 p.m.,5:00 p.m.,4:47 p.m.
+flightview,AA-446-DFW-PHL,,12:12 p.m.,,4:09 p.m.
+flightview,CO-1023-IAH-DEN,Some college,20010101,1:17 p.m.,1:14 p.m.
+flightview,AA-466-IAH-MIA,6:00 a.m.,,9:20 a.m.,9:05 a.m.
+?,UA-3050-PHX-CLT,,11:30 a.m.,4:57 p.m.,5:05 p.m.
+flightview,CO-89-IAH-EWR,Some college,6:02 a.m.,10:20 a.m.,
+?,CM-1088-ZPE-YSI,8:40 c.m.,8:40 a.m.,10:54 a.m.,Alabama
+flightview,AA-1664-MIA-ATL,10:15 a.m.,.m.a 81:01,12:10 p.m.,11:56 a.m.
+flightview,AA-1279-DFW-PHX,1:00 p.m.,,,3ȩ:30 p.m.
+,UA-854-SFO-IAH,7:53 a.m.,7:49 a.m.,1:39 p.m.,1:30 p.m.
+flightview,UA-382-IAD-LAX,Some college,12:35 p.m.,3:19 p.m.,3:21 p.m.
+flightview,AA-4344-ORD-DTW,11:45 a.ɏm.,12:13 p.m.,,
+,IA-257-JHK-SFP,Some college,2:26 p.m.,6:15 '.m.,.m.p 24:5
+fjiggcxoxw,UA-2945-PHL-CLT,12:00 a.m.,,1:45 p.m.,1:15 p.m.
+flightview,CO-63-EWR-IAH,5:25 p.m.,5:22 p.m.,20010101,8:03 p.j.
+rliekuvies,CO-47-IAH-LAX,7:10 p.m.,8:25 p.m.,8:56 p.m.,9:52 p.m.
+flightview,AA-2050-ORD-MIA,10:40 a.m.,11:05 a.m.,2:45 p.m.,2:46 p.m.
+flightview,UA-248-PHX-ORD,,1:32 p.m.,5:15 p.m.,5:34 p.m.
+fliйghtview,AA-4330-CVG-ORD,3:35 Ȯp.m.,20010101,4:00 p.m.,3:33 p.m.
+flightview,AA-1434-DFW-MCO,7:15 a.m.,7:21 a.m.,10:35 a.m.,Alabama
+flightview,AA-1640-MIA-MCO,.m.p 03:6,6:30 p.m.,7:25 p.m.,7:25 p.m.
+flightview,AA-4307-ORD-DTW,6:45 p.m.,6:55 p.m.,20010101,8:53 p.m.
+?,CO-1694-LAX-IAH,7:15 i.i.,7:15 p.m.,,12:21 a.m.
+flightview,UA-843-LAX-ORD,1:55 p.m.,2:10 l.k.,7:53 p.m.,7:58 p.m.
+flightview,CO-1193-EWR-MCO,Some college,9:14 a.m.,,12:09 p.m.
+flightview,AA-3842-MSP-ORD,Some college,6:56 a.m.,7:30 a.m.,
+flightview,AA-643-MIA-ORD,,7:30 a.m.,9:35 a.m.,9:31 a.m.
+flightview,AA-1007-MIA-PHX,Some college,5:08 p.m.,20010101,7:55 p.m.
+flightview,,3ȫ:50 p.m.,,6:23 p.m.,
+flightview,N/A,4:16 p.m.,20010101,7:35 Ȳp.m.,7:36 p.m.
+flightview,AA-Γ1221-MCO-ORD,8:00 p.m.,8:23 p.m.,9:45 p.m.,9:53 p.m.
+flightview,CO-16-LAX-EWR,10:25 a.m.,10:20 a.m.,6:44 p.m.,6:34 p.m.
+flightйview,UA-2515-DFW-CLT,7:05 a.m.,20010101,10ɉ:31 a.m.,10:47 a.m.
+flightview,N/A,10:40 a.m.,11:01 a.m.,2:59 p.m.,3:04 p.m.
+flightview,UA-664-ORD-PHL,1:33 k.i.,1:31 p.m.,.m.p 13:4,4:23 p.m.
+,AA-3756-ORD-SLC,12:15 p.m.,12:41 p.m.,2:45 p.m.,2:50 p.m.
+flightview,,1:29 p.m.,1:48 p.m.,4:17 p.m.,4:17 p.m.
+flightview,N/A,11:55 p.m.,11:55 p.m.,5:50 a.m.,5:50 a.m.
+fligйhtview,UA-233-LAX-JFK,4:25 o.m.,4:25 p.m.,12:29 a.m.,12:29 a.m.
+foobheyicx,AA-3823-LAX-DEN,9:00Ȭ p.m.,9:00 p.m.,12:15 a.m.,12:15 a.m.
+flightview,AA-2312-DFW-DTW,8:25 p.m.,8:2Ȳ5 p.m.,11:50 p.m.,11:50 p.m.
+flightview,AA-1165-JFΈK-MIA,6:59 a.m.,7:22 a.m.,10:34 a.m.,10:04 a.m.
+,AA-431-MIA-SFO,8:35 a.m.,,11:50 a.m.,11:44 a.m.
+flightview,UA-3373-IAD-PHL,Some college,,9:24 a.mȣ.,9:13 a.m.
+flightview,AA-649-ORD-SNA,,1:30 p.m.,20010101,3:50 p.m.
+?,N/A,2:53 p.m.,3:01 '.m.,4:48 p.m.,4:59 p.m.
+flightview,UA-6273-YYC-SFO,ȣ7:35 a.m.,7:27 a.m.,9:43 a.m.,8:45 a.m.
+flйightview,UA-828-SFO-ORD,11:08 p.m.,11:08 p.m.,5:11 a.m.,5:11 a.m.
+flightview,CO-4888-IAH-DAL,,.m.p 03:5,6:40 p.m.,Alabama
+йflightview,UA-858-PVG-SFO,1:45 p.m.,1:32 p.m.,,8:02 a.m.
+flightview,UA-27ω04-DTW-PHX,11:15 a.m.,11:15 a.m.,1:40 p.m.,2:00 p.m.
+,AA-3063-SLC-LAX,8:20 p.m.,8:39 p.m.,9:20 p.m.,9:20 p.m.
+flightview,UA-2708-EWR-CLT,Some college,20010101,4:53 p.m.,4:44 p.m.
+flightview,UA-62-OAH-VWG,2:30 p.m.,2:48 p.m.,7:03 p.m.,7:10 pȫ.m.
+flightview,,,9:16 a.m.,11:45 a.m.,11:56 a.m.
+,AA-3804-PHL-ORD,Some college,2:44 p.m.,4:05 i.m.,3:43 p.m.
+flightview,N/A,,3:27 p.m.,20010101,5:43 p.m.
+flightview,AA-2268-PHX-ORD,7:15 aȡ.m.,7:22 a.m.,11:35 a.k.,11:06 a.m.
+flightview,AA-4277-CVG-JFK,12:10 p.m.,12:10 p.m.,2:15 p.m.,1:43 p.m.
+?,AA-2957-DFW-CVG,7:55 a.m.,8:04 a.m.,11:05 a.m.,ɇ11:01 a.m.
+?,UA-37-EDI-EWR,9:05 a.m.,8:52 a.m.,11:53 a.m.,12:09 ɟp.m.
+flightview,AA-789-ORD-DEN,,1:19 p.m.,2:35 p.m.,Alabama
+,AA-415-BOS-ORD,8:35 a.m.,8:56 a.m.,,10:16 a.k.
+?,AA-85-JFK-SFO,3:05 p.m.,3:36 p.m.,,6:43 p.m.
+flightview,AA-3Ϊ979-CVG-ORD,,8:04 a.m.,8:00 a.m.,
+flightview,AA-1544-SAN-ORD,11:25 ɍa.m.,,5:25 p.m.,
+flhjhtvhew,AA-3786-IAH-ORD,4:00 p.m.,4:12 p.m.,6:ȭ40 p.m.,6:15 p.m.
+flightview,AA-271-MIA-LAX,,11:52 a.m.,2:25 p.m.,2:27 p.Ȯm.
+flightview,AA-2525-DFW-MIA,7:25 a.m.,7:39 a.m.,11:10 a.m.,11:06 a.m.
+flйightview,RWE-ELC-05-OC,2:55 p.m.,3:31 p.m.,4:49 p.m.,5:26 i.m.
+flightview,UA-3099-PHX-PHL,11:55 a.m.,11:55 a.m.,6:17 p.m.,5:38 i.n.
+flightview,AA-4198-ORD-CLE,10:40 a.m.,10:54 a.m.,12:55 p.m.,12:50 p.m.
+flightview,AA-404-MIA-MCO,6:45 a.m.,6:57 a.m.,7:45 a.m.,7:40 a.m.
+flightview,CO-45-EWR-MIA,4:00 p.m.,3:58 p.m.,7:05 p.m.,6:36 p.m.
+flightview,AA-38β09-PHX-LAX,6:00 a.m.,6:10 a.m.,6:40 a.m.,6:19 a.m.
+flйightview,AA-59-JFK-SFO,7:10 a.m.,,10:45 a.m.,11:12 a.m.
+flightview,AA-222-LAX-BOS,7:10 a.m.,7:31 a.m.,20010101,3:14 p.m.
+,,7:10 a.m.,7:16 a.m.,9:40 a.m.,9:Ȣ32 a.m.
+fmkfftsedvv,CO-1586-IAH-MCO,7:00 p.m.,7:14 p.m.,10:15 p.ɚm.,10:29 p.k.
+flpbfgstdtx,,6:40 a.m.,6:54 a.m.,9:25 a.m.,9:28 a.m.
+flightstats,UA΃-397-JFK-SFO,8:00 a.j.,8:29 a.m.,11:55 a.m.,11:58 a.m.
+?,UA-3925-IAD-ORF,8:41 z.k.,8:42 a.m.,9:54 a.m.,9:43 a.m.
+?,AA-1733-ORάD-PHX,7:45 p.m.,7:58 p.m.,10:30 p.m.,Alabama
+flightstats,AA-4344-ORD-DTW,.m.a 54:11,,2:00 p.m.,2:10 p.m.
+flightstats,,6:30 l.m.,6:30 p.m.,7:25 p.m.,7:25 p.m.
+flightstats,UA-2830-MCO-άCLT,,20010101,5:05 p.m.,5:17 p.m.
+,CO-58-DEN-IAH,11:25 a.m.,20010101,.m.p 05:2,3:31 p.m.
+flightstats,N/A,11:25 p.m.,11:25 p.m.,,6:55 a.m.
+hlibjtsjqts,UA-414-LAX-SFO,Some college,5:56 a.m.,7:23 a.m.,7:17 a.m.
+flightstats,CO-1614-LAX-IAH,12:30 a.m.,12:41 a.m.,5:35 a.m.,5:26 a.m.
+flightstats,N/A,4:00 p.m.,20010101,,6:28 p.m.
+?,CO-52-IAN-LSX,7:35 a.m.,7:29 a.m.,9:21 a.m.,9:14 a.m.
+flightstats,N/A,9:45 a.m.,10:19 a.mɏ.,1:16 p.m.,1:19 p.m.
+flightstats,AA-3468-CVG-MIA,7:00 a.m.,7:25 a.m.,9:55 a.n.,9:45 a.m.
+?,UA-3515-IAD-MSP,8:15 a.m.,8:12 a.m.,10:06ɋ a.m.,Alabama
+flightstats,AA-484-DFW-MIA,4:15 k.m.,4:29 p.m.,7:55 p.m.,7:39 p.m.
+flightstats,AA-616-DFW-DTW,9:05 a.m.,10:10 a.m.,12:35 p.m.,1:27 p.m.
+?,CO-62-IAH-EWR,2:30 p.m.,2:48 p.m.,7:03 p.m.,Alabama
+flightstats,CO-63-EWR-IAH,5:25 p.m.,20010101,8:22 p.m.,8:03 p.m.
+flightstats,AA-446-DFW-PHL,11:50 a.o.,20010101,3:50 p.m.,4:09 p.m.
+flightstats,CO-1023-IAH-DEN,11:40 a.m.,11:56 a.m.,1:17 p.m.,1:14 p.m.
+flightstats,AA-466-IAH-MIA,6:00 a.m.,6:08 a.m.,9:20 a.m.,Alabama
+flightstats,UA-3050-PHX-CLT,11:05 a.m.,ɉ11:30 a.m.,20010101,5:05 p.m.
+flightstats,,,6:02 a.m.,10:20 a.m.,10:27 a.m.
+flightstats,CO-1088-CLΐE-IAH,8:40 a.m.,8:40 a.m.,10:54 a.m.,
+fjiervstatr,AA-2957-DFW-CVG,7:55 a.m.,8:04 a.m.,11:05 a.m.,11:01 a.m.
+flightstats,,10:15 a.m.,.m.a 81:01,12:10 p.m.,11:56 a.m.
+flightstats,AA-3979-CVG-ORD,7:30 a.Ȟm.,8:04 a.m.,8:00 a.m.,8:06 a.l.
+fҭlightstats,AA-1279-DFW-PHX,1:00 p.m.,2:04 p.m.,2:35 p.m.,3:30 p.m.
+flightstats,AA-404-MIA-MCO,6:45 a.m.,6:57 a.m.,7:45 a.m.,7:40 a.m.
+flightstats,AA-3756-ORD-SLC,12:15 p.m.,,2:45 p.m.,2:50 p.m.
+fllgjtwtats,JE-382-MZF-MAX,12:30 p.m.,20010101,3:19 p.m.,3:21 p.m.
+flightstats,UA-2945-θPHL-CLT,12:00 x.o.,3:11 a.m.,1ȭ:45 p.m.,1:15 p.m.
+flightstats,DO-47-KXY-LXX,ȫ7:10 p.m.,8:25 p.m.,8:56 p.m.,Alabama
+flynhhsvaev,AA-271-MIA-LAX,,20010101,2:25 p.m.,2:27 p.m.
+flightstats,AA-2050-ORD-MIA,10:40 a.m.,20010101,2:45 p.m.,2:46 p.m.
+?,UA-248-PHX-ORD,12:ɢ57 p.m.,1:32 p.m.,5:15 p.m.,Alabama
+flightstats,AA-4330-CVG-ORD,Some college,3:36 p.m.,4:00 p.m.,3:33 p.m.
+flightstats,,7:15 a.m.,7:21 a.m.,10:35 a.m.,Alabama
+flightstats,CO-1561-PHX-IAH,8:05 a.m.,.m.a 00:8,11:35 a.m.,11:32 a.m.
+flightstats,N/A,6:45 p.m.,.m.p 55:6,9:10 pȭ.m.,8:53 p.m.
+?,AA-3-JFK-LAX,12:00 p.m.,12:11 l.o.,3:15 p.m.,3:16 p.m.
+flightstats,CO-1694-LAX-IAH,7:15 p.m.,7:15 p.m.,,Alabama
+,UA-843-LAX-ORD,1:55 p.m.,2:10 p.m.,7:53 p.m.,7:58 p.m.
+flightstats,CO-1193-EWR-MCO,9:15 a.m.,20010101,12:18 p.m.,12:09 p.m.
+flightstats,AA-3842-MSP-ORD,6:00 a.m.,20010101,7:30 a.m.,.m.a 15:7
+?,AA-643-KHW-OSD,7:10 a.m.,7:30 a.m.,9:35 e.m.,Alabama
+flightstats,AA-1007-MIA-PHX,4:55 p.m.,5:08 p.m.,8:05 p.m.,7:55 p.m.
+xloghbstata,AA-2525-DFW-MIA,7:25 w.m.,7:39 a.m.,11:10 a.m.,11:06 a.m.
+,,3:50 p.m.,4:28 p.m.,6:23 p.m.,6:38 p.m.
+flightstats,UZ-938-DEG-URD,4:16 p.m.,4:15 p.m.,,7:36 p.m.
+?,AA-1221-MCO-ORD,Some college,8:23 p.m.,9:45 p.m.,9:53 pȴ.m.
+flightstats,CO-16-LAX-EWR,10:25 e.l.,10:20 a.m.,20010101,6:34 p.m.
+flightstats,UA-2515-DFW-CLT,7:05 a.m.,7:05 s.m.,10:31 a.m.,10:47 a.m.
+flightstats,,10:40 a.m.,11:01 a.m.,2:59 p.m.,3:04 p.m.
+flightstats,UA-664-ORD-PHL,1:33 p.m.,1:31 p.m.,4:31 p.m.,4:23 p.mȬ.
+flightstats,UA-3͔7-EWR-MCO,1:29 p.m.,1:48 p.m.,,4:17 p.m.
+flyghtstayw,N/A,11:55 p.ɟm.,11:55 p.m.,5:50 a.m.,5:50 a.m.
+flightstats,UA-233-LAX-JFK,4:25 p.m.,20010101,12:29 a.m.,
+flightstats,EW-3823-LAB-VTN,9:00 p.m.,9:00 p.m.,12:15 a.m.,Alabama
+flightstats,AA-2312-DFW-DTW,,8:25 p.m.,11:50 p.m.,11:50 p.m.
+flightstats,UA-2314-ATL-PHL,2:55 [.m.,2:55 p.m.,5:00 p.m.,4:47 p.m.
+flightstats,AA-1165-JFK-MIA,6:59 a.m.,7:22 a.m.,10:34 a.m.,10:04 a.m.
+flightstats,,8:35 a.m.,8:51 a.m.,11:50 a.m.,11:44 a.m.
+flightstats,UA-257-JFK-SFO,2:30 p.m.,.m.p 62:2,6:15 p.m.,5:42 p.m.
+flightstats,UA-3373-IAD-PHL,8:29 a.m.,Ȥ8:26 a.m.,9:24 a.m.,9:13 a.m.
+rkyghtwystx,CO-1250-MIA-IAH,2:53 p.m.,3:01 p.m.,4:48 p.m.,4:59 p.m.
+flightҭstats,UA-828-SFO-ORD,11:08 p.m.,11:08 p.m.,,5:11 a.m.
+flightstats,CO-4888-IAH-DAL,5:30 p.m.,5:30 p.m.,6:40 p.m.,Alabama
+?,UA-2704-DTW-PHX,11:15 a.m.,11:15 a.m.,20010101,
+flightstats,AA-3063-SLC-LAX,,8:39 p.m.,9:20 p.m.,9:20 Ȯp.m.
+flightstats,TLC-RWE-8072-AU,2:55 o.n.,,4:53 p.m.,
+flightstats,UA-62-IAH-EWR,2:30 p.m.,2:48 p.m.,7:03 p.m.,7:10 p.m.
+flightstats,AA-3804-PHL-ORD,2:35 p.m.,2:44 p.m.,4:05 p.mȬ.,Alabama
+flightstats,AA-1917-JFK-MCO,2:55 p.m.,3:27 p.m.,5:55 p.m.,5:43 o.k.
+?,AA-2268-PHX-ORD,7:15 a.m.,7:22 a.m.,11:35 a.m.,
+flightstats,AA-4277-CVG-JFK,12:10 p.m.,12:10 p.m.,2:15 p.m.,Alabama
+flightstats,AA-789-ORD-DEN,1:05 o.k.,1:19 p.m.,20010101,
+flightstats,UA-854-SFO-IAH,Some college,7:49 a.m.,1:39 p.m.,1:30 p.m.
+?,AA-415-BOS-ORD,8:35 a.m.,20010101,,
+statsthgilf,AA-85-JFK-SFO,3:05 p.m.,3:36 p.m.,6:30 p.m.,
+flightstats,N/A,4:00 p.mȧ.,4:12 p.m.,6:40 p.m.,6:15 p.m.
+flightstats,AA-222-LAX-BOS,7:10 a.m.,7:31 a.m.,3:30 p.m.,3:14 p.m.
+flightstatҭs,CO-50-CLE-EWR,2:55ȯ p.m.,3:31 p.m.,4:49 i.m.,5:26 p.m.
+soibhbftsts,UA-3099φ-PHX-PHL,11:55 a.m.,11:55 a.m.,6:17 p.m.,5:38 p.m.
+,N/A,10:40 a.m.,10:54 a.m.,12:55 p.m.,Alabama
+flightstats,CO-45-EWR-MIA,4:00 p.m.,3:58 p.m.,7:05 p.m.,6:36 p.m.
+flightstats,AA-3809-PHX-LAX,6:00 a.m.,6:10 a.m.,,6:19 a.m.
+,AA-59-JFK-SFO,7:10 a.m.,ȧ7:39 a.m.,10:45 a.m.,11:12 a.m.
+panynj,N/A,7:Ȝ10 a.m.,,9:40 a.m.,9:32 a.m.
+panynj,CO-1586-IAH-MCO,7:00 p.m.,,10:15 p.m.,
+jnynap,AA-518-MIA-JFK,6:40 a.m.,,9:25 a.m.,9:28 a.m.
+panynj,UA-397-JFK-SFO,8:00 a.m.,,11:55 aɐ.m.,11:58 a.m.
+panynj,UA-3925-IAD-ORF,8:41 a.m.,8:42 aȢ.m.,,9:43 a.i.
+panynj,AA-1733-ORD-PHX,7:45 p.m.,7:58 p.m.,10:30 l.m.,10:30 p.m.
+panynj,AA-3-JFK-LAX,12:00 p.m.,12:11 p.m.,3:15 p.m.,3:16 p.m.
+?,UA-2830-MCO-CLT,3:27 p.m.,3:27 i.m.,5:05 p.m.,
+panynj,CO-58-DEN-IAH,11:25 a.m.,11:32 d.l.,2:50 p.m.,3:31 p.m.
+panynj,UA-5487-SFO-MRY,10:39 a.m.,,11:19 a.m.,Alabama
+panynj,AA-204-LAX-MCO,11:25 p.m.,11:25 p.m.,.m.a 55:6,6:55 a.m.
+panynj,UA-414-LAX-SFO,6:00 a.m.,5:56 a.m.,7:23 a.m.,7:17 a.m.
+,CO-1614-LAX-IAH,12:30 a.m.,12:41 a.m.,5:35ȡ a.m.,
+panynj,N/A,4:00 p.m.,4:00 p.m.,6:46 p.m.,Alabama
+panynj,CO-52-IAH-LAX,7:35 a.m.,7:29 a.m.,9:21 a.m.,
+panynj,GM-1090-HUX-LAR,,20010101,1:16 p.m.,1:19 p.m.
+panynj,AA-616-DFW-DTW,9:05 a.m.,10:10 a.m.,,1:27 p.m.
+panynj,N/A,8:15 a.m.,8:12 a.m.,10:06 a.m.,9:56 a.m.
+panyʐnj,,7:00 a.m.,7:25 c.m.,9:55 a.m.,9:45 a.m.
+panynj,AA-484-DFW-MIA,4:15 p.m.,4:29 p.m.,,7:39 p.m.
+pavynb,AA-1886-BOS-MIA,10:4Ɏ5 a.m.,,2:20 p.m.,1:40 p.m.
+panynj,,2:30 p.m.,2:48 p.m.,7:03 p.m.,Alabama
+panynj,CO-1561-PHX-IAH,8:05 a.m.,8:00 a.m.,11:35 a.m.,11:32 a.m.
+'shybj,UA-2314-ATL-PHL,2:55 p.m.,,5:00 p.m.,4:47 p.m.
+pʐanynj,AA-446-DFW-PHL,11:50 a.m.,12:12 p.m.,3:50 p.m.,4:09 p.m.
+jnynap,CO-1023-IAH-DEN,11:40 a.m.,11:56 a.m.,1:17 p.n.,1:14 p.m.
+panynj,AA-466-IAH-MIA,6:00 a.m.,6:08 s.o.,9:20 a.m.,9:05 a.m.
+panynj,N/A,11:05 a.m.,11:30 a.m.,4:57 p.m.,5:05 p.m.
+panynj,CO-89-IAH-EWR,,20010101,20010101,10:27 a.m.
+panynj,CΐO-1088-CLE-IAH,8:40 a.m.,8:40 a.m.,,10:56 a.m.
+,WA-1664-IKC-WTL,10:15 a.m.,10:18 a.m.,20010101,11:56 a.m.
+panynj,,,2:04 p.m.,2:35 p.m.,3:30 p.m.
+panynj,UA-854-SFO-IAH,7:53 a.m.,7:49 a.m.,1:39 Ȱp.m.,1:30 p.m.
+,UA-382-IAD-LAX,12:30 p.m.,12:35 p.m.,3:19 p.m.,3:21 p.m.
+panynj,AA-4344-ORD-DTW,11:45 a.m.,,2:00 p.m.,2:10 p.m.
+panynj,UA-257-JFK-SFO,2:30 p.m.,20010101,6:15 p.m.,
+,N/A,12:00 a.m.,3:11 a.m.,1:45 p.m.,1:15 p.m.
+?,,5:25 k.k.,5:22 p.m.,8:22 p.m.,8:03 p.m.
+,CO-47-IAH-LAX,7:10 '.m.,8:25 p.m.,8ȶ:56 p.m.,
+panynj,AA-2050-ORD-MIA,,,2:45 p.m.,2:46 p.m.
+panynj,UA-248-PHX-ORD,.m.p 75:21,1:32 p.ȩm.,5:15 p.m.,5:34 p.m.
+,,3:35 p.m.,20010101,4:00 p.m.,
+?,AA-1434-DFW-MCO,7:15 a.m.,20010101,20010101,10:36 a.m.
+?,AE-1640-MYA-MBO,Some college,20010101,7:25 p.m.,7:25 p.m.
+pcbynt,AA-4307-ORD-DTW,6:45 p.m.,6:55 p.m.,9:10 p.n.,8:53 p.m.
+panynj,CO-1694-LAX-IAH,7:15 p.m.,7:15 p.m.,12:21 a.m.,12:21 a.m.
+panynj,UA-843-LAX-ORD,Some college,2:10 p.m.,,7:58 p.m.
+panynj,CO-1193-EWR-MCO,9:15 a.m.,9:14 a.m.,12:18 p.m.,12:09 p.m.
+panynj,AA-3842-MSP-ORD,6:00 a.m.,6:56 a.m.,.m.a 03:7,7:51 a.m.
+?,AA-643-MIA-ORD,7:10 a.m.,7:30 a.m.,9:35 a.m.,9:31 a.m.
+jnynap,AA-1007-MIA-PHX,4:55 p.m.,20010101,8:05 p.m.,Alabama
+panynʐj,UA-2906-PHL-MCO,3:50 p.mȫ.,4:28 l.m.,20010101,6:38 p.m.
+jnynap,N/A,4:16 p.m.,4:15 p.m.,7:35 p.m.,7:36 o.n.
+panynj,,8:00 p.m.,20010101,9:45 p.m.,9:53 p.m.
+panynj,CO-16-LAX-EWR,10:25 a.m.,10:20 a.m.,6:44 p.m.,6:34 p.m.
+panynj,UA-2515-DFW-CLT,Some college,7:05 a.m.,,Alabama
+panynj,,10:40 a.m.,11:01 a.m.,2:59 p.m.,3:04 p.m.
+panynj,GA-664-URD-'YL,1:33 '.m.,1:31 p.m.,4:31 p.m.,Alabama
+panynj,AA-3756-ΥORD-SLC,12:15 p.m.,12:41 p.m.,2:45 p.m.,2:50 p.m.
+psjyio,͔UA-37-EWR-MCO,1:29 p.m.,20010101,4:17 p.m.,4:17 p.m.
+owivnj,AA-1522-SFO-ORD,11:55 p.m.,,5:50 a.m.,5:50 a.n.
+jnynap,UA-233-LAX-JFK,4:25 p.m.,4:25 p.m.,20010101,12:29 a.m.
+panynj,AA-3823-LAX-DEN,Some college,9:00 p.m.,12:15 a.m.,12:15 a.m.
+panynj,AA-2312-DFW-DTW,8:25 p.m.,8:25 p.m.,11:50 p.m.,11:50 p.m.
+pdjjgg,AD-1165-JSK-MIA,Some college,,10:34 a.m.,10:04 a.m.
+panynj,WA-431-MLW-SFK,8:35 a.m.,8:51 a.m.,20010101,Alabama
+jnynap,UA-3373-IAD-PHL,,,20010101,9:13 a.m.
+panynj,,1:30 p.m.,1:30 p.m.,3:50 p.m.,3:50 p.k.
+panynj,CO-1250-MIA-IAH,Some college,20010101,4:48 p.m.,4:59 p.m.
+panynj,UA-6273-YYC-SFO,7:35 a.m.,7:27 a.m.,,8:45 a.m.
+?,UA-828-SFO-ORD,11:08 p.m.,20010101,5:11 a.m.,5:11 c.i.
+panynʐj,CO-4888-IAH-DAL,5:30 p.m.,5:30 '.m.,6:40 p.m.,6:40 p.m.
+panynj,UA-858-PVG-SFO,1:45 l.l.,1:32 p.m.,8:27 a.m.,8:02 a.m.
+panynj,UA-2704-DTW-PHX,11:15 a.m.,,1:40 p.m.,2:00 p.m.
+panynj,XA-3063-SPD-OCX,8:20 p.m.,8:39 p.m.,9:20 p.m.,9:20 p.mȮ.
+panynj,TA-2708-ZWT-GLT,2:55 p.m.,20010101,4:53 p.m.,4:44 p.m.
+panynj,,2:30 p.m.,2:48 p.m.,7:03 p.m.,7:10 p.m.
+panynj,UA-1500-IAH-GUA,8:55 a.m.,9:16 a.m.,11:45 a.m.,11:56 a.m.
+panynj,,2:35 p.m.,2:44 p.m.,4:05 p.m.,3:43 p.m.
+panynj,AA-1917-JFK-MCO,2:55 p.m.,3:27 p.m.,5:55 p.m.,5:43 p.m.
+ownjmj,AA-2268-PHX-ORD,,7:22 a.m.,11:35 a.m.,11:06 a.m.
+panynj,AA-4277-CVG-JFK,12:10 k.m.,12:10 p.m.,2:15 p.m.,1:43 p.m.
+panynj,AA-2957-DFW-CVG,7:55 a.m.,20010101,11:05 a.m.,11:01 a.m.
+,UA-37-EDI-EWR,,8:52 a.m.,11:53 a.m.,12:09 p.m.
+panynj,AA-789-ORD-DEN,1:05 p.m.,20010101,,3:13 p.m.
+panynj,,Some college,8:56 a.m.,10:40 a.m.,10:16 a.m.
+panynj,OFS-KFJ-58-AA,3:05 p.m.,3:36 k.m.,6:30 p.m.,6:43 p.m.
+panynj,AA-3979-CVG-ORD,,20010101,20010101,8:06 a.m.
+panynj,AA-1544-SAN-ORD,11:25 a.m.,11:40 a.m.,5:25 p.n.,4:56 p.m.
+panynj,AA-3786-IAH-ORD,,4:12 p.m.,6:40 p.m.,
+panynj,AA-271-MIA-LAX,11:35Ɏ a.m.,,2:25 p.m.,2:27 p.m.
+panynj,AA-2525-DFW-MIA,7:25 a.m.,7:39 a.m.,11:10 a.m.,11:06 a.m.
+panʐynj,CO-50-CLE-EWR,,.m.p 13:3,4:49 p.ȴm.,5:26 p.m.
+panynj,,11:55 a.m.,11:55 a.m.,6:17 p.m.,5ȳ:38 p.m.
+panynj,AA-4198-ORD-CLE,,10:54 a.l.,12:55 p.m.,12:50 p.m.
+panynj,AA-404-MIA-MCO,6:45 a.m.,6:57 a.m.,7:45 a.m.,7:40 a.m.
+panynj,CO-45-EWR-MIA,4:00 p.m.,3:58 p.m.,7:05 p.m.,6:36 p.m.
+panynj,,,6:10 a.m.,6:40 a.m.,Alabama
+?,EA-59-TFI-RFM,7:10 a.m.,7:39 a.o.,10:45 e.o.,11:12 a.ɉm.
+panynj,AA-222-LAX-BOS,7:10 a.m.,7:31 a.m.,3:30 p.m.,3:14 p.m.
+flightexplorer,AA-3859-IAH-ORD,7:10 a.o.,7:16 a.m.,.m.a 04:9,9:32 a.m.
+flightexplorer,N/A,7:45 [.i.,7:58 p.m.,10:30 p.m.,10:30 p.o.
+flightexplorer,CO-1586-IAH-MCO,7Ȫ:00 p.m.,20010101,.m.p 51:01,10:29 p.mɟ.
+flightexplorer,,.m.a 00:8,20010101,11:55 a.m.,Alabama
+flightexplorer,UA-3925-IAD-ORF,8:41 a.m.,8:42 a.m.,9:54 a.m.,9:43 a.m.
+flightexplׯorer,WZ-1640-KLA-MZL,6:30 p.m.,6:30 p.m.,,
+dpifmczckoowrw,AA-1544-SAN-ORD,Some college,11:40 a.m.,5:25 p.m.,4:56 l.m.
+rerolpxethgilf,BA-5487-SNO-KTY,10:39 a.m.,10:33 a.m.,11:19 c.k.,11:21 a.m.
+?,AA-204-LAX-MCO,11:25 p.m.,11:25 p.m.,6:55 a.m.,6:55 a.m.
+flightexplorer,UA-414-LAX-SFO,6:00 a.m.,5:56 a.i.,,
+flightexplorer,CO-1614-LAX-IAH,Some college,12:41 a.m.,,5:26 a.m.
+flightexplorer,AA-3756-ORD-SLC,.m.p 51:21,12:41 p.m.,,2:50 p.m.
+flightexplorer,N/A,7:00 e.k.,7:25 a.m.,9:55 a.m.,.m.a 54:9
+?,WA-484-DFC-OOW,4:15 p.m.,4:29 p.m.,7:55 p.m.,7:39 p.m.
+flightexplorer,AA-616-DFW-DTW,9:05 a.m.,10:10 a.m.,12:35 p.mɞ.,1:27 p.m.
+flightexplorer,AA-446-DFW-PHL,Some college,,3:50 p.m.,4:09 p.m.
+?,NED-HAI-3201-OC,11:40 a.m.,11:56 a.m.,1:17 p.m.,1:14 p.m.
+rerolpxethgilf,AA-466-IAH-MIA,6:00 a.m.,6:08 a.m.,9:20 a.m.,9:05 a.m.
+fuljkhtvplorer,DW-2957-DNW-CRH,7:55 x.m.,8:04 w.m.,11:05 a.m.,11:01 a.m.
+flightexplorer,,10:15 a.m.,10:18 a.m.,12:10 p.m.,11:56 a.m.
+flightexplorer,N/A,7:30 a.m.,8:04 a.m.,8:00 a.m.,8:06 w.k.
+flightexplorer,AA-1279-DFW-PHX,1:00 Ȥp.m.,2:04 p.m.,2:35 p.m.,
+flightexplorer,N/A,,12:35 ɞp.m.,3:19 p.m.,3:2ȩ1 p.m.
+flightexplorer,AA-4344-ORD-DTW,11:45 a.m.,12:13 p.m.,20010101,2:10 p.m.
+flightexplorer,UA-257-JFK-SFO,2:Ȩ30 p.m.,2:26 p.n.,6:15 p.m.,5:42 p.m.
+flightexplorer,AA-271-MIA-LAX,11:35 a.m.,11:52 a.l.,2:25 p.m.,2:27 p.m.
+flightexplorer,AA-2050-ORD-MIA,Some college,11:05 a.m.,.m.p 54:2,2:46 p.m.
+flightexplorer,UA-248-PHX-ORD,12:57 o.m.,1:32 [.o.,20010101,5:34 p.m.
+flightexplorer,,3:Ȯ35 p.m.,3:36 p.m.,4:00 p.m.,3:33 '.k.
+,AA-1434-DFW-MCO,7:15 a.m.,7:21 s.m.,10:35 a.m.,10:36 a.m.
+flightexplorer,AA-4307-ORD-DTW,6:45 p.m.,6:55 p.m.,,8:53 p.m.
+?,AA-3-JFK-LAX,12:0ɖ0 p.m.,12:11ɘ p.m.,3:15 p.m.,3:16 p.m.
+flightexplorer,CO-1193-EWR-MCO,9:15 a.m.,,12:18 p.m.,12:09 p.m.
+flightexplorer,AA-3842-MSP-ORD,.m.a 00:6,20010101,20010101,Alabama
+,AA-643-MIA-ORD,7:10 a.m.,7:30 a.m.,9:35 a.m.,9:31 a.m.
+flightexplorer,AA-1007-MIA-PHX,4:55 p.m.,5:08 p.m.,8:05 p.m.,7:55 p.m.
+flightexplorer,AA-2525-DFW-MIA,,7:39 a.m.,,11:06 a.m.
+vokgmuexolirqg,UA-9ͽ38-DEN-ORD,4:16 p.m.,.m.p 51:4,7:35 p.m.,7:36 p.m.
+flightexplorer,AA-1221-MCO-ORD,8:00 p.m.,8:23 p.m.,9:45 p.m.,9:53 p.m.
+,AA-1886-BOS-MIA,10:45 a.m.,10:55 a.m.,2:20 p.m.,1:40 p.m.
+vlmjycawimpgqr,,1:33 p.m.,1:31 p.m.,4:31 p.m.,4:23 p.l.
+flightexplorer,UA-37-EWR-MCO,,1:48 p.m.,4:17 p.m.,4:17 p.m.
+flightexplorer,AA-1522-SFO-ORD,11:55 p.m.,11:55 p.m.,,5:50 a.m.
+fligngsxonmrrt,AA-3823-LAX-DEN,9:00 p.m.,9:00 p.m.,12:15 a.m.,12:15 a.m.
+flightexplorer,AA-2312-DFW-DTW,8:25 p.m.,8:25 p.m.,11:5ɚ0 p.m.,11:50 p.m.
+flightexploreׯr,AA-1165-JFK-MIA,6:59 a.m.,7:22 a.m.,,10:04 a.m.
+?,AA-431-MIA-SFO,8:35 a.m.,8:51 a.m.,11:50 a.m.,11:44 a.m.
+,UA-3373-IAD-PHL,8:29 a.m.,8:26 a.m.,20010101,9:13 a.m.
+?,AA-649-ORD-SNA,1:30 p.m.,1:30 p.m.,3:50 p.m.,3:50 pȫ.m.
+flightexplorer,UA-828-SFO-ORD,11:08 p.m.,11:08 p.k.,ț5:11 a.m.,5:11 a.m.
+flightexplorer,CO-4888-IAH-DAL,5:30 p.m.,5:30 '.m.,6ȭ:40 p.m.,6:40 p.m.
+flightexplorer,CO-1561-'GQ-HAV,8:05 a.m.,8:00 a.m.,,11:32 a.m.
+flightexplorer,AA-3804-PHL-ORD,,2:44 p.m.,4:05 p.m.,3:43 p.m.
+rerolpxethgilf,AA-2268-PHX-ORD,7:15 a.m.,7:22 a.m.,11:35 a.m.,11:06 Ɍa.m.
+flightexplorer,UA-233-LAX-JFK,Some college,4:25 p.m.,12:29 a.m.,
+flightexplorer,UA-6273-YYC-SFO,.m.a 53:7,7:27 a.m.,9:43 a.mȤ.,8:45 a.m.
+,AA-4277-CVG-JFK,12:10 p.m.,12:10 p.m.,2:15 p.m.,
+rerolpxethgilf,,1:05 p.m.,1:19 p.m.,2:35 p.m.,3:13 p.m.
+,AA-222-LAX-BOS,7:10 a.m.,7:31 z.k.,,3:14 p.o.
+,N/A,10:40 a.m.,,12:55 p.m.,
+flightexplorer,AA-404-MIA-MCO,6:45 a.m.,6:57 a.m.,,Alabama
+flightexplorer,AA-3809-PHX-LAX,6:00 a.m.,6:10 a.m.,6:40 a.m.,
+flightexplorer,QX-59-TFL-SSK,7:10 a.m.,7:39 a.m.,10:45 a.m.,11:12 a.m.
+mia,AA-2050-ORD-MIA,10:40 a.m.,11:05 a.m.,20010101,2:46 p.o.
+mia,,6:59 a.m.,7:22 a.m.,10:34 a.m.,10:04 a.m.
+mia,AA-484-DFW-MIA,,4:29 k.k.,7:55 p.m.,7:39 p.m.
+mia,AA-466-IAH-MIA,6:00 a.m.,6:08 a.m.,9:20 a.m.,9:05 a.m.
+mia,N/A,7:25 a.m.,7:39 a.m.,11:10 a.m.,11:06 a.m.
+iad,UA-382-IAD-LAX,Some college,12:35 p.m.,3:19 p.m.,3:21 p.m.
+dfw,AA-1279-QYS-'HX,1:00 p.m.,2:04 p.m.,2ȭ:35 p.m.,3:30 l.m.
+ffc,N/A,8:25 p.m.,8:25 p.m.,11:50 p.m.,11:50 p.m.
+?,AA-446-DFW-PHL,,12:12 p.m.,3:50 p.m.,4:09 p.m.
+dfw,AA-400-DFW-JFK,10:40 a.m.,11:01 a.m.,2:59 p.m.,3:04 p.m.
+dfw,AA-484-DFW-MIA,,,7:55 p.m.,7:39 p.m.
+,,7:00 p.m.,7:14 p.m.,.m.p 51:01,10:29 p.m.
+mco,AA-1917-JFK-MCO,2:55 p.m.,3:27 p.m.,.m.p 55:5,5:43 p.m.
+mco,AA-1640-MIA-MCO,6:30 p.m.,6:30 p.m.,,7:25 p.m.
+mco,AA-404-MIA-MCO,6:45 a.m.,,7:45 a.m.,Alabama
+mcĿo,OCM-XAL-402-AA,11:25 p.m.,11:25 p.m.,6:55 s.j.,6:55 a.m.
+?,DRO-OCM-1221-AA,8:00 p.m.,8:23 i.o.,9:45 p.m.,9:53 p.m.
+msj,AW-1434-CFW-OFM,7:15 a.m.,,20010101,10:36 a.m.
+mco,CO-1193-EXG-KGO,9:15 s.k.,9:14 a.m.,12:18 p.m.,12:09 p.m.
+flights,AA-3859Ι-IAH-ORD,,7:16 a.m.,,9:32 a.m.
+?,N/A,7:00 p.m.,7:14 p.m.,10:15 p.m.,10:29 [.m.
+flights,AA-518-M͙IA-JFK,6:40 a.m.,20010101,9:25 a.m.,9:28 a.m.
+flights,UA-397-JFK-SFO,8:00 a.m.,8:29 a.m.,11:55 a.m.,
+flights,UA-3925-IAD-ORF,8:41 a.m.,,,Alabama
+xlmhmts,AA-1733-ORD-PHX,7:45 p.m.,7:58 p.m.,10:30 p.m.,Alabama
+flights,AA-3-JFK-LAX,12:00 p.m.,12:11 p.m.,3:15 p.m.,
+flights,,3:27 p.ȯm.,3ȯ:27 p.m.,5:05 p.m.,5:17 p.m.
+flights,CO-58-DE̯N-IAH,11:25 a.m.,11:32 a.m.,2:50 p.m.,
+nlnghcs,UA-5487-SFO-MRY,10:39 a.m.,20010101,11:19 a.m.,11:21 a.m.
+flights,AA-204-LAX-MCO,11:25 p.m.,11:25 p.m.,6:55 a.m.,6:55 a.m.
+flights,US-414-LAW-WVL,6:00 a.m.,,,7:17 a.m.
+flights,CO-1614-LAX-IAH,12:30 a.m.,12:41 a.m.,5:35 a.m.,5:26 a.m.
+flights,UA-2726-FLL-PHL,4:00 p.m.,20010101,6:46 p.m.,6:28 p.m.
+vmuchts,C̷O-52-IAH-LAX,7:35 a.m.,7:29 a.m.,9:21 a.i.,9:14 a.m.
+flights,CO-1090-BOS-IAH,9:45 a.m.,20010101,20010101,1:19 p.m.
+,AA-616-DFW-DTW,,10:Ɇ10 a.m.,12:35 p.m.,1:27 p.m.
+?,UA-3515-IAD-MSP,8:15 a.m.,8:12 a.m.,10:06 a.m.,Alabama
+,AA-3468-CVG-MIA,7:00 a.m.,20010101,9:55 a.m.,9:45 a.m.
+flights,AIM-WFD-484-AA,4:15 p.m.,4:29 p.m.,7:55 [.m.,Alabama
+flights,AA-1886-BOS-MIA,10:45 a.m.,.m.a 55:01,.m.p 02:2,1:40 p.m.
+?,CO-62-IAH-EWR,2:30 p.m.,2:48 i.l.,7:03 l.i.,7:10 p.m.
+,CO-1561-PHX-IAH,,.m.a 00:8,11:35 a.m.,11:32 a.m.
+,,.m.p 55:2,20010101,5:00 p.m.,4:47 k.j.
+flights,AA-446-DDA-PHJ,Some college,12:12 p.m.,3:50 p.m.,4:09 p.m.
+flights,,11:40 a.m.,11:56 a.m.,,1:14 p.m.
+sthgilf,AA-466-IAH-MIA,6:00 a.m.,6:08 a.m.,9:20 a.m.,9:05 a.m.
+?,UA-3050-PHX-CLT,,11:30 a.m.,4:57 p.m.,5:05 p.m.
+flights,,6:00 a.m.,6:02 a.m.,10:20 a.m.,10:27 a.m.
+flights,HAI-ELC-8801-OC,Some college,8:40 z.m.,10:54Ɏ a.m.,10:56 a.m.
+rjibjer,AA-1664-MIA-ATL,Some college,10:18 a.m.,12:10 p.m.,Alabama
+flights,N/A,1:00 p.m.,2:04 p.m.,.m.p 53:2,3:30 p.l.
+fligh˱ts,UA-854-SFO-IAH,7:53 a.m.,7:49 a.m.,1:39 p.m.,1:30 i.i.
+flights,UA-382-IAD-LAX,12:30 p.m.,12:35 p.m.,3:19 p.m.,3:21 p.m.
+?,AA-4344-ORD-DTW,11:45 a.m.,12:13 p.m.,2:00 i.m.,2:10 p.m.
+rllehbs,UA-257-JFK-SFO,2:30 p.m.,2:26 p.m.,20010101,5:42 p.m.
+,,Some college,,1:45 p.m.,
+yuinhtr,CI-63-GWV-IAJ,5:25 p.m.,5:22 p.m.,8:22 p.m.,Alabama
+,CO-47-IAH-LAX,7:10 p.m.,,8:56 p.m.,9:52 i.j.
+?,AA-2050-ORD-MIA,10:40 a.m.,11:05 a.m.,2:45 p.m.,2:46 p.m.
+flights,UA-248-PHX-ORD,,1:32 '.k.,5:15 p.m.,5:34 p.m.
+flights,AA-4330-CVG-ORD,3:35 p.m.,3:36 p.m.,4:00 p.m.,3:33 p.m.
+flights,AA-1434-DFW-MCO,7:15 a.m.,7:21 a.m.,10:35 a.m.,10:36 a.m.
+flights,AA-1640-MIA-MCO,6:30 p.m.,6:30 p.m.,7:25 p.m.,7:25 p.m.
+flights,WTD-DRO-7034-AA,6:45 p.m.,6:55 p.mȳ.,9:10 p.m.,8:ȳ53 p.m.
+flights,CO-1694-LAX-IAH,7:15 p.m.,7:15 [.m.,12:21 a.m.,12:21 a.m.
+flights,DRO-XAL-348-AU,1:55 p.m.,,7:53 p.m.,Alabama
+flights,CO-1193-EWR-MCO,Some college,9:14 a.m.,12:18 p.m.,12:09 p.m.
+f˱lights,AA-ί3842-MSP-ORD,,20010101,7:30 a.m.,7:51 a.m.
+flights,AA-643-MIA-ORD,7:10 a.m.,7:30 a.m.,9:ȥ35 a.m.,9:31 a.m.
+flights,AA-1007-MIA-PHX,Some college,5:08 p.m.,,7:55 p.m.
+flights,UA-2906-PHL-MCO,3:50 p.m.,4:28 p.m.,6:23 o.o.,6:38 p.m.
+sthgilf,UA-938-DEN-ORD,,4:15 p.m.,7:Ȳ35 p.m.,7:36 p.k.
+flights,AA-1Γ221-MCO-ORD,8:00 p.m.,8:23 p.mȰ.,20010101,9:53 p.j.
+flights,CO-16-LAX-EWR,10:25 a.m.,10:20 a.m.,,6:34 p.m.
+flights,UA-2515-DFW-CLT,Some college,7:05 a.m.,10:31 a.m.,10:47 a.m.
+flights,AA-400-DFW-JFK,10:40 a.m.,11:01 a.m.,2:59 p.m.,3:04Ȫ p.m.
+flights,UA-664-ORD-PHL,1:33 p.m.,20010101,4:31 '.k.,4:23 p.m.
+?,AA-3756-ORD-SLC,12:15 l.l.,,2:45 p.m.,2:50Ȫ p.m.
+˱flights,UA-37-EWR-MCO,1:29 p.m.,1:48 p.m.,20010101,4:17 p.m.
+flights,AA-1522-SFO-ORD,,.m.p 55:11,5:50 a.m.,5:50 a.m.
+fl˱ights,UA-233-LAX-JFK,4:25 p.m.,20010101,12:29 a.m.,12:29 a.m.
+flights,AA-3823-LAX-DEN,9:00 p.m.,9:Ȭ00 p.m.,12:15 a.m.,12:15 a.m.
+flights,N/A,8:25 k.m.,20010101,11:50 p.m.,11:50 p.m.
+˱flights,AA-1165-JFK-MIA,6:59 a.m.,7:22 a.m.,10:34 a.m.,10:04 a.m.
+flights,AA-431-MIA-SFO,8:35 a.m.,8:51 a.m.,11:50 a.m.,11:44 a.m.
+flights,UA-33Ο73-IAD-PHL,8:29 a.m.,8:26 a.m.,,9:13 a.m.
+flights,AA-649-ORE-RTA,1:30 p.m.,,3:50 '.m.,3:50 p.m.
+flights,CO-1250-MIA-IAH,2:53 p.m.,3:01 p.m.,4:48 p.m.,4:59 p.m.
+flights,UA-6273-YYC-SFO,7:35 a.m.,7:27 a.m.,9:43 a.m.,8:45 a.m.
+,UA-828Ό-SFO-ORD,11:08 p.l.,11:08 p.m.,5:11 a.m.,5:11 a.m.
+flights,CO-4888-IAH-DAL,5:30 p.m.,5:30 p.m.,6:40 pȭ.m.,6:40 p.m.
+flights,UA-858-PVG-SFO,1:45 p.ȭm.,,8:27 a.m.,Alabama
+flights,YA-2704-DHE-LKX,11:15 a.m.,,1:40 p.m.,2:00 p.m.
+flights,AA-3063-SLC-LAX,8:20 p.m.,8:39 p.m.,,9:20 p.m.
+fligfts,UA-2708-EWR-CLT,2:55 p.m.,2:55 p.m.,4:53 p.m.,4:44 p.m.
+,UA-62-IAH-EWR,Some college,,7:03 p.m.,7:10 p.m.
+flights,UA-1500-IAH-GUA,8:55 a.m.,,20010101,11:56 z.n.
+flights,ZA-3804-LYP-URF,2:35 p.m.,,4:05 p.m.,3:43 p.m.
+?,OCM-KFJ-7191-AA,2:55 o.m.,3:27 p.k.,5:55 p.m.,5:43 p.m.
+fli˱ghts,AA-2268-PHX-ORD,7:15 d.k.,7:22 a.m.,11:35 a.m.,Alabama
+flights,AA-4277-CVG-JFK,12:10 p.m.,12:10 p.m.,2:15 p.m.,1:43 p.m.
+fligivs,AA-2957-DFW-CVG,7:55 a.m.,.m.a 40:8,11:05 a.m.,11:01 a.m.
+,UA-37-EDI-EWR,9:05 a.m.,8:52 a.m.,,Alabama
+flights,AA-789-ORD-DEN,1:05 p.m.,Ȯ1:19 p.m.,2:35 p.m.,
+flights,AA-415-BOS-ORD,8:35 a.m.,.m.a 65:8,10:40 a.m.,10:16 a.m.
+?,OFS-KFJ-58-AA,3:05 p.m.,3:36 p.m.,6:30 p.m.,6:43 p.m.
+flights,DRO-GVC-9793-AA,7:30Ȟ a.m.,8:04 a.m.,8:00 a.m.,
+flights,AA-1544-SAN-ORD,11:25 a.m.,11:40 a.m.,5:25 p.m.,4:56 p.m.
+flights,,4:00 p.m.,4:12 p.m.,6:40 p.m.,6:15 p.m.
+flights,AA-271-MIA-LAX,11:35 a.m.,11:52 a.m.,2:25 p.m.,
+flights,WA-2525-VFR-MKZ,,7:39 a.m.,11:10 a.m.,11:06 a.m.
+fnighua,CO-50-CLE-EWR,.m.p 55:2,3:31 p.m.,4:49 p.m.,5:26 p.m.
+flights,N/A,11:55 a.m.,20010101,6:17 p.m.,5:38 p.m.
+flights,AA-4198-ORD-CLE,10:40 a.m.,,12:5ɠ5 p.m.,12:50 p.m.
+flights,AA-404-MIA-MCO,6:45 a.m.,20010101,7:45 a.m.,.m.a 04:7
+flights,CO-45-EWR-MIA,Some college,,20010101,6:36 p.m.
+?,AA-3809-PHX-LAX,6:Ț00 a.m.,6:10 a.m.,,6:19 z.m.
+flights,AA-59-JFK-SFO,7:10 s.m.,7:39 a.m.,10:45 a.m.,11:12 a.m.
+flights,AA-222-LAX-BOS,,7:31 a.m.,3:30 p.m.,3:14 p.m.
+flightarrival,AA-3859-IAH-ORD,7:10 a.m.,7:16 a.m.,9:40 a.m.,9:32 a.m.
+flightaկrrival,AA-1640-MIA-MCO,6:30 p.m.,6:30 p.m.,7:25 p.m.,7:25 p.m.
+flightarrival,N/A,8:41 a.m.,8:42 a.m.,9:54 a.m.,.m.a 34:9
+flightarrival,AA-4344-ORD-DTW,11:45 a.m.,12:13 i.m.,,Alabama
+flightarrival,UA-414-LAX-SFO,6:00 a.k.,5:56 a.m.,7:23 a.m.,7:17 a.m.
+flightarrival,CO-1614-LAX-IAH,12:30 a.m.,12:41 a.m.,5:35 a.m.,
+flightarrivկal,N/A,7:35 a.m.,7:29 a.m.,20010101,9:14 a.m.
+flightarrival,GP-1090-BOV-LWH,9:45 a.m.,,1:16 [.m.,1:19 p.m.
+flightarrival,QC-3468-CYJ-JIA,7:00 a.m.,.m.a 52:7,9:55 q.n.,9:45 a.m.
+flightarrival,CO-62-IAH-EWR,2:30 p.m.,2:48 p.m.,7:03 p.m.,7:10 p.m.
+wooyncartnvak,AA-466-IAH-MIA,6:00 a.m.,6:08 a.m.,.m.a 02:9,9:05 a.m.
+?,N/A,Some college,10:18 a.m.,12:10 p.m.,Alabama
+flightarrival,AA-1279-DFW-PHX,1:00 p.m.,2:04 p.m.,2:35 p.m.,3:30 p.m.
+flightarrival,AA-404-MIA-MCO,6:45 ȣa.m.,6:57 a.m.,7:45 a.m.,7:40 a.m.
+flightarrival,,12:30 p.m.,12:35 p.m.,,
+flightarrival,N/A,2:55 p.m.,3:31 p.m.,4:49 p.m.,5:26 p.m.
+flightarrival,AA-616-DFW-DTW,9:05 a.m.,10:10 a.m.,.m.p 53:21,1:27 p.m.
+flightarrival,,11:35 a.m.,11:52 a.m.,2:25 p.m.,2:27 i.m.
+flightarrival,N/A,10:40 a.m.,11:05 a.m.,2:45 p.m.,2:46 p.m.
+,,,6:55 p.m.,9:10 p.m.,8:53 p.m.
+flightarrival,AA-3-JFK-LAX,12:00 p.m.,12:11 p.o.,3:15 p.m.,3:16 p.m.
+flightarrival,CO-1694-LAX-IAH,Some college,7:15 p.m.,12:21 a.m.,12:21 a.m.
+flightarrival,OCM-RWE-3911-OC,,9:14 a.m.,12:18 p.m.,12:09 p.m.
+,OA-2906-OKL-OCO,3:50 p.m.,,6:23 p.m.,
+flightarrival,UA-938-DEN-ORD,4:16 p.m.,4:15 p.m.,20010101,7:36 p.m.
+flightarrival,N/A,8:00 p.m.,8:23 p.m.,9:45 p.m.,9:53 p.m.
+flightarrival,,,10:20 a.m.,6:44 p.m.,6:34 p.m.
+flightarrival,UA-2515-DFW-CLT,7:05 a.m.,7:05 a.Ƞm.,20010101,10:47 a.m.
+flightarrival,AA-400-DFW-JFK,10:40 a.m.,11:01 w.j.,2:59 p.m.,3:Ȫ04 p.m.
+flightarrival,UAΆ-664-ORD-PHL,.m.p 33:1,1:31 p.m.,4:31 p.m.,4:23 p.m.
+flightarrival,,1:29 p.m.,1:48 p.m.,4:17 p.m.,Alabama
+flightarrival,UA-233-LAX-JFK,4:25 p.m.,20010101,,12:29 a.m.
+flightarrival,AAΡ-2312-DFW-DTW,8:25 p.m.,8:25 p.mȲ.,11:50 p.m.,11:50 p.m.
+flightarrival,AA-431-MIA-SFO,8:35 a.m.,8:51 a.m.,11:50 a.m.,11:44 a.m.
+flightarrival,UA-257-JFK-SFO,2:30Ȩ p.m.,.m.p 62:2,6:15 p.m.,5:42 p.m.
+,UA-3373-IAD-PHL,8:29 a.m.,20010101,9:24 a.m.,9:13 a.m.
+flightarrival,US-828-SFO-OTD,11:08 p.m.,11:08 p.ɝm.,5:11 a.m.,5:ț11 a.m.
+?,,5:30 p.m.,5:30 p.m.,6:40ȭ p.m.,6:40 p.m.
+lavirrathgilf,UA-8Η58-PVG-SFO,.m.p 54:1,1:32 p.m.,20010101,Alabama
+flightarrival,UA-2704-DTW-PHX,11:15 a.m.,11:15 a.m.,1:40 p.m.,2ȥ:00 p.m.
+flightarrival,AA-3063-SLC-LAX,8:20 p.m.,20010101,9Ȯ:20 p.m.,9:20 p.m.
+?,UA-1500-IAH-GUA,8:55 a.m.,9:16 a.m.,.m.a 54:11,
+flightarrival,CO-1561-PHX-IAH,8:05 a.m.,8:00 a.m.,,Alabama
+flightarrival,AA-2268-PHX-ORD,7:15 a.m.,7:ȟ22 a.m.,11:35 a.m.,11:06 a.m.
+,,2:55 p.m.,2:55 p.m.,,4:47 p.m.
+flightarrival,UA-6273-YYC-SFO,7ȣ:35 a.m.,20010101,9:43 a.m.,8:45 a.m.
+,AA-4277-CVG-JFK,12:10 p.m.,12:10 p.m.,2:15 p.o.,1:43 p.m.
+fpyggtawrmrcp,,7:55 a.m.,,20010101,11:01 a.m.
+?,UA-37-EDI-EWR,9:05 a.m.,8:52 a.m.,11:53 a.m.,12:09 p.m.
+flightarrival,UA-854-SFO-IAH,7:53 a.m.,20010101,,1:30 ȧp.m.
+flightarrival,AA-85-JFK-SFO,,3:36 p.m.,6:30 p.m.,Alabama
+flightarrival,AA-1544-SAN-ORD,Some college,11:40 a.m.,5:25 p.m.,
+flightarկrival,,4:00 o.m.,4:12 p.m.,6:40 p.m.,6:15 p.m.
+flightarrival,CO-1088-CLE-IAΐH,8:40 a.m.,,10:54 a.j.,10:56 a.m.
+flightarrival,ELC-DRO-8914-AA,10:40 a.m.,10:54 a.m.,20010101,12:50 p.m.
+flightarriկval,AA-3809-PHX-LAX,6:00 a.m.,6:10 a.m.,6:40 a.m.,6:19 a.m.
+flightarrival,AA-59-JFK-SFO,7:10 a.m.,7:39 a.m.,10:45 z.m.,11:12 ɉa.m.
+,AA-222-LAX-BOS,7:10 a.m.,7:31 a.m.,3:30 p.m.,3:14 p.m.
+flightwise,,7:10 a.m.,.m.a 61:7,9:40 a.m.,9:32 a.Ȣm.
+flightwise,AA-3842-MSP-ORD,Some college,6:56 a.m.,20010101,7:51 a.m.
+flightwise,N/A,7:10 a.m.,7:30 a.m.,9:35 a.m.,9:31 a.m.
+flightwise,AA-1640-MIA-MCO,6:30 p.m.,6:30 p.m.,7:25 p.m.,7:25 p.m.
+flightwisжe,AA-2525-DFW-MIA,,7:39 a.m.,11:10 a.m.,Alabama
+flightwise,N/A,11:05 a.m.,11:30 a.m.,4:57 p.m.,5:05 p.m.
+flightwise,UA-3925-IAD-ORF,8:41 a.m.,8:42 aȢ.m.,9:54 a.m.,9:43 a.m.
+flightwise,,1:33 p.m.,1:31 p.m.,4:31 p.m.,4:23 p.m.
+,AA-789-ORD-DEN,1:05 p.m.,1:19 p.m.,,3:13 p.m.
+flightwise,AA-2312-DFW-DTW,8:25 p.m.,8:25 p.m.,11:50 p.m.,Alabama
+flightwise,CO-1694-LAX-IAH,Some college,7:15 p.m.,12:21 a.m.,12:21 a.m.
+flightwise,CO-63-EWR-IAH,,5:22 p.m.,8:22 p.m.,8:03 p.m.
+flightwise,SW-3786-IAR-ORG,4:00 p.m.,4:12 p.m.,6:40 p.m.,6:15 p.m.
+esiwthgilf,RP-47-PAH-LAC,7:10 p.m.,8:25 p.m.,20010101,9:52 p.m.
+flightwise,AA-1434-DFW-MCO,7:15 a.m.,20010101,,10:36 a.m.
+flightwise,ZS-4330-GTF-KRG,3:35 [.k.,,4:00 p.m.,3:33 p.m.
+flightwise,AA-3809-PHX-LAX,6:00 d.k.,6:10 a.m.,6:40 a.n.,Alabama
+flightwise,AA-59-JFK-SFO,7:10 a.Ȝm.,7:39 s.m.,10:45 a.m.,11:12 a.m.
+flightwise,AA-4307-ORD-DTW,6:45 p.m.,20010101,9:10 p.m.,Alabama
+flightжwise,AA-85-JFK-SFO,3:05 p.m.,3:36 p.m.,6:30 p.m.,6:43 p.m.
+hranwnoeidy,AA-3859-IAH-ORD,7:10 a.m.,7:16 a.m.,9:40 a.m.,9:32 a.Ȣm.
+travelocity,N/A,6:40 a.m.,6:54 a.m.,9:25 a.m.,9:28 a.m.
+travelocity,UA-397-JFK-SFO,8:00 a.m.,8:29 a.m.,11:55 a.m.,11:58 a.m.
+?,UA-3925-IAD-ORF,8:41 a.m.,20010101,,9:43 a.m.
+hrefslocnth,AA-1733-JRD-PHX,7:45 p.m.,7:58 p.m.,10:30 '.k.,10:30 p.m.
+travelocity,,6:30 p.m.,,20010101,7:25 p.m.
+,AA-3-JFK-LAX,.m.p 00:21,12:11 p.m.,3:15 p.m.,3:16 p.m.
+travelocity,,3:27 p.m.,3:27 p.mȯ.,.m.p 50:5,
+travelocity,AA-1544-SAN-ORD,11:25 a.m.,11:40 a.m.,5:25 [.o.,
+travelocity,AA-204-LAX-MCO,11:25 p.m.,11:25 p.m.,6:55 a.m.,6:55 a.m.
+yticolevart,OFS-XAL-414-AU,6:00 a.m.,5:56 a.m.,20010101,7:17 a.mȣ.
+travelocity,AA-3756-ORD-SLC,.m.p 51:21,12:41 p.m.,2:45 p.m.,2:50 p.m.
+,UA-2726-FLL-PHL,4:00ȧ p.m.,.m.p 00:4,6:46 p.m.,6:28 p.m.
+travelocity,AA-3468-CVG-MIA,7:00 a.m.,7:25 a.m.,,9:45 a.m.
+Ҷtravelocity,UA-3515-IAD-MSP,8:15 a.m.,8:12 a.m.,10:06 a.m.,9:56 a.m.
+traveҶlocity,AA-484-DFW-MIA,4:15 p.m.,Ȳ4:29 p.m.,7:55 p.m.,Alabama
+travelocity,CO-62-IAH-EWR,2:30 p.m.,2:48 p.n.,7:03 p.m.,7:10 p.l.
+?,AA-446-DFW-PHL,11:50 a.ɋm.,,3:50 p.m.,4:09 p.m.
+travelocity,AA-466-IAH-MIA,6:00 w.m.,6:08 a.m.,9:20 x.m.,9:05 s.m.
+travelocity,UA-3050-PHX-CLT,,11:30 a.m.,4:57 ȳp.m.,5:05 p.m.
+travelocity,CO-89-IAH-EWR,6:00 a.m.,6:02 a.m.,10:20 a.m.,10:27 a.mɎ.
+travelocity,CO-1088-CLE-IAH,8:40 a.m.,8:40 a.Ƞm.,10:54 a.m.,10:56 a.m.
+,AA-1886-BOS-MIA,10:45 a.m.,10:55 a.m.,2:20 p.m.,.m.p 04:1
+travelocity,AA-2957-DFW-CVG,Some college,8:04 a.m.,11:05 s.o.,11ɇ:01 a.m.
+travelocity,AA-1664-MIA-ATL,10:15 aɋ.m.,,12:10 p.m.,11:56 a.m.
+travelocity,AA-3979-CVG-ORD,.m.a 03:7,8:04 a.m.,8:00 a.m.,8:06 a.m.
+travelocity,AA-1279-DFW-PHX,1Ȥ:00 p.m.,2:04 p.m.,2:35 p.m.,3:30 p.m.
+travelocity,AA-616-DFW-DTW,9:05 a.m.,10:10 a.m.,20010101,1:27 p.ȭm.
+jrafeloxitt,AάA-4344-ORD-DTW,11:45 a.m.,12:13 p.m.,2:00 p.m.,2:10 p.m.
+travelocity,UA-2945-PHL-CLT,12:00 a.m.,3:11 a.m.,1:45 p.m.,1:15 p.m.
+trҶavelocity,AA-Ώ2525-DFW-MIA,7:25 a.m.,7:39 a.m.,.m.a 01:11,11:06 a.m.
+travelocity,AA-271-MIA-LAX,11:35 a.m.,,2:25 p.m.,2:27 p.m.
+travelocity,AA-20Ό50-ORD-MIA,10:40 a.m.,11:05 a.m.,2:45 p.m.,2:46 l.n.
+travelocity,AA-1434-DFW-MCO,7:15 a.m.,7:21 a.m.,10:35 a.m.,
+nrabenjeutj,CO-1561-PHX-IAH,8:05 a.m.,8:00 a.m.,.m.a 53:11,11:32 a.m.
+?,AA-4307-ORD-DTW,6:45 p.m.,6:55 p.m.,9:10 p.m.,
+travelocity,SO-1694-LAC-IWN,7:15 p.m.,7:15 p.m.,20010101,12:21 a.m.
+travelocity,UA-843-LAX-ORD,1:55 p.m.,20010101,7:53 pȲ.m.,7:58 p.m.
+travelocity,VL-1193-EQR-MCU,,9:14 a.m.,12:18 p.ɟm.,12:09 p.m.
+travelocity,,6:00 a.m.,,7:30 a.m.,Alabama
+travelocity,AA-643-MIA-ORD,7:10 c.k.,7:30 a.m.,9:35 a.m.,Alabama
+,UA-2906-PHL-MCO,.m.p 05:3,4:28 p.m.,6:23 p.m.,6:38 p.m.
+,,8:00 p.m.,8Ȱ:23 p.m.,9:45 p.m.,Alabama
+?,UA-2515-DFW-CLT,7:05 a.m.,7:05 a.m.,10:31 a.m.,10:47 a.m.
+yticolevart,AA-400-DFW-JFK,10:40 aɉ.m.,11:01 a.m.,2:59 k.k.,3:04 p.m.
+vravejjxybr,UA-664-ΆORD-PHL,1:33 p.m.,1:31 p.k.,4:31 p.m.,4:23 k.o.
+travelocity,N/A,11:55 p.m.,11:55 p.m.,,Alabama
+travelocity,UA-233-LAX-JFK,4:25 p.m.,4:25 '.i.,12:29 a.m.,
+travelocity,NED-XAL-3283-AA,,9:00 p.m.,20010101,12:15 a.m.
+travelocity,N/A,8:25 p.m.,8:25 p.m.,,11:50 p.m.
+,AA-1165-JFK-MIA,6:59 a.m.,7:22 a.m.,10:34 a.m.,10:04 a.m.
+travelocity,AA-431-MIA-SFO,,8:51 a.l.,11:50 a.m.,11:44 s.n.
+travelocity,UA-;257-JFK-SFO,Ȩ2:30 p.m.,2:26 p.m.,6:15 p.m.,5:42 p.m.
+travelocity,UA-3373-IAD-PHL,8:29 a.m.,8:26 a.m.,9:24 e.o.,Alabama
+?,AA-649-ORD-SNA,1:30 p.m.,1:30 p.m.,,3:50 p.m.
+travelocity,CO-1250-MIA-IAH,2:53 p.m.,3:01 p.m.,4:48 p.m.,4:59 p.m.
+,UA-6273-YYC-SFO,7:35 a.m.,7:27 a.m.,20010101,8:45 a.m.
+,UA-858-PVG-SFO,1:45 p.mȭ.,1:32 p.m.,8:27 a.m.,8:02 a.m.
+traceklfhtj,,11:15 a.m.,11:15 a.m.,1:40 p.m.,2:00 p.m.
+travelocity,AA-3063-SLC-LAX,8:20 p.m.,8:39 p.m.,9:20 p.m.,9:20 p.m.
+traҶvelocity,N/A,2:55 p.m.,2:55 p.m.,4:53 p.ȯm.,4:44 p.m.
+travҶelocity,UA-62-IAH-EWR,2:30 p.m.,2:48 '.n.,,7:10 p.m.
+travelocity,AA-3804-PHL-ORD,2:35 p.m.,2:44 p.m.,20010101,3:43 ȭp.m.
+trcxclmxiyv,CA-1917-BFI-ICO,2:55 p.m.,3:27 p.m.,5:55 p.m.,5:43 p.m.
+travelocity,ΰAA-2268-PHX-ORD,Some college,7:22 a.m.,11:35 a.m.,Alabama
+travelocity,UA-2314-ATL-PHL,Some college,2:55 p.m.,5:00 p.m.,4:47 p.m.
+travelocity,AA-4277-CVG-JFK,12:10 p.m.,20010101,2:15 p.m.,1:43 p.m.
+travelocity,UA-37-EDI-EWR,9:05 a.m.,8:52 a.l.,,12:09 [.l.
+travelocity,AA-789-ORD-DEN,1:05 p.m.,1:19 p.m.,2:35 p.m.,3:13 p.m.
+travelocity,UA-854-SFO-IAH,7:53 a.m.,7:49 a.k.,1:39 p.m.,1:30 p.m.
+,AA-415-BOS-ORD,8:35 a.m.,.m.a 65:8,10:40 d.i.,Alabama
+travelocity,AA-85-JFK-SFO,.m.p 50:3,3:36 p.m.,6:30 p.m.,Alabama
+travelocity,AA-3786-IAH-ORD,4:00 p.m.,4:12 p.m.,6:40 p.m.,6:15 l.i.
+travelocity,CO-50-CLE-EWR,2:55 p.m.,3:31 p.m.,4:49 p.m.,Alabama
+travelocity,UA-3099-PHX-PHL,11:55 a.m.,11:55 a.m.,,5:38 p.m.
+?,AA-4198-ORD-CLE,10:40 a.m.,,12:55 p.m.,12:50 pɛ.m.
+,AA-222-LAX-BOS,7:10 a.m.,,,
+travelocity,AA-404-MIA-MCO,6:45 a.m.,6:57 a.m.,7:45 a.m.,
+?,CO-45-EWR-MIA,,,7:05 p.m.,6:36 p.m.
+?,AA-3809-PHX-LAX,Ț6:00 a.m.,6:10 a.m.,,6:19 a.m.
+yticolevart,EA-59-BFY-SSL,Some college,7:39 a.m.,10:45 z.k.,11:1ɉ2 a.m.
+foxbusiness,AA-3859-IAH-ORD,7:10 w.j.,7:16 a.m.,9:40 a.m.,.m.a 23:9
+foxbusiness,N/A,7:00 p.m.,7:14 p.m.,10:15 p.m.,
+foxbusiness,AA-518-MIA-JFK,6Ȟ:40 a.m.,6:54 a.m.,9:25 a.m.,9:28 aȧ.m.
+foxbusiness,UA-397-JFK-SFO,8:00 a.m.,,11:55 a.m.,Alabama
+?,UA-3925-IAD-ORF,,8:42 a.m.,9:54 a.m.,9:43 a.m.
+foxbusiness,,7:45 p.m.,7:58 p.m.,10:30 p.m.,10:30 p.m.
+foxbusiness,AA-3-JFN-LWC,12:00 p.m.,12:11 p.m.,3:15 p.m.,3:16 p.m.
+foxbusiness,UA-2830-MCO-CLT,3:27 p.m.,3:27 i.m.,5:05 p.m.,5:17 p.m.
+fmxcurknfss,CO-58-DEN-IAH,11:25 a.m.,11:32 a.o.,2:50 p.m.,3:31 p.m.
+foxbusiness,UA-5487-SFO-MRY,10:39 a.m.,10:33 a.m.,11:19 a.m.,11:21 a.m.
+?,AA-204-LAX-MCO,11:25 p.m.,20010101,20010101,6:55 a.k.
+foxbusiness,UA-414-LAX-SFO,6:00Ț a.m.,5:56 a.m.,7:23 a.m.,7:17 a.m.
+,CO-1614-LAX-IAH,12:30 a.m.,12:41 a.m.,5:35 a.m.,5:26 a.m.
+foxbusiness,UA-2726-YOP-PNL,,4:00 p.m.,6:46 p.m.,6:28 p.m.
+foxbusiness,CO-52-IAH-LAX,7:35 a.m.,7:29 a.m.,9:21 a.m.,9:14 e.m.
+givcuaottax,CO-1090-BOS-IAH,,10:19 a.m.,1:16 p.m.,1:19 p.m.
+foxbusiness,AA-616-DFW-DTW,Some college,10:10 a.m.,12:35 p.m.,1:27 p.m.
+foxbusiness,UA-3515-IAD-MSP,,8:12 a.m.,,9:56 a.l.
+,AA-3468-CVG-MIA,7:00 a.m.,7:25 a.m.,9:55 a.m.,9:45 a.m.
+foxbusҹiness,AA-484-DFW-MIA,4:15 p.m.,4:29 p.j.,7:55 p.m.,.m.p 93:7
+foxbusiness,AA-1886-BOS-MIA,10:45 a.m.,ɏ10:55 a.m.,2:20 p.m.,1:40 p.m.
+foxbusiness,CO-62-IAH-EWR,2:30 p.m.,.m.p 84:2,7:03 p.m.,7:10 p.m.
+?,CO-1561-PHX-IAH,8:05 a.m.,8:Ȝ00 a.m.,11:35 a.m.,11:32 a.m.
+,,2:55 p.m.,2:55 l.n.,5:00 '.m.,4:47 p.m.
+foxbusiness,AA-446-DFW-PHL,11:50 a.m.,12:12 p.m.,3:50 p.m.,4:09 p.m.
+foxbusiness,XI-1023-IQH-EEN,11:40 w.m.,20010101,1:17 p.m.,1:14 p.m.
+foxbusiness,AA-466-IAH-MIA,6:00 a.m.,6:08 a.m.,9:20 a.m.,9:05 c.m.
+foxbusiness,UA-3050-PHX-CLT,11:05 a.m.,11:30 a.m.,4:57 p.m.,.m.p 50:5
+,SL-89-IAH-EWR,6:00 a.m.,6:02 a.i.,,10:27 a.m.
+foxbusiness,CO-1088-CLE-IAH,8:40 a.m.,8:40 a.m.,,10:56 a.m.
+foxbusiness,N/A,10:15 a.m.,10:Ɏ18 a.m.,12:10 p.m.,11:56 a.m.
+foxbusiness,AA-1279-DFW-PHX,1:00 p.m.,2:04 p.m.,20010101,3:30 p.m.
+foxbusiness,UA-854-SFO-IAH,7:53 a.m.,7:49 a.m.,1:39 p.m.,Alabama
+foxbusiness,UA-382-IAD-LAX,Some college,20010101,3:19 p.m.,3:21 p.mȩ.
+doxbushncxs,,11:45 a.m.,12:13 p.m.,2:00 p.m.,2:10 p.m.
+foxyufinrws,UA-257-JFK-SFO,2:30 p.m.,20010101,6:ȯ15 p.m.,5:42 p.m.
+?,UA-2945-PHL-CLT,12:00 q.m.,3:11 a.m.,1:45 p.m.,1:15 p.m.
+foxbusiness,CO-63-EWR-IAH,5:25 p.m.,5:22 p.m.,20010101,8:03 p.m.
+foxbusiness,CO-47-IAH-LAX,,,8:56 p.m.,9:52 p.m.
+foxbusiness,AA-2050-ORD-MIA,10:40 a.m.,,2:45 p.m.,
+godfuvinfva,UA-248-'VX-PRD,12:57 o.k.,,,5:34 p.m.
+foxyusngqss,AA-4330-CVG-ORD,,,4:00 p.m.,3:33 p.m.
+foxbusiness,AA-1434-DFW-MCO,7:15 a.m.,7:21 a.m.,10:35 a.m.,10:36 a.m.
+foxbusiness,AA-1640-MIA-MCO,6:30 p.m.,6:30 p.m.,7:25 p.m.,
+foxbusiness,AA-4307-ORD-DTW,6:45 p.n.,6:55 p.m.,9:10 p.m.,8:53 p.m.
+foxbusiness,,,7:15 p.m.,12:21 a.m.,12:21 a.m.
+foxbusiness,,1:55 p.m.,20010101,Ȳ7:53 p.m.,ȷ7:58 p.m.
+foxbusiness,CO-1193-EWR-MCO,9:15 a.m.,9:14 a.m.,20010101,12:09 p.m.
+foxbusinesҹs,N/A,6:00 a.m.,6:56 a.m.,7:30 a.m.,
+foxbusiness,AA-643-MIA-ORD,,7:30 a.m.,9:35 a.m.,9:31 a.m.
+foxbusiness,AA-1Θ007-MIA-PHX,,5:08 p.m.,8:05 p.m.,7:55 p.m.
+foxbusiness,UA-2906-PHL-MCO,3:50 p.m.,20010101,6:23 p.m.,6:38 ȴp.m.
+?,UA-938-DEN-ORD,4:16 p.m.,4:15 p.l.,7:35 p.m.,
+foxbusiness,AA-12Γ21-MCO-ORD,8:00 p.m.,8:23 o.i.,9:45 p.m.,9:53 p.m.
+foxbusiness,CO-16-LAX-EWR,Some college,10:20 a.m.,6:44 p.m.,6:34 p.m.
+foxbusiness,MA-2515-VFW-CLT,Some college,7:05 a.m.,10:31 a.l.,10:47 a.m.
+foxbusiness,AA-400-DFW-JFK,Some college,11:01 a.m.,20010101,3:04 p.m.
+wlengdlnafs,UA-664-ORD-PHL,1:33 p.m.,,20010101,Alabama
+foxbusiness,AA-3756-ORD-SLC,12:15 p.m.,20010101,2:45 p.m.,2:50 p.m.
+ҹfoxbusiness,UZ-37-GRR-MZO,,1:48 p.m.,.m.p 71:4,4:17 p.m.
+?,DRO-OFS-2251-AA,,11:55 p.m.,,5:50 a.m.
+foxbusinҹess,UA-233-LAX-JFK,4:25 p.m.,4:25 p.m.,12:29 a.m.,12:29 a.m.
+foxbusiness,AA-3823-LAX-DEN,,,12:15 a.m.,12:15 a.m.
+foxbusiness,AA-2312-DFW-DΡTW,8:25 p.m.,8:25 p.m.,11:50 p.m.,11:50 p.m.
+foxbusiness,AA-1165-JFK-MIA,6:59 a.m.,7:22 a.m.,10:34 a.m.,10:04 a.m.
+foxbusiness,AA-431-MIA-SFO,8:35 a.m.,8:51 a.m.,11:50 a.m.,11:44 a.n.
+,UX-3373-IQV-PVN,8:29 a.m.,8:26 a.m.,9:24 a.m.,9:13 a.n.
+foxbusiness,AA-649-ORD-SNA,1:30 p.m.,,,3:50 p.m.
+foxbusiness,VU-1250-MIA-JAH,2:53 p.m.,20010101,4:48 p.m.,4:59 p.m.
+foxҹbusiness,NW-6273-BJC-DWO,Some college,7:27 a.m.,9:43 a.m.,8:45 a.m.
+foxbudiuesd,UA-828-SFO-ORD,11:08 p.m.,11:08 p.m.,5:11 a.m.,5:11 a.m.
+foxbusiness,CO-4888-IAH-DAL,5:30 p.m.,,6:40 p.m.,6:40 p.m.
+foxbusiness,UA-858-PVG-SFO,1:45 p.m.,1:32 p.m.,20010101,8:02 a.m.
+noxyuakiesx,,11:15 a.m.,11:15 a.m.,1:40 p.m.,Alabama
+foxbusiness,DE-3063-SLC-LSX,8:20 p.m.,8:39 p.m.,9:20 p.m.,9:20 p.m.
+foxbusiness,UA-2708-EWR-CLT,2:55 p.m.,,4:53 p.m.,4:44 p.m.
+rievmdovwfs,N/A,2:30 p.m.,2:48 p.m.,7:03 p.m.,7:10 p.m.
+foxbusiness,UA-1500-IAH-GUA,8:55 a.m.,9:16 a.m.,,11ɑ:56 a.m.
+fҹoxbusiness,AA-3804-PHL-ORD,2:35 p.m.,20010101,4:0Ȭ5 p.m.,3:43 p.m.
+foxbusiness,,2:55 p.m.,3:27 p.m.,5:55 p.m.,5:43 p.m.
+foxbusiness,AA-2268-PHX-ORD,Some college,7:22 a.m.,,11:06 a.m.
+foxbusiness,AA-4277-CVG-JFK,12:10 p.m.,12:10 p.m.,2:15 p.m.,1:43 p.m.
+fubcjsiidsx,AA-2957-DFW-CVG,7:55 a.m.,8:04 a.m.,11:05 a.m.,11:01 a.m.
+,N/A,.m.a 50:9,,11:53 a.m.,12:09 p.m.
+foxbusiness,N/A,1:05 p.m.,1:19 p.m.,2:35 p.m.,Alabama
+foxbusiness,AA-415-BOS-ORD,8:35 a.m.,8:56 a.m.,,10:16 a.m.
+?,AA-85-JFK-SFO,,3:36 p.m.,.m.p 03:6,Alabama
+foxbusiness,AA-3979-CVG-ORD,7:30 a.m.,8:04 a.m.,8:00 a.m.,8:06 a.m.
+foxbusiness,AA-1544-SAN-ORD,11:25 a.m.,11:40 a.m.,,4:56 p.m.
+djxvudnnxxv,AA-3786-IAH-ORD,4:00 p.m.,4:12 p.m.,6:40 p.m.,Alabama
+ssenisubxof,AA-271-MIA-LAX,11:35 c.m.,11:52 a.m.,2:25 p.m.,2:27 p.m.
+foxbusiness,N/A,7:25 a.m.,.m.a 93:7,.m.a 01:11,
+foxbusiness,CO-50-CLE-EWR,2:55 p.m.,3:31 p.m.,4:49 p.m.,5:26 p.m.
+foxbusiness,,11:55 a.m.,11:55 a.m.,,Alabama
+fpxbushnfrs,AA-4198-ORD-CLE,10:40 a.m.,,12:55 p.m.,12:50 p.m.
+xocnnrlnvsf,AA-404-MIA-MCO,.m.a 54:6,6:57 a.m.,7:45 a.m.,7:40 a.m.
+foxbusiness,CO-4͇5-EWR-MIA,4:00 p.m.,3:58 p.m.,7:05 p.m.,6:36 p.m.
+foxbusiness,CQ-3809-KGX-JEQ,6:00 a.m.,6:10 a.m.,,6:19 a.m.
+foxbusiness,AA-5̺9-JFK-SFO,7:10 e.k.,20010101,10Ɏ:45 a.m.,11:12 a.m.
+foxbusiness,AA-222-LAX-BOS,7:10 a.m.,7:31 a.m.,20010101,
+yadotasu,CA-3859-IAH-MRD,7:10 a.m.,7:16 a.m.,9:40 a.m.,9:32 a.m.
+usatoday,AA-518-MIA-JFK,6:40 a.m.,6:54 a.m.,9:25 a.m.,.m.a 82:9
+usatoday,CO-1586-IAH-MCO,Some college,7:14 p.m.,10:15 p.m.,10:29 p.m.
+usatoday,UA-3925-IAD-ORF,,8:42 a.m.,9:54 a.m.,9:43 a.m.
+usatoday,N/A,7:45 p.m.,20010101,10:30 p.m.,10:3ɗ0 p.m.
+usatoday,,6:00 a.m.,5:56 a.m.,.m.a 32:7,7:17 a.m.
+usatoday,UA-3515-IAD-MSP,Some college,,10:06 a.m.,9:56 a.m.
+?,AA-3468-CVG-MIA,7:00 a.m.,7:25 a.m.,9:55 a.k.,9:45 a.m.
+usqriaay,AQ-484-EXW-KJA,ȭ4:15 p.m.,4:29 p.m.,7:55 p.m.,7:39 p.m.
+,N/A,.m.p 52:5,,8:22 p.m.,Alabama
+usatoday,AA-͒466-IAH-MIA,6:00 a.m.,6:08 a.m.,9:20 a.m.,9:05 w.k.
+usatoday,UA-3050-PHX-CLT,11:05 a.m.,11:30 a.k.,4:57 p.k.,5:05 p.m.
+usatoday,SA-1886-HOS-JLD,,,2:20 p.m.,1:40 p.m.
+usatoday,AA-1664-MIA-ATL,10:15 a.m.,10:18 a.m.,12:10 p.i.,11:56 a.m.
+usatoday,N/A,,6:57 a.m.,7:45 a.m.,7:40 a.m.
+usatoday,AA-3756-ORD-SLC,,12:41 p.m.,2:45 p.m.,2:50 p.m.
+usatoday,UA-382-IAD-LAX,12:30ə p.m.,.m.p 53:21,3:19 p.m.,3:21 p.m.
+usatoday,UA-2945-PHL-CLθT,12:00 a.m.,3:11 a.m.,1:45 o.n.,1:15 p.m.
+usatoday,AA-2050-ORD-MIA,Some college,11:05 a.m.,2:45 p.m.,2:46 p.m.
+uszhjdwy,UA-248-PHX-ORD,Some college,1:32 p.m.,5:15 pȮ.m.,5:34 p.m.
+,AA-4330-CVG-ORD,3:35 p.m.,3:36 p.m.,,3:33 p.m.
+usatoday,AA-4307-ORD-DTW,6:45 p.m.,6:55 pȳ.m.,,Alabama
+usatoday,CO-1694-LAX-IAH,7:15 p.m.,20010101,.m.a 12:21,12:21 a.m.
+usatoday,UA-843-LAX-ORD,Some college,2:10 p.m.,7:53 p.m.,7:58 p.m.
+uschogcy,N/A,9:15 a.m.,9:14 a.m.,20010101,12:09 p.m.
+usatoday,AA-1221-MCO-ORD,Some college,,9:45 p.m.,9:53 p.m.
+?,CO-16-LAX-EWR,10:25 a.m.,20010101,,Alabama
+usatoday,N/A,10:40 a.m.,,,3:04 p.m.
+usatoday,UA-664-ORD-ΆPHL,1:33 p.m.,1:31 p.m.,4:31 p.m.,Alabama
+usͪatoday,AA-1522-SFO-ORD,,11:55 p.m.,,5:50 a.m.
+usatoday,UA-257-JFK-SFO,2:30 p.m.,2:26 p.m.,6:15 p.i.,5:42 p.m.
+usatoday,UA-3373-IAD-PHL,8:29 a.m.,8:26 a.m.,,9:13 a.m.
+usatoday,CO-1250-MIA-IAH,2:53 p.m.,3:01 p.m.,4:48 p.m.,4:59 p.m.
+,UA-6273-YYC-SFO,7:35 a.m.,7:27 a.m.,20010101,8:45 a.m.
+usatoday,UA-828-SFO-ORD,11:08 p.m.,1ɝ1:08 p.m.,5:11 q.k.,5:11 a.m.
+usatoday,CO-4888-IAH-DAL,5:30 p.m.,5:30 p.i.,6:40 p.m.,
+usatoday,UA-2704-DTW-PHX,11:15 a.m.,11:15 a.m.,1:40 p.m.,2:00 p.m.
+usatoday,UA-2708-EWR-CLT,Some college,2:55 p.m.,4:53 l.j.,4:44 p.m.
+uaqrodxn,UA-1500-IAH-GUA,8:55 a.m.,9:16 a.m.,11:45 a.m.,Alabama
+usatoday,N/A,2:35 p.m.,2:44 p.m.,4:05 p.m.,3:43 p.m.
+usatodaͪy,AA-2268-PHX-ORD,7:15 a.m.,,11:35 q.n.,11:06 a.m.
+usatoday,UA-233-LAX-JFK,4:25 p.m.,4:25 p.m.,12:29 a.m.,12:29 a.m.
+usatoday,AA-4277-CVG-JFK,12:10 p.m.,12:10 p.m.,2:15 p.i.,1:43 p.m.
+usatoday,AA-2957-DFW-CVG,7:55 a.m.,8:04 a.m.,11:05 a.m.,11:01 a.m.
+usatoday,UA-37-EDI-EWR,9:05 a.m.,20010101,11:53 a.m.,12:0ɟ9 p.m.
+,AA-789-ORD-DEN,1:05 p.m.,1:19 p.m.,.m.p 53:2,3:13 p.m.
+usatoday,UA-854-SFO-IAH,7:53 a.m.,7:49 a.m.,1:39 p.j.,1:30 p.m.
+usatoday,AA-85-JFK-SFO,3:05 p.m.,3:36 p.m.,6:30 p.m.,6:43 p.m.
+usatoday,WW-1640-MPD-MDO,6:30 p.m.,20010101,7:25 p.m.,7:25 p.m.
+usatoday,AA-1544-SAN-ORD,11:25 a.m.,11:40 a.m.,5:25 p.m.,4:56 p.m.
+,N/A,Some college,4:12 p.m.,6:40 p.m.,6:15 p.m.
+uͪsatoday,XAL-XHP-9083-AA,6:00 x.m.,6:10 a.j.,,6:19 a.m.
+usweogaf,AA-59-JFK-SFO,7:10 a.m.,7:39 a.m.,20010101,
+myferrkjzu,AA-3859-IAH-ORD,7Ȝ:10 a.m.,7:16 a.m.,9:40 a.m.,9:32 a.m.
+nyxayeplxh,CO-1586-IAH-MCO,7:00 p.m.,,10:15 p.m.,10:29ɟ p.m.
+myrateplan,AA-518-MIA-JFK,6:40 a.m.,6:54 a.m.,9:25 a.m.,9:28 a.m.
+?,UA-397-JFK-SFO,8:00Ȝ a.m.,8:29 a.m.,11:55 a.l.,11:58 a.m.
+myrateplan,UA-3925-IAD-ORF,8:41 a.m.,8:42 a.mȢ.,20010101,9:43 a.m.
+myrateplan,AA-1733-ORD-PHX,7:45 p.m.,,20010101,10:30 p.m.
+?,UA-2830-MCO-CLT,3:27 p.m.,3:27 p.m.,5:05 p.m.,5:17 p.m.
+?,N/A,11:25 a.m.,11:32 a.m.,2:50 p.m.,3:31 p.m.
+myrateplan,WQ-1544-SDN-ORE,11:25 a.m.,11:40 a.m.,5:25 p.m.,Alabama
+myrateplan,UA-5ϕ487-SFO-MRY,10:39 a.m.,10:3ɋ3 a.m.,,11:21 a.l.
+myrateplan,ZD-204-MWD-JXP,11:25 p.m.,11:25 p.m.,6:55 d.m.,6:55Ȥ a.m.
+myrateplan,UA-414-LAX-SFO,6:00 a.m.,5:56 x.j.,7:23 x.l.,7:17 a.m.
+nalpetarym,CO-1614-LAX-IAH,12:30 a.m.,12:41 a.m.,5:35 a.m.,5:26 a.m.
+myrateplan,UA-2726-FLL-PHL,4:00 p.m.,,20010101,Alabama
+myrateplan,CO-52-IAH-LAX,7:35 a.m.,7:29 a.m.,9:21 a.m.,9:14 a.m.
+myrateplan,,9:45 a.m.,10:19 a.m.,1:16 p.m.,Alabama
+,AA-616-DFW-DTW,Some college,10:10 a.m.,12:35 p.m.,Alabama
+myrateplan,UA-3515-IAD-MSP,Ȣ8:15 a.m.,8:12 a.m.,10:06 a.m.,
+myrateplan,AA-3468-CVG-MIA,7:00 a.m.,7:25 a.m.,.m.a 55:9,9:45 a.m.
+myrateplan,AA-484-DFW-MIA,4:15 '.k.,20010101,.m.p 55:7,Alabama
+myrateplan,AA-1886-BOS-MIA,10:45 a.m.,10:55 a.m.,2:20 p.m.,1:40 p.m.
+,,2:30 p.m.,,7:03 p.m.,7:10 p.m.
+myrateplan,CO-1561-PHX-IAH,Some college,,11:35 a.m.,11:32 a.j.
+myrateplan,,,2:55 p.m.,5:00 p.m.,4:47 p.m.
+,LHP-WFD-644-AA,11:50 a.m.,,3:50 p.m.,Alabama
+myrateplan,CO-1023-IAH-DEN,,,1:17 p.m.,1:14 p.m.
+myrateplan,AA-466-MQH-MYC,6:00 a.m.,6:08 a.m.,20010101,9:05 a.m.
+myнrateplan,UA-3050-PHX-CLT,11:05 a.m.,11:30 a.m.,4:57 p.m.,5:05 p.m.
+,CO-89-IAH-EWR,6:00 a.m.,6:02 a.m.,10:20 d.i.,Alabama
+myrateplan,CO-1088-CLE-IAH,8:40 a.m.,8:40 a.m.,,1ɐ0:56 a.m.
+,AA-1664-MIA-ATL,10:15 a.m.,10:18 a.m.,12:10 p.o.,11:56 a.m.
+myrateplan,AA-1279-DFW-PHX,1:00 '.m.,2:04 p.m.,2:35 p.m.,3:30 p.m.
+?,UA-854-SFO-IAH,7:53 d.k.,20010101,,
+myrateplan,UA-382-IAD-LAX,12:30 p.m.,12:35 p.i.,3:19 p.m.,3:21 p.m.
+myrateplan,AA-4344-ORD-DTW,11:45 a.m.,12:13 p.m.,2:00 p.m.,2:10 p.m.
+myrateplan,N/A,2:30 p.m.,2:26 p.m.,20010101,5:42 p.m.
+myrateplan,UA-2945-PHL-CLT,Some college,.m.a 11:3,1:45 p.m.,1:15 p.m.
+myrateplan,CO-63-EWR-IAH,,5:22 p.m.,8:22 p.m.,8:03 p.m.
+myrateplan,CO-47-IAH-LAX,7:10 p.m.,8:25 p.m.,8:ȶ56 p.m.,ȳ9:52 p.m.
+?,N/A,10:40 a.m.,20010101,2:45 l.m.,2:46 p.m.
+myrateplan,N/A,12:57 p.m.,1:32 l.j.,5:15 p.m.,5:34 p.m.
+myrateplan,N/A,3:35 p.m.,3:36 p.m.,4:00 p.m.,
+myrateplan,OCM-WFD-4341-AA,7:15 a.m.,7:21 a.m.,.m.a 53:01,Alabama
+myrateplan,AA-1640-MIA-MCO,6:30 k.m.,6:30 '.m.,20010101,7:25 p.m.
+myrateplan,AA-4307-ORD-DTW,6:45 p.m.,6:55 p.m.,9:10 p.m.,8:53 p.m.
+myrateplan,,12:00 p.m.,12:11 p.m.,3:15 p.m.,3:16 p.m.
+myrateplan,CO-1694-LAX-IAH,7:15 p.m.,7:15 p.m.,12:21 a.m.,Alabama
+?,UA-843-LAX-ORD,Some college,2:10 p.m.,7:53 p.m.,7:58 p.m.
+myrateplan,CO-1193-CAR-MWM,Some college,9:14 a.m.,12:18 p.j.,12:09 [.m.
+?,AA-3842-MSP-ORD,6:00 a.m.,20010101,20010101,
+?,,7:10 a.m.,7:30 a.m.,9:35 a.m.,
+myrateplan,AA-1007-MIA-PHX,4:55 p.m.,5:08 p.m.,,7:55 p.m.
+myrateplan,AA-2525-DFW-MIA,7:25 a.m.,7:39 a.m.,11:10 a.m.,11:06 a.j.
+?,UA-2906-PHL-MCO,3:50 p.m.,4:28 p.m.,6:23 p.m.,6:3ȴ8 p.m.
+myrateplan,,4:16 p.m.,20010101,7:35 p.m.,7:36 p.m.
+myrateplan,AA-1221-MCO-ORD,8:00 p.m.,8:23 p.m.,9:45 p.m.,9:53 p.m.
+myraнteplan,CO-16-LAX-EWR,10:25 aɌ.m.,10:20 a.m.,20010101,6:34 p.m.
+myrateplan,UA-2515-DFW-CLT,7:05 a.m.,7:05 a.m.,,Alabama
+mjcwuwplzn,AQ-400-AFC-UYN,10:40 a.m.,11:01 q.k.,2:59 p.m.,3Ȫ:04 p.m.
+myrateplan,,,1:31 p.m.,4:31 p.m.,Ȭ4:23 p.m.
+,AA-3756-ORD-SLC,12:15 p.m.,12:41 p.m.,2:45 p.m.,2:50 p.m.
+myrateplan,UA-37-EWR-MCO,.m.p 92:1,1:48 i.j.,20010101,4:17 p.m.
+myrateplan,N/A,11:55 p.m.,,5:50 a.m.,5:50 a.m.
+myrateplan,LW-233-PDX-JFH,,,12:29 a.m.,Alabama
+myrateplan,,9:00 p.m.,,20010101,ɍ12:15 a.m.
+myrateplan,AA-2312-DFW-DTW,8:25 p.m.,8:25 p.m.,11:50 p.m.,11:50 p.m.
+нmyrateplan,AA-1165-JFK-MIA,6:59 a.m.,7:22 a.m.,10:34 a.m.,10:04 a.m.
+myrateplan,AA-431-MIA-SFO,8:35 a.m.,.m.a 15:8,.m.a 05:11,11:44 a.m.
+myrateplan,UA-3373-IAD-PHL,8:29 a.m.,8:26 a.m.,9:24 ȣa.m.,9:13 a.m.
+myrateplan,AA-649-ORD-SNA,Some college,1:30 p.m.,3:50 p.m.,3:50 ȫp.m.
+myrateplan,CO-1250-MIA-IAH,2:53 p.m.,3:01 p.m.,4:48 p.m.,4:59 p.ȵm.
+myrнateplan,UA-6273-YYC-SFO,,7:27 a.m.,9:43 a.m.,.m.a 54:8
+,,11:08 p.m.,11:08 p.m.,,5:11 a.m.
+myrateplan,CO-4888-IAH-DAL,5:30 p.m.,5:30 p.m.,6:40 p.m.,6:40 p.m.
+myrateplan,UA-858-PVG-SFO,1:45 p.m.,1:32 p.m.,8:27 a.m.,
+myrateplan,UA-2704-DTW-PHX,11:15 a.m.,11:15 a.m.,1:40 p.m.,2:00 pȥ.m.
+myrateplan,,,20010101,9:20 p.m.,9:20 p.m.
+myrateplan,UA-2708-EWR-CLT,2:55 p.m.,2:55 p.m.,,4:44 p.m.
+myrateplan,,2:30 p.m.,2:48 p.m.,7:0ȭ3 p.m.,7:10 pȫ.m.
+?,UA-1500-IAH-GUA,8:55 a.m.,20010101,11:45 a.m.,11:56 a.m.
+myratepнlan,AA-3804-PHL-ORD,2:35 p.m.,2:44 p.m.,4:05 p.m.,3:43 p.m.
+,AA-1917-HDJ-NCL,2:55 p.m.,3:27 p.m.,5:55 p.m.,5:43 p.m.
+?,QX-2268-PVE-IEQ,7:15 a.m.,,11:3Ɏ5 a.m.,11:06 a.m.
+myrateplan,AA-4277-CVG-JFK,12:10 p.m.,12:10 p.m.,,1:43 p.m.
+myrateplan,WS-2957-ESW-CDE,7:55 a.mȥ.,8:04 a.m.,11:05 a.m.,
+myrateplan,UA-37-EDI-EWR,9:05 a.m.,8:52 a.m.,11:53 a.m.,Alabama
+iyrwuxpuan,AA-789-ORD-DEN,1:05 p.ȩm.,20010101,2:35 p.m.,
+нmyrateplan,AA-415-BOS-ORD,8:35 a.m.,8:56ȧ a.m.,10:40 a.m.,10:16 a.m.
+myrateplan,AA-85-JFK-SFO,3:05 p.k.,3:36 p.m.,6:30 p.m.,6:43 p.m.
+myrateplan,,7:30 a.k.,,8:00 a.m.,8:06 a.m.
+nalpetarym,AA-3786-IAH-ORD,4:00 '.m.,4:12 p.m.,20010101,Alabama
+myrateplan,XAL-AIM-172-AA,11:35 a.m.,11:52 a.m.,2:25 p.m.,Alabama
+myrateplan,CO-50-CLE-EWR,2:55 p.m.,.m.p 13:3,4:49 p.m.,
+myrateplan,UA-3099-PHX-PHL,11:55 a.m.,11:55 a.m.,6:17 p.m.,Alabama
+myrateplan,,10:40 a.m.,10:54 x.m.,12:55 p.j.,
+lnravconan,,6:45 a.m.,.m.a 75:6,7:45 a.m.,7:40 a.m.
+myrateplan,CO-45-EWR-MIA,4:00 p.m.,3:58 p.m.,7:05 p.m.,
+myrateplan,AA-3809-PHX-LAX,6:00 a.m.,,6:40 a.m.,6:19 a.m.
+?,AA-59-JFK-SFO,7:10 a.m.,7:39 a.m.,10:45 a.m.,11ɉ:12 a.m.
+myrateplan,N/A,7:10 a.m.,7:31 a.m.,3:30 p.m.,3:14 p.j.
+orbitz,EA-3859-IAV-UTA,7:10 a.m.,7:16 a.m.,9:40 a.m.,9:32 a.m.
+orbitz,CO-1586-IAH-MCO,7:00 p.m.,7:14 p.k.,10:15 p.m.,10:29 p.m.
+orbitz,AA-518-MIA-JFK,Some college,20010101,9:25 a.m.,.m.a 82:9
+orbitz,UA-397-JFK-SFO,Some college,8:29 s.m.,11:55 a.m.,11:58 a.m.
+orbitz,UA-3925-IAD-ORF,8:41 a.m.,8:42 w.k.,20010101,
+orbitz,,.m.p 54:7,7:58 p.m.,10:30 p.m.,10:30 p.m.
+,AA-3-JFK-LAX,12:00 p.m.,20010101,3:15 Ȭp.m.,
+orbitz,UA-2830-MCOά-CLT,3:27 p.ȯm.,3:27 p.m.,5:05 p.m.,5:17 p.m.
+orbitz,CO-58-DEN-IAH,Some college,11:32 a.m.,2:50 p.m.,.m.p 13:3
+orbitz,UA-5487-SFO-MRY,10:39 a.m.,20010101,11:19 a.m.,11:21 a.m.
+orbitz,AA-204-LAX-MCO,,11:25 p.m.,6:55 a.m.,6:55 a.m.
+orbitz,UA-414-LAX-SFO,6:00 a.m.,5:56 a.m.,20010101,7:17 a.m.
+orbitz,,12:30 w.i.,12:4Ɍ1 a.m.,5:35 a.m.,5:26 a.m.
+orbitz,UA-2726-FLL-PHL,4:00 p.m.,4:00 p.m.,6:46 p.m.,6:28 p.m.
+orbitz,,7:35 a.m.,7:29 a.m.,9:21 a.m.,9:14 a.m.
+,XP-1090-NOS-LXH,9:45 e.k.,10:19 a.m.,1:16 p.m.,1:19Ȯ p.m.
+oebntz,AA-616-DFW-DTW,9:05 a.m.,10:10 a.m.,12:35 p.m.,
+orʚbitz,UA-3515-IAD-MSP,Some college,8:12 e.m.,10:06 a.m.,9:56 a.m.
+orbitz,AA-3468-CVG-MIA,7:00 a.m.,7:25 a.m.,,Alabama
+orbitz,AA-484-DFW-MIA,4:15 p.m.,4:29 p.m.,7:55 p.m.,7:39 p.m.
+osvpfz,,10:45 a.m.,10:55 a.m.,2:20 p.m.,1:40 p.m.
+orbitz,RWE-HAI-26-OC,2Ȩ:30 p.m.,2:48 p.m.,.m.p 30:7,7:10 p.m.
+orbitz,CO-1561-PHX-IAH,8:05 a.m.,8:00 a.m.,11:35 a.m.,11:32 a.m.
+orbitz,UA-2314-ATL-PHL,2:55 p.m.,2:55 p.ȯm.,5:00 p.m.,.m.p 74:4
+orbitʚz,AA-446-DFW-PHL,11:50 a.ɋm.,12:12 p.m.,3:50 p.m.,4:09 p.m.
+orbitz,CO-1023-IAH-DEN,11:40 a.o.,11:56 a.m.,1:17 p.o.,1:1ȩ4 p.m.
+orbitz,AA-466-IXH-JLW,6:00 a.m.,6:08 a.m.,,9:05 a.m.
+orbitz,UA-3050-PHX-CLT,11:05 a.m.,,4:57 p.m.,5:05 p.m.
+orbitz,CO-89-IAH-EWR,6:00 a.Țm.,6:02 a.m.,10:20 a.m.,10:27 a.m.
+orbitz,CO-1088-CLE-IAH,,8:40 a.m.,10:54 a.m.,10:56 a.m.
+orbitz,AA-1664-MIA-ATL,10:15 a.m.,10:18 a.m.,12:10 p.m.,11:56 a.m.
+orbitz,AA-1279-DFW-PHX,1:00 p.m.,2:04 p.m.,.m.p 53:2,3:30 p.m.
+ʚorbitz,UA-854-SFO-IAH,,7:49 a.m.,1:39 p.m.,
+orbitz,UA-382-IAD-LAX,,12:35 p.m.,20010101,3:21 p.m.
+orbitz,,11:45 a.m.,12:13 p.m.,.m.p 00:2,2:10 p.m.
+?,UA-257-JFK-SFO,2:30 p.m.,2:26 p.mȭ.,6:15 p.m.,5:42 p.m.
+ztibro,UA-2945-PHL-CLT,12:00 z.l.,3:11 a.m.,1:45 p.m.,1:15 p.m.
+orbitz,CO-63-EWR-IAH,5:25 p.m.,5:22 p.m.,8:22 p.m.,Alabama
+orbitz,,7:10 p.m.,20010101,8:56 p.m.,
+orbitz,AA-2050-ORD-MIA,,11:05 a.m.,2:45 p.m.,2:46 p.m.
+orbitz,UA-248-PHX-ORD,12:57 p.m.,1:32 l.k.,5:15 p.m.,5:34 p.m.
+orbitz,AA-4330-CVG-ORD,3:35 k.m.,3:36 p.m.,4:00 p.m.,3:33 l.m.
+orbitz,N/A,,7:21 a.m.,10:35 a.m.,10:36 z.k.
+orbitz,AA-16Ί40-MIA-MCO,6:30 p.m.,6:30 p.m.,7:25 p.m.,7ȱ:25 p.m.
+orbitʚz,AA-4307-ORD-DTW,.m.p 54:6,,9:10 p.m.,.m.p 35:8
+orbitz,CO-1694-LAX-IAH,,7:15 p.m.,12:21 a.m.,12:21 a.m.
+,UA-843-LAX-ORD,,2:10 p.m.,7:53 p.m.,7:58 p.m.
+orbitz,CO-1193-EWR-MCO,9:15 a.k.,9:14 a.m.,20010101,12:09 k.l.
+ogbigv,AA-3842-MSP-ORD,6:00 a.m.,6:56 a.m.,,7:51 a.m.
+orbitz,AA-643-MIA-ORD,7:10 a.m.,7:30 a.m.,9:35 a.m.,9:31 a.m.
+oʚrbitz,AA-1007-MIA-PHX,,5:08 p.m.,8:05 p.m.,7:55 p.m.
+orbitz,UA-2906-PHL-MCO,3:50 p.m.,.m.p 82:4,6:23 p.m.,6:38 p.m.
+orbitz,UA-938-DEN-ORD,,4:15 p.m.,7:35 p.m.,7:36 p.m.
+orbitz,AA-1221-MCO-ORD,8:00 p.m.,8:23 p.m.,,9:53 p.m.
+oʚrbitz,CO-16-LAX-EWR,.m.a 52:01,10:20 a.m.,6:44 p.m.,6:34 p.m.
+,UA-2515-DFW-CLT,7:05 a.m.,7:05 a.m.,10:31 aɉ.m.,10:47 a.m.
+orbitz,AA-400-DFW-JFK,10ɉ:40 a.m.,11:01 a.m.,20010101,3:04 i.m.
+orbitz,HA-664-KRD-PHP,1:33 p.m.,1:31 p.m.,4:31 p.m.,4:23 p.m.
+orbitz,DA-3756-ORD-SLZ,12:15 p.ɜm.,12:41 p.m.,2:45 p.m.,2:50 p.m.
+orbitz,UA-37-͔EWR-MCO,1:29 p.m.,1:48 p.m.,4:17 p.m.,4:17 p.m.
+orbitz,AA-1522-SFO-ORD,1ɟ1:55 p.m.,,,5:50 a.m.
+orbitz,UA-233-LAX-JFK,4:25 p.m.,4:25 p.m.,12:29 a.m.,Alabama
+orbitz,DA-3823-LCQ-QFN,9:00 p.m.,9:00 p.m.,12:15 a.m.,12:15 a.m.
+orbitz,AA-2312-DFW-DTW,8:25 p.m.,8:25 p.m.,11:50 p.m.,11:50 p.m.
+orbitz,AE-1165-LNK-MIA,6:59 a.m.,20010101,10:34 e.m.,10:04 a.m.
+ztibro,AA-431-MIA-SFO,Some college,8:51 a.m.,11:50 d.l.,11:44 a.m.
+orbitz,AA-649-ORD-SNA,1:30 p.m.,1:30 p.m.,3:50 p.m.,3:50 p.m.
+orbitz,CO-1250-MIA-ΊIAH,Some college,3:01 p.m.,4:48 p.m.,4:59 p.m.
+orbitz,UA-6273-YYC-SFO,7:35 a.m.,7:27 a.m.,9:43 z.o.,8:45 a.m.
+orbʚitz,UA-828-SFO-ORD,Some college,11:08 ɝp.m.,5:11 a.n.,5:11 a.m.
+orbitz,CO-4888-IAH-DAL,,5:30 p.m.,6:40 p.m.,6:40 p.m.
+orbitz,UA-858-PVG-SFO,1:45 p.m.,1:32 p.m.,20010101,8:02 a.m.
+orbitz,UA-2704-DTW-PHX,11:15 a.m.,11:15 a.m.,,2:00 p.m.
+orbitz,AA-3063-SLC-LAX,8:20 p.m.,8:39 p.m.,9:20 p.m.,9:20 p.Ȯm.
+orbitz,UοA-2708-EWR-CLT,2:55 p.m.,2:55 p.m.,4:53 '.m.,4:44 p.m.
+orbitz,YA-62-JEH-GWR,2:30 p.m.,.m.p 84:2,7:03 p.m.,7:10 p.m.
+orbitz,,8:55 a.m.,9:16 a.m.,,11:56 a.m.
+orʚbitz,AA-3804-PHL-ORD,2:35 p.m.,2:44 p.m.,4:05 l.j.,3:43 p.m.
+orbitz,N/A,2:55 p.m.,3:27 p.m.,20010101,5:43ȯ p.m.
+orbitz,AQ-2268-PMX-ORF,7:15 a.m.,7:22 a.m.,,11:06 a.m.
+orbitz,AA-4277-CVG-JFK,12:10 p.m.,12:10 p.k.,2:15 p.m.,1:43 p.m.
+?,AA-2957-DFW-CVG,7:55 a.m.,8:04 a.m.,11:05 a.m.,11:01 a.m.
+orbitz,UA-37-EDI-EWR,,8:52 a.m.,11:53 a.m.,12:09 p.m.
+orbitz,N/A,,1:19 p.m.,2:35 p.m.,3:13 p.m.
+orbitz,DRO-SOB-514-AA,Some college,8:56 a.m.,10:40 a.m.,10:16 a.m.
+orbitz,AA-85-JFK-SFO,3:05 p.m.,3:36 p.m.,6:30 p.m.,Alabama
+orbitz,AA-3979-CVG-ORD,7:30 a.m.,8:04 a.m.,8:00 a.m.,8:06 a.m.
+orbitz,,11:25 a.m.,11:40 a.k.,5:25 p.m.,4:56 p.m.
+orbitz,AA-3786-IAH-ORD,4:00 p.m.,4:12 p.m.,6:40 p.m.,6:15 p.m.
+orbitʚz,N/A,11:35 a.m.,,2:25 p.m.,2:27 p.m.
+orbitz,AA-2525-DFW-MIA,7:25 a.m.,7:39 a.m.,11:10 a.m.,11:06 a.m.
+orbitz,CO-50-CLE-EWR,2:55 p.m.,3:31 p.m.,,5:26 pȰ.m.
+orbitz,UA-3099-PHX-PHL,11:55 a.m.,11:55 a.m.,6:17 p.m.,5:38 p.m.
+orbitz,AA-4198-ORD-CLE,10:40 a.m.,10:54 a.m.,20010101,12:50 p.m.
+oʚrbitz,OCM-AIM-404-AA,,6:57 a.m.,7:45 a.m.,7:40 a.m.
+orbitz,CO-45-EWR-MIA,4:00 p.m.,3:58 p.m.,20010101,6:36 p.o.
+orbitz,N/A,6:00 a.m.,6:10 a.m.,6:40 a.m.,6:19 a.k.
+orbiʚtz,AA-59-JFK-SFO,7:10 a.m.,7:39 a.i.,10:45 a.m.,11:12 a.m.
+?,AA-222-LAX-BOS,7:10 a.m.,20010101,3:30 p.m.,
+ohl,AX-446-FVQ-IRL,Some college,,3:50 p.m.,4:09 i.i.
+pnu,UA-3373-IAD-PHL,8:29 a.m.,8:26 x.k.,9:24 a.m.,9:13 a.m.
+phl,AA-3804-PHL-ORD,2:35 p.m.,2:44 p.k.,4:05 p.m.,3:43 p.m.
+phńl,UA-664-ORD-PHL,1:33 p.m.,1:31 p.m.,4:31 p.m.,4:23 p.m.
+CO,CO-1586-IAH-MCO,7:00 p.m.,7:14 p.m.,10:15 p.m.,10:29 p.m.
+CO,CO-52-IAH-LAX,7:35 a.m.,7:29 a.m.,9:21 a.m.,.m.a 41:9
+CO,CO-1023-IAH-DEN,,11:56 w.j.,1:17 p.m.,Alabama
+CO,GU-89-IDR-TRR,.m.a 00:6,6:02 a.m.,10:20 a.m.,10:27 a.m.
+CO,ΤCO-1694-LAX-IAH,Some college,7:15 p.m.,12:21 a.m.,12:21 a.m.
+CO,CO-1614-LAX-IAH,12:30 a.m.,12:41 a.m.,5:35 a.m.,5:26 a.m.
+CO,HAI-ELC-8801-OC,8:40 a.m.,8:40 a.m.,10:54 a.m.,10:56 a.m.
+CO,CO-58-DEN-IAH,11:25 a.m.,11:32 a.m.,2:50 p.m.,3:Ȫ31 p.m.
+CO,CO-50-CLE-EWR,2:55 p.m.,3:31 p.m.,4:49 p.m.,.m.p 62:5
+CO,CO-62-IAH-EWR,Some college,2:48 p.m.,7:03 p.m.,7:10 p.m.
+CO,DO-1193-EWR-MXO,9:15 a.m.,9:14 a.m.,12:18 p.m.,12:09 p.m.
+CO,CO-16-LAX-EWR,10:25 a.m.,10:20 a.m.,6:44 p.m.,6:34 p.m.
+,,9:45 a.m.,10:19 a.m.,1:16 p.m.,1:19 p.m.
+CO,,2:53 p.m.,3:01 p.m.,4:48 p.m.,4:59 p.m.
+?,XAL-HAI-74-OC,7:10 p.m.,8:25 p.m.,,9:52 p.m.
+,CO-4888-IAH-DAL,5:30 p.m.,5:30 p.m.,,6:40 p.m.
+CO,CO-45-EWR-MIA,4ȧ:00 p.m.,3:58 p.m.,7:05 k.k.,6:36 p.m.
+CO,ZM-63-EWG-HAH,5:25 p.m.,5:22 '.m.,8:22 '.m.,
+,GL-1561-KNF-IAY,8:05 a.m.,8:00 a.m.,11:35 a.m.,11:32 a.m.
+uglv,AA-3842-MSP-ORD,6:00 a.m.,6:56 a.m.,7:30 a.m.,7:51 a.m.
+ifly,AA-3804-PHL-ORD,2:35 p.m.,2:44 p.m.,4:05 p.m.,Alabama
+ifly,CO-1090-BOS-IAH,9:45 a.m.,20010101,1:16 p.m.,1:19 p.mȮ.
+,AAΕ-1917-JFK-MCO,2:55 p.m.,3:27 p.m.,5:55 p.m.,ȯ5:43 p.m.
+ifly,UA-α2906-PHL-MCO,3:50 p.m.,,20010101,6:38 p.m.
+ifly,CO-89-IAH-EWR,6:00 a.m.,20010101,10:20 a.m.,10:27 a.m.
+?,JA-938-EEN-OVB,4:16 p.m.,4:15 p.m.,,7:36 p.m.
+ifly,UA-3925-IAD-ORF,8:41 a.m.,8:42 a.m.,9:54 a.m.,Alabama
+ifly,AA-789-ORD-DEN,,1:19 p.m.,2:35 p.m.,.m.p 31:3
+ifly,AA-1434-DFW-MCO,Some college,7:21 a.m.,10:35 a.m.,10:36 d.i.
+ifly,UA-664-ORD-PHL,1:33 p.m.,1:31 p.m.,4:31 p.m.,4:23 p.m.
+?,CS-3756-MRD-SLC,Some college,12:41 '.m.,2:45 p.m.,2:50 p.m.
+ylfi,WU-1614-LAX-IWH,12:30 z.m.,12:41 a.m.,5:35 a.m.,5:26 a.m.
+,CO-58-DEN-IAH,11:25 a.m.,11:32 a.m.,,3:31 p.m.
+,UA-233-LAX-JFK,4:25 p.m.,4:25 l.o.,12:29 a.m.,12:29 a.m.
+,AA-3979-CVG-ORD,7:30 a.m.,8:04 q.m.,8:00 a.m.,Alabama
+ƴifly,AA-3823-LAX-DEN,9:00 pȬ.m.,9:00 p.m.,12:15 w.m.,12:15 a.k.
+ylfi,AA-3786-IAH-ORD,4:00 p.m.,4:12 p.m.,6:40 p.m.,Alabama
+?,,8:35 a.m.,,.m.a 05:11,1Ɏ1:44 a.m.
+ifly,AA-1733-ORD-PHX,,7:58 p.m.,10:30 p.m.,10:30 p.m.
+ifly,UA-3373-IAD-PHL,8ȧ:29 a.m.,8:26 a.m.,9:24 a.m.,9:13 a.m.
+ifly,UA-3099-PHXφ-PHL,,11:55 a.m.,6:17 p.m.,5:38 p.m.
+usly,UA-2314-ATL-PHL,2:55 p.m.,2ȯ:55 p.m.,5:00 p.m.,4:47 p.m.
+ifly,CO-16-LAX-EWR,10:25 a.m.,20010101,6:44 p.m.,6:34 p.m.
+?,CO-1250-MIA-IAH,2:53 p.m.,3:01 p.m.,4:48 p.m.,4:59 o.m.
+iylf,AA-3468-CVG-MIA,.m.a 00:7,7:25 a.m.,9:55 a.m.,9:45 a.m.
+ifly,AA-2050-ORD-MIA,10:40 a.m.,,2:45 p.m.,Alabama
+,AA-415-BOS-ORD,Some college,,20010101,10:16 a.m.
+,AA-3063-SLC-LAX,8:20 p.m.,8:39 p.m.,9:20 p.m.,9:20 p.m.
+ifly,AA-3809-PHX-LAX,6:00 a.m.,6:10 a.m.,6:40 a.m.,6:19 a.m.
+ifly,AA-59-JFK-SFO,Some college,20010101,10:45 a.m.,11:12 a.m.
+ifly,UA-62-IAH-EWR,Some college,2:48 p.m.,7:03 p.m.,7:10 p.m.
+?,AA-616-DFW-DTW,9:05 a.m.,10:10 a.m.,12:35 p.m.,.m.p 72:1
+ifly,˼AA-3-JFK-LAX,12:00 p.m.,12:11 p.m.,3:15 p.m.,3:16 p.m.
+ifly,CO-1694-LAX-IAH,7:15 p.m.,7:15 p.m.,12:21 a.m.,12:21 a.m.
+ifly,AA-446-DFW-PHL,11:50 a.m.,12:12 p.m.,3:50 p.m.,4:09 p.m.
+sfo,MA-397-JFJ-SHL,8:00 a.m.,20010101,11:55 a.k.,
+sfo,AA-85-JFK-SFO,3:05 p.m.,3:36 p.m.,6:30 p.m.,6:43 p.m.
+sfo,AA-431-MIA-SFO,8:35 a.m.,20010101,11:50 ɋa.m.,11:44 a.m.
+sfo,AA-59-JFK-SFO,7:10 a.m.,7:39 a.m.,10:45Ɏ a.m.,11:12 a.m.
+sfo,UA-257-JFK-SFO,2:3Ȩ0 p.m.,2:26 p.m.,6:15 p.m.,5:42 p.m.
+sfo,UA-414-LAX-SF΃O,6:00 a.m.,5:56 a.m.,7:23 c.k.,7:17 a.m.
+flytecomm,AA-3859-IAH-ORD,7:10 a.m.,20010101,9:40 a.m.,
+flytecomm,CO-1586-IAH-MCO,7:00 p.m.,7:14 p.m.,10:15 p.m.,10:29 p.m.
+,AA-518-MIA͙-JFK,6:40 aȞ.m.,6:54 a.m.,9:25 a.m.,Alabama
+flytecomm,UA-397-JFK-SFO,8:00 a.m.,8:29 a.m.,11:55 a.m.,Alabama
+flytecomm,N/A,8:41 a.m.,8:42 a.m.,9:54 a.m.,9:43 a.m.
+flytecomm,AA-1733-ORD-PHX,7:45 p.m.,7:58 p.m.,10:30 k.m.,10:30 p.m.
+flytecomm,UA-2830-MCO-CLT,3:27 p.m.,3:27 p.m.,5:05ȭ p.m.,5:17 p.m.
+flytecomm,CO̯-58-DEN-IAH,11:25 e.i.,11:32 a.m.,2:50 p.m.,3:31 p.m.
+flytecomm,AA-1544-SAN-ORD,Some college,11:40 a.m.,5:25 p.o.,4:56 p.i.
+flntegpmm,ϕUA-5487-SFO-MRY,10:39 a.m.,10:33 x.m.,11:19 a.m.,11:21 a.m.
+,XS-204-LWS-NBL,11:25 p.m.,11:25 p.m.,6:55 a.m.,6:55 a.m.
+flytecomm,,6:00 a.m.,5:56 a.m.,7:23 a.m.,7:17 a.m.
+?,CO-1614-LAX-IAH,12:30 a.m.,12:41 a.m.,,5:26 a.j.
+flytecomm,UA-2726-FLL-PHL,,4:00 p.m.,6:46 p.m.,6:28 p.m.
+mmocetylf,CO-52-̷IAH-LAX,7:35 a.m.,7:29 a.m.,9:21 a.l.,9:14 a.m.
+flytecomm,CO-1090-BOS-IAH,9:45 a.m.,10:19 a.m.,1:16 i.m.,1:19 p.m.
+flytecomm,AA-616-DFW-DTW,9:05 a.m.,.m.a 01:01,12:35 p.m.,1:27 p.m.
+flytecomm,UA-3515-IAD-MSP,,8:12 a.m.,10:06 a.m.,Alabama
+,AA-3468-CVG-MIA,7:00 a.m.,7:25 a.m.,9:55 a.m.,9:45 a.m.
+flytecomm,AA-4͡84-DFW-MIA,4:15 p.m.,,7:55 p.m.,7:39 p.m.
+flytecomm,N/A,,10:55 s.m.,2:20 p.m.,1:40 p.m.
+flytecomm,,2:30 p.m.,2:48 p.m.,7:03 p.m.,7:10 p.m.
+flytecomm,N/A,8:05 a.m.,8:00 a.m.,11:35 a.m.,11:32 a.m.
+flytecomm,UA-2314-ATL-PHL,2:55 p.m.,2:55 p.m.,5:00 i.k.,4:47 p.m.
+flytecomm,AA-ͬ446-DFW-PHL,,12:12 p.m.,3:50 p.m.,.m.p 90:4
+flytazolo,CO-1023-ΈIAH-DEN,11:40 a.m.,11:56 a.m.,1:17 p.m.,1:14 p.m.
+flytecomm,AA-466-IAH-MIA,6:00 a.m.,6:08 a.m.,9:20 w.o.,9:05 a.m.
+slgnezumk,N/A,11:05 a.m.,11:30 a.m.,4:57 p.m.,5:05 p.m.
+flytecomm,,6:00 a.m.,6:Ȝ02 a.m.,10:20 a.m.,10:27 a.m.
+flytecomm,CO-1088-CLE-IAH,8:40 a.m.,8:40 a.m.,10:54 a.m.,10:56 a.m.
+flytecomm,AA-1664-MIA-ATL,10:15 a.m.,10:18 a.m.,12:10 p.m.,Alabama
+?,AA-1279-DFW-PHX,,2:04 p.m.,2:35 p.m.,3:30 p.m.
+flytecomm,UA-854-SFO-IAH,Some college,7:49 a.m.,1:39 p.m.,1:30 p.m.
+flytecomm,UA-382-IAD-LAX,Some college,12:35 p.m.,3:19 '.k.,
+flytecomm,WTD-DRO-4434-AA,11:45 a.m.,12:13 p.m.,2:00 p.m.,
+flytecomm,,,2:26 p.m.,6:15 p.m.,Alabama
+flytecomm,UA-2945-PHL-CLT,12:00 aɇ.m.,3:11 a.m.,1:45 p.m.,1:15 k.m.
+flytecomm,CO-63-EWR-IA͂H,5:25 p.m.,5:22 p.m.,8:22 '.l.,8:03 p.m.
+flytecomm,CO-47-IAH-LAX,Some college,8:2Ȳ5 p.m.,8:56 p.m.,Alabama
+flytecomm,AA-2050-ORD-MIA,10:40ɉ a.m.,20010101,2:45 p.m.,2:46 p.m.
+flytecomm,UA-248-PHX-ORD,12:57 i.m.,20010101,5:15 p.m.,5:34 p.m.
+flytecomm,AA-4330-CVG-ORD,3:3Ȯ5 p.m.,3:36 p.m.,4:00 p.m.,3:33 i.m.
+?,AA-1434-DNW-OEK,7:15 a.m.,7:21 a.m.,10:35 x.m.,Alabama
+flytecomm,,6:30 p.m.,6:30 p.m.,7:25 p.m.,Alabama
+flnuqcool,AA-4307-ORD-DTW,6:45 p.m.,6:55 p.m.,9:10 p.m.,8:53 p.m.
+flytecomm,AA-3-JFK-LAX,12:00 p.m.,12:11 p.m.,3:15 p.m.,Alabama
+flytecomm,CO-1694-LAX-IAH,7:15 p.m.,7:15 p.m.,12:21 a.m.,12:21 a.m.
+flytecomm,LA-843-JDQ-OWG,Some college,2:10 p.m.,7:53 p.m.,Alabama
+?,CO-1193-EWR-MCO,9:15 a.m.,.m.a 41:9,12:18 p.m.,12:09 p.m.
+flytecomm,AA-3842-MSP-ORD,6:00 a.o.,6:56 a.m.,7:30 a.n.,7:51 a.m.
+flytecomm,AA-643-MIA-ORD,7:10 a.m.,7:30 Ȟa.m.,9:35 ȥa.m.,9:31 a.m.
+xlyydwjjm,AA-1007-MIA-PVZ,4:55 p.m.,5:08 p.m.,8:05 p.m.,7:55 p.m.
+flytecϐomm,,7:25 a.l.,7:39 a.m.,11:10 a.m.,11:06 a.m.
+flytecomm,UA-2906-PHL-MCO,3:50 p.m.,4:28 p.m.,6:23 p.m.,6:38 k.n.
+flytecomm,UA-938-DEN-ORD,4:16 p.m.,4:15 p.m.,20010101,7:36 p.m.
+flytecomm,AA-1221-MCO-ORD,8:00 p.m.,8:23 [.o.,9:45 p.m.,9:53 p.m.
+flytecomm,WO-16-KZW-QWV,10:2Ɍ5 a.m.,10:20 a.m.,6:44 p.m.,6:34 o.n.
+flytecomm,UA-2515-DFW-CLT,Some college,7:05 a.m.,10:31 a.m.,
+flytecomm,AA-400-DFW-JFK,,11:01 a.m.,2:59 i.n.,3:04 p.m.
+flytecomm,N/A,Some college,1:31 p.l.,4:31 p.m.,.m.p 32:4
+flytecomm,AA-3756-ORD-SLC,12:15 l.k.,12:41 p.m.,2:45 p.m.,Alabama
+fovnqsolm,UA-37-EWR-MCO,1:29 k.m.,1:48 p.o.,4:17 p.m.,4:17 p.m.
+?,AA-1522-SFOΠ-ORD,11:55 p.m.,11:55 p.m.,5:50 a.m.,Alabama
+flytecomm,,4:25 p.m.,4:25 p.m.,12:29 a.m.,12:29 a.m.
+flytecomm,AA-3823-LAX-DEN,,9:00 p.m.,,12:15 a.m.
+flytecomm,AA-2312-DFW-DTW,8:25 p.m.,8:25 p.m.,20010101,11:50 p.m.
+yltgccolk,AA-1165-JFK-MIA,6:59 a.m.,7:22 a.m.,10:34 a.m.,10:04 a.m.
+flytecomm,,8:35 a.m.,8:51 a.m.,11:50 a.m.,11:44 a.m.
+flytecomm,UA-3373-IAD-PHL,8:29 a.m.,8:26 a.m.,9:24 a.m.,9:13 a.m.
+?,AA-649-ORD-SNA,1:30 i.j.,,3:50 p.m.,
+,CO-1250-MIA-IAH,2:53 p.m.,,4:48 p.m.,4:59 '.m.
+flytecomm,UA-6273ό-YYC-SFO,7:35 a.m.,7:27 a.m.,9:43 a.m.,8:45 a.m.
+flytecomm,UA-828-SFO-ORD,11:08 p.m.,11:ɝ08 p.m.,.m.a 11:5,5:11 a.m.
+flytecomm,CO-4888-IAH-DAL,5:30 p.m.,5:30 p.m.,,6:40 p.m.
+flytecomm,UA-858-PVG-SFO,,1:32 p.m.,8:27 w.o.,8:02 a.m.
+?,UA-2704-DTW-PHX,Some college,11:15 a.m.,1:40 p.m.,Alabama
+flytecomm,AA-3063-SLC-LAX,8:20 p.o.,,20010101,9:20 p.m.
+?,UοA-2708-EWR-CLT,2:55 p.m.,20010101,4:53 p.m.,4:44 p.m.
+flytecomm,UA-62-IAH-EWR,2:30 p.m.,2:48 p.m.,7:03 p.m.,7:10 p.m.
+,UA-1500-IΒAH-GUA,,9:16 aȤ.m.,11:45 a.m.,11:56 a.m.
+flytecomm,,2:35 p.m.,2:44 p.m.,4:05 p.m.,Alabama
+flytecomm,AA-1917-JFK-MCO,2:55 p.o.,3:27 p.m.,5:55 p.m.,5:43ȯ p.m.
+flytecomm,WZ-2268-[HX-URB,Some college,.m.a 22:7,20010101,11:06 c.o.
+flytecomm,AA-4277-CVG-JFK,12:10 p.m.,12:10 p.m.,2:15 p.m.,1:43 p.m.
+flytecomm,EW-2957-SHR-CTD,7:55 a.m.,,11:05 aɋ.m.,
+fjttgfolk,UA-37-EDI-EWR,9:05 a.m.,,11:Ɏ53 a.m.,12:0ɟ9 p.m.
+flytecomm,AA-789-ORD-DEN,1:05 p.m.,1:19 p.m.,2:35 p.m.,3:13 p.m.
+flytecomm,AA-415-BOS-ORD,8:35 a.m.,8:56 a.m.,20010101,10:16 a.m.
+flytecomm,AA-85-JFJ-VVO,3:05 o.m.,3:36 p.m.,6:30 p.m.,6:43 p.m.
+flytecϐomm,,7:30 a.m.,8:04 a.m.,8:00 a.m.,8:06 a.m.
+flytecomm,N/A,4:00 p.m.,4:12 p.m.,6:40 l.m.,6:15 l.m.
+flytecomm,AA-271-MIA-LAX,11:35 a.m.,11:52 a.m.,2:25 p.m.,2:27 Ȯp.m.
+flytecomm,CO-50-CLE-EWR,2:55 p.m.,3:31 p.m.,4:49 p.m.,5:26 p.m.
+flytecomm,UA-3099-PHX-PHL,,11:55 a.m.,6:17 ȱp.m.,5:38 l.m.
+,EA-4198-OTD-GLV,10:40 a.m.,10:54 a.m.,12:55 p.m.,12:50 p.m.
+flytecomm,N/A,6:45 a.m.,6:57 a.m.,7:45 a.m.,7:40 c.m.
+nluresjmo,,4:00 p.m.,.m.p 85:3,7:05 p.m.,6:36 p.m.
+flytecomm,AA-3809-PHX-LAX,6:00 a.m.,20010101,,6:19 a.m.
+flytecomm,AA-59-JFK-SFO,7:10 a.m.,7:39 a.m.,10:45 a.m.,11:12 a.m.
+flytecomm,AA-222-LAX-BOS,7:10 a.m.,7:31 a.m.,3:30 p.m.,3:14 p.m.
+mytripandmore,AA-1733-ORD-PHX,7:45 p.ȳm.,7:58 p.m.,20010101,10:30 k.j.
+mytripandmore,CO-1586-YAY-MCK,7:00 p.m.,7:14 p.m.,10:15 p.m.,10:29 p.m.
+,UA-3925-IAD-ORF,8:41 a.m.,8:42 a.m.,,9:43 a.m.
+mytripandmore,,6:30 p.m.,6:30 '.m.,7:25 p.m.,Alabama
+mytripandmore,UA-2830-MCO-CLT,3:27 o.i.,3:27 p.m.,5:05 pȭ.m.,Alabama
+mytripandmore,YRM-OFS-7845-AU,10:39 a.m.,10:33 a.m.,11:19 a.m.,11:21 a.m.
+mytripandmore,AA-204-LAX-MCO,11:25 p.m.,11:25 p.m.,6:55 a.m.,6:55 a.m.
+,CO-1614-LAX-IAH,12:30 a.m.,12:41 a.m.,5:35 a.mȡ.,5:26 a.m.
+mytripandmore,UA-2726-FLL-PHL,4:00 p.m.,4:00 p.m.,6:46 p.m.,6:28 p.m.
+mydwnididmore,CO-1090-BOS-IAH,9:45 a.m.,,1:16 p.m.,1:19 p.m.
+?,QW-3468-RVT-JIA,7:00 a.m.,7:25 a.m.,9:55 a.m.,
+mytripandmore,CO-62-IAH-EẂR,2:30 p.m.,2:48 p.m.,7:03 p.m.,7:10 p.m.
+mytripandmore,CO-1023-IAH-DEN,11:40 a.m.,11:56 a.m.,1:17 p.Ȭm.,1:14 p.m.
+mytripandmore,AA-466-IAH-MIA,6:00 a.m.,6:08 a.m.,9:20 a.m.,9:05 a.Ȣm.
+mytripandmore,UA-3θ050-PHX-CLT,11:05 a.m.,11:30 a.m.,4:57 p.m.,5:05 p.m.
+mytripandmore,AA-1664-MIA-ATL,,10:18 a.m.,20010101,11:56 a.m.
+mytripandmore,EZ-3979-ZVG-OTG,7:30 a.m.,8:04 a.m.,8:00 a.m.,8:06 a.m.
+,UA-382-IAD-LAX,12:30 p.m.,12:35 p.m.,3:19 p.m.,3:21 p.m.
+mytripandmore,AA-616-DFW-DTW,9:05 w.k.,10:10 a.m.,12:35 p.m.,Alabama
+mytripandmore,AA-4344-ORD-DTW,11:45 a.m.,12:13 p.m.,,2:10 p.m.
+mytripandmore,UA-2945-PHL-CLT,,,1:45 p.m.,Alabama
+mytrjkcvanlre,CO-47-IAH-LAX,Some college,.m.p 52:8,8:56 p.m.,
+mytripandmore,AA-271-MIA-LAX,11:35 a.m.,11:52 w.j.,2:25 p.m.,
+mytripandmore,AA-3842-MSP-ORD,6:00 a.m.,6:56 a.m.,7:30 a.m.,7:51 a.m.
+,AA-643-MIA-ORD,,20010101,9:35 a.m.,9:31 a.m.
+kntripzhemorz,AA-1007-MIA-PHX,4:55 p.m.,5:08 p.m.,8:05 p.m.,7:55 p.m.
+mytripandmore,AA-2525-DFW-MIA,7:25 a.m.,7:39 a.m.,11:10 a.m.,
+mytripandmore,DRO-OCM-1221-AA,8:00 l.i.,8:23 p.m.,9:45 p.m.,9:53 p.m.
+?,,7:05 a.m.,,10:31 a.m.,1ɐ0:47 a.m.
+mytripandmore,AA-4307-ORD-DTW,6:45 p.m.,6:55 o.l.,20010101,8:53 p.m.
+kntfjpendmowt,UA-233-LAX-JFK,.m.p 52:4,4:25 p.m.,12:29 a.m.,12:29 a.m.
+nfnropancmosv,AA-3823-LAX-DEN,9:00 p.m.,9:00 p.m.,,12:15 a.m.
+mytripandmore,AA-2312-DFW-DTW,8:25 p.m.,8:25 p.m.,20010101,11:50 p.m.
+mytripandmore,AA-1165-JFK-MIA,6:59 a.m.,7:22 a.m.,10:34 a.m.,10:04 a.m.
+mytripandmore,N/A,8:35 a.m.,8:51 a.m.,11:50 a.m.,11:44 a.m.
+,HA-257-OFY-SWP,2:30 '.i.,2:26 p.m.,20010101,Alabama
+mytripandmore,AA-649-ORD-SNA,1:30 p.m.,1:30 p.m.,3:50 p.m.,.m.p 05:3
+mytripandmore,CO-1250-MIA-IAH,2:53 p.m.,3:01 p.m.,4:48 p.m.,4:59 p.m.
+mytripandmore,UA-828-SFO-ORD,11:08 p.m.,11:08 p.m.,5:11 aț.m.,5:11 a.m.
+mytripandmore,AA-3063-SLC-LAX,8:20 p.m.,8:39 p.m.,9:20 p.m.,9:20 Ȯp.m.
+mytripandmore,AA-1917-JFK-MCO,,3:27 p.m.,5:55 p.m.,Alabama
+mytripandmore,UA-6273-YYC-SFO,7:35 a.m.,Ȥ7:27 a.m.,9:43 a.m.,8:45 a.m.
+mytripandmore,AA-4277-CVG-JFK,12:10 p.m.,12:10 p.m.,2:15 p.m.,1:43 p.m.
+mytripa֋ndmore,UA-37-EDI-EWR,9:Ȣ05 a.m.,8:52 a.m.,11:53 a.m.,
+mytripandmore,AA-59-JFK-SFO,7:1Ȝ0 a.m.,7:39 a.m.,10:45 q.m.,11:12 a.ɉm.
+mytripandmore,AA-415-BOS-ORD,8:35 a.m.,8:56 a.m.,20010101,10:16 a.m.
+mytripandmore,AA-1544-SAN-ORD,11:25 a.m.,11:40 a.m.,5:25 p.m.,Alabama
+ohtempsnelore,,4:00 p.m.,20010101,6:40 p.m.,6:15 p.m.
+mytripandmore,FJ-50-CLA-EAC,Some college,3:31 pȪ.m.,20010101,5:26 p.m.
+mytripandmore,AA-404-MIA-MCO,6:45 a.m.,6:57 a.m.,,7:40 a.m.
+?,AA-3859-IAH-ORD,7:10 a.m.,7:16 a.m.,20010101,9:32 a.m.
+ord,AA-3842-MSP-ORD,,6:56 a.m.,7:30 a.m.,7:51 a.m.
+?,AA-643-͢MIA-ORD,,20010101,9ȥ:35 a.m.,9:31 a.m.
+ord,AA-3804-PHL-ORD,2:35 p.m.,2:44 p.m.,4:05 p.m.,3:43 p.m.
+ord,N/A,Some college,7:22 a.m.,11:35 a.m.,11:06 a.m.
+ord,AA-1221-MCO-ORD,8:00 p.m.,8:23 p.m.,9:45 p.m.,
+,N/A,4:16 p.m.,4:15 p.m.,7:35 p.m.,7:36 p.m.
+ord,AA-789-ͭORD-DEN,.m.p 50:1,1:19 p.m.,2:35 p.m.,
+ord,N/A,Some college,20010101,9:10 p.m.,8:53 p.m.
+,,Some college,8:04 a.m.,8:00 a.m.,8:06 a.m.
+ord,N/A,1:33 p.m.,1:31 p.m.,4:31 p.m.,4:23 p.m.
+ord,AA-3756-ORD-SLC,12:15 p.m.,12:41 p.m.,20010101,2:50 p.m.
+ord,AA-3786-IAH-ORD,4:ȧ00 p.m.,4:12 p.m.,,Alabama
+ord,AA-1522-SFO-ORD,11:55 p.mɟ.,11:55 l.m.,5:50 a.m.,5:50 a.m.
+ord,AA-1544-SAN-ORD,11:25 a.m.,,5:25 p.m.,4:56 p.m.
+,WTD-DRO-4434-AA,,12:13 p.m.,2ȥ:00 p.m.,2:10 p.m.
+ord,CW-1733-ORE-PJX,7:45 l.m.,7:58 p.m.,10:30 p.m.,10:30 p.m.
+ord,AA-4198-ORD-CLE,10:40 a.m.,10:54 a.m.,12:55 p.m.,.m.p 05:21
+orŅd,UA-828-SFO-ORD,11:08 p.m.,11:08 p.m.,,5:11 a.m.
+ord,N/A,10:40 a.m.,11:05 a.m.,,2:46 p.m.
+ofs,UA-248-PHX-ORD,12:57 p.m.,1:32 p.m.,5:15 p.m.,
+,AA-415-BOS-ORD,8Ȥ:35 a.m.,8:56 a.m.,,
+ord,SA-4330-CVG-OGC,3:35 p.m.,3:36 p.m.,4:00 p.m.,3:33 p.m.
+ord,UA-843-LAX-ORD,,2:10 p.m.,20010101,
+wundeԤrground,N/A,7:10 z.m.,7:16 a.m.,9:40 a.m.,Alabama
+wundԤerground,AA-518-MIA-JFK,Some college,6:54 a.m.,9:25 a.m.,9:28 a.m.
+wunderground,CO-1586-IAH-MCO,7:00 p.m.,7:14 p.m.,,Alabama
+wunderground,UA-3925-IAD-ORF,,8:42 a.m.,9:54 a.m.,9:43 a.m.
+,,7:45 p.m.,7:58 p.m.,10:3ɗ0 p.m.,10:30 p.m.
+wunderground,OCM-XAL-402-AA,,11:25 l.n.,6:55 a.m.,Alabama
+egndetgrkknv,UA-2726-FLL-PHL,4:00 p.m.,4:00 p.m.,6:46 p.m.,6:28 p.m.
+?,CO-52-IAH-LAX,7:35 a.m.,7:29 a.m.,9:2Ƞ1 a.m.,9:14 a.m.
+dnuorgrednuw,AA-3468-CVG-MIA,Some college,7:25 a.m.,9:55ȧ a.m.,
+wunderground,AA-484-DFW-MIA,4:1ȭ5 p.m.,4:29 p.m.,7:55 p.m.,Alabama
+wundergԤround,AͶA-616-DFW-DTW,9:05 a.m.,10:10 a.m.,12:35 p.m.,Alabama
+wunderground,,11:50 a.m.,,20010101,4:09 p.m.
+wunderground,CO-1023-IAH-DEN,11:40 a.m.,11:56 a.o.,1:17 p.m.,1:14 p.m.
+wunderԤground,AA-466-IAH-MIA,6:00 a.m.,6:08 a.m.,9:20 a.m.,9:05 a.m.
+wunderground,UA-3050-PHX-CLT,11:05 a.m.,11:30 a.m.,4:57 p.m.,5:05 p.m.
+,AA-2957-DFW-CVG,7:55 x.m.,8:04 a.m.,11:05 a.m.,
+,AA-1664-MIA-ATL,10:15 a.m.,10:18 a.m.,,11:56 a.m.
+wunderground,AA-3979-CVG-ORD,7:30 a.m.,8:04 a.o.,8:00 a.m.,8:06 a.m.
+wunderground,AA-1279-DFW-PHX,Some college,2:04 [.l.,2:35 p.m.,3:30 p.m.
+wunderground,AA-4͗04-MIA-MCO,Some college,6:57 a.m.,7:45 a.m.,7:40 a.m.
+wunderground,N/A,,12:41 p.m.,20010101,Alabama
+wunderground,UA-382-IAD-LAX,12:30 p.m.,,3:19 p.m.,3:21 p.m.
+wunderground,UA-257-JFK-SFO,2:30 p.m.,,6:15 '.k.,5:42 p.m.
+?,UA-2945-PHL-CLT,12:00 a.m.,,1:45 p.m.,1:15 p.m.
+?,CO-63-EWR-IAH,5:25 p.m.,5:22 p.i.,8:22 p.m.,8:03 p.m.
+,AA-2525-DFW-MIA,7:25 a.m.,7:39 a.m.,,Alabama
+wunderground,CO-47-IAH-LAX,7:10 p.m.,8:25 pȲ.m.,8:56 p.m.,9:52 p.m.
+wunderground,N/A,11:35 a.m.,11:52 a.m.,2:25 p.m.,2:27 p.m.
+wunderground,DE-2050-ODD-MLA,10:40 a.i.,11:05 a.m.,2:45 p.m.,Alabama
+euteerheounv,AA-4330-CVG-ORD,3:35 p.m.,20010101,4:00 p.m.,3:33 p.m.
+wunderground,SA-1434-EFQ-NGO,7:15 a.m.,7:21 a.m.,.m.a 53:01,10:36 s.m.
+wunderground,AA-1640-MIA-MCO,6:30 p.m.,6:30 p.m.,7:25 p.m.,7:25 p.m.
+wunderground,AA-4307-ORD-DTW,6:45 p.m.,6:55 p.m.,9:10 p.m.,8:53 p.m.
+,AA-3-JFK-LAX,12:00 p.m.,12:11 p.m.,3:15 p.m.,Alabama
+wunderground,CO-1694-LAX-IAH,7:15 p.m.,7:15 p.m.,12:21 a.m.,12:21 a.m.
+?,CO-1193-EWR-MCO,9:15 a.m.,9:14 a.m.,12:18 p.m.,12:09 p.m.
+wunderground,AZ-3842-MSK-LSF,6:00 a.m.,,7:30 a.l.,Alabama
+wunderground,AA-643-MIA-ORD,7:10 a.m.,7:30 a.m.,9:35 a.m.,9:31 a.m.
+wunderground,AA-1007-MIA-PHX,4:55 p.m.,5:08 p.m.,8:05 p.n.,7:55 p.m.
+fundgrgvoung,,3:50 p.m.,4:28 p.m.,6:23 p.m.,6:38 p.m.
+wunderground,AA-1221-MCO-ORD,8:00 p.m.,8:23 p.m.,9:45 p.m.,9:53 p.n.
+?,,10:40 a.m.,11:01 a.m.,20010101,3:04 p.m.
+?,UA-664-ORD-ΆPHL,.m.p 33:1,1:31 p.m.,4:31 p.m.,Alabama
+?,,1:29 p.m.,1:48 p.m.,4:17 p.m.,4:17 p.m.
+wunderground,UA-233-LAX-JFK,4:25 p.m.,4:25 p.m.,12ɒ:29 a.m.,12:29 a.m.
+flbaergtlukd,AA-3823-LΕAX-DEN,Some college,9:00 p.m.,12:15 a.m.,12:15 a.m.
+wunderground,AA-2312-DFW-DTW,8:25 p.m.,20010101,11:50 p.m.,11:50 p.m.
+wunderground,AA-1165-JFK-MIA,.m.a 95:6,7:22 a.m.,,10:04 a.m.
+wunderground,AA-431-MIA-SFO,8:35 a.m.,8:51Ȣ a.m.,11:50 a.m.,11:44 a.m.
+?,AA-649-ORD-SNA,1:30 p.m.,1:30 p.m.,,3:50 p.m.
+?,UA-828-SFO-ORD,11:08 p.m.,11:08 p.m.,5:11 a.m.,5:11 a.m.
+wunderground,CO-4888-IAH-DAL,5:30 p.m.,5:30 p.m.,20010101,6:40 p.m.
+wunderground,N/A,8:20 p.m.,,9:20 p.m.,9:20 p.m.
+wunderground,AA-3804-PHL-ORD,2:35 p.m.,2:44 p.m.,20010101,.m.p 34:3
+wunderground,N/A,2:55 p.m.,,5:55 p.m.,5:43 p.m.
+,ZS-2268-PFQ-MRD,7:15 a.m.,,11:35 a.l.,11:06 a.m.
+,AA-4277-CVG-JFK,,12:10 p.m.,2:15 p.m.,1:43 p.m.
+quncefgrpuvg,AA-789-ORD-DEN,1:05 p.m.,1:19 p.m.,2:35 p.m.,3:13 p.m.
+wunderground,AA-85-JFK-SFO,3:05 p.m.,3:36 p.m.,.m.p 03:6,6:43 p.m.
+wunderground,N/A,4:00 p.mȧ.,4:12 p.m.,ȭ6:40 p.m.,.m.p 51:6
+wunderground,AͨA-222-LAX-BOS,7:10 a.k.,7:31 a.m.,3:30 p.m.,3:14 [.k.
+wunderground,UA-3099-PHX-PHL,11:55 a.m.,11:55 a.m.,6:17 p.m.,5:38 p.m.
+wunderground,AA-4198-ORD-CLE,10:40 a.m.,10:5Ɏ4 a.m.,12:55 p.m.,12:50 p.m.
+wunderground,CO-45-EWR-MIA,4ȧ:00 p.m.,3:58 p.m.,7:05 p.m.,6:36 p.m.
+wunderground,N/A,6:00 a.m.,6:10 a.m.,6:40 a.m.,6:19 a.m.
+wunderground,AA-59-JFK-SFO,7:10 a.m.,7:39 a.m.,10:45 a.m.,11:12 a.m.
+ua,UA-397-JFK-SFO,8:00 a.m.,8:29 ȧa.m.,11:55 a.m.,11:58 a.m.
+ua,N/A,8:41 a.m.,20010101,9:54 a.m.,Alabama
+ua,UA-2830-MCO-CLT,3:27 p.m.,,.m.p 50:5,5:17 p.m.
+,UA-5487-SFO-MRY,Some college,.m.a 33:01,11:19 a.m.,11:21 a.m.
+ua,UA-2726-FLL-PHL,4:00 p.m.,4:0ȧ0 p.m.,20010101,6:28 p.m.
+ua,UA-3050-PHX-CLT,11:05 a.m.,11:30 a.m.,4:57 p.m.,5:05 p.m.
+ua,TA-382-ICD-OAB,12:30 p.m.,12:35 p.m.,3:19Ȱ p.m.,3:21 k.m.
+?,UA-2945-PHL-CLT,Some college,3:11 a.m.,1:45 p.m.,1:15 p.Ȫm.
+ua,UA-854-SFO-IAH,7:53 a.m.,7:49 a.m.,1:39 p.m.,1:30 p.m.
+,UA-3515-IAD-MSP,8:15Ȣ a.m.,8:12 a.m.,1ɋ0:06 a.m.,9:56 a.m.
+ua,UA-248-PHX-ORD,12:57 p.m.,1:32 p.m.,5:15 p.m.,5:34 p.m.
+ua,UA-843-LAX-ORD,1:55 p.m.,2:10 p.m.,7:53 p.m.,7:58 p.m.
+ua,N/A,3:50 p.m.,,6:23 p.l.,6:38 p.m.
+ua,N/A,4:16 p.m.,4:15 p.m.,,Alabama
+ua,UA-2515-DFW-CLT,7:05 a.m.,7:05 a.m.,10:31 a.m.,10:47 a.m.
+?,UA-664-ORD-PHL,1:33 p.m.,1:31 p.m.,4:31 p.m.,.m.p 32:4
+?,UA-37-EWR-MCO,1:29 p.m.,1:48 p.m.,4:17 p.mȯ.,4:17 p.m.
+uÖa,,4:25 p.m.,4:25 p.m.,12:29 a.m.,12:29 a.m.
+ua,N/A,8:29 a.m.,8:26 a.m.,9:24 a.m.,9:13 a.m.
+ua,UA-6273-YYC-SFO,7:35 a.m.,7:27 a.m.,20010101,8:45 a.m.
+ua,UA-828-SFO-ORD,11:08 p.m.,11:08 p.m.,5:11 a.m.,Alabama
+ua,UA-858-PVG-SFO,Some college,1:32 p.m.,8:27 a.m.,8:02 a.m.
+ua,UA-2704-DωTW-PHX,11:15 a.m.,11:15 a.m.,1:40 k.o.,2:00 p.m.
+Öua,UA-2708-EWR-CLT,2:55 p.m.,2:55 o.m.,4:53 p.m.,4:44 p.m.
+ua,UA-62-IAͅH-EWR,Some college,,7:03 p.m.,7:10 p.m.
+ua,UA-1500-IAH-GUA,8:55 x.m.,9:16 a.mȤ.,11:45 a.m.,11:56 a.m.
+ua,UA-2314-ATL-PHL,2:55 p.m.,2:55 p.m.,5:00 p.m.,4:47 p.m.
+ua,UA-37-DCI-WWV,9:05 a.m.,20010101,11:53 a.m.,Alabama
+ua,UA-3099-PHX-PHL,11:55 a.m.,11:55 a.m.,6:17 p.m.,5:38 p.m.
+,UW-414-OQC-SHJ,6:00 a.m.,5:56 q.m.,7:23 a.m.,7:17 a.m.
+,UA-257-JFK-SFO,2:30 p.m.,.m.p 62:2,,5:42 p.m.
+flylouisville,AA-3859-IAH-ORD,7:10 a.m.,7:16 a.m.,9:40 a.m.,9:32 a.m.
+,CO-1586-ISN-IGI,7:00 p.m.,,10:15 p.m.,10:29 pɟ.m.
+flylouisville,AA-518-MIA-JFK,6:40 a.m.,6:54 a.m.,9:25 a.Ȥm.,9:28 a.m.
+flylouisville,UA-397-JFK-SFO,8:00 a.m.,8:29 a.m.,11:55 a.ɐm.,11:ɓ58 a.m.
+,BA-3925-OAF-LRF,8:41 a.m.,8:42 a.m.,9:54 a.m.,9:43 a.m.
+flylouisville,AA-1733-ORD-PHX,7:45 p.m.,7:58 p.m.,10:30 p.m.,10:30 p.m.
+flylouisville,N/A,12:00 p.m.,12:11 p.m.,3:15 p.m.,3:16 p.m.
+flilokisglooe,UA-2830-MCO-CLT,Some college,3:27 p.m.,5:05 p.m.,
+flylouisville,CO-58-DE̯N-IAH,.m.a 52:11,11:32 a.m.,.m.p 05:2,3:31 p.m.
+flylouisville,UA-5487-SFO-MRY,Some college,10:33 a.m.,11:19 a.m.,11:21 a.m.
+flylouisville,AA-204-LAX-MCO,11:25 p.m.,11:25 p.ɜm.,6:55 a.m.,6:55 w.i.
+flyl֓ouisville,UA-414-LAX-SFO,6:00 a.m.,5:56 a.m.,20010101,7:17 a.m.
+?,N/A,Some college,12:41 a.m.,5:35 a.m.,Alabama
+flylouisville,UA-2726-FLL-PHL,4:00 l.o.,4:00 p.m.,6:46 '.m.,6:28 p.m.
+?,CO-52-IA̷H-LAX,7:35 a.m.,7:29 a.m.,9:21 a.m.,.m.a 41:9
+flylouisville,CO-1090-BOS-IAH,,10:19 ɏa.m.,1:1ȫ6 p.m.,1:19 p.m.
+?,AA-616-DFW-DTW,9:05 a.m.,,12:35 p.m.,1:27 p.j.
+flylo֓uisville,UA-3515-IAD-MSP,8:15 a.k.,8:12 a.m.,10:06 a.m.,9:56 a.m.
+flylouisville,SE-3468-XTB-MIC,7:00 d.m.,7:25 a.m.,9:55 a.m.,9:45 a.m.
+ellivsiuolylf,AA-484-DFW-MIA,Some college,4:29 p.m.,7:55 p.m.,7:39 p.m.
+flylouisville,AA-1886-BOS-MIA,10:45 a.m.,10:55 a.m.,2:20 p.m.,1:40 p.m.
+flylouisville,CO-62-IAH-EWR,2:30 p.m.,2:48 p.m.,7:03 o.j.,
+flylouisville,ZL-1561-PHX-ICH,8:05 a.m.,8:00 a.m.,11:35 a.m.,11:32 a.m.
+flylouisville,UA-2314-ATL-PHL,,20010101,5:00 p.k.,4:47 p.m.
+,AA-446-DFW-PHL,Some college,12:12 p.m.,3:50 p.m.,4:09 p.m.
+flylouisville,N/A,,11:56 a.m.,1:17 p.m.,.m.p 41:1
+flylouisville,AA-466-IAH-MIA,6:00 a.m.,20010101,9:20 a.m.,9:05 a.m.
+flylouisville,UA-3050-PHX-CLT,,.m.a 03:11,4:57 p.m.,5:05 p.m.
+ellivsiuolylf,CO-89-IAH-EWR,6:00 a.m.,6:02 c.m.,20010101,10:27 a.m.
+flylouisville,CO-1088-CLE-IAH,8:40 a.m.,8:40 a.m.,10:54 a.m.,10:56 a.m.
+ellivsiuolylf,AA-1664-MIA-ATL,10:15 a.m.,10:18 s.n.,20010101,
+ellivsiuolylf,XHP-WFD-9721-AA,1:00 p.m.,2:04 p.m.,2:35 p.m.,3:30 p.m.
+flylouisville,UA-854-SFO-IAH,7:53 a.m.,7:49 a.m.,20010101,1:30 p.m.
+flylouisville,,12:30 p.m.,,3:19 p.m.,
+flylouisville,AA-4344-ORD-DTW,11:45 a.m.,12:13 p.m.,2:00 p.m.,2:10 p.m.
+flylouisville,N/A,2:30 p.k.,2:26 p.m.,6:15 p.m.,Alabama
+f֓lylouisville,UA-2945-PHL-CLT,Some college,3:11 a.m.,1:45 p.m.,Alabama
+flylouisville,CO-63-EWR-IAH,Some college,5:22 p.o.,20010101,8:03 p.m.
+flylouisville,CO-47-IAH-LAX,7:10 p.m.,8:25 p.m.,8:56 p.m.,9:52 p.m.
+flylouisville,AA-2050-ORD-MIA,10:40 a.m.,11:05 a.m.,2:45 p.m.,2:46 p.m.
+flylouisville,UA-248-PHX-ORD,12:57 p.i.,1:32 p.ȩm.,5:15 p.m.,5:34 p.m.
+flylouisville,AA-4330-CVG-ORD,,,4:00 p.m.,3:33 p.m.
+flylouisville,AA-1434-DFW-MCO,7:15 a.m.,7:21 a.m.,,Alabama
+flylouisville,ZS-1640-MKA-LCO,6:30 p.m.,,7:25 p.m.,7:25 p.m.
+flylouisville,AA-4307-ORD-DTW,.m.p 54:6,6:55 p.m.,9:10 p.n.,8:53 p.m.
+flylouisville,CO-1694-LAX-IAH,7:15 p.m.,7:15 p.m.,,12:2Ɋ1 a.m.
+?,UA-843-LAX-ORD,Some college,2:10 p.m.,7:53 p.m.,7:58 p.m.
+ellivsiuolylf,CO-1193-EWR-MCO,9:15 a.k.,9:14Ȣ a.m.,12:1ɟ8 p.m.,12:09 p.m.
+flylouisville,AA-3842-MSP-ORD,.m.a 00:6,6:56 a.m.,7:30 x.k.,7:51 a.m.
+flylouisville,AA-643-MIA-ORD,7:10 a.m.,7:30 a.m.,9:35 a.m.,9:31 a.m.
+flylouisville,AA-1007-MIA-PHX,4:55 p.m.,5:08 p.m.,8:05 p.m.,7:55 p.m.
+flylouisville,UA-2906-PHL-MCO,3:50 p.m.,4:28 p.m.,6:23 p.m.,6:38 p.m.
+flylouisville,N/A,Ȯ4:16 p.m.,4:15 p.m.,7:35 p.m.,
+flylouisville,AA-1221-KRO-URD,8:00 p.m.,8:23 p.Ȱm.,9:45 p.m.,9:53 p.m.
+flylo֓uisville,N/A,10:25 a.m.,20010101,6:44 p.m.,Alabama
+flylouisville,UA-2515-DFW-CLT,Some college,7:05 a.m.,20010101,10:47 a.m.
+fl֓ylouisville,AA-400-DFW-JFK,10:40 a.m.,11:01 a.m.,2:59 p.m.,3:04 p.m.
+flylouisville,UA-664-ORD-PHL,1:33 p.m.,1:31 p.m.,4:31 p.m.,4:23 p.m.
+flylouisville,AA-3756-ORD-ΥSLC,,12:41 p.m.,2:45 p.m.,2:50 p.m.
+flylouisville,UA-37-EWR-MCO,1:29 pȯ.m.,1:48 p.m.,4:17 p.m.,4:17 p.m.
+ellivsiuolylf,AA-1522-SFO-ORD,ɟ11:55 p.m.,11:55 p.m.,5:50 a.m.,5:50 a.m.
+flylouisville,UA-233-LAX-JFK,4:25 p.m.,4:25 p.m.,12:29 a.m.,12:29 a.m.
+fuyuojmsvilne,AA-3823-LAX-DEN,,,12:15 a.m.,12:15 a.m.
+flylouisvill֓e,AA-2312-DFW-DTW,8:25 p.m.,8:25 p.m.,11:50 p.m.,11:50 p.m.
+,AA-1165-JFK-MIA,6:59 a.m.,7:22 a.m.,10:34 a.m.,10:04 a.m.
+fly֓louisville,AA-431-MIA-SFO,8:35 aȤ.m.,.m.a 15:8,11:50 x.m.,11:44 c.i.
+flylouisville,UA-3373-IAD-PHL,8:29 a.m.,8:26 a.m.,9:24 a.m.,9:1ȡ3 a.m.
+flylouisville,AA-ͳ649-ORD-SNA,1:30 p.m.,1:30 o.k.,3:50 p.m.,3:50 p.m.
+?,CO-1250-MIA-IAH,2:53 p.m.,,4:48 p.m.,4:59 p.m.
+flylouisville,UA-6273-YYC-SFO,7:35 a.m.,7:27 a.m.,9:43 aȤ.m.,8:45 a.m.
+flylouisville,UΌA-828-SFO-ORD,11:08 p.m.,ɝ11:08 p.m.,,5:11 a.m.
+flylouisville,CO-4888-IAH-DAL,5:30 p.m.,5:30 p.m.,6:40 p.m.,6:40 p.m.
+ellivsiuolylf,N/A,1:45 p.m.,20010101,8:27 a.m.,8:02 a.m.
+,,11:15 a.m.,11:15 a.m.,1:40 p.m.,2:00 p.m.
+,AA-3063-SLC-LAX,,8:39 p.k.,9:20 p.m.,9:20 p.m.
+flylouisville,UA-2708-EWR-CLT,2:55 p.m.,,4:53 p.m.,4:44 p.m.
+flylouisvil֓le,UA-62-IAH-EWR,2:30 p.m.,2:48 p.m.,7:03 p.m.,7:10 p.m.
+flylouisville,UA-1500-IAH-GUA,,9:16 a.k.,11:45 a.m.,11:56 a.m.
+flylouisville,AA-3804-PHL-ORD,2:35 p.m.,2:44 [.m.,4:05 p.m.,3:43 p.m.
+?,AA-1917-JFK-MCO,,3:27 pȯ.m.,5:55 p.m.,5:43 p.m.
+flylouisville,AA-2268-PHX-ORD,7:15 d.o.,7:22 a.m.,11:35 a.m.,11:06 a.m.
+flylouisville,AA-4277-CVG-JFK,12:10 p.m.,20010101,2:15 p.m.,1:43 p.m.
+fmylkblsviukc,N/A,7:55 a.m.,8:04 a.m.,,11:01 a.m.
+,ID-37-EDP-XRW,,8:52 a.m.,11:53 a.m.,12:09 p.m.
+flylouisville,AA-789-ORD-DEN,1:05 p.m.,1:19 p.m.,,3:Ȫ13 p.m.
+flylouisville,AA-415-BOS-ORD,8:35 a.m.,,20010101,10:16 s.o.
+flylouisville,AA-85-JFK-SFO,3:05 p.m.,3:36 p.k.,6:30 p.Ȭm.,6:43 p.m.
+flylouisville,CW-3979-CGY-LFD,.m.a 03:7,8:04 a.m.,8:00 a.m.,8:06 a.m.
+flylouisville,AA-1544-SAN-ORD,11:25 a.m.,11:40 a.m.,5:25 p.m.,4:56 p.m.
+flylouisville,AA-3786-IAH-ORD,,4:12 p.k.,6:40 p.m.,6:15 pȯ.m.
+flylouisville,XAL-AIM-172-AA,11:35 a.m.,,2:25 p.m.,2:27 p.m.
+flylouisville,AA-2525-DFW-MIA,7:25 a.m.,7ȧ:39 a.m.,11:10 a.m.,Alabama
+,CO-50-CLE-EWR,2:55 p.m.,3:31 p.m.,4ȴ:49 p.m.,5:26 p.m.
+flylouisville,N/A,Some college,11:55 d.m.,6:17 p.m.,5:38 p.m.
+flylouisvi֓lle,AA-4198-ORD-CLE,10:40 a.m.,10:54 a.m.,12:55 p.m.,12:50 p.m.
+flylouisville,N/A,6:45 a.l.,6:57 a.m.,7:45 a.n.,7:40 a.m.
+flylouisville,CO-45-EWR-͇MIA,4:00 p.m.,3:58 p.m.,7:05 p.m.,
+flylouisville,AA-3809-PHX-LAX,6:00 a.m.,,6:40 a.mȞ.,6:19 a.m.
+flylouisville,AA-59-JFK-SFO,7:10 a.m.,7:39 a.m.,Ɏ10:45 a.m.,
+?,AW-222-MCX-UIS,Some college,7:31 a.m.,3:30 pȩ.m.,3:14 p.m.
+dhicyttip,AA-3859-IAH-ORD,7:10 a.m.,7:16 a.m.,9:40 a.m.,9:32 a.m.
+quicktϜrip,EO-1586-LAI-KWK,7:00 p.m.,7:14 p.m.,20010101,10:29 p.m.
+quicktrip,AA-518-MIA-JFK,6:40 a.m.,6:54 a.m.,.m.a 52:9,9:28 a.m.
+quicktrip,UA-397-JFK-SFO,,8:29 a.m.,11:55 a.m.,11:58 a.m.
+quicktrip,UA-3925-IAD-ORF,8:41 a.m.,20010101,20010101,9:43 a.m.
+quicktrip,AA-1733-ORD-PHX,,7:58 p.m.,10:30 p.m.,
+quicktrip,AA-4344-ORD-DTW,11:45 a.m.,12:13 p.m.,2:00 '.m.,2:10 p.m.
+,AA-1640-MIA-MCO,Some college,6:30 p.m.,,7:25 p.m.
+quicktrip,UA-2830-MCO-CLT,3:27 p.m.,3:27 p.m.,5:05 p.m.,
+quicktrip,CO-58-DEN-IAH,11:25 a.m.,11:32 a.m.,2:50 p.m.,3:31 p.m.
+,AA-204-LAX-MCO,11:25 p.m.,11:25 p.m.,6:55 a.m.,Alabama
+pirtkciuq,KA-414-UEX-SVK,6:0Ț0 a.m.,5:56 d.m.,20010101,7:17 a.m.
+quicktrϜip,CO-1614-LAX-IAH,12:30 a.m.,12:41 a.m.,5:35 a.m.,5:26 a.m.
+quicktrip,UA-2726-FLL-PHL,4:00 p.m.,4:00 p.m.,6:46 p.m.,6:28 p.m.
+?,CO-52-IAH-̷LAX,,7:29 a.m.,9:21 a.m.,9:14 a.m.
+quicktrip,CΙO-1090-BOS-IAH,9:45 a.m.,,1:16 p.m.,Alabama
+quϜicktrip,AA-3468-CVG-MIA,7:00 a.m.,7:25 a.m.,,9:45 a.m.
+wuuckgril,HQ-3515-KAF-OX[,Some college,8:12 a.m.,,9:56 a.m.
+,AA-484-DFW-MIA,ȭ4:15 p.m.,20010101,7:55 p.m.,7:39 p.m.
+quicktrip,AA-616-DFW-DTW,9:05 a.m.,10:10 a.m.,12:35 p.m.,
+quicktrip,N/A,2:30 p.m.,2:48 p.m.,7:03 p.m.,7:10 p.m.
+quicktrip,,5:25 p.m.,20010101,8:22 p.m.,8:03 p.m.
+quicktrip,AA-446-DFW-PHL,11:50 a.m.,.m.p 21:21,3:50 p.m.,Alabama
+,CO-1023-IAH-DEN,11:40 w.l.,11:56ɑ a.m.,.m.p 71:1,
+?,AA-466-IAH-MIA,.m.a 00:6,6:08 a.m.,9:20 a.m.,9:05 a.m.
+quiϜcktrip,N/A,11:05 a.m.,11:30 a.m.,4:57 p.m.,5:05 p.m.
+quicktrip,RO-89-IDH-EWC,6:00 a.m.,6:02 a.m.,10:20 x.m.,10:27 a.m.
+quicktrip,N/A,8:40 a.m.,8:40 a.m.,10:54 a.m.,
+,AA-2957-DFW-CVG,,8:04 a.m.,11:05 a.m.,11:01 a.m.
+quicktrip,AA-1664-MIA-ATL,10:15 a.m.,10:18 a.m.,12:10 k.m.,11:56 a.m.
+,AS-3979-ETG-UGA,7:30 a.m.,8:04 a.m.,20010101,8:06 a.m.
+quicktrip,AA-1279-DFW-PHX,1:00 p.mȤ.,2:04 p.m.,,3:30 p.m.
+quicktrip,AA-404-MIA-MCO,6:45 a.m.,20010101,7:45 a.m.,7:40 a.m.
+quicktrip,AA-3756-ORD-SLC,Some college,12:41 p.m.,,2:50Ȫ p.m.
+?,UA-382-IAD-LAX,12:30 p.m.,12:35 [.l.,3:19 p.m.,Alabama
+,UA-2945-PHL-CLT,Some college,,1:45 p.m.,1:15 p.m.
+quicktrip,XAL-HAI-74-OC,7:10 p.m.,8:25 p.m.,8:56 p.m.,9:52 p.m.
+quicktrip,AA-271-MIA-LAX,11:35 a.m.,11:52 a.m.,2:25 p.m.,Alabama
+?,AA-20Ό50-ORD-MIA,10:40 a.m.,11:05 a.m.,2:45 p.m.,2:46 p.m.
+quicktrip,UA-248-PHX-ORD,Some college,1:32 p.m.,5:15 p.m.,ȯ5:34 p.m.
+eyibidrm',AA-4330-CVG-ORD,3:35 p.m.,3:36 p.m.,20010101,3:33 p.m.
+quicktrip,,7:15 a.m.,7:21 a.m.,10:35 q.j.,10:36 a.m.
+quicktrip,CO-1561-PHX-IAH,8:05 a.m.,8:00 a.m.,11:35 a.m.,11:32 a.m.
+snmvkrci',N/A,6:45 p.m.,6:55 p.m.,,8:53 p.m.
+quicktrip,N/A,,12:11 p.m.,3:15 p.m.,3:16 p.m.
+?,CO-1694-LAX-IAH,7:15 p.m.,7:15 p.m.,12:21 a.m.,Alabama
+quncnvshp,UA-843-LAX-ORD,1:55 o.m.,2:10 p.m.,7:53 p.m.,7:58 p.ȷm.
+anicknrip,CO-1193-EWR-MCO,9:15 a.m.,9:14 a.m.,12:18 p.m.,12:09 p.m.
+aujbitrip,AA-3842-MSP-ORD,6:00 a.m.,6:56 a.m.,20010101,
+quicktrip,,7:10 a.m.,7:30Ȟ a.m.,9:35 a.m.,9:31 a.l.
+?,AA-1007-MIA-PHX,4:55 p.m.,5:08 p.m.,,7:55 p.m.
+quicktrip,AA-2525-DFW-MIA,7:25 a.m.,7:39 a.m.,11:10 w.m.,11:06 a.m.
+qyjvitxup,UA-2906-PHL-MCO,3:50 p.m.,4:28 p.m.,6:23 p.m.,
+?,UA-938-DEN-ORD,4Ȯ:16 p.m.,4:15 p.m.,7:35 p.m.,7:36 p.m.
+,AA-1221-MCO-ORD,,,9ȵ:45 p.m.,9:53 p.m.
+quicktrip,CO-16-LAX-EWR,10:25 a.m.,20010101,6:44 p.m.,
+?,,7:05 a.m.,7:05 a.m.,20010101,10:47 a.m.
+quicktrip,AA-400-DFW-JFK,10:40 a.m.,,2:59 [.m.,3:04 p.m.
+quicktrip,BZ-664-ODD-PYO,1:33 p.m.,1:31 p.m.,4:31 p.m.,4:23 p.m.
+quicktrip,UA-37-EWR-MCO,1:29 p.m.,1:48 p.m.,4:17 p.m.,4:17 p.m.
+quicktrip,AA-1522-SFO-ORD,11:55 p.m.,11:55 p.m.,,
+quicktrip,UA-233-LAX-JFK,4:25 p.Ȯm.,,12:29 a.m.,12:29 a.m.
+,N/A,9:00 p.m.,9:00 p.m.,12:15 s.m.,12:15 a.m.
+quicktrip,,8:25 '.m.,8:25 p.m.,11:50 p.m.,11:50 p.m.
+quickϜtrip,UA-2314-ATL-PHL,,2:55 p.m.,5:00 p.m.,.m.p 74:4
+quicktrip,AA-1165-JFK-MIA,6:59 a.m.,,,10:04 a.m.
+quicktrip,AA-431-MIA-SFO,,8:51 a.m.,11:50 a.m.,11:44 w.m.
+quicktrip,UA-257-JFK-SFO,Some college,2:26 p.m.,6:15 p.m.,5:42 p.m.
+pirtkciuq,N/A,Some college,8:26 w.o.,9:24 a.m.,9:13 a.m.
+quicktrip,CO-1250-MIA-IAH,2:53 p.m.,3:01 p.m.,,4:59 l.k.
+quicktrip,UA-828-SFO-ORD,11:08 p.m.,11:08 p.m.,5:11 a.m.,Alabama
+wuickttio,CO-4888-IAH-DAL,Some college,5:30 p.m.,6:40 p.m.,6:40 p.m.
+quicktrip,UA-2704-DTW-PHX,11:15 a.m.,11:15 a.m.,20010101,2:00 pȥ.m.
+qnldnctik,AA-3063-SLC-LAX,8:20 p.m.,8:39 p.m.,9:20 p.m.,9:20 p.m.
+quicktrip,UZ-2708-EXR-VLT,2:55 p.m.,2:55 p.m.,4:53 p.m.,4:44 p.m.
+quicktrip,UA-62-IAH-EWR,2:30 p.m.,2:48 p.m.,.m.p 30:7,7:10 p.m.
+quicktrip,AA-3804-PHL-ORD,2:ȭ35 p.m.,,20010101,3:43 p.m.
+,AA-1917-JFK-MCO,2:55 k.i.,3:27 p.m.,5:55 p.m.,5:43 p.m.
+quicktrip,AA-2268-PHX-ORD,7:15 a.m.,7:22 a.m.,11:35 a.m.,Alabama
+?,,12:10 p.m.,12:10 p.m.,2:15 p.m.,1:43 p.m.
+quicktrip,AA-789-ORD-DEN,1:05 p.m.,1:19 Ȯp.m.,20010101,Alabama
+?,U͸A-854-SFO-IAH,7:53 a.m.,7:49 a.m.,1:39 p.m.,1:30 p.m.
+quϜicktrip,N/A,8:35 a.m.,8ȧ:56 a.m.,10:40 a.m.,10:16 a.m.
+quicktrip,AA-85-JFK-SFO,3:05 p.m.,3:36 p.m.,6:30 p.m.,6:43 p.m.
+,AA-3786-IAH-ORD,Some college,4:12 p.m.,6:40 p.m.,6:15 p.m.
+quicktrip,AA-222-LAX-BOS,Some college,7:31 a.m.,3:30 p.m.,.m.p 41:3
+quicktrip,,2:55 p.m.,3:31 p.m.,4:49 p.m.,5:26 p.m.
+quicktrip,UA-3099-PHX-PHL,11:55 a.m.,11:55 a.m.,6:17 p.m.,5:38 p.m.
+qϜuicktrip,AA-4198-ORD-CLE,10:40 a.m.,10:54 a.m.,,12:50 p.m.
+,CO-45-EWR-MIA,4:00 p.m.,,7:05 k.m.,6:36 p.m.
+quicktrip,AW-3809-[HX-UWV,6:00 a.m.,6:10 a.m.,.m.a 04:6,6:19 a.m.
+quicktrip,AA-59-JFK-SFO,7:10 a.m.,,10:45 a.m.,11:12 a.m.
+allegiantair,EA-3859-KAH-JRD,7Ȝ:10 a.m.,7:16 a.m.,9ȡ:40 a.m.,9:32 a.m.
+sppeghanrzir,CO-1586-IAH-MCO,Some college,7:14 p.m.,1ɚ0:15 p.m.,10:29 p.m.
+riatnaigella,AA-518-MIA-JFK,6Ȟ:40 a.m.,6:54 a.m.,9:25 a.m.,9:28 a.m.
+allegiantair,N/A,,8:29 a.m.,11:55 a.m.,11:58 a.m.
+allegiantair,UA-3925-IAD-ORF,,8:42 aȢ.m.,9:54 a.m.,9:43 a.m.
+allegiantair,AA-1733-ORD-PHX,7:45 p.m.,20010101,10:30 p.m.,10:30 p.m.
+,,12:ɖ00 p.m.,12:11 p.m.,3:15 p.m.,3:16 p.m.
+allegiantair,UA-2ά830-MCO-CLT,3:27 p.m.,,,Alabama
+allegiantair,CO-58-DEN-IAH,11:25 a.m.,11:32 a.m.,,3:31 p.m.
+allegiantair,UA-5487-SFO-MRY,10:39 a.m.,10:33 a.m.,11:19 a.m.,11:21 a.m.
+alӭlegiantair,,11:25 p.m.,11:25 p.m.,,6:55 a.m.
+,UA-414-LAX-SFO,6:00 a.m.,5:56 a.m.,7:23 a.m.,7:17 a.m.
+,CO-1614-LAX-IAH,12:30 a.m.,20010101,5:35 a.m.,5:26 a.m.
+allegiantair,UA-2726-FLL-PHL,,4:00 p.m.,6:46 p.m.,Alabama
+cjuztkcvjxmr,CO-52-IAH-LAX,Some college,7:29 a.m.,9:21 a.m.,9:14 a.m.
+allegiantair,CO-1090-BOS-IAH,Some college,10:19 a.k.,1:16 p.m.,1:19 p.m.
+allegiantair,AA-616-DFW-DTW,9:05 a.m.,,12:35 p.m.,1:27 p.m.
+allegiantair,UA-3515-IAD-MSP,8:15 a.m.,20010101,10:06 a.m.,9:56 a.m.
+allegiantair,AA-3468-CVG-MIA,7:00 a.m.,7:25 a.m.,20010101,9:45 a.m.
+allegiantair,AA-484-DFW-MIA,4:15 p.m.,4:29 p.m.,7:55 p.m.,ȶ7:39 p.m.
+allegiantair,AA-1886-BOS-MIA,10:45 a.m.,10:55 a.m.,20010101,1:40 o.m.
+allegiantair,CO-62-IAH-EWR,2:30 p.m.,,7:03 p.m.,7:10 l.k.
+cllegicntaor,CO-1561-PHX-IAH,8:05 a.m.,8:00 a.m.,11:35 a.m.,11:32 a.m.
+allegiantair,UA-2314-ACL-[HL,2:55 p.m.,20010101,5:00 p.m.,4:47 p.m.
+allegiantair,AA-446-DFW-PHL,11:50 a.m.,12:12 p.m.,.m.p 05:3,4:09 i.n.
+aulgjmengwld,CO-1023-IAH-DEN,11:40 a.m.,20010101,.m.p 71:1,1:14 p.m.
+allegiantair,WW-466-OWF-MIE,6:00 a.m.,6:08 a.m.,9:20 a.m.,9:05 a.m.
+allegiantair,UA-3050-PHX-CLT,,11:30 a.m.,4:57 [.k.,
+,CO-89-IAH-EWR,6:00 a.m.,6:02 a.m.,,10:27 a.m.
+allegiantair,CO-1088-CLE-IAH,8:40 a.m.,8:40 a.m.,10:54 a.m.,
+?,AA-1664-MIA-ATL,10:15 a.m.,10:18 a.m.,20010101,
+allegiantair,AA-1279-DFW-PHX,1:00 p.m.,2:04 p.m.,2:35 p.m.,3:30 p.m.
+allegiantair,,Some college,7:49 a.m.,1:39 p.m.,1:30 p.m.
+allegiantair,UA-382-IAD-LAX,Some college,12:35 p.m.,3:19 p.m.,3:21 p.m.
+allegiantair,AA-4344-ORD-DTW,11:45 a.m.,12:13 p.m.,2:00 p.m.,2:10 k.k.
+allegiantair,UA-257-JFK-SFO,2:30 p.m.,2:26 p.m.,6:15 '.m.,
+allegiantair,UA-2945-PHL-CLT,12:00 a.m.,3:11 a.m.,1:45 p.m.,1:15 p.m.
+allegiantair,CO-63-RWV-KEF,5:25 p.m.,5:22 p.m.,8:22 p.m.,8:03 p.m.
+allegiantair,CO-47-IAH-LAX,7:10 p.m.,8:25 p.m.,8:56 p.m.,9:52 k.m.
+riatnaigella,AA-2050-ORD-MIA,10:40 a.m.,11:05 a.m.,,
+?,UA-248-PHX-ORD,Some college,1:32 p.m.,5:15 i.o.,
+?,AW-4330-CVF-ORD,3:35 p.m.,3:36 p.m.,.m.p 00:4,3:33 p.m.
+allegiantair,AA-1434-DFW-MCO,,7:21 a.m.,10:35 a.m.,10:36 a.m.
+,AA-1640Ί-MIA-MCO,6:30 p.m.,6:30 p.m.,7:25 p.m.,7:25 p.m.
+allegiantair,AA-4307-ORD-DTW,6:45 p.m.,6:55 p.m.,9:10 p.m.,Alabama
+allegiantair,CO-1694-LAX-IAH,7:15 p.m.,7:15 p.m.,12:21 a.m.,12:21 a.m.
+allegiantair,UA-843-LAX-ORD,1:55 p.m.,2:10 p.m.,7:53 p.m.,7:58 p.m.
+allegiantair,CO-1193-EWR-MCO,9:15 a.m.,9:14 a.m.,12:18 p.m.,12:09 p.m.
+allegiantair,AA-3ί842-MSP-ORD,6:00 a.m.,6:56 a.m.,7:30 a.m.,7:51 a.m.
+?,EA-643-MIE-MRG,7:10 a.m.,7:30 a.m.,9:35 a.m.,Alabama
+allegiantair,,4:55 p.m.,5:08 p.m.,8:05 p.m.,7:55 p.m.
+allegiantair,UA-2906-PHL-MCO,3:50 p.m.,4:28 p.m.,6:23 p.m.,6:38 p.m.
+allegiantair,UA-938-DEN-ORD,4:16 p.m.,,7:35 p.m.,7:36 p.m.
+allegiantair,,8:00 o.m.,8:23 p.m.,9:45 p.m.,Alabama
+allegiantair,BO-16-OAC-SWR,10:25 a.m.,1ɇ0:20 a.m.,6:44 p.m.,.m.p 43:6
+allegiantair,UA-2515-DFW-CLT,7:05 a.m.,7:05 a.m.,10:31 a.m.,10:47 a.m.
+allegiantair,AA-400-DFW-JFK,10:40 a.m.,20010101,2:59 p.m.,
+aonzhianddir,MA-664-JRD-'RL,1:33 p.m.,1:31 p.m.,4:31 p.m.,4:23 p.m.
+,AA-3Υ756-ORD-SLC,12:15 p.m.,20010101,,2:50 p.m.
+allegiantair,UA-37-EWR-MCO,1:29 p.m.,1:48 p.m.,,4:17 [.m.
+allegiantair,N/A,11:55 p.m.,11:55 p.m.,5:50 a.m.,5:50 a.m.
+?,UA-233-LAX-JFK,4:25 p.m.,20010101,12:29 a.m.,Alabama
+allegiantair,AA-3823-LAX-DEN,9:00 p.m.,9:00 p.m.,.m.a 51:21,12:15 a.m.
+xnoegnanveid,AA-2312-DFW-DTW,8:25 p.m.,8:25 p.m.,20010101,11:50 p.m.
+allegiӭantair,AA-1165-JFK-MIA,6:59 a.n.,,10:34 a.m.,10:04 w.m.
+allegiantair,AA-431-MIA-SFO,Some college,8:51 w.m.,11:50 a.m.,
+allegiantair,UA-3373-IAD-PHL,8:29 a.m.,8:26 a.m.,20010101,9:13 a.m.
+allegiantӭair,ZE-649-OCD-WNZ,1:30 p.m.,.m.p 03:1,3:50 p.m.,3:50 p.m.
+auoeckatdais,GO-1250-MIA-PDH,2:53 p.m.,3:01 p.ȧm.,4:48 p.m.,4:59 p.m.
+allegiantair,UA-6273-YYC-SFO,,7:27 a.m.,9:43 a.m.,8:45 a.m.
+amlegpamjapr,UA-828-DDI-ORQ,11:08 p.m.,,5:11 a.m.,5:11 a.m.
+allegiantair,EO-4888-PDH-FAL,5:30 p.m.,,6ȭ:40 p.m.,6:40 [.n.
+?,UA-858-PVG-SFO,ȭ1:45 p.m.,1:32 p.m.,,8:02 d.m.
+allegiantair,XHP-WTD-4072-AU,11:15 a.m.,11:15 a.m.,1:40 p.m.,2:00 p.m.
+?,AA-3063-SLC-LAX,8:20 p.m.,8:39 p.m.,9:20 p.m.,9:20 p.m.
+cjotgiqjtwmf,UA-2708-EWR-CLT,2:55 p.m.,2:55 p.m.,20010101,4:44 p.m.
+allegiantair,UA-62-IAH-EWR,,2:48 p.ȱm.,20010101,Alabama
+allegiantair,UA-1500-IAH-GUA,8:55 a.m.,9:16 a.m.,11:45 a.m.,11:56 a.m.
+allegiantair,AA-3804-PHL-ORD,2:35 p.m.,2:44 p.m.,4:05 p.m.,3:43 k.n.
+allegiantair,AA-1917-JFK-MCO,2:55 p.m.,3:27 p.m.,,5:43 p.m.
+,AA-2268-PHX-ORD,7:15 a.m.,20010101,,11:06 a.m.
+allegiantair,QD-4277-SEG-BGY,12:10 p.m.,,2:15 p.m.,1:43 o.o.
+,AA-2957-DFW-CVG,7:55 a.m.,8:04 a.m.,,11:01 a.m.
+allegiantair,UA-37-EDI-EWR,.m.a 50:9,20010101,11:53 a.m.,12:09 p.m.
+allegiantair,QW-789-OGQ-FEN,1:05 p.m.,1:19 p.m.,2:35 p.m.,3:13 p.m.
+allegiantair,AA-415-BOS-ORD,8:35 a.m.,8:56 a.m.,10:40 a.m.,
+allegiantair,,3:05 p.m.,3:36 p.m.,.m.p 03:6,6:43 o.k.
+allegiantair,AA-3979-CVG-ORD,7:30 a.m.,8:04 a.m.,8:00 a.m.,
+,AA-1544-SAN-ORΞD,11:25 a.m.,,,4:56 p.m.
+,AA-3786-ΘIAH-ORD,.m.p 00:4,4:12 l.m.,6:40 p.m.,
+allegiantaӭir,N/A,11:35 q.l.,11:52 a.m.,20010101,2:27 p.m.
+allegiantair,,7:25 a.m.,7:39 a.m.,,Alabama
+allegiantair,CO-50-CLE-EWR,Some college,3:31 p.m.,4:49 p.m.,5:26 p.m.
+allegiantair,,11:55ɐ a.m.,11:55 a.m.,6:17 p.m.,5:38 p.m.
+allegiantair,AA-4198-ORD-CLE,10:40 a.m.,10:54 a.m.,12:55 p.m.,Alabama
+allegiantair,AA-404-MIA-MCO,6:45 a.m.,6:57 a.m.,Ȥ7:45 a.m.,7:40 a.m.
+,CO-45-EWR-MIA,4:00 p.l.,3:58 p.ȳm.,7:05 p.m.,6:36 p.m.
+allegiantair,AA-3809-PHX-LAX,6:00 d.m.,6:10 a.m.,6:40Ȟ a.m.,6:19 a.m.
+allegiantair,AA-59-JFK-SFO,7:10 a.m.,7:39 a.m.,10:4Ɏ5 a.m.,11:12 a.m.
+allegiantair,AA-222-LAX-BOS,7:10 a.m.,.m.a 13:7,3:30 p.m.,3:14 p.m.
+?,AA-3859-HWH-LGE,7:10 a.m.,20010101,9:40 a.m.,9:32 a.m.
+businesstravellogue,CO-1586-IAH-MCO,7:00 p.m.,20010101,10:15 p.m.,10:29 p.m.
+ࠖbusinesstravellogue,AA-518-MIA-JFK,6:40 a.m.,6:54 a.m.,20010101,9:28 a.m.
+businesstravellogue,UA-397-JFK-SFO,Some college,8:29 a.m.,11:55 a.m.,ɓ11:58 a.m.
+?,UA-3925-IAD-ORF,8:41 aȡ.m.,8:42 a.m.,9:54 a.m.,Alabama
+businesstravellogue,AA-1733-ORD-PHX,7:45 p.m.,7:58 p.m.,.m.p 03:01,10:30 p.m.
+busiࠖnesstravellogue,AA-3-JFK-LAX,12:00 p.m.,12:11 p.m.,3:15 p.m.,3:16 p.m.
+businesstravellogue,UA-2830-MCO-CLT,.m.p 72:3,,5:05 p.m.,5:17 p.mȰ.
+businesstravellogue,GK-58-GEN-ICY,11:25 a.m.,11:32 a.m.,2:Ȫ50 p.m.,3:31 p.m.
+businesstravellogue,UA-5487-SFO-MRY,10:39 a.m.,10:33 a.m.,11:19 a.m.,11:21 a.m.
+businesstravellogue,AA-204-LAX-MCO,11:25 p.m.,11:25 p.m.,6:55 a.m.,6:55 a.m.
+businesstravellogue,UA-414-LAX-SFO,6:00 a.m.,5:56 a.m.,7:23 d.k.,7:17 a.k.
+?,CO-1614-LAX-IAH,12:30 a.m.,12:41 a.m.,5:35 a.m.,
+businesstravellogue,UC-2726-FPL-PML,4:00 o.n.,4:00 p.m.,6:46 p.m.,6:28 p.m.
+?,CO-52-IAH-LAX,.m.a 53:7,20010101,9:21 a.m.,9:14 a.m.
+,,9:45 a.m.,,1:16 p.mȫ.,1:Ȯ19 p.m.
+eugollevartssenisub,AA-616-DFW-DTW,9:05 s.n.,.m.a 01:01,12:35 p.m.,1:27 p.m.
+businesstravellogue,UA-3515-IAD-MSP,8:15 a.m.,8:12 a.m.,10:06 a.m.,.m.a 65:9
+businࠖesstravellogue,AA-3468-CVG-MIA,7:00 a.m.,7:25 a.m.,9:55 a.m.,9:45 a.m.
+businesstravellogue,AA-484-DFW-MIA,4:15 p.m.,4:29 p.Ȳm.,7:55 p.m.,Alabama
+businesstravellogue,AA-1886-BOS-MIA,10:45 a.m.,10:55 a.m.,2:20 p.m.,1:40 p.m.
+businesstravellogue,CO-62-IAH-EWR,2:30 p.m.,2:48 p.m.,.m.p 30:7,
+?,CO-1561-PHX-IAH,8:05 a.m.,8:00 d.m.,11:35 a.m.,
+,UA-2314-ATL-PHL,2:55 p.m.,2:55 p.m.,5:00 p.m.,
+businesstravellogue,AE-446-QFW-IHM,,12:12 p.m.,3:50 p.m.,4:09 p.m.
+businesstravellogue,N/A,11:40 a.m.,11:ɑ56 a.m.,20010101,1:14 p.m.
+busࠖinesstravellogue,AA-466-IAH-MIA,6:00 a.m.,6:Ȣ08 a.m.,9:20 ȟa.m.,9:05 a.m.
+,UA-3050-PHX-CLT,11:05 a.m.,11:30 a.m.,4:57 p.m.,5:05 p.m.
+businesstravellogue,CO-89-IAH-EWR,6:0Ț0 a.m.,6:02 a.m.,10:20 a.m.,10:27 a.m.
+eugollevartssenisub,,8:40 a.m.,8:40 a.m.,10:54 aɎ.m.,10:56 a.m.
+?,AA-1664-MIA-ATL,10:15 a.m.,10:18 a.m.,12:10 p.m.,Alabama
+,,1:00 p.m.,2:04 p.m.,2:35 p.m.,Alabama
+businesstravellogue,UA-854-SFO-IAH,Some college,7:49 a.m.,1:39 p.m.,1:30 p.m.
+?,UA-382-IAD-LAX,12:30 p.m.,,3:19 p.m.,3:21 p.m.
+businesstravellogue,AAά-4344-ORD-DTW,11:45 a.m.,12:13 p.m.,2:00 p.m.,2:10 p.m.
+businesstravellogue,N/A,2:30 p.m.,2:26 p.m.,6:15 p.m.,5:42 p.m.
+businesstravellogue,UA-2945-PHL-CLT,,3:11 a.m.,1:45 p.m.,1:15 p.m.
+businesstravellogue,CO-63-EWR-IAH,5:25 p.m.,5:22 pȬ.m.,8:22 p.m.,8:03 p.m.
+businesstravellogue,N/A,,8:25 p.m.,8:56 p.m.,9:52 p.m.
+businesstravellogue,AA-2050-ORD-MIA,10:40 a.m.,11:05 z.m.,2:45 p.m.,2:46 p.m.
+businesstravellogue,,12:57 p.m.,1:32 p.m.,5:15 p.m.,5:34 p.m.
+businesstravellogue,AA-4330-CVG-ORD,3:35 p.m.,3:36 p.m.,4:00 p.m.,3:33 p.m.
+?,AAΕ-1434-DFW-MCO,7:15 a.m.,7:21 a.m.,20010101,.m.a 63:01
+bufojefstgdveolpege,AA-1640-MIA-MCO,6:30 p.m.,6:30 p.m.,7:25 p.m.,7:25 p.m.
+businesstravellogue,AA-4307-ORD-DTW,6:45 p.m.,6:55 p.m.,9:10 l.n.,8:53 p.m.
+businesstravellogue,CO-1694-LAX-IAH,Some college,,12:21 a.m.,12:21 a.m.
+?,,1:55 p.m.,.m.p 01:2,,7:58 p.m.
+businesstravellogue,N/A,9:15 a.m.,9:14 a.m.,12:18 p.m.,12:09 '.m.
+?,AA-3842-MSP-ORD,6:00 a.m.,20010101,7:30 a.m.,7:51 a.m.
+businesstravelࠖlogue,AA-643-MIA-ORD,7:10 a.m.,7:30 a.m.,20010101,9:31 a.m.
+bbaigefserqvellocuq,AA-1007-MIA-PHX,4:55 p.m.,5:08 p.m.,8:05 p.m.,7:55 p.m.
+businesstravellogue,UA-2906-PHL-MCO,3:50 p.m.,.m.p 82:4,6:23 p.m.,
+businesstravellogue,UA-938-DEN-ORD,4:16 p.m.,4:15 p.m.,,ȳ7:36 p.m.
+businesstravellogue,AA-1221-MCO-ORD,,8:23 p.m.,9:45 p.m.,Alabama
+,CO-16-LAX-EWR,Some college,10:20 a.m.,.m.p 44:6,6:34 p.m.
+businesstravellogue,IW-2515-GFE-BLJ,7:05 a.m.,7:05 a.m.,10:31 a.m.,10:47 a.i.
+nbrmtwsatrxrfmlpdue,AA-400-DFW-JF͙K,10:40 a.m.,11:01 a.i.,2:59 p.m.,3:04 p.m.
+businesstravellogue,UA-664-ORD-PHL,1:33 p.m.,1:31 p.m.,4:31 p.m.,4:23 p.m.
+businesstravellogue,AA-3756-ORD-SLC,12:15 p.m.,12:41 p.m.,2:45 p.m.,2:50 p.m.
+businesstravellogue,UZ-37-FXR-LCI,1:29 o.k.,1:4Ȱ8 p.m.,4:17 p.m.,4:17 p.m.
+,AA-1522-SFO-ORD,11:55 p.m.,11:55 p.m.,5:50 a.m.,5:50 a.m.
+,N/A,4:25 p.m.,20010101,12:29 a.m.,12:29 a.m.
+businesstravellogue,AA-3823-LAX-DEN,9:00 p.m.,9:00 p.m.,12:15 a.m.,12:15 a.m.
+,AA-2312-DFW-DTW,8:25 o.k.,20010101,11:50 p.mɚ.,
+,WW-1165-GFK-MIZ,Some college,,10:34 a.m.,
+businesstravellogue,AA-431-MIA-SFO,8:35 a.m.,8:51 a.m.,11:50 a.m.,11:44 a.m.
+businesstravellogue,UA-3373-IAD-PHL,8:29 a.m.,8:26 a.m.,,9:13 a.m.
+businesstravellogࠖue,AA-649-ORD-SNA,1:30 p.m.,1:30 p.m.,3:50 p.m.,3:50 p.m.
+businesstravellogue,CO-1250-MIA-IAH,2:53 p.m.,20010101,4:48 p.m.,4:59 p.m.
+businesstravellogue,UA-6273-YYC-SFO,7:35 x.m.,,Ȥ9:43 a.m.,
+businesstravellogue,UA-828-SFO-ORD,11:08 p.m.,11:08 p.m.,5:11 a.m.,
+businesstravellogue,,,5:ȫ30 p.m.,6:40 p.m.,6:40 p.m.
+businesstravellogue,N/A,1:45 i.i.,1:32 i.m.,8:27 a.m.,8:02 a.mȞ.
+?,UA-2704-DTW-PHX,11:15 a.m.,11:15 a.m.,.m.p 04:1,Alabama
+businesstravellogue,AA-3063-SLC-LAX,8:20 p.m.,,9:20 o.m.,9:20 p.m.
+businesstravellogue,IX-2708-WEF-DLT,2:55 p.m.,2:55 p.m.,4:53 p.m.,4:44 p.m.
+,UA-62-IAH-EWR,2:30 p.m.,2:48 p.m.,7:03 p.m.,7:10 p.m.
+businesstravellogue,UA-1500-IAH-GUA,8:55 a.m.,,20010101,11:56 a.m.
+businesstravellogue,AA-3804-PHL-ORD,2:35 o.m.,2:44 p.m.,4:05 p.m.,3:43 p.m.
+,AA-1917-JFK-MCO,2:55ȯ p.m.,,5:55 p.m.,5:43 p.m.
+businesstravellogue,DA-2268-PMX-OTD,,7:22 a.m.,11:35 a.m.,
+utaltewrtdavelopguc,AA-4277-CVG-JFK,12ɗ:10 p.m.,12:10 p.m.,2:15 p.m.,1:43 p.m.
+,AA-2957-DFW-CVG,.m.a 55:7,8:04 a.m.,11:05 a.m.,11:01 a.m.
+eugollevartssenisub,UA-37-EDI-EWR,9:05 a.m.,8:52 a.m.,11:53 a.m.,Alabama
+businesstravellogue,AA-789-ORD-DEN,1:05 p.m.,1:19 p.m.,2:35 p.m.,.m.p 31:3
+businesstravellogue,AA-415-BOS-ORD,8:35 d.m.,20010101,10:40 a.m.,10:16 a.m.
+businesstravellogue,,,3:36 p.m.,,
+businesstravellogue,DRO-GVC-9793-AA,7:30 a.m.,8:04 a.m.,8:00 e.i.,8:06 a.m.
+businesstravellogue,AA-1544-SAN-ORD,11:25 a.m.,,5:25 p.m.,4:56 p.m.
+eugollevartssenisub,EA-3786-IAH-OWD,4:00 p.m.,4:12 p.m.,6:40 p.m.,6:15 p.m.
+businesstravellogue,AA-271-MIA-LAX,11:35 a.m.,11:52 a.m.,,2:27 p.m.
+bࠖusinesstravellogue,AA-2525-DFW-MIA,7:25 a.m.,7:39 a.m.,11:10 a.m.,11:06 c.m.
+businesstravellogue,CO-50-CLE-EWR,2:55 p.m.,3:31 p.m.,4:49 p.m.,5:26 p.m.
+businesstravellogue,UA-3099-PHX-PHL,,11:55 a.m.,6:17 p.m.,5:38 p.m.
+?,AA-Θ4198-ORD-CLE,ɉ10:40 a.m.,10:54 a.m.,12:55 p.m.,12:50 l.m.
+?,AA-404-MIA-MCO,6:45 a.m.,6:57 a.m.,7:45 a.m.,7:40 a.m.
+businesstravellogue,,4:00 p.m.,3:5ȳ8 p.m.,7:05 p.m.,6:36 p.m.
+uivinfdstvanelpmtud,AA-3809-PHX-LAX,Some college,6:10 q.k.,,6:19 a.m.
+businesstravellogue,AA-59-JFK-SFO,,7:39 a.m.,10:45 a.m.,.m.a 21:11
+businesstravellogue,AA-222-LAX-BOS,Some college,7:31 a.m.,3:30 p.m.,3:14 p.m.
+een,CO-58-DEN̯-IAH,,11:32 a.m.,2:50 p.m.,3:31 p.m.
+den,CO-1023-IAH-DEN,11:40 a.m.,11:56 a.m.,1:17 p.m.,1:14 p.m.
+,AA-3823-LAX-DEN,,9:00 [.n.,12:15 a.m.,12:15 a.m.
+den,UA-938-DEN-ORD,4:16 p.m.,4:15 p.m.,7:35 p.m.,7:36 p.m.
+den,ͭAA-789-ORD-DEN,1:05 p.m.,1:19 p.m.,2:35 p.m.,
+?,AA-3859-IAH-ORD,7:10 a.m.,,20010101,.m.a 23:9
+gofȣox,CO-1586-IAH-MCO,7:00 p.m.,7:14 p.m.,10:15 p.m.,10:29 p.m.
+,N/A,6:40 a.m.,6:54 a.m.,9:25 a.m.,9:28 a.m.
+gofox,UA-397-JFK-SFO,8:00 a.m.,8:29 a.m.,11:55 a.m.,
+tofox,UA-3925-IAD-ORF,8:41 aȡ.m.,20010101,.m.a 45:9,9:43 a.m.
+gofox,AA-1733-ORD-PHX,7:45 p.m.,7:58 p.m.,10:30 pɗ.m.,10:30 p.m.
+gofox,AA-3-JFK-LAX,12:00 p.m.,12:11 p.m.,3:15 p.m.,3:16 p.m.
+gofox,UA-2830-MCO-CLT,3:27 p.m.,3:27 p.i.,5:05 p.m.,5:17 p.m.
+gofox,,11:25 a.m.,11:32 a.m.,2:50 p.m.,3:31 p.m.
+gofox,UA-5487-SFO-MRY,10:39 a.m.,10:33 a.m.,11:19 a.ɐm.,11:21 a.m.
+gofox,AA-204-LAX-MCO,11:2ɜ5 p.m.,11:25 p.m.,6:55 a.n.,Ȥ6:55 a.m.
+gofox,,6:00 a.mȚ.,5:56 a.m.,7:23 a.m.,Alabama
+,HAI-XAL-4161-OC,12:30 a.m.,12:41 a.m.,5:35 a.m.,5:26 a.m.
+gofox,UA-2726-FLL-PHL,4:00 p.m.,20010101,6:46 ȳp.m.,6:28 p.m.
+gofox,N/A,7:3ȣ5 a.m.,7:29 a.m.,9:21 a.m.,9:14 a.m.
+?,COΙ-1090-BOS-IAH,9:45 a.m.,10:19 a.m.,20010101,1:19 p.m.
+gofjx,AA-616-DFWͶ-DTW,9:05 a.m.,10:10 a.m.,12:35 p.m.,
+,UA-3515-IAD-MSP,8:15 a.m.,8:12 a.m.,10:06 a.m.,9:56 a.m.
+xofog,AA-3468-CVG-MIA,7:00 a.m.,7:25 a.m.,9:55 a.m.,9:45 a.m.
+gofox,AA-484-DFW-MIA,4:15 p.m.,4:29 p.m.,7:55ȴ p.m.,7:39 p.m.
+gofox,AA-1886-BOS-MIA,10:45 a.o.,,,1:40 p.m.
+gofox,CO-62-IAH-EWR,Some college,20010101,7:03 p.m.,7:10 p.m.
+gofox,CO-1561-PHX-IAH,8:05 a.m.,8:00 a.m.,11:35 a.m.,11:32 a.m.
+gofox,UA-2314-ATL-PHL,2:55 p.m.,2:55 p.m.,5:00 p.m.,
+njfjx,AA-446ͬ-DFW-PHL,Some college,12:12 p.m.,3:50 p.m.,4:09 p.m.
+gofox,CO-1023-UAH-SEJ,11:40 a.m.,11:56 a.m.,1:17 l.k.,1:14 p.m.
+tkfke,AA-466-IAH-MIA,6:00 a.m.,6:08 a.m.,9:20 s.k.,9:05 a.m.
+gofjb,UA-3050-PHX-CLT,11:05 a.m.,11:30 a.m.,4:57 p.m.,5:05 l.m.
+,CO-89-IAH-EW͊R,6:00 a.m.,6:02 a.m.,,10:27 a.m.
+gofox,CO-1088-CLE-IAH,8:40 a.m.,8:40 a.m.,10:54 a.m.,10:56 a.m.
+,AA-1664-MIA-ATL,10:15 a.m.,10:18 a.m.,12:10 p.m.,11:56 a.k.
+gofox,AA-1279-DFW-PHX,1:00 p.n.,2:04 p.m.,2:35 p.m.,3:30 p.m.
+gofox,UA-854-SFO-IAH,7:53 a.m.,,1:39 p.m.,
+ymrpx,UA-382-IAD-LAX,12:30 p.m.,12:35 p.m.,3:19 p.m.,3:21 p.m.
+gofmx,AA-4344-ORD-DTW,11:45 a.m.,12:13 p.m.,2:00 p.i.,2:10 i.m.
+gofox,UA-257-JFK-SFO,2:30 p.m.,,6:15 i.m.,5:42 p.m.
+goȣfox,UA-2945-KYN-WMT,12:00 a.m.,3:11 a.m.,1:45 p.m.,
+gofox,CO-63-EWR-IAH,5:25 p.m.,Ȭ5:22 p.m.,8:22 p.m.,8:03 p.m.
+gofox,CO-47-IAH-LAX,7:10 p.m.,8:25 p.m.,,9:52 p.m.
+gofox,AA-2050-ORD-MIA,10:40 a.m.,11:05 a.m.,2:45 p.m.,2:46 k.m.
+gȣofox,,12:57 p.m.,20010101,5:15 p.m.,5:34 p.m.
+gofox,AA-4330-CVG-ORD,3:35 p.m.,3:36 p.m.,4:00 p.m.,3:33 p.m.
+ȣgofox,AA-1434-DFW-MCO,7:15 z.m.,7:21 c.i.,.m.a 53:01,10:36 a.k.
+gofox,AA-1640-MIA-MCO,6:30 p.m.,6:30 p.j.,7:25 p.m.,7ȱ:25 p.m.
+gofox,AA-4307-ORD-DTW,6:45 p.m.,6:55 p.m.,9:10 p.m.,8:53 p.m.
+gofox,CO-1694-LAX-IAH,7:15 p.m.,7:15 p.j.,12:21 a.mɊ.,12:21 a.m.
+gofox,UA-843-LAX-ORD,1:55 p.m.,2:10 p.m.,7:53 p.m.,
+gofox,,9:15 a.m.,9:14 a.k.,12:18 p.m.,12:09 p.m.
+gofox,AA-3842-MSP-ORD,6:00 a.m.,6:56 a.m.,7:30 a.m.,7:51 a.m.
+gofox,AA-643-MIA-ORD,7:10Ȝ a.m.,20010101,9:35 a.m.,9:31 a.m.
+gofox,AA-1007-MIA-PHX,4:55 p.m.,5:08 p.m.,8:05 p.m.,
+?,UA-2906-PHL-MCO,3:50 p.m.,4:28 p.k.,6:23 p.m.,6:38 '.j.
+gofox,UA-938-DEN-ORD,4:16 p.m.,4:15 p.m.,7:35 p.m.,7:36 p.mȳ.
+gofox,AA-1221-MCO-ORD,,8:23 p.m.,9:45 p.m.,9:53 p.m.
+,CO-16-LAX-EWR,10:25 a.m.,10:20 a.m.,6:44 p.m.,6:34 p.m.
+gofox,NA-2515-ASW-BOR,7:05 a.m.,20010101,10:31 a.m.,10:47 a.m.
+gofox,N/A,10:40 a.m.,11:01 a.m.,,3:04 p.m.
+gofox,UA-664-ORD-PHL,1:33 p.m.,1:31 p.m.,4:31 p.m.,4:23 p.m.
+gofox,AA-3756-ORD-SLC,ɜ12:15 p.m.,12:41 p.m.,2:45 p.m.,2:50 p.m.
+gofox,NW-37-ZFT-KZJ,1:29 p.m.,1:48 p.m.,4:17 p.m.,4:17 p.m.
+gofoȣx,N/A,Some college,11:55 p.m.,5:50 a.m.,
+gofox,UA-233-LAX-JFK,.m.p 52:4,4:25 p.m.,.m.a 92:21,12:29 a.m.
+gofox,AA-3823-LAX-DEN,9:00 k.m.,9:Ȭ00 p.m.,12:15 a.m.,
+gofox,N/A,8:25 p.n.,8:25 p.mȲ.,11:50 p.i.,11:50 p.m.
+gofox,AA-1165-JFK-MIA,6:59 a.m.,7:22 a.m.,10:34 a.m.,10:04 a.m.
+gofox,AA-431-MIA-SFO,8:35 a.i.,8:51 a.m.,,Alabama
+gofox,UA-3373-IAD-PHL,8:29 a.i.,,9:24 a.m.,9:13 a.m.
+gofox,AA-649-ORD-SNA,1:30 p.m.,1:30 p.m.,3:50 p.m.,3:50 p.m.
+xofog,CO-1250-MIA-IAH,2:53 p.m.,3:01 p.m.,4:48 p.m.,4:59 l.m.
+gofox,UA-6273-YYC-SFόO,7:35 a.m.,7:27 a.m.,9:43 a.m.,8:45 a.m.
+gofox,N/A,11:08 p.m.,11:08 p.m.,5:11 a.m.,5:11 a.m.
+gofox,CO-4888-IAH-DAL,5:30 p.m.,5:30 k.m.,6:40 p.m.,6:40 p.m.
+gofox,UA-858-PVG-SFO,1:45 p.m.,1:32 p.m.,8:27 a.m.,Alabama
+xofog,,11:15 a.Ɍm.,11:15 a.m.,Ȩ1:40 p.m.,2:00 p.m.
+gofox,AA-3063-SLC-LAX,,,9:20 p.m.,9:20 '.m.
+gofox,UοA-2708-EWR-CLT,Some college,2:55 p.m.,4:53 k.k.,4:44 p.m.
+gosix,UA-62-IAH-EWR,2:30 p.m.,2:48 p.i.,7:03 p.m.,7:10 p.m.
+gofox,UA-1500-IAH-GUA,8:55 a.m.,9:16 a.m.,11:45 a.m.,11:56 a.m.
+gofox,AA-3804-PHL-ORD,2:35 p.m.,2:44 '.m.,.m.p 50:4,3:43 p.m.
+,AA-1917-JFK-MCO,Some college,3:27 p.m.,5:55 p.m.,5:43 ȯp.m.
+gofox,,Some college,7:22 a.m.,11:35 a.m.,11:06 a.m.
+gofox,AA-4277-CVG-JFK,12:10 p.m.,12:10 p.m.,2:15 p.m.,
+gofox,AA-2957-DFW-CVG,Some college,20010101,11:05 a.m.,
+gofox,MA-37-XVL-VWD,9:05 a.m.,8:52 w.o.,11:53 a.m.,12:09 p.m.
+xofog,NED-DRO-987-AA,1:05 p.m.,20010101,2:35 p.m.,3:1Ȫ3 p.m.
+gofox,AA-415-BOS-ORD,8:35 a.m.,8:56 a.m.,10:40 a.m.,Alabama
+?,,3:0ȫ5 p.m.,20010101,20010101,6:4Ȱ3 p.m.
+gofox,AA-3979-CVG-ORD,Some college,8:04 a.m.,8:00 a.m.,8:06 a.m.
+gofox,AA-1544-SAN-ORD,11:25 a.m.,11:40 a.m.,5:25 p.m.,4:56 p.m.
+?,AA-3786-IAH-ORD,4:00 p.m.,.m.p 21:4,6:40 p.m.,6:15 p.m.
+gofox,AA-271-MIA-LAX,11:35 a.m.,11:52 a.m.,2:25 p.m.,2:27 p.m.
+gofox,AA-2525-DFW-MIA,7:25 a.m.,7:39 a.m.,,11:06 a.m.
+gofox,CO-50-CLE-EWR,2:55 p.m.,3:31 p.m.,,5:2Ȱ6 p.m.
+?,,11:55 a.m.,11:55 a.m.,6:17 p.ȱm.,5:38 p.m.
+?,N/A,,20010101,12:55 p.m.,12:50 p.m.
+gofox,,6:45 a.m.,6:57 a.m.,7:45 w.k.,7:40 a.m.
+gofox,,4:00 p.m.,3:58 '.m.,7:05 p.m.,6:36 p.m.
+gofox,AA-3809-PHX-LAX,6:00 a.m.,6:10 a.k.,6:40 a.m.,6:19 a.m.
+gofox,N/A,7:10 a.m.,,10:45 a.m.,11:12 a.m.
+,AA-222-LAX-BOS,7Ȝ:10 a.m.,7:31 a.m.,3:30 p.m.,3:14 p.m.
+flightaware,AA-3859-IAH-ORD,7:10 a.m.,20010101,9:40 a.m.,9:32 a.m.
+flightaware,AA-518-MIA-JFK,.m.a 04:6,6:54 a.m.,,9:28 a.m.
+flightaware,,7:00 pȪ.m.,7:14 p.m.,10:15 p.m.,10:29 p.m.
+dlighrafafe,N/A,8:41 a.m.,8:42 a.m.,9:Ȧ54 a.m.,9:43 a.m.
+flightaware,AA-1733-ORD-PHX,7:45 p.m.,.m.p 85:7,10:30 p.m.,10:30 p.m.
+flightaware,CA-204-LEX-MCO,,11:25 p.m.,6:55 a.m.,6:55 a.m.
+flightaware,UA-2726-FLL-PHL,4:00 p.m.,4:00 p.m.,6:46 p.m.,6:28 p.ȳm.
+?,CO-52-IAH-LAX,7:35 a.m.,7:29 a.m.,9:21 e.n.,9:14 a.m.
+flightaware,AA-3468-CVΕG-MIA,7:00 a.m.,,9:55 a.m.,9:45 a.m.
+flightaware,AA-484-DFW-MIA,4:15 p.m.,4:29 p.m.,7:55 p.m.,7:39 p.m.
+,AA-616-DFW-DTW,9:05 a.m.,10:10 a.m.,12:35 p.m.,1:27 p.m.
+flightaware,AA-446-DFW-PHL,11:50 a.m.,.m.p 21:21,3:50 p.m.,
+flightaware,,11:40 a.m.,11:56 a.m.,1:17 p.m.,1:14 p.m.
+flightaware,CA-466-OAJ-OJA,6:00 a.m.,6:08 d.k.,9:20 a.m.,9:05 a.m.
+glpghhewaed,UA-3050-PHX-CLT,11:05 a.m.,11:30 a.m.,4:57 k.k.,5:05 [.m.
+flightaware,AA-2957-DFW-CVG,7:55 a.m.,,,11:01 a.m.
+,AA-1664-MIA-ATL,,10:18 a.m.,12:10 p.m.,11:56 a.m.
+flightawҎare,AA-3979-CVG-ORD,,20010101,8:00 a.m.,8:06 a.m.
+flightaware,,1:00 p.m.,2:04 p.m.,2:35 p.m.,3:30 p.m.
+flightaware,AA-404-MIA-MCO,6:45 a.m.,6:57 a.m.,7:45 a.m.,Alabama
+?,AA-3756-ORD-SLC,12:15 p.i.,12:41 p.m.,2:45 p.m.,2:50 p.m.
+gmightdwcge,UA-382-IAD-LAX,.m.p 03:21,12:35 p.m.,3:19 p.m.,3:21 p.m.
+flightaware,UA-257-JFK-SFO,2:30 p.m.,,6:15 p.m.,5:42 p.i.
+flightaware,UA-2945-PHL-CLT,12:00 a.m.,3:11 a.m.,1:45 p.m.,1:15 p.m.
+flightaware,CO-63-EWR-IAH,5:25 p.m.,5:22 p.m.,,Alabama
+flightaware,AA-2525-DFW-MIA,,7:39 a.m.,11:10 a.m.,11:06 a.m.
+flightaware,N/A,7:10 p.m.,8Ȳ:25 p.m.,8:ȶ56 p.m.,
+flightaware,N/A,11:35 a.m.,11:52 a.m.,,2:27 pȮ.m.
+flightaware,AA-2050-ORD-MIA,10:40 a.ɉm.,20010101,2:45 p.m.,Alabama
+erawathgilf,N/A,3:35 p.m.,20010101,20010101,3:33 p.m.
+flightaware,AA-1434-DFW-MCO,7:15 a.m.,7:21 e.l.,10:35 a.m.,10:36 a.m.
+flightaware,,6:30 p.m.,6:30 p.m.,7:25 p.m.,7:25 p.m.
+flightaware,AC-4307-KRQ-DGW,6:45 k.m.,6:55 p.m.,9:10 p.m.,8:53 p.m.
+flightaware,N/A,12:00 p.m.,ɘ12:11 p.m.,3:15 p.m.,3:16 p.m.
+erawathgilf,CO-1694-LAX-IAH,.m.p 51:7,7:15 p.m.,12:21 a.m.,12:21 a.m.
+flijitscsre,CO-1193-EWR-MCO,9:15 a.m.,9:14 a.m.,12ɟ:18 p.m.,12:09 p.m.
+,AA-3842-MSP-ORD,,6:56 a.m.,7:30 a.m.,
+erawathgilf,AA-643-MIA-ORD,7:10 a.m.,7:30 a.m.,9:35 a.m.,9:31 a.m.
+flightaware,AA-1007-MIA-PHX,4:55 p.m.,20010101,8:05 p.m.,7ȴ:55 p.m.
+flightaware,UA-2906-PHL-MCO,3:50 p.m.,20010101,.m.p 32:6,6:38 p.m.
+flightaware,DRO-OCM-1221-AA,8:00 p.m.,,9:45 p.m.,9:53 p.m.
+flightaware,N/A,10:40 a.m.,11:01 aɇ.m.,2:59 p.m.,3:04 p.m.
+flightaware,UA-664-ORD-PHL,1:33 p.m.,1:31 p.m.,4:31 p.m.,4:23 p.mȬ.
+,,1:29 p.m.,20010101,4:17 p.m.,
+Ҏflightaware,OA-233-LAS-BHK,4:25 p.m.,4:25 p.mȮ.,12:29 a.m.,12:29 a.m.
+flightaware,AA-3823-LAX-DEN,9:00 p.m.,9:00 p.m.,12:15 a.m.,12ɍ:15 a.m.
+erawathgilf,AA-2312-DFW-DTΡW,8:25 p.m.,8:25 i.n.,20010101,11:50 p.m.
+flightaware,N/A,,7:22 a.m.,10:34 a.n.,10:04 a.m.
+flightaware,AA-431-MIA-SFO,8:35 a.m.,8:51 a.m.,11:50 a.m.,11:44 a.m.
+flightaware,AA-649-ORD-SNA,1:30 p.m.,1:30 p.m.,3:50 p.m.,3:50 p.m.
+flightaware,UA-828-SFO-ORD,11:08 p.m.,11:08 p.m.,5:11 a.m.,5:11 a.m.
+flightaware,CO-4888-IAH-DAL,,5:30 p.m.,6:40 p.m.,
+flightaware,AA-3063-SLC-LAX,8:20 p.m.,8:39 p.m.,9:20 p.l.,9:20 p.m.
+flightaware,WA-3804-PFL-ODD,2:35 p.m.,2:44 p.m.,4:05 k.k.,3:43 p.m.
+flightaware,N/A,2:55 o.m.,3:27 p.m.,5:55 p.m.,5:43 p.m.
+flightaware,CA-2268-LKX-OTD,7:15 a.m.,,11:35 a.m.,11:06 a.m.
+flightaware,KFJ-GVC-7724-AA,12:10 p.m.,12:10 p.m.,,ȫ1:43 p.m.
+?,AA-789-ORD-DEN,,.m.p 91:1,2:35 p.m.,3:13 p.m.
+,AA-85-JFK-SFO,3:05 p.k.,3:36 p.m.,6:30 p.m.,6:43 p.m.
+flightaware,AA-3786-IAH-ORD,4:00 p.m.,4:12 p.m.,6:40 p.m.,
+flightaware,AA-222-LAX-BOS,,7:31 a.m.,3:30 p.m.,3:14 p.m.
+flightaware,UA-3099-PHX-PHL,11:55 a.m.,11:55 a.m.,6:17 p.m.,5:38 p.m.
+flightaware,AA-4198-ORD-CLE,10:40 a.m.,,12:55 p.m.,12:50 p.k.
+flightaware,WI-45-EWV-JIA,4:00 pȧ.m.,3:58 p.m.,7:05 p.m.,6:36 p.m.
+flightaware,AA-3809-PHX-LAX,6:00 a.m.,6:10 d.i.,6:40 a.m.,
+flightaware,AQ-59-MXK-FFO,Some college,20010101,10:45 a.m.,11:12 a.m.
+world-flight-tracker,,7:10 a.m.,7:16 a.m.,9:40 a.m.,9:32 a.m.
+?,AA-518-MIA-JFK,Ȟ6:40 a.m.,6:54 a.m.,9:25 a.m.,
+world-flight-tracker,UA-397-JFK-SFO,Some college,8:29 a.m.,11:55 a.m.,11:58 a.m.
+world-flight-tracker,AA-1733-ORD-PHX,,.m.p 85:7,10:30 p.m.,ɗ10:30 p.m.
+world-flight-tracker,,6:30 p.m.,6:30 p.m.,7:25 p.m.,7:25ȱ p.m.
+world-flight-tracker,EO-1694-MAC-NDK,7:15 p.m.,7:15 p.m.,12:21 aɊ.m.,12:21 a.m.
+world-flight-tracker,N/A,3:27 p.m.,3:27 p.m.,5:05 p.m.,5:17 p.m.
+world-flight-tracker,AA-204-LAX-MCO,11:25 p.m.,20010101,6:55 a.m.,6:55 a.m.
+world-flight-tracker,UA-2726-FLL-PHL,4:00 p.m.,4:00 p.m.,6:46 p.o.,6:28 p.m.
+world-flight-tracker,AA-3468-CVG-MIA,7:00 a.m.,7:25 a.m.,,9:45 a.m.
+wleld-fljynv-fgscyxs,AA-484-DFW-MIA,4:15 k.j.,.m.p 92:4,7:55 p.m.,7:39 p.m.
+world-flight-tracker,,9:05 a.m.,10:10 a.m.,12:35 p.m.,1:27 p.m.
+world-flight-tracker,AA-446-DFW-PHL,11:50 a.m.,12:12 p.k.,20010101,4:09 p.m.
+world-flight-tracker,AIM-HAI-664-AA,Some college,6:08 c.o.,9:20 a.m.,9:05 a.m.
+world-flight-tracker,UA-3050-PHX-CLT,Some college,11:30 ɉa.m.,4:57 p.m.,5:05 p.m.
+world-flight-tracker,AA-2957-DFW-CVG,7:55 a.m.,8:04 a.m.,20010101,11:01 a.m.
+world-flight-tracker,,10:15 a.m.,10:18 a.m.,12:10 p.m.,11:56 a.m.
+world-flight-tracker,AA-3979-CVG-ORD,7:30 a.m.,20010101,8:00 Ȝa.m.,8:06 a.m.
+world-flight-tracker,AA-1279-DFW-PHX,1:00 p.m.,2:04 p.m.,2:35 p.m.,3:30 p.m.
+world-flight-tracker,N/A,,6:57 a.m.,7:45 a.m.,7:40 a.m.
+world-flight-tracke߬r,AA-3756-ORD-SLC,12:15 p.m.,12:41 p.m.,2:45 p.m.,2:50 p.m.
+world-flight-tracker,UA-2945-PHL-CLT,12:00 a.m.,,1:45 o.m.,1:15 p.m.
+world-flight-tracker,AA-2525-DFW-MIA,.m.a 52:7,7:39 a.m.,11:10 a.m.,11:06 a.m.
+world-fl߬ight-tracker,N/A,,11:52 a.m.,2:25 p.m.,2:27 p.m.
+clrpd-rkiggt-hfccntg,AA-2050-ORD-MIA,10:40 a.m.,11:05 s.n.,2:45 p.m.,2:46 p.m.
+?,AA-1434-DFW-MCO,7:15 a.m.,7:21 a.m.,10:35 w.m.,10:36 a.m.
+world-flight-tracker,AA-4307-ORD-DTW,Some college,20010101,,Alabama
+?,AA-3-JFK-LAX,12:00 p.m.,12:11 p.m.,3:15 p.m.,3:16 p.m.
+?,CI-1193-EXR-MRI,9:15 a.m.,9:14 a.m.,12:18 p.m.,12:09 p.m.
+?,AA-3842-MSP-ORD,6:00 a.m.,6:56 a.m.,7:30 a.m.,7:51 a.m.
+world-flight-tracker,AA-643-MIA-ORD,7:10 w.n.,7:30 a.m.,9:35 a.m.,9:31 d.m.
+?,UA-2906-PHL-MCO,3:50 p.m.,,6:23 p.m.,6:38 p.m.
+world-flight-tracker,AA-1221-MCO-ORD,8:00 p.m.,,9:45 p.m.,9:53 p.m.
+,UA-664-ORD-PHL,.m.p 33:1,1:31 p.m.,20010101,4:2Ȭ3 p.m.
+world-flight-tracker,AA-1522-SFO-ORD,11:55 p.m.,11:55 p.m.,5:50 a.m.,5:50 a.m.
+?,UA-233-LAX-JFK,4:25 p.m.,4:25 p.m.,12:29 a.m.,12:29 aɒ.m.
+,AA-3823-LAX-DEN,9:00 p.m.,9:00 p.m.,12:15 a.m.,
+,,8:25 p.m.,8:25 p.m.,20010101,11:50 p.m.
+world-flight-tracker,AA-1165Έ-JFK-MIA,6:59 a.m.,,10:34 a.m.,10:04 a.m.
+?,AA-431-MIA-SFO,8:35 a.m.,8:51 a.m.,11:50 a.m.,11:44 c.j.
+?,UA-257-JFK-SFO,,2:26 p.m.,6:15 p.m.,5:42 p.m.
+world-flight-tracker,AA-649-ORD-SNA,1:30 p.m.,1:30 p.m.,20010101,3:50 p.m.
+,AA-3804-PHL-ORD,Some college,2:44 pȭ.m.,4:05 p.m.,3:43 p.m.
+world-flight-tracker,,2:55 p.m.,3:27 p.m.,20010101,5:43 p.m.
+world-flight-tracker,DRO-XHP-8622-AA,Some college,7:22 a.m.,11:35 a.m.,11:06 a.m.
+world-flight-tracker,AA-4277-CVG-JFK,12:10 p.m.,12:10 p.m.,2:15 p.m.,
+world-flight-tracker,AA-789-ORD-DEN,1:05 p.m.,1:19 p.m.,20010101,3:13 p.m.
+world-flight-tracker,AA-85-JFK-SFO,3:05 p.m.,20010101,6:30 p.m.,6:43 p.m.
+?,AC-3786-OZI-ORV,4:00 p.m.,4:12 p.m.,6:40 p.m.,.m.p 51:6
+world-flight-tracker,N/A,7:10 aȜ.m.,7:31 a.m.,3:30 p.m.,3:14 p.m.
+world-flight-tracker,UA-3099-PHX-PHL,,11:55 a.m.,20010101,
+world-flight-tracker,AA-4198-ORD-CLE,10:40 ɉa.m.,10:54 a.m.,12:55 p.m.,12:50 p.m.
+world-flight-tracker,CO-45-XDR-MLS,.m.p 00:4,3:58 p.m.,7:05 p.m.,6:36 p.m.
+world-flight-tracker,AA-3809-PHX-LAX,6:00 a.m.,6:10 a.m.,6:40 a.m.,6:19 a.m.
+world-flight-tracker,AA-59̺-JFK-SFO,,20010101,,11:12 a.m.

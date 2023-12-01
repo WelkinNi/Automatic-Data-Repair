@@ -1,0 +1,2228 @@
+Domain0
+content:nan,35555
+TupleID:901
+content:jackson hospital & clinic inc,36106
+TupleID:542,543,544,545,546,547,548,549,550,551,552,553,554,555,556,557,558,559,560,561,562,563,564,565,566
+content:eliza coffee memorial hospital,35631
+TupleID:70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94
+content:southeast alabama medical center,36302
+TupleID:20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44
+content:riverview regional medical center,35570
+TupleID:916
+content:marshall medical center north,36330
+TupleID:179
+content:gadsden regional medical center,35903
+TupleID:803,804,805,806,807,808,809,810,811,812,813,814,815,816,817,818,819,820,821,822,823,824,825,826,827
+content:cherokee medical center,35960
+TupleID:512,513,514,515,516,492,493,494,495,496,497,498,499,500,501,502,503,504,505,506,507,508,509,510,511
+content:huntsville hospital,35801
+TupleID:775,776,777,779,780,781,782,783,784,785,787,788,789,790,791,792,793,794,795,796,797,798,799,800
+content:flowers hospital,3ā6305
+TupleID:347
+content:elba general hospital,36323
+TupleID:592,593,594,595,596,597,598,599,600,601,602,603,604,605,606,607,608,609,610,611,612,613,614,615,616
+content:cullman regional medical center,35058
+TupleID:717,718,719,720,721,722,723,724,725,726,727,728,729,730,731,732,733,734,735,736,737,738,739,740,741
+content:marshall medical center south,35957
+TupleID:64,65,66,67,68,69,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63
+content:riverview regional medical center,20010101
+TupleID:927
+content:university of alabama hospital,352Ā33
+TupleID:670
+content:univ of south alabama medical center,36617
+TupleID:384,385,387,388,389,390,391,392,380,382
+content:[txtrfklle bcphisu rlsiitzl,36067
+TupleID:405
+content:Alabama,35233
+TupleID:6
+content:hartselle medical center,35640
+TupleID:145,146,147,148,149,150,151,152,153,154,155,156,157,158,159,160,161,162,163,164,165,166,167,168,169
+content:east alabama medical center and snf,36801
+TupleID:640,641,617,618,619,620,621,622,623,624,625,626,627,628,629,630,631,632,633,634,635,636,637,638,639
+content:st vincents hospital,35205
+TupleID:352,353,349,350,351
+content:crenshaw community hospital,36049
+TupleID:128,129,130,131,132,133,134,135,136,137,138,139,140,141,142,143,144,120,121,122,123,124,125,126,127
+content:g h lanier memorial hospital,36854
+TupleID:576,577,578,579,580,581,582,583,584,585,586,587,588,589,590,591,567,568,569,570,571,572,573,574,575
+content:medical center enterprise,36330
+TupleID:960,961,962,963,964,965,966,967,969,970,971,972,973,974,976,977,978,979,980,956,957,958,959
+content:community hospital inc,36078
+TupleID:704,705,706,707,708,709,710,711,712,713,714,715,716,692,693,694,695,696,697,698,699,700,701,702,703
+content:coosa valley medical center,35150
+TupleID:416,417,418,419,420,421,422,423,424,425,426,427,428,429,430,431,432,415
+content:fayette medical center,35555
+TupleID:897,899,902,878,879,880,881,882,883,884,885,886,887,888,889,890,891,892,894,895
+content:shelby baptist medical center,35007
+TupleID:270,272,273,275,276,277,278,279,280,281,282,283,285,286,287,288,289,290,292,293,294
+content:flowers hospital,20010101
+TupleID:337
+content:callahan eye foundation hospital,36420
+TupleID:8
+content:nan,nan
+TupleID:334
+content:prattville baptist hospital,76063
+TupleID:397
+content:nan,35121
+TupleID:994,986
+content:wedowee hospital,36278
+TupleID:642,643,644,645,646,647,648,649,650,651,652,653,654,655,656,657,658,659,660,661,662,663,664,665,666
+content:st viܥncents blount,35121
+TupleID:987
+content:prattville baptist hospital,35233
+TupleID:678
+content:unlvsfshyn jg xlabaoa ymspyeal,35233
+TupleID:688
+content:helen keller memorial hospital,35901
+TupleID:915
+content:st vincents blount,3ü5121
+TupleID:982
+content:baptist medical center south,36116
+TupleID:517,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,541
+content:Alabama,35121
+TupleID:993,995,988
+content:andalusia regional hospital,36420
+TupleID:742,743,744,745,746,747,748,749,750,751,752,753,754,755,756,757,758,759,760,761,762,763,764,765,766
+content:cenlahai ryv fmjggcvokn hlwliyzl,35233
+TupleID:308
+content:Alabama,35007
+TupleID:274,284,291
+content:helen keller memorial hospital,35660
+TupleID:453,454,455,456,9,457,458,10,11,459,12,460,13,461,14,462,15,463,16,464,17,465,18,466,19
+content:decatur general hospital,35609
+TupleID:354
+content:st vincents east,35235
+TupleID:195,196,197,198,199,200,201,202,203,204,205,206,207,208,209,210,211,212,213,214,215,216,217,218,219
+content:fsuetgx kfducdl fvbgzt,35555
+TupleID:893
+content:huntsville hospital,nan
+TupleID:786
+content:huntsville hospߒital,35801
+TupleID:802
+content:Alabama,36617
+TupleID:381
+content:riverview regional medical center,10953
+TupleID:921
+content:yukon kuskokwim delta reg hospital,99559
+TupleID:451,452
+content:nan,35233
+TupleID:685,686,1
+content:nan,36305
+TupleID:332
+content:nan,35976
+TupleID:172,174,178
+content:marion regional medical center,36330
+TupleID:968
+content:st vincents blount,20010101
+TupleID:985
+content:marshall medical center north,35660
+TupleID:171
+content:flowers hospital,36305
+TupleID:333,335,336,338,339,340,341,342,343,344,345,346,348
+content:Alabama,36067
+TupleID:402,408
+content:dale medical center,36360
+TupleID:467,468,469,470,471,472,473,474,475,476,477,478,479,480,481,482,483,484,485,486,487,488,489,490,491
+content:riverview regional medical center,35901
+TupleID:903,905,906,907,908,909,910,911,912,913,914,917,918,919,920,922,923,924,925,926,928,929,930
+content:chilton medical center,nan
+TupleID:832,833,834,835,836,837,838,839,840,841,842,843,844,845,846,847,848,849,850,851,852,828,829,830,831
+content:northwest medical center,35594
+TupleID:355,356,357,358,359,360,361,362,363,364,365,366,367,368,369,370,371,372,373,374,375,376,377,378,379
+content:georgiana hospital,36033
+TupleID:931,932,933,934,935,936,937,938,939,940,941,942,943,944,945,946,947,948,949,950,951,952,953,954,955
+content:nan,20010101
+TupleID:300
+content:univ of south alabama medical center,nan
+TupleID:386
+content:mizell memorial hospital,36467
+TupleID:95,96,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116,117,118,119
+content:dekalb regional medical center,35968
+TupleID:220,221,222,223,224,225,226,227,228,229,230,231,232,233,234,235,236,237,238,239,240,241,242,243,244
+content:st vincents blount,35121
+TupleID:992,996,997,998,999,1000,981,983,984,989,990,991
+content:marshall medical center north,35976
+TupleID:192,193,194,170,173,175,176,177,180,181,182,183,184,185,186,187,188,189,190,191
+content:southwest alabama medical center,36784
+TupleID:256,257,258,259,260,261,262,263,264,265,266,267,268,269,245,246,247,248,249,250,251,252,253,254,255
+content:callahan eye foundation hospital,35233
+TupleID:2,3,4,5,295,296,297,298,299,301,302,303,304,305,306,307,309,310,311
+content:stringfellow memorial hospital,36201
+TupleID:320,768,321,769,322,770,323,771,324,772,325,773,326,774,327,328,329,330,331,312,313,314,315,316,317,318,319,767
+content:fayette medical center,36420
+TupleID:900
+content:vlvtfdoew dzglonao jedmcwj wentcf,35901
+TupleID:904
+content:nan,35801
+TupleID:801
+content:prattville baptist hospital,36067
+TupleID:393,394,395,396,398,399,400,401,403,404,406,407,409,410,411,412
+content:huntsville hospital,10853
+TupleID:778
+content:russellville hospital,35653
+TupleID:413,414
+content:sjelfr ba[thsr kebhban fenfqt,35007
+TupleID:271
+content:medi৑cal center enterprise,36330
+TupleID:975
+content:fayette medical center,nan
+TupleID:896
+content:nan,36617
+TupleID:383
+content:fayette medical center,3ć5555
+TupleID:898
+content:university of alabama hospital,35233
+TupleID:667,668,669,671,672,673,674,677,679,680,681,682,683,684,687,689,690,691
+content:callahan eye foundation ౲hospital,35233
+TupleID:7
+content:alaska regional hospital,99508
+TupleID:448,449,450,433,434,435,436,437,438,439,440,441,442,443,444,445,446,447
+content:university of alabama hospital,nan
+TupleID:675,676
+content:marion regional medical center,35570
+TupleID:853,854,855,856,857,858,859,860,861,862,863,864,865,866,867,868,869,870,871,872,873,874,875,876,877
+Domain1
+content:riverview regional medical center,25Ȁ65435200
+TupleID:912
+content:medical center enterprise,4850743433
+TupleID:979
+content:fayette medical center,6695239502
+TupleID:895
+content:riverview regional medical center,nan
+TupleID:924,927
+content:cullman regional medical center,2567372000
+TupleID:717,718,719,720,721,722,723,724,725,726,727,728,729,730,731,732,733,734,735,736,737,738,739,740,741
+content:helen keller memorial hospital,2565435200
+TupleID:915
+content:gadsden regional medical center,2564944000
+TupleID:803,804,805,806,807,808,809,810,811,812,813,814,815,816,817,818,819,820,821,822,823,824,825,826,827
+content:dekalb regional medical center,2568453150
+TupleID:220,221,222,223,224,225,226,227,228,229,230,231,232,233,234,235,236,237,238,239,240,241,242,243,244
+content:nan,2053Ǻ258100
+TupleID:1
+content:northwest medical center,205487ȑ7736
+TupleID:355,356,357,358,359,360,361,362,363,364,365,366,367,368,369,370,371,372,373,374,375,376,377,378,379
+content:crenshaw community hospital,3343353374
+TupleID:128,129,130,131,132,133,134,135,136,137,138,139,140,141,142,143,144,120,121,122,123,124,125,126,127
+content:shelby baptist medical center,2056208100
+TupleID:270,273,275,276,278,279,280,281,282,285,286,287,288,289,290,292,293,294
+content:marshall medical center north,11111111
+TupleID:176
+content:chilton medical center,2057552500
+TupleID:832,833,834,835,836,837,838,839,840,841,842,843,844,845,846,847,848,849,850,851,852,828,829,830,831
+content:marion regional medical center,2565938310
+TupleID:67
+content:sjelfr ba[thsr kebhban fenfqt,2056208100
+TupleID:271
+content:shelby baptist medical center,3342228466
+TupleID:283
+content:nan,2562495000
+TupleID:415
+content:andalusia regional hospital,3342228466
+TupleID:742,743,744,745,746,747,748,749,750,751,752,753,754,755,756,757,758,759,760,761,762,763,764,765,766
+content:marshall medical center south,2565938310
+TupleID:64,65,66,68,69,45,46,47,48,49,50,51,55,57,58,59,60,61,63
+content:vlvtfdoew dzglonao jedmcwj wentcf,2565435200
+TupleID:904
+content:nan,2053258100
+TupleID:300
+content:medi৑cal center enterprise,3343470584
+TupleID:975
+content:marion regional medical center,3343470584
+TupleID:968
+content:st vincents blount,2562495000
+TupleID:432
+content:hartselle medical center,2567736511
+TupleID:145,146,147,148,149,150,151,152,153,154,155,156,157,158,159,160,161,162,163,164,165,166,167,168,169
+content:medical center enterprise,3ȉ343470584
+TupleID:971
+content:cenlahai ryv fmjggcvokn hlwliyzl,2053258100
+TupleID:308
+content:marshall medical center south,11111111
+TupleID:54,62
+content:univ of south alabama medical center,2514717110
+TupleID:384,385,386,387,388,389,390,391,392,380,381,382,383
+content:fayette medical center,2ȏ059325966
+TupleID:896
+content:university of alabama hospital,2059344011
+TupleID:667,668,669,670,671,672,673,674,675,676,677,678,679,680,681,682,683,684,685,686,687,688,689,690,691
+content:nan,2565718000
+TupleID:174,178
+content:northwest medical center,3342938000
+TupleID:553
+content:fsuetgx kfducdl fvbgzt,2059325966
+TupleID:893
+content:dale medical center,3347742601
+TupleID:467,468,469,470,471,472,473,474,475,476,477,478,479,480,481,482,483,484,485,486,487,488,489,490,491
+content:Alabama,2053258100
+TupleID:6
+content:shelby baptist medical center,nan
+TupleID:272,277
+content:huntsville hospital,nan
+TupleID:775,776,777,778,779,780,781,782,783,784,785,786,787,788,789,790,791,792,793,794,795,796,797,798,799,800,801,802
+content:georgiana hospital,3343762205
+TupleID:931,932,933,934,935,936,937,938,939,940,941,942,943,944,945,946,947,948,949,950,951,952,953,954,955
+content:callahan eye foundation hospital,2059216200
+TupleID:298
+content:southwest alabama medical center,3346366221
+TupleID:256,257,258,259,260,261,262,263,264,265,266,267,268,269,245,246,247,248,249,250,251,252,253,254,255
+content:wedowee hospital,2563572111
+TupleID:642,643,644,645,646,647,648,649,650,651,652,653,654,655,656,657,658,659,660,661,662,663,664,665,666
+content:riverview regional medical center,2565435200
+TupleID:903,905,906,907,908,909,910,911,913,914,916,917,918,919,920,921,922,923,925,926,928,929,930
+content:yukon kuskokwim delta reg hospital,9075436300
+TupleID:451,452
+content:marshall medical center north,0008175652
+TupleID:182
+content:decatur general hospital,2563412000
+TupleID:354
+content:coosa valley medical center,3342228466
+TupleID:416
+content:jackson hospital & clinic inc,3342938000
+TupleID:542,543,544,545,546,547,549,551,552,554,555,556,557,558,559,560,562,563,564,565,566
+content:cherokee medical center,2569275531
+TupleID:512,513,514,515,516,492,493,494,495,496,497,498,499,500,501,502,503,504,505,506,507,508,509,510,511
+content:marshall medical center north,256571Ȃ8000
+TupleID:175
+content:Alabama,2056208100
+TupleID:274,284,291
+content:mizell memorial hospital,3344933541
+TupleID:95,96,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116,117,118,119
+content:jackson hospital & clinic inc,11111111
+TupleID:561
+content:marshall medical center north,2565718000
+TupleID:192,193,194,170,171,173,177,179,180,181,183,184,185,186,187,188,189,191
+content:east alabama medical center and snf,3347493411
+TupleID:640,641,617,618,619,620,621,622,623,624,625,626,627,628,629,630,631,632,633,634,635,636,637,638,639
+content:nan,2059325966
+TupleID:901
+content:prattville baptist hospital,3343614267
+TupleID:393,394,395,396,397,398,399,400,401,402,403,404,405,406,407,408,409,410,411,412
+content:marshall medical center south,2562495000
+TupleID:426
+content:st vincents blount,2562651000
+TupleID:984
+content:st vincents hospital,2059397000
+TupleID:352,353,349,350,351
+content:coosa valley medical center,2569275531
+TupleID:423
+content:helen keller memorial hospital,2563864556
+TupleID:453,454,455,456,9,457,458,10,11,459,12,460,13,461,14,462,15,463,16,464,17,465,18,466,19
+content:g h lanier memorial hospital,3347561400
+TupleID:576,577,578,579,580,581,582,583,584,585,586,587,588,589,590,591,567,568,569,570,571,572,573,574,575
+content:russellville hospital,2563321611
+TupleID:413,414
+content:baptist medical center south,3342882100
+TupleID:517,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,541
+content:alaska regional hospital,9072761131
+TupleID:448,449,450,433,434,435,436,437,438,439,440,441,442,443,444,445,446,447
+content:elba general hospital,3348972257
+TupleID:592,593,594,595,596,597,598,599,600,601,602,603,604,605,606,607,608,609,610,611,612,613,614,615,616
+content:southeast alabama medical center,3347938701
+TupleID:20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44
+content:nan,0008175652
+TupleID:172
+content:mdvshsll mecicdl cdunrt fjotv,2565938310
+TupleID:52
+content:nan,2052743000
+TupleID:994,986
+content:Alabama,2052743000
+TupleID:993,995,988
+content:marshall medical center south,2562358900
+TupleID:56
+content:callahan eye foundation hospital,2053258100
+TupleID:2,3,4,5,8,295,296,297,299,301,302,303,304,305,306,307,309,310,311
+content:fayette medical center,nan
+TupleID:892
+content:fayette medical center,2059325966
+TupleID:897,898,899,900,902,878,879,880,881,882,883,884,885,886,887,888,889,890,891,894
+content:eliza coffee memorial hospital,2567688400
+TupleID:70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94
+content:callahan eye foundation ౲hospital,2053258100
+TupleID:7
+content:st vincents east,2058383122
+TupleID:195,196,197,198,199,200,201,202,203,204,205,206,207,208,209,210,211,212,213,214,215,216,217,218,219
+content:marshall medical center south,256593Ȋ8310
+TupleID:53
+content:marion regional medical center,2059216200
+TupleID:853,854,855,856,857,858,859,860,861,862,863,864,865,866,867,868,869,870,871,872,873,874,875,876,877
+content:community hospital inc,3342836541
+TupleID:704,705,706,707,708,709,710,711,712,713,714,715,716,692,693,694,695,696,697,698,699,700,701,702,703
+content:zuofs vamugy medibwn center,2562495000
+TupleID:421
+content:st viܥncents blount,2052743000
+TupleID:987
+content:jackson hospital & clinic inc,334293Ȁ8000
+TupleID:548
+content:coosa valley medical center,2562495000
+TupleID:417,418,419,420,422,424,425,427,428,429,431
+content:medical center enterprise,3343470584
+TupleID:960,961,962,963,964,965,966,967,969,970,972,973,974,976,977,978,980,956,957,958,959
+content:retnec lacidem yellav asooc,2562495000
+TupleID:430
+content:flowers hospital,3347935000
+TupleID:332,333,334,335,336,337,338,339,340,341,342,343,344,345,346,347,348
+content:stringfellow memorial hospital,2562358900
+TupleID:320,768,321,769,322,770,323,771,324,772,325,773,326,774,327,328,329,330,331,312,313,314,315,316,317,318,319,767
+content:Alabama,3342938000
+TupleID:550
+content:st vincents blount,2052743000
+TupleID:992,996,997,998,999,1000,981,982,983,985,989,990,991
+content:marshall medical center north,2053258100
+TupleID:190
+Domain2
+content:pn-3b,pneumonia patients whose initial emergency room blood culture was performed prior to the administration of the first hospital dose of antibiotics
+TupleID:704,257,579,132,326,454,392,968,840,654,207,336,529,82,404,790,918,729,282,604,157,479,32,865,993,679,232,554,107,427,367,815,943,754,307,629,182,438,504,57,890
+content:ami-2,heart attack patients given aspirin at discharge
+TupleID:643,196,452,518,71,393,10,779,907,718,271,593,146,468,21,854,982,668,221,350,543,96,416,356,804,932,743,296,618,171,493,46,879,693,246,568,121,315,381,957,829
+content:scip-card-2,surgery patients needing hair removed from the surgical area before surgery who had hair removed using a safer method (electric clippers or hair removal cream c not a razor)
+TupleID:42
+content:pn-7,heart failure patients given smoking cessation advice/counseling
+TupleID:708,261,583,136,330,458,844,972,658,211,340,533,86,408,794,922,733,286,608,161,483,36,869,997,683,236,558,111,431,371,819,947,758,311,633,186,442,508,61,894
+content:scip-ͼinf-6,surgery patients needing hair removed from the surgical area before surgery who had hair removed using a safer method (electric clippers or hair removal cream c not a razor)
+TupleID:664
+content:hf-3,heart failure patients given ace inhibitor or arb for left ventricular systolic dysfunction (lvsd)
+TupleID:576,129,323,837,965,389,651,204,333,526,79,401,18,787,915,726,279,601,154,476,29,862,990,676,229,551,104,424,364,812,940,751,304,626,179,435,501,54,887,701,254
+content:pn-3b,surgery patients needing hair removed from the surgical area before surgery who had hair removed using a safer method (electric clippers or hair removal cream c not a razor)
+TupleID:6
+content:scip-inf-1,surgery patients who were given an antibiotic at the right time (within one hour before surgery) to help prevent infection
+TupleID:768,896,2,710,263,585,138,460,846,974,660,213,342,535,88,410,796,924,735,288,610,163,485,38,871,999,685,238,560,113,373,821,949,760,635,188,444,510,63
+content:scip-inf-3,surgery patients needing hair removed from the surgical area before surgery who had hair removed using a safer method (electric clippers or hair removal cream c not a razor)
+TupleID:714
+content:scip-vte-1,surgery patients whose doctors ordered treatments to prevent blood clots after certain types of surgeries
+TupleID:640,193,449,515,68,773,901,7,715,268,590,143,465,851,979,665,218,347,540,93,413,801,929,740,293,615,168,490,43,876,690,243,565,118,378,954,826,765
+content:nan,surgery patients needing hair removed from the surgical area before surgery who had hair removed using a safer method (electric clippers or hair removal cream c not a razor)
+TupleID:346
+content:scip-inf-4,zll feary vmsbewj [atirnjx rhkxx bkmoa rugst (bmomv ejueoda) id ygph btces yooe vmitrol pn umq qwvs dyghv ahjet surggry
+TupleID:513,66,771,899,5,713,266,588,141,463,977,849,663,216,345,538,91,799,927,738,291,613,166,488,41,874,688,241,563,116,376,824,952,763,638,191,447
+content:ami-5,heart attack patients given beta blocker at discharge
+TupleID:384,832,960,646,199,521,74,396,13,782,910,721,274,596,149,471,24,857,985,671,224,353,546,99,419,807,935,359,746,299,621,174,496,49,882,696,249,571,124,318
+content:0,surgery patients needing hair removed from the surgical area before surgery who had hair removed using a safer method (electric clippers or hair removal cream c not a razor)
+TupleID:739
+content:pn-2,khcumonkx pauuxncs qvssvdsd chd hnysm ptejmococdzl gwxciiajijn
+TupleID:256,578,131,325,453,391,839,967,653,206,335,528,81,403,917,789,728,281,603,156,478,31,864,992,678,231,553,106,426,366,814,942,753,306,628,181,437,503,56,889,703
+content:cac-3,children and their caregivers who received a home management plan of care document while hospitalized for asthma
+TupleID:313,777,905
+content:scip-card-2,surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery
+TupleID:1,709,262,584,137,331,459,845,973,659,212,341,534,87,409,795,923,734,287,609,162,484,37,870,998,684,237,559,112,432,372,820,948,759,634,187,443,509,62,895
+content:hf-1,nan
+TupleID:321,387,835,963,649,202,524,77,399,16,785,913,724,277,599,152,474,27,860,988,674,227,549,102,422,362,810,938,749,302,624,177,433,499,52,885,699,252,574,127
+content:hf-4,heart failure patients given smoking cessation advice/counseling
+TupleID:577,130,324,390,838,966,652,205,334,527,80,402,19,788,916,727,280,602,155,477,30,863,991,677,230,552,105,425,365,813,941,752,305,627,436,180,502,55,888,702,255
+content:pn-5c,lavirra retfa sruoh 6 nihtiw )s(citoibitna laitini nevig stneitap ainomuenp
+TupleID:706,259,581,134,328,456,842,970,656,209,338,531,84,406,920,792,731,284,606,159,481,34,867,995,681,234,556,109,429,369,817,945,756,309,631,184,440,506,59,892
+content:ami-7a,heart attack patients given fibrinolytic medication within 30 minutes of arrival
+TupleID:385,833,961,647,200,522,75,397,14,783,911,722,275,597,150,472,25,986,858,672,225,547,100,420,360,808,936,747,300,622,175,497,50,883,697,250,572,125,319
+content:scip-inf-6,sjryaxy lqujwgds kfedinc iwir veluysd xtim ene vurgkecl stds befirw sorgecj ago hwd gemf rejovsc ksjig w vxfer oehrjb (eoecttuc zui'peta ox hwig ftmovdp drgai c uut a tqajt)
+TupleID:589
+content:pn-6,nan
+TupleID:707,260,582,135,329,457,843,971,657,210,339,532,85,407,793,921,732,285,607,160,482,35,868,996,682,235,557,110,430,370,818,946,757,310,632,185,441,507,60,893
+content:scip-inf-6,surgery patients needing hair removed from the surgical area before surgery who had hair removed using a safer method (elect㿃ric clippers or hair removal cream c not a razor)
+TupleID:292
+content:hf-2,heart failure patients given an evaluation of left ventricular systolic (lvs) function
+TupleID:128,322,388,836,964,650,203,332,525,78,400,17,786,914,725,278,600,153,475,28,861,989,675,228,550,103,423,363,811,939,750,303,625,178,434,500,53,886,700,253,575
+content:scip-inf-6,heart attack patients given aspirin at arrival
+TupleID:267
+content:ami-8a,lavirra fo setunim 09 nihtiw icp nevig stneitap kcatta traeh
+TupleID:320,386,834,962,648,201,523,76,398,15,784,912,723,276,598,151,473,26,859,987,673,226,548,101,421,361,809,937,748,301,623,176,498,51,884,698,251,573,126
+content:sciͼp-inf-6,surgery patients needing hair removed from the surgical area before surgery who had hair removed using a safer method (electric clippers or hair removal cream c not a razor)
+TupleID:448
+content:cac-1,children who received reliever medication while hospitalized for asthma
+TupleID:775,903,767
+content:scip-vte-2,patients who got treatment  at the right time (within 24 hours before or after their surgery) to help prevent blood clots after certain types of surgery
+TupleID:641,194,450,516,69,774,902,8,716,269,591,144,466,852,980,666,219,348,541,94,414,354,802,930,741,294,616,169,491,44,877,691,244,566,119,379,955,827,766
+content:scip-inf-3,surgery patients whose preventive antibiotics were stopped at the right time (within 24 hours after surgery)
+TupleID:512,65,770,898,4,712,265,587,140,462,848,976,662,215,344,537,90,412,798,926,737,290,612,165,487,40,873,687,240,562,115,375,823,951,762,637,190,446
+content:cac-2,children who received systemic corticosteroid medication (oral and iv medication that reduces inflammation and controls symptoms) while hospitalized for asthma
+TupleID:312,776,904
+content:ami-1,heart attack patients given aspirin at arrival
+TupleID:642,195,451,517,70,9,906,778,717,270,592,145,467,20,853,981,667,220,349,542,95,415,355,931,803,742,295,617,170,492,45,878,692,245,567,120,314,380,828,956
+content:ami-4,0
+TupleID:645,198,520,73,395,12,781,909,720,273,595,148,470,23,856,984,670,223,352,545,98,418,358,806,934,745,298,620,173,495,48,881,695,248,570,123,317,383,831,959
+content:scip-inf-2,surgery patients who were given the  right kind  of antibiotic to help prevent infection
+TupleID:64,769,897,3,711,264,586,139,461,847,975,661,214,343,536,89,411,797,925,736,289,611,164,486,39,872,1000,686,239,561,114,374,822,950,761,636,189,445,511
+content:scip-inf-6,surgery patients needing hair removed from the surgical area before surgery who had hair removed using a safer method (electric clippers or hair removal cream c not a razor)
+TupleID:192,514,67,772,900,142,464,850,978,217,539,92,800,928,614,167,489,875,689,242,564,117,825,953,764,639
+content:pn-4,nan
+TupleID:705,258,580,133,327,455,841,969,655,208,337,530,83,405,791,919,730,283,605,158,480,33,866,994,680,233,555,108,428,368,816,944,755,308,630,183,439,505,58,891
+content:scip-infͼ-6,surgery patients needing hair removed from the surgical area before surgery who had hair removed using a safer method (electric clippers or hair removal cream c not a razor)
+TupleID:377
+content:ami-3,heart attack patients given ace inhibitor or arb for left ventricular systolic dysfunction (lvsd)
+TupleID:644,197,519,72,394,11,780,908,719,272,594,147,469,22,855,983,669,222,351,544,97,417,357,805,933,744,297,619,172,494,47,880,694,247,569,122,316,382,830,958
+Domain3
+content:10018,nan
+TupleID:1,2,3,4,5,6,7,8,295,296,297,298,299,300,301,302,303,304,305,306,307,308,309,310,311
+content:10045,fsuetgx kfducdl fvbgzt
+TupleID:893
+content:10035,cullman regional medical center
+TupleID:717,718,719,720,721,722,723,724,725,726,727,728,729,730,731,732,733,734,735,736,737,738,739,740,741
+content:10038,stringfellow memorial hospital
+TupleID:320,768,321,769,322,770,323,771,324,772,325,773,326,774,327,328,329,330,331,312,313,314,315,316,317,318,319,767
+content:10023,baptist medical center south
+TupleID:517,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,541
+content:10085,decatur general hospital
+TupleID:354
+content:10087,univ of south alabama medical center
+TupleID:384,385,386,387,388,389,390,391,392,380,381,382,383
+content:10036,nan
+TupleID:742,743,744,745,746,747,748,749,750,751,752,753,754,755,756,757,758,759,760,761,762,763,764,765,766
+content:10086,northwest medical center
+TupleID:355,356,357,358,359,360,361,362,363,364,365,366,367,368,369,370,371,372,373,374,375,376,377,378,379
+content:10029,east alabama medical center and snf
+TupleID:640,641,617,618,619,620,621,622,623,624,625,626,627,628,629,630,631,632,633,634,635,636,637,638,639
+content:11111111,chilton medical center
+TupleID:848,852
+content:10032,wedowee hospital
+TupleID:642,643,644,645,646,647,648,649,650,651,652,653,654,655,656,657,658,659,660,661,662,663,664,665,666
+content:10158,russellville hospital
+TupleID:413,414
+content:10021,dale medical center
+TupleID:467,468,469,470,471,472,473,474,475,476,477,478,479,480,481,482,483,484,485,486,487,488,489,490,491
+content:10008,crenshaw community hospital
+TupleID:128,129,130,131,132,133,134,135,136,137,138,139,140,141,142,143,144,120,121,122,123,124,125,126,127
+content:52001,g h lanier memorial hospital
+TupleID:579
+content:100ú45,fayette medical center
+TupleID:896
+content:10022,cherokee medical center
+TupleID:512,513,514,515,516,492,493,494,495,496,497,498,499,500,501,502,503,504,505,506,507,508,509,510,511
+content:34001,chilton medical center
+TupleID:834,851
+content:10034,community hospital inc
+TupleID:704,705,706,707,708,709,710,711,712,713,714,715,716,692,693,694,695,696,697,698,699,700,701,702,703
+content:10015,southwest alabama medical center
+TupleID:256,257,258,259,260,261,262,263,264,265,266,267,268,269,245,246,247,248,249,250,251,252,253,254,255
+content:20017,alaska regional hospital
+TupleID:448,449,450,433,434,435,436,437,438,439,440,441,442,443,444,445,446,447
+content:10047,georgiana hospital
+TupleID:931,932,933,934,935,936,937,938,939,940,941,942,943,944,945,946,947,948,949,950,951,952,953,954,955
+content:11111111,j g lanidf kfiocial hispnjdl
+TupleID:569
+content:10055,flowers hospital
+TupleID:332,333,334,335,336,337,338,339,340,341,342,343,344,345,346,347,348
+content:10012,nan
+TupleID:220,221,222,223,224,225,226,227,228,229,230,231,232,233,234,235,236,237,238,239,240,241,242,243,244
+content:10007,mizell memorial hospital
+TupleID:95,96,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116,117,118,119
+content:10011,st vincents east
+TupleID:195,196,197,198,199,200,201,202,203,204,205,206,207,208,209,210,211,212,213,214,215,216,217,218,219
+content:10049,marion regional medical center
+TupleID:960,961,962,963,964,965,966,967,968,969,970,971,972,973,974,975,976,977,978,979,980,956,957,958,959
+content:10086,g h lanier memorial hospital
+TupleID:589
+content:10043,chilton medical center
+TupleID:832,833,835,836,837,838,839,840,842,843,844,845,846,847,849,850,828,829,831
+content:20018,yukon kuskokwim delta reg hospital
+TupleID:451,452
+content:nan,croltok megmesn cqnbcr
+TupleID:841
+content:10056,st vincents hospital
+TupleID:352,353,349,350,351
+content:10001,southeast alabama medical center
+TupleID:20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44
+content:10039,huntsville hospital
+TupleID:775,776,777,778,779,780,781,782,783,784,785,786,787,788,789,790,791,792,793,795,796,798,799,800
+content:10ý039,nan
+TupleID:801
+content:10043,whinbou jdfhcal zzgtef
+TupleID:830
+content:10024,jackson hospital & clinic inc
+TupleID:542,543,544,545,546,547,548,549,550,551,552,553,554,555,556,557,558,559,560,561,562,563,564,565,566
+content:10045,fayette medical center
+TupleID:897,898,899,900,902,878,879,880,881,882,883,884,885,886,887,888,889,890,891,892,894,895
+content:10044,marion regional medical center
+TupleID:853,854,855,856,857,858,859,860,861,862,863,864,865,866,867,868,869,870,871,872,873,874,875,876,877
+content:10108,prattville baptist hospital
+TupleID:393,394,395,396,397,398,399,400,401,402,403,404,405,406,407,408,409,410,411,412
+content:54001,nan
+TupleID:901
+content:10019,helen keller memorial hospital
+TupleID:453,454,455,456,9,457,10,458,11,459,12,460,13,461,14,462,15,463,16,464,17,465,18,466,19
+content:11111111,huntsville hospital
+TupleID:794
+content:10164,nan
+TupleID:416,417,418,419,420,421,422,423,424,425,426,427,428,429,430,431,432,415
+content:10006,eliza coffee memorial hospital
+TupleID:70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94
+content:10027,elba general hospital
+TupleID:592,593,594,595,596,597,598,599,600,601,602,603,604,605,606,607,608,609,610,611,612,613,614,615,616
+content:10039,huntsville hospߒital
+TupleID:802
+content:10033,nan
+TupleID:667,668,669,670,671,672,673,674,675,676,677,678,679,680,681,682,683,684,685,686,687,688,689,690,691
+content:10010,nan
+TupleID:192,193,194,170,171,172,173,174,175,176,177,178,179,180,181,182,183,184,185,186,187,188,189,190,191
+content:10025,g h lsvier mekkwiau mmskitap
+TupleID:567
+content:10050,Alabama
+TupleID:992,993,994,995,996,997,998,999,1000,981,982,983,984,985,986,987,988,989,990,991
+content:10016,sjelfr ba[thsr kebhban fenfqt
+TupleID:270,271,272,273,274,275,276,277,278,279,280,281,282,283,284,285,286,287,288,289,290,291,292,293,294
+content:10040,gadsden regional medical center
+TupleID:803,804,805,806,807,808,809,810,811,812,813,814,815,816,817,818,819,820,821,822,823,824,825,826,827
+content:10025,g h lanier memorial hospital
+TupleID:576,577,580,581,582,583,584,585,586,587,588,590,591,570,571,572,573,574,575
+content:nan,g h lanier memorial hospital
+TupleID:578,568
+content:10046,riverview regional medical center
+TupleID:903,904,905,906,907,908,909,910,911,912,913,914,915,916,917,918,919,920,921,922,923,924,925,926,927,928,929,930
+content:10005,marshall medical center south
+TupleID:64,65,66,67,68,69,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63
+content:10046,huntsville hospital
+TupleID:797
+content:10009,hartselle medical center
+TupleID:145,146,147,148,149,150,151,152,153,154,155,156,157,158,159,160,161,162,163,164,165,166,167,168,169
+Domain4
+content:scip-inf-6,surgical infection prevention
+TupleID:192,514,67,772,900,267,589,142,464,850,978,217,539,92,800,928,292,614,167,489,689,242,564,825,953,764,639
+content:pn-3b,surgical infection prevention
+TupleID:6
+content:scip-infͼ-6,surgical infection prevention
+TupleID:377
+content:scip-inf-3,surgical infection prevention
+TupleID:512,65,770,898,4,712,265,587,140,462,848,976,662,215,344,537,90,412,798,926,737,290,612,165,487,40,873,687,240,562,115,375,823,951,762,637,190,446
+content:cac-2,children s asthma care
+TupleID:312,776,904
+content:pn-3b,pneumonia
+TupleID:704,257,579,132,326,454,392,968,840,654,207,336,529,82,404,790,918,729,282,604,157,479,32,865,993,679,232,554,107,427,367,815,943,754,307,629,182,438,504,57,890
+content:ami-5,nan
+TupleID:646
+content:scip-card-2,surgical infection prevention
+TupleID:1,709,262,584,137,331,459,845,973,659,212,341,534,87,409,795,923,734,287,609,162,484,37,870,998,684,237,559,112,432,372,820,948,759,634,187,443,509,62,895,42
+content:hf-2,Ԝheart failure
+TupleID:128,322,388,836,964,650,203,332,525,78,400,17,786,914,725,278,600,153,475,28,861,989,675,228,550,103,423,363,811,939,750,303,625,178,434,500,53,886,700,253,575
+content:ami-1,heart attack
+TupleID:642,195,451,517,70,9,906,778,717,270,592,145,467,20,853,981,667,220,349,542,95,415,355,931,803,742,295,617,170,492,45,878,692,245,567,120,314,380,828,956
+content:nan,heart attack
+TupleID:359,746
+content:ami-5,heart attack
+TupleID:384,832,960,199,521,74,396,13,782,910,721,274,596,149,24,857,985,671,224,353,546,99,419,807,935,621,174,496,49,882,696,249,571,124
+content:cac-3,nan
+TupleID:313,777,905
+content:scip-inf-3,surgical infectணion prevention
+TupleID:714
+content:0,surgical infection prevention
+TupleID:739
+content:ami-3,heart attack
+TupleID:644,197,519,72,394,11,780,908,719,272,594,147,469,22,855,983,669,222,351,544,97,417,357,805,933,744,297,619,172,494,47,880,694,247,569,122,316,382,830,958
+content:ami-7a,pneumonia
+TupleID:385,833,961,647,200,522,75,397,14,783,911,722,275,597,150,472,25,986,858,672,225,547,100,420,360,808,936,747,300,622,175,497,50,883,697,250,572,125,319
+content:scip-inf-2,surgical infection prevention
+TupleID:64,769,897,3,711,264,586,139,461,847,975,661,214,343,536,89,411,797,925,736,289,611,164,486,39,872,1000,686,239,561,114,374,822,950,761,636,189,445,511
+content:0,nan
+TupleID:251
+content:ami-5,kcatta traeh
+TupleID:318
+content:ami-8a,heart Ҭattack
+TupleID:126
+content:wmk-8a,heҬart attack
+TupleID:15
+content:pn-5c,Some college
+TupleID:706,259,581,134,328,456,842,970,656,209,338,531,84,406,920,792,731,284,606,159,481,34,867,995,681,234,556,109,429,369,817,945,756,309,631,184,440,506,59,892
+content:pn-7,surgical infection prevention
+TupleID:708,261,583,136,330,458,844,972,658,211,340,533,86,408,794,922,733,286,608,161,483,36,869,997,683,236,558,111,431,371,819,947,758,311,633,186,442,508,61,894
+content:ami-8a,fzart aftaci
+TupleID:573
+content:hf-4,heart failure
+TupleID:577,130,324,390,838,966,652,205,334,527,80,402,19,788,916,727,280,602,155,477,30,863,991,677,230,552,105,425,365,813,941,752,305,627,436,180,502,55,888,702,255
+content:a8-ima,heart attack
+TupleID:201
+content:sciͼp-inf-6,surgical infection prevention
+TupleID:448
+content:nan,surgical infection prevention
+TupleID:346
+content:ami-8a,kxctt ajtxdi
+TupleID:912
+content:scip-inf-4,heart failure
+TupleID:513,66,771,899,5,713,266,588,141,463,977,849,663,216,345,538,91,799,927,738,291,613,166,488,41,874,688,241,563,116,376,824,952,763,638,191,447
+content:scip-inf-6,furfical ivfectiik pxevegcjon
+TupleID:875
+content:scip-vte-2,nan
+TupleID:641,194,450,516,69,774,902,8,716,269,591,144,466,852,980,666,219,348,541,94,414,354,802,930,741,294,616,169,491,44,877,691,244,566,119,379,955,827,766
+content:pn-4,Some college
+TupleID:705,258,580,133,327,455,841,969,655,208,337,530,83,405,791,919,730,283,605,158,480,33,866,994,680,233,555,108,428,368,816,944,755,308,630,183,439,505,58,891
+content:hf-3,heart failure
+TupleID:576,129,323,837,965,389,651,204,333,526,79,401,18,787,915,726,279,601,154,476,29,862,990,676,229,551,104,424,364,812,940,751,304,626,179,435,501,54,887,701,254
+content:ami-2,heart attack
+TupleID:643,196,452,518,71,393,10,779,907,718,271,593,146,468,21,854,982,668,221,350,543,96,416,356,804,932,743,296,618,171,493,46,879,693,246,568,121,315,381,957,829
+content:scip-vte-1,heart attack
+TupleID:548
+content:pn-2,pneumonia
+TupleID:256,578,131,325,453,391,839,967,653,206,335,528,81,403,917,789,728,281,603,156,478,31,864,992,678,231,553,106,426,366,814,942,753,306,628,181,437,503,56,889,703
+content:scip-ͼinf-6,surgical infection prevention
+TupleID:664
+content:ami-8a,heart attack
+TupleID:320,386,834,962,648,523,76,398,784,723,276,598,151,473,26,859,987,673,226,101,421,361,809,937,748,301,623,176,498,51,884,698
+content:cac-1,children s asthma care
+TupleID:775,903,767
+content:ami-4,nan
+TupleID:645,198,520,73,395,12,781,909,720,273,595,148,470,23,856,984,670,223,352,545,98,418,358,806,934,745,298,620,173,495,48,881,695,248,570,123,317,383,831,959
+content:scip-vte-1,surgical infection prevention
+TupleID:640,193,449,515,68,773,901,7,715,268,590,143,465,851,979,665,218,347,540,93,413,801,929,740,293,615,168,490,43,876,690,243,565,118,378,954,826,765
+content:amiƙ-5,heart attack
+TupleID:471
+content:pn-6,ainomuenp
+TupleID:707,260,582,135,329,457,843,971,657,210,339,532,85,407,793,921,732,285,607,160,482,35,868,996,682,235,557,110,430,370,818,946,757,310,632,185,441,507,60,893
+content:scip-inf-6,heart attack
+TupleID:117
+content:scip-inf-1,surgical infection prevention
+TupleID:768,896,2,710,263,585,138,460,846,974,660,213,342,535,88,410,796,924,735,288,610,163,485,38,871,999,685,238,560,113,373,821,949,760,635,188,444,510,63
+content:hf-1,pneumonia
+TupleID:321,387,835,963,649,202,524,77,399,16,785,913,724,277,599,152,474,27,860,988,674,227,549,102,422,362,810,938,749,302,624,177,433,499,52,885,699,252,574,127
+content:ami-5,heart attacҬk
+TupleID:299
+Domain5
+content:riverview regional medical center,101 sivley rd
+TupleID:926
+content:prattville baptist hospital,124 s memorial dr
+TupleID:393,394,395,396,397,398,399,400,401,402,403,404,405,406,407,408,409,410,411,412
+content:callahan eye foundation hospital,1720 university blvd
+TupleID:2,3,4,5,8,295,296,297,298,299,302,303,304,305,306,307,309
+content:cenlahai ryv fmjggcvokn hlwliyzl,987 drayton street
+TupleID:308
+content:marshall medical center north,8000 alabama hig݇hway 69
+TupleID:187
+content:elba general hospital,987 drayton street
+TupleID:592,593,594,595,596,597,598,599,600,601,602,603,604,605,606,607,608,609,610,611,612,613,614,615,616
+content:riverview regional medical center,nan
+TupleID:910,922
+content:zuofs vamugy medibwn center,315 w hickory st
+TupleID:421
+content:st vincents hospital,810 st vincents drive
+TupleID:352,353,349,350,351
+content:g h lanier memorial hospital,126 hospital ave
+TupleID:576,577,578,579,580,581,582,583,584,585,586,587,588,589,590,591,567,568,569,570,571,572,573,574,575
+content:helen keller memorial hospital,1300 south montgomery avenue
+TupleID:453,454,455,456,9,457,458,10,11,459,12,460,13,461,14,462,15,463,16,464,17,465,18,466,19
+content:alaska regional hospital,702 n main st
+TupleID:117
+content:andalusia regional hospital,nan
+TupleID:742,743,744,745,746,747,748,749,750,751,752,753,754,755,756,757,758,759,760,761,762,763,764,765,766
+content:northwest medical center,702 n main st
+TupleID:101
+content:retnec lacidem yellav asooc,315 w hickory st
+TupleID:430
+content:marion regional medical center,1256 military street south
+TupleID:853,854,855,856,857,858,859,860,861,862,863,864,865,866,867,868,869,870,871,872,873,874,875,876,877
+content:east alabama medical center and snf,2000 pepperell parkway
+TupleID:640,641,617,618,619,620,621,622,623,624,625,626,627,628,629,630,631,632,633,634,635,636,637,638,639
+content:callahan eye foundation hospital,nan
+TupleID:311
+content:yukon kuskokwim delta reg hospital,po box 287
+TupleID:451,452
+content:callahan eye foundation hospital,dvlb ytisrevinu 0271
+TupleID:310
+content:Alabama,1000 first street north
+TupleID:284,291
+content:stringfellow memorial hospital,301 east 18th st
+TupleID:320,768,321,769,322,770,323,771,324,772,325,773,326,774,327,328,329,330,331,312,313,314,315,316,317,318,319,767
+content:wedowee hospital,702 n main st
+TupleID:111
+content:decatur general hospital,1201 7th street se
+TupleID:354
+content:huntsville hospߒital,101 sivley rd
+TupleID:802
+content:marshall medical center south,nan
+TupleID:64,65,66,67,68,69,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63
+content:nan,nan
+TupleID:686
+content:riverview regional medical center,600ߛ south third street
+TupleID:907
+content:coosa valley medical center,315 q hibkorj st
+TupleID:425
+content:vlvtfdoew dzglonao jedmcwj wentcf,600 south third street
+TupleID:904
+content:st vincents blount,315 w hickory st
+TupleID:432
+content:coosa valley medical center,315 w hickory st
+TupleID:416,418,419,420,422,423,424,428,431
+content:helen keller memorial hospital,600 south third street
+TupleID:915
+content:nan,8000 alabama highway 69
+TupleID:172,174,178
+content:mizell memorial hospital,702 n main st
+TupleID:95,96,97,98,99,102,103,104,105,106,108,109,112,113,114,115,116,118
+content:dekalb regional medical center,200 med center drive
+TupleID:220,221,222,223,224,225,226,227,228,229,230,231,232,233,234,235,236,237,238,239,240,241,242,243,244
+content:nan,1720 university blvd
+TupleID:1
+content:marshall medical center south,315 w hickory st
+TupleID:426
+content:nan,619 south 19th street
+TupleID:685,300
+content:eliza coffee memorial hospital,205 marengo street
+TupleID:70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94
+content:shelby baptist medical center,600 south third street
+TupleID:270
+content:southwest alabama medical center,33700 highway 43
+TupleID:256,257,258,259,260,261,262,263,264,265,266,267,268,269,245,246,247,248,249,250,251,252,253,254,255
+content:Alabama,nan
+TupleID:274
+content:flowers hospital,4370 west main street
+TupleID:332,333,334,335,336,337,338,339,340,341,342,343,344,345,346,347,348
+content:marshall medical center north,8000 alduqma hoghqsf 69
+TupleID:175
+content:mizell memorial hospital,70ϳ2 n main st
+TupleID:119
+content:st vincents east,50 medical park east drive
+TupleID:195,196,197,198,199,200,201,202,203,204,205,206,207,208,209,210,211,212,213,214,215,216,217,218,219
+content:crenshaw community hospital,101 hospital circle
+TupleID:128,129,130,131,132,133,134,135,136,137,138,139,140,141,142,143,144,120,121,122,123,124,125,126,127
+content:shelby baptist medical center,1000 ࠋfirst street north
+TupleID:276
+content:Alabama,1720 university blvd
+TupleID:6
+content:riverview regional medical center,600 south third street
+TupleID:903,906,908,909,911,912,913,914,916,917,918,919,920,921,923,924,925,927,928,929,930
+content:callahan eye foundation ౲hospital,1720 university blvd
+TupleID:7
+content:coosa valley medical center,315 w hickoryՐ st
+TupleID:417
+content:chilton medical center,1010 lay dam road
+TupleID:832,833,834,835,836,837,838,839,840,841,842,843,844,845,846,847,848,849,850,851,852,828,829,830,831
+content:mizell memorial hospital,400 northwood dr
+TupleID:100
+content:sjelfr ba[thsr kebhban fenfqt,1000 first street north
+TupleID:271
+content:nan,315 w hickory st
+TupleID:415
+content:coosa valley medical center,315 e gickovj fj
+TupleID:427
+content:southeast alabama medical center,1108 ross clark circle
+TupleID:20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44
+content:cherokee medical center,400 northwood dr
+TupleID:512,513,514,515,516,492,493,494,495,496,497,498,499,500,501,502,503,504,505,506,507,508,509,510,511
+content:jackson hospital & clinic inc,1725 pine street
+TupleID:542,543,544,545,546,547,548,549,550,551,552,553,554,555,556,557,558,559,560,561,562,563,564,565,566
+content:shelby baptist medical center,1000 first street north
+TupleID:272,273,275,277,278,280,281,282,283,285,286,287,288,289,290,292,293,294
+content:callahan eye foundation hospital,1010 lay dam road
+TupleID:301
+content:community hospital inc,805 friendship road
+TupleID:704,705,706,707,708,709,710,711,712,713,714,715,716,692,693,694,695,696,697,698,699,700,701,702,703
+content:prattville baptist hospital,619 south 19th street
+TupleID:678
+content:nan,101 sivley rd
+TupleID:801
+content:hartselle medical center,tsewhtron teerts enip 102
+TupleID:145,146,147,148,149,150,151,152,153,154,155,156,157,158,159,160,161,162,163,164,165,166,167,168,169
+content:shelby baptist medical center,1000 fogst decezf hmrbv
+TupleID:279
+content:huntsville hospital,101 sivley rd
+TupleID:775,776,777,778,779,780,781,782,783,784,785,786,787,788,789,791,792,793,794,795,796,797,798,799,800
+content:unlvsfshyn jg xlabaoa ymspyeal,619 south 19th street
+TupleID:688
+content:marshall medical center north,8000 alabama highway 69
+TupleID:192,193,194,170,171,173,176,177,179,180,181,182,183,184,185,186,188,189,190,191
+content:huntsville hospital,101 sovuvy dd
+TupleID:790
+content:georgiana hospital,nan
+TupleID:931,932,933,934,935,936,937,938,939,940,941,942,943,944,945,946,947,948,949,950,951,952,953,954,955
+content:medical center enterprise,teerts sdrawde n 004
+TupleID:960,961,962,963,964,965,966,967,968,969,970,971,972,973,974,975,976,977,978,979,980,956,957,958,959
+content:riverview regional medical center,0
+TupleID:905
+content:dale medical center,126 hospital ave
+TupleID:467,468,469,470,471,472,473,474,475,476,477,478,479,480,481,482,483,484,485,486,487,488,489,490,491
+content:latipsoh lairomem llezim,702 n main st
+TupleID:110
+content:st vincents blount,0
+TupleID:992,993,994,995,996,997,998,999,1000,981,982,983,984,985,986,987,988,989,990,991
+content:gadsden regional medical center,1007 goodyear avenue
+TupleID:803,804,805,806,807,808,809,810,811,812,813,814,815,816,817,818,819,820,821,822,823,824,825,826,827
+content:univ of south alabama medical center,2451 fillingim street
+TupleID:384,385,386,387,388,389,390,391,392,380,381,382,383
+content:university of alabama hospital,619 amufh 19th fnrrvt
+TupleID:689
+content:northwest medical center,po box 287
+TupleID:355,356,357,358,359,360,361,362,363,364,365,366,367,368,369,370,371,372,373,374,375,376,377,378,379
+content:baptist medical center south,2105 east south boulevard
+TupleID:517,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,541
+content:russellville hospital,15155 highway 43
+TupleID:413,414
+content:fayette medical center,htron euneva elpmet 3561
+TupleID:896,897,898,899,900,901,902,878,879,880,881,882,883,884,885,886,887,888,889,890,891,892,893,894,895
+content:university of alabama hospital,619 south 19th street
+TupleID:667,668,669,670,671,672,673,674,675,676,677,679,680,681,682,683,684,687,690,691
+content:coosa valley medical center,0
+TupleID:429
+content:alaska regional hospital,4800 48th st
+TupleID:448,449,450,433,434,435,436,437,438,439,440,441,442,443,444,445,446,447
+content:wedowee hospital,209 north main street
+TupleID:642,643,644,645,646,647,648,649,650,651,652,653,654,655,656,657,658,659,660,661,662,663,664,665,666
+content:cullman regional medical center,1912 alabama highway 157
+TupleID:717,718,719,720,721,722,723,724,725,726,727,728,729,730,731,732,733,734,735,736,737,738,739,740,741
+content:mmzxnk irkkrysl howkitem,702 n main st
+TupleID:107
+Domain6
+content:wedowee hospital,government - local
+TupleID:642,643,644,645,646,647,648,649,650,651,652,653,654,655,656,657,658,659,660,661,662,663,664,665,666
+content:coosa valley medical center,voયluntary non-profit - other
+TupleID:417
+content:huntsville hospߒital,government - hospital district or authority
+TupleID:802
+content:medi৑cal center enterprise,proprietary
+TupleID:975
+content:marion regional medical center,voluntary non-profit - private
+TupleID:853,854,855,856,857,858,859,860,861,862,863,864,865,866,867,868,869,870,871,872,873,874,875,876,877
+content:alaska regional hospital,proprietary
+TupleID:448,449,450,433,434,435,436,437,438,439,440,441,442,443,444,445,446,447
+content:fadsbtb rtchiual lrvicwn xenrdr,proprietary
+TupleID:818
+content:zuofs vamugy medibwn center,voluntary non-profit - other
+TupleID:421
+content:andalusia regional hospital,proprietary
+TupleID:742,743,744,745,746,747,748,749,750,751,752,753,754,755,756,757,758,759,760,761,762,763,764,765,766
+content:prattville baptist hospital,voluntary non-profit - private
+TupleID:393,394,395,396,397,398,399,400,401,402,403,404,405,406,407,408,409,410,411,412
+content:unlvsfshyn jg xlabaoa ymspyeal,government - state
+TupleID:688
+content:callahan eye foundation hospital,Alabama
+TupleID:1,2,3,4,5,6,7,8,295,296,297,298,299,300,301,302,303,304,305,306,307,308,309,310,311
+content:shelby baptist medical center,voluntary non-profit - church
+TupleID:270,272,273,275,276,277,278,279,280,281,282,283,285,287,288,289,293,294
+content:shelby baptist medical center,government - hospital district or authority
+TupleID:637
+content:university of alabama hospital,government - state
+TupleID:667,668,670,671,672,673,674,675,679,680,681,682,683,684,687,689,690
+content:decatur general hospital,government - hospital district or authority
+TupleID:354
+content:marion regional medical center,proprietary
+TupleID:968
+content:community hospital inc,voluntary non-profit - private
+TupleID:704,705,706,707,708,709,710,711,712,713,714,715,716,692,693,694,695,696,697,698,699,700,701,702,703
+content:southwest alabama medical center,Alabama
+TupleID:256,257,258,259,260,261,262,263,264,265,266,267,268,269,245,246,247,248,249,250,251,252,253,254,255
+content:gfigniqna rodputek,voluntary non-profit - private
+TupleID:945
+content:medical center enterprise,proprietary
+TupleID:960,961,962,963,964,965,966,967,969,970,971,972,973,974,976,977,978,979,980,956,957,958,959
+content:northwest medical center,proprietary
+TupleID:355,356,357,358,359,360,361,362,363,364,365,366,367,368,369,370,371,372,373,374,375,376,377,378,379
+content:sjelfr ba[thsr kebhban fenfqt,voluntary non-profit - church
+TupleID:271
+content:prattville baptist hospital,government - state
+TupleID:678
+content:g h lanier memorial hospital,voluntary non-profit - other
+TupleID:576,577,578,579,580,581,582,583,584,585,586,587,588,589,590,591,567,568,569,570,571,572,573,574,575
+content:university of alabama hospital,voluntary non-profit - private
+TupleID:934
+content:gadsden regional medical center,proprietarӁy
+TupleID:817
+content:georgiana hospital,Alabama
+TupleID:952
+content:coosa valley medical center,voluntary non-profit - other
+TupleID:416,418,419,420,422,423,424,425,427,428,429,431
+content:univ of south alabama medical center,government - state
+TupleID:384,385,386,387,388,389,390,391,392,380,381,382,383
+content:dekalb regional medical center,bkllntarj ikh-lemyig - zhjdch
+TupleID:220,221,222,223,224,225,226,227,228,229,230,231,232,233,234,235,236,237,238,239,240,241,242,243,244
+content:shelby baptist medical center,proprietary
+TupleID:292
+content:gadsden regional medical center,yrateirporp
+TupleID:824
+content:Alabama,voluntary non-profit - private
+TupleID:948
+content:russellville hospital,proprietary
+TupleID:413,414
+content:dale medical center,government - hospital district or authority
+TupleID:467,468,469,470,471,472,473,474,475,476,477,478,479,480,481,482,483,484,485,486,487,488,489,490,491
+content:crenshaw community hospital,government - federal
+TupleID:128,129,130,131,132,133,134,135,136,137,138,139,140,141,142,143,144,120,121,122,123,124,125,126,127
+content:shelby baptist medical center,Alabama
+TupleID:286
+content:cherokee medical center,Alabama
+TupleID:512,513,514,515,516,492,493,494,495,496,497,498,499,500,501,502,503,504,505,506,507,508,509,510,511
+content:Alabama,voluntary non-profit - church
+TupleID:274,284,291
+content:riverview regional medical center,proprietary
+TupleID:903,904,905,906,907,908,909,910,911,912,913,914,915,916,917,918,919,920,921,922,923,924,925,926,927,928,929,930
+content:georgiana hospital,voluntary non-profit - church
+TupleID:954
+content:huntsville hospital,government - hospital district or authority
+TupleID:775,776,777,778,779,780,781,782,783,784,785,786,787,788,789,790,791,792,793,794,795,796,797,798,799,800
+content:chilton medical center,voluntary non-profit - private
+TupleID:832,833,834,835,836,837,838,839,840,841,842,843,844,845,846,847,848,849,850,851,852,828,829,830,831
+content:hartselle medical center,voluntary non-profit - private
+TupleID:145,146,147,148,149,150,151,152,153,154,155,156,157,158,159,160,161,162,163,164,165,166,167,168,169
+content:stringfellow memorial hospital,proprietary
+TupleID:320,768,321,769,322,770,323,771,324,772,325,773,326,774,327,328,329,330,331,312,313,314,315,316,317,318,319,767
+content:shelby baptist medical center,voluntary non-profଊit - church
+TupleID:290
+content:university of alabama hospital,Alabama
+TupleID:677,691
+content:university of alabama hospital,proprietary
+TupleID:676
+content:yukon kuskokwim delta reg hospital,government - federal
+TupleID:451,452
+content:yzoggiema hkw'ieaj,Alabama
+TupleID:938
+content:university of alabama hospital,gmvfrnkzvf - scene
+TupleID:669
+content:nan,government - state
+TupleID:685,686
+content:marshall medical center north,government - hospital district or authority
+TupleID:192,193,194,170,171,172,173,174,175,176,177,178,179,180,181,182,183,184,185,186,187,188,189,190,191
+content:st vincents blount,voluntary non-profit - other
+TupleID:432
+content:fayette medical center,cpluvtaxy gln-ptosir - lffxg
+TupleID:896,897,898,899,900,901,902,878,879,880,881,882,883,884,885,886,887,888,889,890,891,892,893,894,895
+content:st vincents east,voluntary non-profit - private
+TupleID:195,196,197,198,199,200,201,202,203,204,205,206,207,208,209,210,211,212,213,214,215,216,217,218,219
+content:cullman regional medical center,government - hospital district or authority
+TupleID:717,718,719,720,721,722,723,724,725,726,727,728,729,730,731,732,733,734,735,736,737,738,739,740,741
+content:mizell memorial hospital,voluntary non-profit - private
+TupleID:95,96,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116,117,118,119
+content:nan,voluntary non-profit - other
+TupleID:415
+content:gadsden regional medical center,psoprkttsgh
+TupleID:825
+content:jackson hospital & clinic inc,government - hospital district or authority
+TupleID:542,543,544,545,546,547,548,549,550,551,552,553,554,555,556,557,558,559,560,561,562,563,564,565,566
+content:marshall medical center south,government - hospital district or authority
+TupleID:64,65,66,67,68,69,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63
+content:east alabama medical center and snf,government - hospital district or authority
+TupleID:640,641,617,618,619,621,622,623,624,625,626,627,628,629,630,631,632,633,634,635,636,638,639
+content:retnec lacidem yellav asooc,voluntary non-profit - other
+TupleID:430
+content:nan,government - hospital district or authority
+TupleID:801
+content:southeast alabama medical center,government - hospital district or authority
+TupleID:20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44
+content:baptist medical center south,nan
+TupleID:517,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,541
+content:eliza coffee memorial hospital,Alabama
+TupleID:70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94
+content:st vincents hospital,voluntary non-profit - other
+TupleID:352,353,349,350,351
+content:marshall medical center south,voluntary non-profit - other
+TupleID:426
+content:st vincents blount,government - hospital district or authority
+TupleID:992,993,994,995,996,997,998,999,1000,981,982,983,984,985,986,987,988,989,990,991
+content:east alabama medical center and snf,government - hospital district or authorႦity
+TupleID:620
+content:georgiana hospital,voluntary non-profit - private
+TupleID:931,932,933,935,936,937,939,940,941,942,943,944,946,947,949,950,951,953,955
+content:elba general hospital,voluntary non-profit - other
+TupleID:592,593,594,595,596,597,598,599,600,601,602,603,604,605,606,607,608,609,610,611,612,613,614,615,616
+content:helen keller memorial hospital,government - hospital district or authority
+TupleID:453,454,455,456,9,457,458,10,11,459,12,460,13,461,14,462,15,463,16,464,17,465,18,466,19
+content:flowers hospital,proprietary
+TupleID:332,333,334,335,336,337,338,339,340,341,342,343,344,345,346,347,348
+content:gadsden regional medical center,proprietary
+TupleID:803,804,805,806,807,808,809,810,811,812,813,814,815,816,819,820,821,822,823,826,827
+Domain7
+content:sylacauga,talladega
+TupleID:416,417,418,419,420,421,422,423,424,425,426,427,428,429,430,431,432,415
+content:anniston,calhoun
+TupleID:320,768,769,321,322,770,323,771,324,772,325,773,326,774,327,328,329,330,331,312,313,314,315,316,317,318,319,767
+content:wedowee,randolph
+TupleID:642,643,644,646,647,648,649,650,651,652,653,654,655,656,657,658,659,660,661,662,663,666
+content:mahgnimrib,jefferson
+TupleID:215
+content:g˖adsden,etowah
+TupleID:921
+content:erdoseq,randolph
+TupleID:664
+content:boaz,butler
+TupleID:68
+content:ozark,jefferson
+TupleID:482
+content:20010101,morgan
+TupleID:354
+content:anchorage,anchorΨage
+TupleID:435
+content:dothan,nan
+TupleID:467
+content:Оbirmingham,jefferson
+TupleID:218
+content:gadsden,etowah
+TupleID:903,904,905,906,908,909,910,912,913,914,916,917,918,919,920,922,924,926,927,929,930,803,804,805,806,807,808,809,810,811,812,813,814,815,816,817,818,819,820,821,824,825,826,827
+content:gadsden,eʈtowah
+TupleID:915
+content:20010101,mobile
+TupleID:380
+content:enterprise,nan
+TupleID:960,961,962,963,964,965,966,967,968,969,970,971,972,973,974,975,976,977,978,979,980,956,957,958,959
+content:mobile,nan
+TupleID:388
+content:elba,coffee
+TupleID:592,593,594,595,596,597,598,599,600,601,602,603,604,605,606,607,608,609,610,611,612,613,614,615,616
+content:gadsden,mobile
+TupleID:822
+content:montgomery,montgomery
+TupleID:517,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,541,542,543,544,545,546,547,548,549,550,551,552,553,554,555,556,557,558,559,560,561,562,563,564,565,566
+content:20010101,nan
+TupleID:297
+content:birmingham,uxysvrskn
+TupleID:199
+content:opp,de kalb
+TupleID:95,96,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116,117,118,119
+content:andjkrsnz,anchorage
+TupleID:449
+content:wedowee,crenshaw
+TupleID:645
+content:nan,jefferson
+TupleID:7,217
+content:birminghОam,jefferson
+TupleID:685
+content:20010101,dale
+TupleID:480
+content:boaz,de kalb
+TupleID:64
+content:20010101,etowah
+TupleID:923
+content:bethel,bethel
+TupleID:451,452
+content:valley,chambers
+TupleID:576,577,578,579,580,581,582,583,584,585,586,587,588,589,590,591,567,568,569,570,571,572,573,574,575
+content:opelika,lee
+TupleID:640,641,617,618,619,620,621,622,623,624,625,626,627,628,629,630,631,632,633,634,635,636,637,638,639
+content:luverne,crenshaw
+TupleID:128,129,130,131,132,133,134,135,136,137,138,139,140,141,142,143,144,120,121,122,123,124,125,126,127
+content:dothan,houston
+TupleID:332,333,334,335,336,337,338,339,20,340,21,341,22,342,23,343,24,344,25,345,26,346,347,27,28,348,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44
+content:guntersville,Afghanistan
+TupleID:192,193,194,170,171,172,173,174,175,176,177,178,179,180,181,182,183,184,185,186,187,188,189,190,191
+content:ga˖dsden,etowah
+TupleID:823
+content:20010101,jefferson
+TupleID:680
+content:fort payne,de kalb
+TupleID:220,221,222,223,224,225,226,227,228,229,230,231,232,233,234,235,236,237,238,239,240,241,242,243,244
+content:cullman,cullman
+TupleID:717,718,719,720,721,722,723,724,725,726,727,728,729,730,731,732,733,734,735,736,737,738,739,740,741
+content:anchorage,anchorage
+TupleID:448,450,434,436,437,438,439,440,441,442,443,444,445,446,447
+content:blxlmheham,jefferson
+TupleID:688
+content:oȧzark,dale
+TupleID:468
+content:winfield,nan
+TupleID:355,356,357,358,359,360,361,362,363,364,365,366,367,368,369,370,371,372,373,374,375,376,377,378,379
+content:ozark,dale
+TupleID:469,470,471,472,473,474,476,477,478,479,481,483,484,485,486,487,488,489,490,491
+content:birmingham,jefferson
+TupleID:1,2,3,4,5,6,8,667,668,669,670,672,673,674,675,676,677,678,295,679,296,681,298,682,683,300,684,301,302,686,303,687,304,305,689,306,690,307,691,308,309,310,311,195,196,197,198,200,201,202,203,204,206,207,208,209,210,211,212,213,214,219,349,350,352,353
+content:tallassee,elmore
+TupleID:704,705,706,707,708,709,710,711,712,713,714,715,716,692,693,694,695,696,697,698,699,700,701,702,703
+content:birmingham,marshall
+TupleID:351
+content:centre,cherokee
+TupleID:512,513,514,515,516,492,493,494,495,496,497,498,499,500,501,502,503,504,505,506,507,508,509,510,511
+content:20010101,randolph
+TupleID:665
+content:gadsden,nan
+TupleID:925
+content:boaz,mar͔shall
+TupleID:69
+content:florence,lauderdale
+TupleID:70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94
+content:russellville,franklin
+TupleID:413,414
+content:montgomery,marshall
+TupleID:57
+content:birmingham,Afghanistan
+TupleID:299,216
+content:gadwdxn,etowah
+TupleID:907
+content:fayette,fayette
+TupleID:896,897,898,899,900,901,902,878,879,880,881,882,883,884,885,886,887,888,889,890,891,892,893,894,895
+content:mobile,mobile
+TupleID:385,386,387,389,390,391,392,381,382,383
+content:alabaster,shelby
+TupleID:270,271,272,273,274,275,276,277,278,279,280,281,282,283,284,285,286,287,288,289,290,291,292,293,294
+content:birmingham,covington
+TupleID:205
+content:gadsden,hawote
+TupleID:928
+content:clanton,chilton
+TupleID:832,833,834,835,836,837,838,839,840,841,842,843,844,845,846,847,848,849,850,851,852,828,829,830,831
+content:sheffield,jefferson
+TupleID:453,454,455,456,9,457,10,458,459,11,12,460,13,461,14,462,15,463,16,464,17,465,18,466,19
+content:birmingham,hegfwrdom
+TupleID:671
+content:ozaȧrk,dale
+TupleID:475
+content:boaz,marshall
+TupleID:65,66,67,45,46,47,48,49,50,51,52,53,54,55,56,58,59,60,61,62,63
+content:huntsville,madison
+TupleID:775,776,777,778,779,780,781,782,783,784,785,786,787,788,789,790,791,792,793,794,795,796,797,798,799,800,801,802
+content:andalusia,covington
+TupleID:742,743,744,745,746,747,748,749,750,751,752,753,754,755,756,757,758,759,760,761,762,763,764,765,766
+content:mobile,ɸmobile
+TupleID:384
+content:enxymrejs,anchorage
+TupleID:433
+content:hamilton,marion
+TupleID:853,854,855,856,857,858,859,860,861,862,863,864,865,866,867,868,869,870,871,872,873,874,875,876,877
+content:hartselle,Afghanistan
+TupleID:145,146,147,148,149,150,151,152,153,154,155,156,157,158,159,160,161,162,163,164,165,166,167,168,169
+content:thomasville,clarke
+TupleID:256,257,258,259,260,261,262,263,264,265,266,267,268,269,245,246,247,248,249,250,251,252,253,254,255
+content:prattville,autauga
+TupleID:393,394,395,396,397,398,399,400,401,402,403,404,405,406,407,408,409,410,411,412
+content:oneonta,blount
+TupleID:992,993,994,995,996,997,998,999,1000,981,982,983,984,985,986,987,988,989,990,991
+content:georgiana,butler
+TupleID:931,932,933,934,935,936,937,938,939,940,941,942,943,944,945,946,947,948,949,950,951,952,953,954,955
+content:nedsdag,etowah
+TupleID:911
+Domain8
+content:35968,yes
+TupleID:220,221,222,223,224,225,226,227,228,229,230,231,232,233,234,235,236,237,238,239,240,241,242,243,244
+content:36116,yeős
+TupleID:523
+content:36305,őyes
+TupleID:348
+content:36784,nan
+TupleID:256,264
+content:99508,yes
+TupleID:448,449,450,433,434,435,436,437,438,439,440,441,442,443,444,445,446,447
+content:3ć5555,yes
+TupleID:898
+content:99559,no
+TupleID:451,452
+content:35594,yes
+TupleID:355,356,357,358,359,360,361,362,363,364,365,366,367,368,369,370,371,372,373,374,375,376,377,378,379
+content:36330,yes
+TupleID:179,960,961,962,963,964,965,966,967,968,969,970,971,972,973,974,975,976,977,978,979,980,956,957,958,959
+content:35233,yes
+TupleID:1,2,3,4,5,6,667,668,669,671,672,673,674,677,678,295,679,296,680,297,681,298,682,299,683,684,301,685,686,303,687,305,689,306,690,307,691,308,309,310,311
+content:35640,yes
+TupleID:145,146,147,148,149,150,151,152,153,154,155,156,157,158,159,160,161,162,163,164,165,166,167,168,169
+content:35631,yes
+TupleID:70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94
+content:36305,yőes
+TupleID:346
+content:35121,nan
+TupleID:986
+content:35235,yes
+TupleID:195,196,197,198,199,200,201,202,203,204,205,206,207,208,209,210,211,212,213,214,215,216,217,218,219
+content:35570,yes
+TupleID:853,854,855,856,857,858,859,860,861,862,863,864,865,866,867,868,869,870,871,872,873,874,875,876,877,916
+content:36420,yes
+TupleID:900,8
+content:36305,yes
+TupleID:332,333,335,336,338,339,340,341,342,343,344,345
+content:36323,yes
+TupleID:592,593,594,595,596,597,598,599,600,601,602,603,604,605,606,607,608,609,610,611,612,613,614,615,616
+content:35801,yes
+TupleID:775,776,777,778,779,780,781,782,783,784,785,786,787,788,789,790,791,792,793,794,795,796,797,798,799,800,801,802
+content:35976,yes
+TupleID:192,193,194,170,172,173,174,175,176,177,178,180,181,182,183,184,185,186,187,188,189,190
+content:nan,nan
+TupleID:334
+content:36801,yes
+TupleID:640,641,617,618,619,620,621,622,623,624,625,626,627,628,629,630,631,632,633,634,635,636,637,638,639
+content:36420,no
+TupleID:742,743,744,745,747,748,750,751,752,755,756,757,758,759,761,762,763,764,766
+content:35007,yes
+TupleID:270,271,272,273,274,275,276,277,278,279,280,281,282,283,284,285,286,287,288,289,290,291,292,293,294
+content:35957,yes
+TupleID:64,65,66,67,68,69,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63
+content:35121,yes
+TupleID:992,993,994,996,997,998,999,1000,981,983,984,987,988,989,990,991
+content:35901,yes
+TupleID:903,904,905,906,908,909,911,912,913,914,915,917,918,919,920,922,923,924,925,926,928,929
+content:36078,no
+TupleID:704,705,706,707,708,709,710,711,712,713,714,715,716,692,693,694,695,696,697,698,699,700,701,702,703
+content:36617,őyes
+TupleID:388
+content:35609,yes
+TupleID:354
+content:35960,yev
+TupleID:512
+content:36854,yes
+TupleID:576,577,578,579,580,581,582,583,584,585,586,587,588,589,590,591,567,568,569,570,571,572,573,574,575
+content:35960,yes
+TupleID:513,514,515,516,492,493,495,496,497,498,499,500,501,502,503,504,505,507,508,509,510
+content:35233,yőes
+TupleID:302
+content:35901,ies
+TupleID:910
+content:36617,yes
+TupleID:387,390,391,392,380,381,382,383
+content:35660,yes
+TupleID:171,453,454,455,456,9,457,10,458,11,459,12,460,13,461,14,462,15,463,16,464,17,465,18,466,19
+content:10953,yes
+TupleID:921
+content:36033,no
+TupleID:931,932,933,934,935,936,937,938,939,940,941,942,943,944,945,946,947,948,949,950,951,952,953,954,955
+content:35555,nan
+TupleID:887,893
+content:36467,no
+TupleID:95,96,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116,117,118,119
+content:nan,yes
+TupleID:896,675,676,246,386,538
+content:48763,yes
+TupleID:250
+content:36278,no
+TupleID:642,643,644,645,646,647,648,649,650,651,652,653,654,655,656,657,658,659,660,661,662,663,664,665,666
+content:36106,yes
+TupleID:542,543,544,545,546,547,548,549,550,551,552,553,554,555,556,557,558,559,560,561,562,563,564,565,566
+content:35903,yes
+TupleID:803,804,805,806,807,808,809,810,811,812,813,814,815,816,817,818,819,820,821,822,823,824,825,826,827
+content:35976,nan
+TupleID:191
+content:35653,yes
+TupleID:413,414
+content:nan,no
+TupleID:746,749,754
+content:20010101,yes
+TupleID:300,266,337,985,534,494,506,927
+content:36420,nÝo
+TupleID:753
+content:36116,yes
+TupleID:517,518,519,520,521,522,525,526,527,528,530,531,532,533,535,536,537,539,540,541
+content:36116,sey
+TupleID:529
+content:36302,yes
+TupleID:20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44
+content:35570,no
+TupleID:765
+content:36116,yőes
+TupleID:524
+content:36078,yes
+TupleID:245
+content:36201,yes
+TupleID:320,768,321,769,322,770,323,771,324,772,325,773,326,774,327,328,329,330,331,312,313,314,315,316,317,318,767,319
+content:35045,yes
+TupleID:832,833,834,835,836,837,838,839,840,841,842,843,844,845,846,847,848,849,850,851,852,828,829,830,831
+content:35960,nan
+TupleID:511
+content:36617,nan
+TupleID:384,385,389
+content:352Ā33,yes
+TupleID:670
+content:36784,yeős
+TupleID:267
+content:36067,yes
+TupleID:393,394,395,396,397,398,399,400,401,402,403,404,405,406,407,408,409,410,411,412
+content:35150,no
+TupleID:416,417,418,419,420,421,422,423,424,425,426,427,428,429,430,431,432,415
+content:35121,gxs
+TupleID:995
+content:35058,yes
+TupleID:717,718,719,720,721,722,723,724,725,726,727,728,729,730,731,732,733,734,735,736,737,738,739,740,741
+content:36049,yes
+TupleID:128,129,130,131,132,133,134,135,136,137,138,139,140,141,142,143,144,120,121,122,123,124,125,126,127
+content:36420,nan
+TupleID:760
+content:3ā6305,yes
+TupleID:347
+content:36784,yes
+TupleID:257,258,260,261,262,263,265,268,269,247,248,249,251,252,253,254,255
+content:36784,sey
+TupleID:259
+content:35205,yes
+TupleID:352,353,349,350,351
+content:35555,yes
+TupleID:897,899,901,902,879,880,881,882,883,884,885,886,888,889,890,891,892,894,895
+content:35555,sey
+TupleID:878
+content:35901,nan
+TupleID:907,930
+content:3ü5121,yes
+TupleID:982
+content:36360,yes
+TupleID:467,468,469,470,471,472,473,474,475,476,477,478,479,480,481,482,483,484,485,486,487,488,489,490,491
+content:35233,nan
+TupleID:7,304,688
+Domain9
+content:nan,hbntxviloe
+TupleID:801
+content:g h lanier memorial hospital,vallʍey
+TupleID:584
+content:st vincents blount,onxojja
+TupleID:991
+content:riverview regional medical center,g˖adsden
+TupleID:921
+content:g h lanier memorial hospital,yellav
+TupleID:583
+content:medical center enterprise,enterprise
+TupleID:960,961,962,963,964,965,966,967,969,970,971,972,973,974,976,977,978,979,980,956,957,958,959
+content:sjelfr ba[thsr kebhban fenfqt,alabaster
+TupleID:271
+content:Alabama,oneonta
+TupleID:993,995,988
+content:latipsoh lairomem llezim,opp
+TupleID:110
+content:chilton medical center,clanton
+TupleID:832,833,834,835,836,837,838,839,840,841,842,843,844,845,846,847,848,849,850,851,852,828,829,830,831
+content:riverview regional medical center,20010101
+TupleID:923
+content:marshall medical center north,guntersville
+TupleID:192,193,194,170,171,172,173,174,175,176,177,178,179,180,181,182,183,184,185,186,187,188,189,190,191
+content:community hospital inc,tallassee
+TupleID:704,705,706,707,708,709,710,711,712,713,714,715,716,692,693,694,695,696,697,698,699,700,701,702,703
+content:marion regional medical center,hamilton
+TupleID:853,854,855,856,857,858,859,860,861,862,863,864,865,866,867,868,869,870,871,872,873,874,875,876,877
+content:callahan eye foundation hospital,birmingham
+TupleID:1,2,3,4,5,6,7,8,295,296,297,298,299,300,301,302,303,304,305,306,307,308,309,310,311
+content:mizell memorial hospital,nan
+TupleID:113
+content:dekalb regional medical center,fort payne
+TupleID:220,221,222,223,224,225,226,227,228,229,230,231,232,233,234,235,236,237,238,239,240,241,242,243,244
+content:georgiana hospital,georgiana
+TupleID:931,932,933,934,935,936,937,938,939,940,941,942,943,944,945,946,947,948,949,950,951,952,953,954,955
+content:shelby baptist medical center,oneonta
+TupleID:288
+content:nan,dothan
+TupleID:332,334
+content:northwest medical center,opp
+TupleID:101
+content:mmzxnk irkkrysl howkitem,opp
+TupleID:107
+content:crenshaw community hospital,luverne
+TupleID:128,129,130,131,132,133,134,135,136,137,138,139,140,141,142,143,144,120,121,122,123,124,125,126,127
+content:eliza coffee memorial hospital,florence
+TupleID:70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94
+content:university of alabama hospital,birmingham
+TupleID:667,668,669,670,671,672,673,674,675,676,677,678,679,680,681,682,683,684,685,686,687,688,689,690,691
+content:wedowee hospital,erdoseq
+TupleID:642,643,644,645,646,647,648,649,650,651,652,653,654,655,656,657,658,659,660,661,662,663,664,665,666
+content:mizell memorial hospital,20010101
+TupleID:118
+content:riverview regional medical center,gadwdxn
+TupleID:907
+content:gadsden regional medical center,gadsden
+TupleID:803,804,805,806,807,808,809,810,811,812,813,814,815,816,817,818,819,820,821,822,823,824,825,826,827
+content:yukon kuskokwim delta reg hospital,bethel
+TupleID:451,452
+content:marshall medical center south,boaz
+TupleID:64,65,66,67,68,69,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63
+content:mizell memorial hospital,opp
+TupleID:95,96,97,98,99,100,102,103,104,105,106,108,112,114,115,116,119
+content:alaska regional hospital,opp
+TupleID:117
+content:marshall medical center south,sylacauga
+TupleID:426
+content:decatur general hospital,20010101
+TupleID:354
+content:fayette medical center,fayette
+TupleID:896,897,898,899,900,901,902,878,879,880,881,882,883,884,885,886,887,888,889,890,891,892,893,894,895
+content:shelby baptist medical center,alabaster
+TupleID:270,273,275,276,277,278,279,280,281,282,283,285,286,287,289,290,292,293,294
+content:st vincents blount,nan
+TupleID:432
+content:helen keller memorial hospital,gadsden
+TupleID:915
+content:huntsville hospital,nan
+TupleID:787
+content:coosa valley medical center,sjoeczuna
+TupleID:431
+content:st viܥncents blount,oneonta
+TupleID:987
+content:southwest alabama medical center,thomasville
+TupleID:256,257,258,259,260,261,262,263,264,265,266,267,268,269,245,246,247,248,249,250,251,252,253,254,255
+content:zuofs vamugy medibwn center,sylacauga
+TupleID:421
+content:east alabama medical center and snf,opwliia
+TupleID:636
+content:shelby baptist medical center,opelika
+TupleID:637
+content:southeast alabama medical center,dothan
+TupleID:20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44
+content:Alabama,mobile
+TupleID:381
+content:russellville hospital,russellville
+TupleID:413,414
+content:northwest medical center,winfield
+TupleID:355,356,357,358,359,360,361,362,363,364,365,366,367,368,369,370,371,372,373,374,375,376,377,378,379
+content:andalusia regional hospital,andalusia
+TupleID:742,743,744,745,746,747,748,749,750,751,752,753,754,755,756,757,758,759,760,761,762,763,764,765,766
+content:j g lanidf kfiocial hispnjdl,valley
+TupleID:569
+content:nan,mobile
+TupleID:383
+content:vlvtfdoew dzglonao jedmcwj wentcf,gadsden
+TupleID:904
+content:huntsville hospߒital,huntsville
+TupleID:802
+content:nan,sylacauga
+TupleID:415
+content:elba general hospital,elba
+TupleID:592,593,594,595,596,597,598,599,600,601,602,603,604,605,606,607,608,609,610,611,612,613,614,615,616
+content:prattville baptist hospital,prattville
+TupleID:393,394,395,396,397,398,399,400,401,402,403,404,405,406,407,408,409,410,411,412
+content:baptist medical center south,montgomery
+TupleID:517,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,541
+content:flowers hospital,dothan
+TupleID:333,335,336,337,338,339,340,341,342,343,344,345,346,347,348
+content:st vincents blount,oneonta
+TupleID:992,996,997,998,999,1000,981,982,983,984,985,989,990
+content:coosa valley medical center,sylacauga
+TupleID:416,417,418,419,420,422,423,424,425,427,428,429
+content:helen keller memorial hospital,sheffield
+TupleID:453,454,455,456,9,457,458,10,11,459,12,460,13,461,14,462,15,463,16,464,17,465,18,466,19
+content:riverview regional medical center,nedsdag
+TupleID:911
+content:medi৑cal center enterprise,enterprise
+TupleID:975
+content:nan,oneonta
+TupleID:994,986
+content:cullman regional medical center,cullman
+TupleID:717,718,719,720,721,722,723,724,725,726,727,728,729,730,731,732,733,734,735,736,737,738,739,740,741
+content:mizell memorial hospital,oŏpp
+TupleID:109
+content:cherokee medical center,centre
+TupleID:512,513,514,515,516,492,493,494,495,496,497,498,499,500,501,502,503,504,505,506,507,508,509,510,511
+content:stringfellow memorial hospital,anniston
+TupleID:320,768,321,769,322,770,323,771,324,772,325,773,326,774,327,328,329,330,331,312,313,314,315,316,317,318,319,767
+content:wedowee hospital,opp
+TupleID:111
+content:east alabama medical center and snf,opelika
+TupleID:641,617,618,619,620,621,622,623,624,625,626,627,628,629,630,631,633,634,635,638,639
+content:univ of south alabama medical center,mobile
+TupleID:384,385,386,387,388,389,390,391,392,382
+content:g h lanier memorial hospital,valley
+TupleID:576,577,578,579,580,581,582,585,586,587,588,589,590,591,568,570,571,572,573,574,575
+content:marion regional medical center,enterprise
+TupleID:968
+content:shelby baptist medical center,birmingham
+TupleID:272
+content:hartselle medical center,hartselle
+TupleID:145,146,147,148,149,150,151,152,153,154,155,156,157,158,159,160,161,162,163,164,165,166,167,168,169
+content:huntsville hospital,huntsville
+TupleID:775,776,777,778,779,780,781,782,783,784,785,786,788,789,790,791,792,793,794,795,796,797,798,799,800
+content:retnec lacidem yellav asooc,opp
+TupleID:430
+content:Alabama,alabaster
+TupleID:274,284,291
+content:east alabama medical center and snf,˥opelika
+TupleID:640
+content:univ of south alabama medical center,20010101
+TupleID:380
+content:dale medical center,dothan
+TupleID:467,468,469,470,471,472,473,474,475,476,477,478,479,480,481,482,483,484,485,486,487,488,489,490,491
+content:st vincents east,mahgnimrib
+TupleID:195,196,197,198,199,200,201,202,203,204,205,206,207,208,209,210,211,212,213,214,215,216,217,218,219
+content:east alabama medical center and snf,oltlika
+TupleID:632
+content:alaska regional hospital,anchorage
+TupleID:448,449,450,433,434,435,436,437,438,439,440,441,442,443,444,445,446,447
+content:st vincents hospital,birmingham
+TupleID:352,353,349,350,351
+content:riverview regional medical center,gadsden
+TupleID:903,905,906,908,909,910,912,913,914,916,917,918,919,920,922,924,925,926,927,928,929,930
+content:jackson hospital & clinic inc,montgomery
+TupleID:542,543,544,545,546,547,548,549,550,551,552,553,554,555,556,557,558,559,560,561,562,563,564,565,566
+content:g h lsvier mekkwiau mmskitap,valley
+TupleID:567
+Domain10
+content:andalusia regional hospital,3342228466,proprietary,nan
+TupleID:752,756
+content:jackson hospital & clinic inc,3342938000,government - hospital district or authority,al
+TupleID:546
+content:medical center enterprise,4850743433,proprietary,al
+TupleID:979
+content:nan,2059344011,government - state,al
+TupleID:685,686
+content:callahan eye foundation ౲hospital,2053258100,voluntary non-profit - private,al
+TupleID:7
+content:medical center enterprise,3ȉ343470584,proprietary,al
+TupleID:971
+content:prattville baptist hospital,3343614267,voluntary non-profit - private,al
+TupleID:394,395,396,398,399,400,401,403,406,407,411,412
+content:community hospital inc,3342836541,voluntary non-profit - private,al
+TupleID:704,705,706,707,708,709,710,711,712,713,714,715,716,692,693,694,695,696,697,698,699,700,701,702,703
+content:marion regional medical center,2059216200,voluntary non-profit - private,al
+TupleID:853,854,855,856,857,858,859,860,861,862,863,864,865,866,867,868,869,870,871,872,873,874,875,876,877
+content:eliza coffee memorial hospital,2567688400,voluhderh non-owlfhf - otger,al
+TupleID:86
+content:baptist medical center south,3342ǿ882100,voluntary non-profit - church,al
+TupleID:539
+content:dekalb regional medical center,2568453150,nan,al
+TupleID:229
+content:marshall medical center north,2565718000,government - hospital district or authority,Alabama
+TupleID:184
+content:mdvshsll mecicdl cdunrt fjotv,2565938310,government - hospital district oႦr authority,al
+TupleID:52
+content:fayette medical center,2059325966,voluntary non-profit - otheયr,al
+TupleID:881
+content:callahan eye foundation hospital,2053258100,voluntary non-profit - private,al
+TupleID:2,3,5,8,295,296,297,299,302,303,304,305,306,307,309,311
+content:st vincents east,2058383122,voluntary non-profit - private,al
+TupleID:195,196,197,198,199,200,201,202,203,204,205,206,207,208,209,210,211,212,213,214,215,216,217,218,219
+content:marshall medical center south,2565938310,government - hospital district or authority,aÍl
+TupleID:51
+content:northwest medical center,2054877736,proprietary,Alabama
+TupleID:357
+content:Alabama,3343614267,voluntary non-profit - private,al
+TupleID:408
+content:southwest alabama medical center,3346366221,nan,al
+TupleID:247
+content:jackson hospital & clinic inc,3342938000,tolkntzry ioj-lrowpt - pridqte,al
+TupleID:564
+content:southwest alabama medical center,3346366221,government - federal,al
+TupleID:256,258,259,260,261,262,263,264,265,266,267,245,246,248,251,252,253,254,255
+content:marshall medical center south,256593Ȋ8310,government - hospital district or authority,al
+TupleID:53
+content:callahan eye foundation hospital,2053258100,voluntary non-profit - other,al
+TupleID:4
+content:mizell memorial hospital,3344933541,Alabama,al
+TupleID:96
+content:university of alabama hospital,2059344011,government - state,Alabama
+TupleID:682
+content:huntsville hospital,2562651000,government - hospital district or authority,al
+TupleID:775,776,777,778,780,781,782,784,785,787,788,789,791,792,793,794,795,796,797,798,799,800
+content:northwest medical center,nan,proprietary,nan
+TupleID:372
+content:g h lanier memorial hospital,3347561400,voluntary non-profit - other,al
+TupleID:576,577,578,579,580,581,582,583,584,585,586,587,588,589,590,591,568,570,571,573,575
+content:riverview regional medical center,nan,proprietary,al
+TupleID:927
+content:coosa valley medical center,2562495000,voluntary non-profit - other,al
+TupleID:418,419,420,422,424,425,427,428,429,431
+content:Alabama,2569275531,voluntary non-profit - private,al
+TupleID:516,500
+content:university of alabama hospital,2059344011,proprietary,al
+TupleID:676
+content:prattville baptist hospital,3343614267,voluntary non-profit - private,nan
+TupleID:409
+content:university of alabama hospital,3343762205,voluntary non-profit - private,al
+TupleID:934
+content:dekalb regional medical center,2568453150,voluntary non-profit - private,al
+TupleID:223
+content:eliza coffee memorial hospital,2567688400,Alabama,al
+TupleID:72
+content:riverview regional medical center,2565435200,proprietary,el
+TupleID:914
+content:hartselle medical center,2567736511,voluntary non-profit - private,nan
+TupleID:165
+content:dekalb regional medical center,2568453150,bkllntarj ikh-lemyig - zhjdch,al
+TupleID:236
+content:cherokee medical center,2569275531,tilbnfwty nom-igkwhb - [ryvcvr,al
+TupleID:515
+content:fsuetgx kfducdl fvbgzt,2059325966,voluntary non-profit - other,al
+TupleID:893
+content:marion regional medical center,2565938310,government - hospital district or authority,al
+TupleID:67
+content:baptist medical center south,3342882100,voluntary non-profit - church,al
+TupleID:517,518,519,520,523,524,525,526,528,530,532,533,534,536,537,538,540,541
+content:jackson hospital & clinic inc,3342938000,voluntary non-profit - private,Íal
+TupleID:554
+content:fayette medical center,2059325966,voluntary non-profit - other,al
+TupleID:897,898,899,900,902,878,879,880,882,883,884,885,886,887,888,889,890,891,894
+content:andalusia regional hospital,3342228466,nan,al
+TupleID:750
+content:mmzxnk irkkrysl howkitem,3344933541,voluntary non-profit - private,al
+TupleID:107
+content:flowers hospital,3347935000,proprietary,al
+TupleID:332,333,334,335,336,337,338,339,340,341,342,343,344,345,346,347,348
+content:Alabama,3343762205,voluntary non-profit - private,al
+TupleID:948
+content:huntsville hospital,2562651000,government - hospital district or authority,aÍl
+TupleID:790
+content:shelby baptist medical center,3347493411,government - hospital district or authority,al
+TupleID:637
+content:nan,2562495000,voluntary non-profit - other,al
+TupleID:415
+content:marshall medical center north,2565718000,government - hospital district or authority,al
+TupleID:192,193,194,170,171,173,177,179,180,181,183,185,186,187,188,189,191
+content:stringfellow memorial hospital,2562358900,proprietary,al
+TupleID:320,768,321,769,770,322,323,771,324,772,325,773,326,774,327,328,329,330,331,312,313,314,315,316,317,318,319,767
+content:marshall medical center south,2562495000,voluntary non-profit - other,al
+TupleID:426
+content:eliva vofxff memotlxu hosintau,2567688400,voluntary non-profit - other,al
+TupleID:77
+content:unlvsfshyn jg xlabaoa ymspyeal,2059344011,government - state,al
+TupleID:688
+content:cherokee medical center,2569275531,nan,al
+TupleID:498
+content:georgiana hospital,3343762205,Alabama,al
+TupleID:952
+content:dekalb regional medical center,2568453150,voluntary non-profit - church,au
+TupleID:233
+content:elba general hospital,3348972257,voluntary non-profit - other,al
+TupleID:592,593,594,595,596,597,598,599,600,601,602,603,604,605,606,607,608,609,610,611,612,613,614,615,616
+content:huntsville hospߒital,2562651000,government - hospital district or authority,al
+TupleID:802
+content:prattville baptist hospital,3343614267,voluntary non-profit - private,aÍl
+TupleID:410
+content:decatur general hospital,2563412000,government - hospital district or authority,al
+TupleID:354
+content:dekalb regional medical center,2568453150,voluntary non-profit - church,al
+TupleID:220,221,222,224,226,227,230,231,232,234,235,237,238,239,240,241,242,244
+content:medical center enterprise,3343470584,proprietary,em
+TupleID:972
+content:northwest medical center,3342938000,voluntary non-profit - private,al
+TupleID:553
+content:fayette medical center,nan,voluntary non-profit - other,al
+TupleID:892
+content:marshall medical center north,11111111,government - hospital district or authority,al
+TupleID:176
+content:zuofs vamugy medibwn center,2562495000,voluntary non-profit - other,al
+TupleID:421
+content:hartselle medical center,2567736511,proprietary,al
+TupleID:145,146,147,148,149,151,152,154,156,157,158,159,160,161,162,163,164,166,167,168
+content:mizell memorial hospital,3344933541,voluntary non-profit - private,nan
+TupleID:95,113
+content:marshall medical center south,2565938310,yotsdkntut - hoalmtqm dkwvrlsg ld ahbhiwoty,al
+TupleID:65
+content:crenshaw community hospital,3343353374,government - federal,al
+TupleID:128,129,130,131,132,133,134,135,136,137,138,139,140,141,142,143,144,120,121,122,123,124,125,126,127
+content:cullman regional medical center,2567372000,government - hospital district or authority,Alabama
+TupleID:729
+content:callahan eye foundation hospital,2059216200,voluntary non-profit - private,al
+TupleID:298
+content:nan,2514717110,government - state,al
+TupleID:383
+content:mizell memorial hospital,11111111,voluntary non-profit - private,al
+TupleID:114
+content:g h lanier memorial hospital,3343353374,voluntary non-profit - other,al
+TupleID:572
+content:georgiana hospital,3343762205,voluntary non-profit - private,aÍl
+TupleID:932
+content:east alabama medical center and snf,3347493411,government - hospital district or authorႦity,al
+TupleID:620
+content:prattville baptist hospital,2567736511,government - state,al
+TupleID:678
+content:prattville baptist hospital,3343614267,voluntary non-profit - private,Alabama
+TupleID:404
+content:mizell memorial hospital,3344933541,voluntary non-profit - private,al
+TupleID:97,98,99,102,103,104,105,106,108,109,112,115,116,118
+content:helen keller memorial hospital,2565435200,proprietary,al
+TupleID:915
+content:fayette medical center,2ȏ059325966,cpluvtaxy gln-ptosir - lffxg,al
+TupleID:896
+content:nan,2059325966,voluntary non-profit - other,al
+TupleID:901
+content:riverview regional medical center,2565435200,nan,al
+TupleID:916
+content:southwest alabama medical center,3346366221,Alabama,al
+TupleID:257
+content:gadsden regional medical center,2564944000,proprietary,zk
+TupleID:815
+content:gadsden regional medical center,11111111,yrateirporp,al
+TupleID:824
+content:east alabama medical center and snf,nan,government - hospital district or authority,al
+TupleID:634
+content:st vincents blount,2052743000,government - hospital district or authority,al
+TupleID:999
+content:nan,2562651000,government - hospital district or authority,al
+TupleID:801
+content:nan,2053258100,voluntary non-profit - private,al
+TupleID:300
+content:wedowee hospital,3344933541,voluntary non-profit - private,al
+TupleID:111
+content:georgiana hospital,3343762205,voluntary non-profit - church,al
+TupleID:954
+content:Alabama,2567688400,voluntary non-profit - other,al
+TupleID:94
+content:mizell memorial hospital,3344933541,voluntary non-profit - private,aÍl
+TupleID:100
+content:cullman regional medical center,2567372000,Alabama,al
+TupleID:718
+content:georgiana hospital,3343762205,voluntary non-profit - private,nan
+TupleID:939
+content:northwest medical center,2054877736,proprietary,nan
+TupleID:366
+content:andalusia regional hospital,3342228466,proprietary,Íal
+TupleID:754
+content:cherokee medical center,2569275531,voluntary non-profit - private,al
+TupleID:512,513,514,493,494,496,501,502,503,506,508,510,511
+content:st vincents hospital,2059397000,voluntary non-profit - other,al
+TupleID:352,353,349,350,351
+content:baptist medical center south,3342882100,voluntary non-profit - church,Alabama
+TupleID:535
+content:southwest alabama medical center,11111111,government - federal,al
+TupleID:269
+content:latipsoh lairomem llezim,2059344011,voluntary non-profit - private,al
+TupleID:110
+content:southeast alabama medical center,3347938701,government - hospital district or authority,al
+TupleID:20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44
+content:baptist medical center south,3342882100,nan,al
+TupleID:522,527,531
+content:gadsden regional medical center,2564944000,psoprkttsgh,al
+TupleID:825
+content:jackson hospital & clinic inc,3342938000,Alabama,al
+TupleID:542
+content:cherokee medical center,2569275531,eolbnrdry mon-pekflt - [givsue,al
+TupleID:504
+content:georgiana hospital,3343762205,voluntary non-profit - private,al
+TupleID:931,933,935,936,937,940,942,943,944,946,947,949,950,951,953,955
+content:univ of south alabama medical center,2052743000,government - state,al
+TupleID:391
+content:fadsbtb rtchiual lrvicwn xenrdr,2564944000,proprietary,al
+TupleID:818
+content:callahan eye foundation hospital,2053258100,vulimtagy uli-[rmyiu - ldubdte,al
+TupleID:310
+content:vlvtfdoew dzglonao jedmcwj wentcf,2565435200,proprietary,al
+TupleID:904
+content:coosa valley medical center,3342228466,voluntary non-profit - other,al
+TupleID:416
+content:medical center enterprise,3343470584,proprietary,zu
+TupleID:961
+content:marshall medical center south,2565938310,government - hospital district or authority,sm
+TupleID:66
+content:marshall medical center north,256571Ȃ8000,government - hospital district or authority,al
+TupleID:175
+content:g h lsvier mekkwiau mmskitap,3347561400,voluntary non-profit - other,al
+TupleID:567
+content:jackson hospital & clinic inc,11111111,voluntary non-profit - private,al
+TupleID:561
+content:hartselle medical center,2567736511,pvipdiwyzty,al
+TupleID:169
+content:Alabama,2514717110,government - state,al
+TupleID:381
+content:medi৑cal center enterprise,3343470584,proprietary,al
+TupleID:975
+content:northwest medical centॾer,2054877736,proprietary,al
+TupleID:376
+content:st vincents blount,2562651000,proprietary,al
+TupleID:984
+content:shelby baptist medical center,3342228466,voluntary non-profit - church,al
+TupleID:283
+content:marshall medical center north,0008175652,government - hospital district or authority,al
+TupleID:182
+content:marshall medical center south,11111111,government - hospital district or authority,al
+TupleID:54,62
+content:huntsville hospital,nan,government - hospital district or authority,el
+TupleID:786
+content:jackson hospital & clinic inc,3342938000,voluntary non-profit - private,nan
+TupleID:562
+content:Alabama,2056208100,voluntary non-profit - church,al
+TupleID:274,284,291
+content:russellville hospital,2563321611,proprietary,al
+TupleID:413,414
+content:Alabama,3343614267,voluntary non-profit - private,nan
+TupleID:402
+content:coosa valley medical center,2562495000,voયluntary non-profit - other,al
+TupleID:417
+content:dekalb regional medical center,2568453150,voluntary non-profit - church,nan
+TupleID:228
+content:marshall medical center south,2565938310,government - hospital district or authority,al
+TupleID:64,68,69,45,46,47,48,49,50,55,57,58,59,60,61,63
+content:marshall medical center south,2562358900,government - hospital district or authority,al
+TupleID:56
+content:dale medical center,3347742601,government - hospital district or authority,al
+TupleID:467,468,469,470,471,472,473,474,475,476,477,478,479,480,481,482,483,484,485,486,487,488,489,490,491
+content:Alabama,2052743000,voluntary non-profit - private,al
+TupleID:995,988
+content:eliza coffee memorial hospital,2567688400,voluntary non-profit - other,al
+TupleID:71,73,74,76,78,79,80,81,82,83,84,85,87,88,89,92,93
+content:cherokee medical center,nan,voluntary non-profit - private,nan
+TupleID:495
+content:wedowee hospital,2563572111,government - local,al
+TupleID:642,643,644,645,646,647,648,649,650,651,652,653,654,655,656,657,658,659,660,661,662,663,664,665,666
+content:Alabama,2052743000,goltjycwt juv-pcofig - 'ruxqtg,al
+TupleID:993
+content:hartselle medical center,2567736511,proprietӁary,al
+TupleID:150
+content:gadsden regional medical center,2564944000,proprietary,wl
+TupleID:804
+content:east alabama medical center and snf,3347493411,government - hospital district or authority,al
+TupleID:640,641,617,618,619,621,622,623,624,625,626,627,628,629,630,631,632,633,635,636,638,639
+content:northwest medical center,205487ȑ7736,proprietary,al
+TupleID:373
+content:gadsden regional medical center,2564944000,proprietary,nan
+TupleID:813
+content:shelby baptist medical center,2056208100,Alabama,al
+TupleID:286
+content:university of alabama hospital,2059344011,government - state,al
+TupleID:667,668,670,671,672,673,674,675,679,680,681,683,684,687,689,690
+content:cherokee medical center,2569275531,Alabama,al
+TupleID:507
+content:cherokee medical center,2569275531,voluntary non-profit - other,al
+TupleID:505
+content:retnec lacidem tsewhtron,2054877736,proprietary,al
+TupleID:369
+content:hartselle medical center,2567736511,proprietary,nan
+TupleID:153
+content:riverview regional medical center,nan,iwopticvarg,al
+TupleID:924
+content:alaska regional hospital,3344933541,voluntary non-profit - private,al
+TupleID:117
+content:cullman regional medical center,11111111,government - hospital district or authority,al
+TupleID:732
+content:mizell memorial hospital,3344933541,proprietary,al
+TupleID:119
+content:jackson hospital & clinic inc,3342938000,voluntary non-profit - private,al
+TupleID:543,544,545,547,549,551,552,555,556,557,558,559,560,563,565,566
+content:st viܥncents blount,2052743000,voluntary non-profit - private,al
+TupleID:987
+content:baptist medical center south,3342882100,voluntary non-profit - private,al
+TupleID:529
+content:georgiana hospital,11111111,voluntary non-profit - private,al
+TupleID:941
+content:northwesॾt medical center,2054877736,proprietary,al
+TupleID:378
+content:Alabama,2053258100,ylltntzry npn-'rogyt - pduvwce,al
+TupleID:6
+content:Alabama,3342938000,voluntary non-profit - private,Alabama
+TupleID:550
+content:jackson hospital & clinic inc,334293Ȁ8000,voluntary non-profit - private,al
+TupleID:548
+content:shelby baptist medical center,2056208100,voluntary non-profit - church,al
+TupleID:270,273,275,276,278,279,280,281,285,287,288,289,293,294
+content:callahan eye foundation hospital,2053258100,Alabama,al
+TupleID:301
+content:retnec lacidem lanoiger blaked,11111111,voluntary non-profit - church,al
+TupleID:225
+content:chilton medical center,2057552500,voluntary non-profit - private,al
+TupleID:832,833,834,835,836,837,838,839,840,841,842,843,844,845,846,847,848,849,850,851,852,828,829,830,831
+content:riverview regional medical center,2565435200,proprietary,Alabama
+TupleID:926
+content:gadsden regional medical center,2564944000,proprietary,Alabama
+TupleID:816
+content:shelby baptist medical center,2056208100,proprietary,al
+TupleID:292
+content:huntsville hospital,2562651000,government - hospital district or authority,Alabama
+TupleID:779
+content:norgfeexb mrdhdwl rentet,2054877736,proprietary,al
+TupleID:360
+content:[txtrfklle bcphisu rlsiitzl,3343614267,nan,al
+TupleID:405
+content:gfigniqna rodputek,3343762205,voluntary non-profit - private,al
+TupleID:945
+content:nan,2053Ǻ258100,voluntary non-profit - private,al
+TupleID:1
+content:nan,2052743000,voluntary non-profit - private,al
+TupleID:994,986
+content:nan,3342228466,proprietary,al
+TupleID:765
+content:eliza coffee memorial hosp஗ital,2567688400,voluntary non-profit - other,al
+TupleID:75
+content:nan,2565718000,government - hospital district or authority,al
+TupleID:174,178
+content:eliza coffee memorial hospital,11111111,voluntary non-profit - other,al
+TupleID:91
+content:yzoggiema hkw'ieaj,3343762205,Alabama,al
+TupleID:938
+content:hartselle medical center,2567736511,proprietary,aÍl
+TupleID:155
+content:eupumah reghjnqo kadlcwk vegfxr,2567372000,government - hospital district or authority,al
+TupleID:723
+content:southwest alabama medical center,3346366221,givzsimvhd - frdersl,al
+TupleID:250
+content:cherokee medical center,2569275531,voluntary non-profit - private,Alabama
+TupleID:509
+content:cenlahai ryv fmjggcvokn hlwliyzl,2053258100,voluntary non-profit - private,al
+TupleID:308
+content:shelby baptist medical center,2056208100,voluntary non-profit - church,nan
+TupleID:282
+content:st vincents blount,2052743000,voluntary non-profit - private,al
+TupleID:992,996,997,998,1000,981,982,983,989,991
+content:northwest medical center,2054877736,proprietary,al
+TupleID:356,358,359,361,362,363,364,365,368,370,371,374,375,377,379
+content:retnec lacidem yellav asooc,2562495000,voluntary non-profit - other,al
+TupleID:430
+content:st vincents blount,2562495000,voluntary non-profit - other,al
+TupleID:432
+content:cherokee medical center,11111111,voluntary non-profit - private,al
+TupleID:492
+content:northwest medical center,3344933541,voluntary non-profit - private,al
+TupleID:101
+content:gadsden regional medical center,2564944000,proprietary,al
+TupleID:803,805,806,807,808,809,810,811,812,814,819,820,821,822,823,826,827
+content:cullman regional medical center,2567372000,government - hospital district or authority,al
+TupleID:717,719,720,721,722,724,725,726,727,728,730,731,733,734,735,736,737,738,739,740,741
+content:northwest medical center,nan,proprietary,al
+TupleID:367
+content:baptist medical center south,3342882100,voluntary non-profit - other,al
+TupleID:521
+content:eliza coffee memorial hospital,2567688400,voluntary non-profit - other,el
+TupleID:70
+content:st vincents blount,2052743000,voluntary non-profit - private,Alabama
+TupleID:985
+content:cherokee medical center,nan,voluntary non-profit - private,al
+TupleID:499
+content:univ of south alabama medical center,2514717110,government - state,al
+TupleID:384,385,386,387,388,389,390,392,380,382
+content:prattville baptist hospital,2563572111,voluntary non-profit - private,al
+TupleID:397
+content:fayette medical center,6695239502,voluntary non-profit - other,al
+TupleID:895
+content:alaska regional hospital,9072761131,proprietary,ak
+TupleID:448,449,450,433,434,435,436,437,438,439,440,441,442,443,444,445,446,447
+content:st vincents blount,2052743000,bkjuhtwrn nov-icofpn - pwlfqne,al
+TupleID:990
+content:southwest alabama medical center,3346366221,government ޅ- federal,al
+TupleID:249
+content:riverview regional medical center,25Ȁ65435200,proprietary,al
+TupleID:912
+content:university of alabama hospital,2059344011,Alabama,al
+TupleID:677,691
+content:sjelfr ba[thsr kebhban fenfqt,2056208100,voluntary non-profit - church,al
+TupleID:271
+content:andalusia regional hospital,3342228466,proprietary,ai
+TupleID:742
+content:andalusia regional hospital,3342228466,proprietary,al
+TupleID:743,744,745,746,747,748,749,751,753,755,757,758,760,761,762,763,764,766
+content:helen keller memorial hospital,2563864556,government - hospital district or authority,al
+TupleID:453,454,455,456,9,457,458,10,11,459,12,460,461,13,14,462,15,463,16,464,17,465,18,466,19
+content:riverview regional medical center,2565435200,proprietary,al
+TupleID:903,905,906,907,908,909,910,911,913,917,918,919,920,921,922,923,925,928,929,930
+content:j g lanidf kfiocial hispnjdl,3347561400,voluntary non-profit - other,al
+TupleID:569
+content:g h lanier memorial hospital,3347561400,voluntary non-profit - other,aÍl
+TupleID:574
+content:cherokee medical center,nan,voluntary non-profit - private,qj
+TupleID:497
+content:huntsville hospital,11111111,government - hospital district or authority,al
+TupleID:783
+content:northwest medical center,6377784502,proprietary,al
+TupleID:355
+content:latipsoh lairomem eeffoc azile,2567688400,Alabama,al
+TupleID:90
+content:yukon kuskokwim delta reg hospital,9075436300,government - federal,ai
+TupleID:451,452
+content:medical center enterprise,3343470584,proprietary,al
+TupleID:960,962,963,964,965,966,967,969,970,973,974,976,977,978,980,956,957,958,959
+content:nan,2568453150,voluntary non-profit - church,al
+TupleID:243
+content:shelby baptist medical center,2056208100,voluntary non-profଊit - church,al
+TupleID:290
+content:prattville baptist hospital,7624163433,nan,la
+TupleID:393
+content:shelby baptist medical center,nan,voluntary non-profit - church,al
+TupleID:272,277
+content:university of alabama hospital,2059344011,gmvfrnkzvf - scene,al
+TupleID:669
+content:marion regional medical center,3343470584,proprietary,al
+TupleID:968
+content:gadsden regional medical center,2564944000,proprietarӁy,al
+TupleID:817
+content:coosa valley medical center,2569275531,voluntary non-profit - other,al
+TupleID:423
+content:andalusia regional hospital,3342228466,government - state,al
+TupleID:759
+content:nan,0008175652,government - hospital district or authority,al
+TupleID:172
+content:southwest alabama medical center,3342228466,government - federal,al
+TupleID:268
+content:marshall medical center north,2053258100,government - hospital district or authority,al
+TupleID:190
+Domain11
+content:heart attack,heart attack patients given smoking cessation advice/counseling,nan
+TupleID:670,959
+content:surgical infection prevention,0,acute care hospitals
+TupleID:716,616,713
+content:pneumonia,pneumonia patients given the most appropriate initial antibiotic(s),acute care hospitals
+TupleID:707,260,329,457,843,971,657,210,532,407,793,285,607,160,482,35,868,996,682,235,557,110,430,370,818,946,757,310,632,185,507,893
+content:heart Ҭattack,heart attack patients given pci within 90 minutes of arrival,acute care hospitals
+TupleID:126
+content:children s asthma care,children who received reliever medication while hospitalized for asthma,acute care hospitals
+TupleID:903,775,767
+content:nan,pneumonia patients assessed and given influenza vaccination,acute care hospitals
+TupleID:972,236
+content:lnehmohiq,pneumonia patients given the most appropriate initial antibiotic(s),acute care hospitals
+TupleID:732
+content:heart attack,heart attack patients given fibrinolytic medication within 30 minutes of arrival,Alabama
+TupleID:911
+content:heart failure,heart failure patients given an evaluation of left ventrₙicular systolic (lvs) function,acute care hospitals
+TupleID:423
+content:heart failure,heart failure patients given an evaluation of left ventricular systolic (lvs) function,nan
+TupleID:964
+content:heart failure,heart attack patients given fibrinolytic medication within 30 minutes of arrival,acute care hospitals
+TupleID:549
+content:surgical infection prevention,all heart surgery patients whose blood sugar (blood glucose) is kept under good control in the days right after surgery,acute care hospitals
+TupleID:513,66,771,899,266,588,141,463,849,977,663,216,345,799,738,291,613,166,874,688,241,563,116,376,824
+content:surgical infection prevention,nan,acute care hospitals
+TupleID:414,191
+content:kxctt ajtxdi,heart attack patients given pci within 90 minutes of arrival,acute care hospitals
+TupleID:912
+content:heady atbcsh,heart attack patients given smoking cessation advice/counseling,acute care hospitals
+TupleID:695
+content:Ԝheart failure,heart failure patients given discharge instructions,acute care hospitals
+TupleID:474
+content:heart attack,heart atḹtack patients given fibrinolytic medication within 30 minutes of arrival,acute care hospitals
+TupleID:150
+content:surgical infection prevention,zll feary vmsbewj [atirnjx rhkxx bkmoa rugst (bmomv ejueoda) id ygph btces yooe vmitrol pn umq qwvs dyghv ahjet surggry,acute care hospitals
+TupleID:927
+content:nan,heart attack patients given pci within 90 minutes of arrival,Alabama
+TupleID:251
+content:heart attack,heart attack patients given pcᘰi within 90 minutes of arrival,acute care hospitals
+TupleID:473
+content:eruliaf traeh,heart failure patients given an evaluation of left ventricular systolic (lvs) function,acute care hospitals
+TupleID:103
+content:Some college,pneumonia patients assessed and given pneumococcal vaccination,acute care hospitals
+TupleID:967
+content:surgical infection prevention,surgery patients whose preventive antibiotics were stopped at the right time (within 24 hours after surgery),acute care hospita߄ls
+TupleID:512,65,770,898,4,712,265,587,140,462,848,976,662,215,344,537,90,412,798,926,737,290,612,165,487,40,873,687,240,562,115,823,375,951,762,637,190,446
+content:heart attack,heart attack patients given aspirin at discharge,acute care hospitals
+TupleID:643,196,452,518,71,393,10,779,907,718,271,593,146,468,21,854,982,668,221,350,543,96,416,356,804,932,743,296,618,171,493,46,879,693,246,568,121,315,381,829,957
+content:children s asthma care,children who received systemic corticosteroid medication (oral and iv medication that reduces inflammation and controls symptoms) while hospitalized for asthma,acute care hospitals
+TupleID:776,904,312
+content:heart failure,htarv fapouge pebpeves glven at evamiaylli mf ozvr vegtrydmoar systolis (pvs) fjucyiku,acute care hospitals
+TupleID:811
+content:pneumonia,khcumonkx pauuxncs qvssvdsd chd hnysm ptejmococdzl gwxciiajijn,acute care hospitals
+TupleID:131
+content:heart attack,heart attack patients given pci within 90 minutes of arrival,Alabama
+TupleID:623
+content:heart failure,heart failure patients given an evaluation of left ventricular systolic (lvs) function,zvunt carg vosplnams
+TupleID:53
+content:heart failure,heart failure patients given smoking cessation advice/counseling,acute care hospitals
+TupleID:577,130,324,390,838,966,652,205,334,527,80,402,19,788,916,727,280,602,155,477,30,863,991,677,230,552,105,425,365,941,813,752,305,627,180,436,502,55,888,702,255
+content:heart failԜure,heart failure patients given discharge instructions,acute care hospitals
+TupleID:860
+content:heart failure,all heart surgery patients whose blood sugar (blood glucose) is kept under good control in the days right after surgery,acute care hospitals
+TupleID:952
+content:nan,heart attack patients given smoking cessation advice/counseling,acute care hospitals
+TupleID:418
+content:surgical infection prevention,surgery patients whose doctors ordered treatments to prevent blood clots after certain types of surgeries,acute care hospitals
+TupleID:640,449,193,515,68,773,901,7,715,268,590,143,465,979,851,665,218,347,540,93,413,801,929,740,293,615,168,490,43,876,690,243,565,118,378,954,826,765
+content:sjgciccl hnfewtoln pretcgthon,all heart surgery patients whose blood sugar (blood glucose) is kept under good control in the days right after surgery,acute care hospitals
+TupleID:488
+content:heart failure,heart attack patients given aspirin at discharge,acute care hospitals
+TupleID:28
+content:pneumonia,pneumonia patients given the most appropriate initial antibiotic(s),acute care hospit߄als
+TupleID:85
+content:pneumonia,heart attack patients given aspirin at discharge,acute care hospitals
+TupleID:758
+content:heart attack,heart attack patients given smoking cessation advice/counseling,acute care hospitals
+TupleID:645,198,520,73,395,12,781,909,720,595,148,470,23,856,984,223,352,545,98,358,934,745,298,620,173,495,48,881,248,570,123,317,383,831
+content:pneumonia,pneumonia patients whose initial emergency room blood culture was performed prior to the administration of the first hospital dose of antibiotics,acute care hospitals
+TupleID:704,257,579,132,326,454,392,840,968,654,207,336,529,82,404,790,918,729,282,604,157,479,32,865,993,679,232,554,107,427,815,943,367,754,307,629,182,438,504,57,890
+content:pneumonia,pneumonia patients assessed and given pneumococcal vaccination,eeugs gccf mospneaow
+TupleID:992
+content:pneumonia,heart failure patients given discharge instructions,acute care hospitals
+TupleID:52
+content:knsumonix,pneumonia patients assessed and given pneumococcal vaccination,acute care hospitals
+TupleID:653
+content:pneumonia,pneumonia patients given initial antibiotic(s) within 6 hours after arrival,acute care hospitals
+TupleID:706,259,581,134,328,456,842,970,656,209,338,531,84,406,792,920,731,284,606,159,481,34,867,995,681,234,556,109,429,369,817,945,756,309,631,184,440,506,59,892
+content:pneuόmonia,pneumonia patients assessed and given influenza vaccination,acute care hospitals
+TupleID:947
+content:pneumonia,pneumonia patᛶients assessed and given influenza vaccination,acute care hospitals
+TupleID:508
+content:fzart aftaci,heart attack patients given pci within 90 minutes of arrival,acute care hospitals
+TupleID:573
+content:pneumonia,all heart surgery patients whose blood sugar (blood glucose) is kept under good control in the days right after surgery,acute care hospitals
+TupleID:538
+content:heԜart failure,heart failure patients given discharge instructions,acute care hospitals
+TupleID:524
+content:pneumonia,pneumonia patients assessed and given pneumococcal vaccination,acute care hospitals
+TupleID:135,256,578,325,453,839,206,335,528,403,789,917,281,156,31,864,678,553,106,366,814,942,306,181,437,503,56,889
+content:Ԝheart failure,heart failure patients given an evaluation of left ventricular systolic (lvs) function,acute care hospitals
+TupleID:861
+content:eruliaf traeh,heart failure patients given discharge instructions,acute care hospitals
+TupleID:252
+content:pneumonia,0,acute care hospitals
+TupleID:447,81,478,426
+content:heart attack,surgery patients whose preventive antibiotics were stopped at the right time (within 24 hours after surgery),acute care hospitals
+TupleID:672
+content:surgical infection prevention,all heart surgeryⰳ patients whose blood sugar (blood glucose) is kept under good control in the days right after surgery,nan
+TupleID:5
+content:surgical infection prevention,patients who got treatment  at the right time (within 24 hours before or after their surgery) to help prevent blood clots after certain types of surgery,nan
+TupleID:930
+content:pneumonia,pneumonia patients given the most appropriate initial antibiotic(s),awurr czce howpktapx
+TupleID:60
+content:surgical infection prevention,surgery patients who were given the  right kind  of antibiotic to help prevent infection,acute care hospitals
+TupleID:64,769,897,3,711,264,586,139,461,847,975,661,214,343,536,89,411,925,797,736,289,611,164,486,39,872,1000,686,239,561,114,374,950,822,761,636,189,445,511
+content:pneumonia,heart failure patients given smoking cessation advice/counseling,acute care hospitals
+TupleID:186
+content:pneumonia,nan,acute care hospitals
+TupleID:921,753
+content:heart failure,heart failure patients given ace inhibitor or arb for left ventricular systolic dysfunction (lvsd),acute care hospitals
+TupleID:576,129,323,837,965,389,651,204,333,526,79,401,18,915,787,726,279,601,154,476,29,990,862,676,229,551,424,104,364,812,940,751,304,626,179,435,501,54,887,701,254
+content:heart attack,heart attack patients given aspirin at arrival,acute care hospitals
+TupleID:642,195,451,517,70,9,778,906,717,270,592,145,467,20,853,981,667,220,349,542,95,415,355,803,931,742,295,617,170,492,45,878,692,245,567,120,314,380,828,956
+content:kcatta traeh,heart attack patients given fibrinolytic medication within 30 minutes of arrival,acute care hospitals
+TupleID:175
+content:pneumonia,pneumonia patients assessed and given influenza vaccination,nan
+TupleID:261
+content:heart attack,heart attack patients given fibrinolytic medication within 30 minutes of arrival,acute care hospita߄ls
+TupleID:200
+content:surgical infection prevention,surgery patients needing hair removed from the surgical area before surgery who had hair removed using a safer method (electric clippers or hair removal cream c not a razor),acute care hospitals
+TupleID:192,448,514,67,772,900,6,714,267,589,142,464,850,978,664,217,346,539,92,800,928,739,292,614,167,489,42,875,689,242,564,117,377,825,953,764,639
+content:surgical infection prevention,all heart surgery patients whose blood sugar (blood glucose) is kept under good control in the days right after surgery,sfutd vwfe josolnals
+TupleID:638
+content:children s asthma care,children and their caregivers who received a home management plan of care document while hospitalized for asthma,acute care hospitals
+TupleID:905
+content:pneumonia,pneumonia patients assessed and given influenza vaccination,Alabama
+TupleID:330
+content:nan,children and their caregivers who received a home management plan of care document while hospitalized for asthma,acute care hospitals
+TupleID:777
+content:zhlldren r avjfma cata,children and their caregivers who received a home management plan of care document while hospitalized for asthma,nan
+TupleID:313
+content:heart attack,heart attack patients given fibrinolytic medication within 30 minutes of arrival,acute care hospitals
+TupleID:385,833,961,647,522,75,397,783,722,597,25,858,986,225,547,420,360,808,747,300,622,497,50,697,250,572,125,319
+content:surgical infection prevention,all heart surgery patients whose blood sugar (blood glucose) is kept under good control in thⰳe days right after surgery,acute care hospitals
+TupleID:41
+content:pneumonia,pneumonia patients assessed and given pneumococcal vaccination,Alabama
+TupleID:391,231,703
+content:nan,patients who got treatment  at the right time (within 24 hours before or after their surgery) to help prevent blood clots after certain types of surgery,acute care hospitals
+TupleID:450,666,741
+content:heart attack,hearg xhtaek psjyebtx divek pzi xitmli 90 mmhkbev of qrrivap,acute care hospitals
+TupleID:201
+content:nan,pneumonia patients assessed and given pneumococcal vaccination,acute care hospitals
+TupleID:728
+content:surgical infection prevention,patients who got treatment  at the right time (within 24 hours before or after their surgery) to help prevent blood clots after certain types of surgery,acute care hospitals
+TupleID:641,194,516,774,902,8,269,591,144,466,852,980,219,348,541,354,802,294,169,491,44,877,691,244,566,119,379,827,955
+content:nan,heart attack patients given fibrinolytic medication within 30 minutes of arrival,acute care hospitals
+TupleID:936
+content:surgical infection prevention,all heart surgery patients whose blood sugar (blood glucose) is kept under good control in the days right after surgery,Alabama
+TupleID:763
+content:surgical infection prevention,surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery,acute care hospitals
+TupleID:1,709,262,584,137,331,459,845,973,659,212,341,534,87,409,795,923,734,287,609,162,484,37,870,998,684,237,559,112,432,372,820,948,759,634,187,443,509,62,895
+content:surgical infection prevention,surgery patients who were given an antibiotic at the right time (within one hour before surgery) to help prevent infection,acute care hospitals
+TupleID:768,896,2,710,263,585,138,460,846,974,660,213,342,535,88,410,796,924,735,288,610,163,485,38,871,999,685,238,560,113,373,821,949,760,635,444,188,510,63
+content:heart attack,0,slatipsoh erac etuca
+TupleID:498
+content:heart attack,0,nan
+TupleID:472
+content:heart attack,heart attack patients given fibrinolytic medication within 30 minutes of arrival,nan
+TupleID:275
+content:heart failure,heart failure patients given discharge instructions,nan
+TupleID:422,699
+content:hearԜt failure,heart failure patients given an evaluation of left ventricular systolic (lvs) function,acute care hospitals
+TupleID:178
+content:heart attack,heart attack patients given ace inhibitor or arb for left ventricular systolic dysfunction (lvsd),acute care hospitals
+TupleID:644,197,519,72,394,11,780,908,719,272,594,147,469,22,855,983,669,222,351,544,97,417,357,933,805,744,297,619,172,494,47,880,694,247,569,122,316,382,830,958
+content:heҬart attack,heart attack patients given pci within 90 minutes of arrival,qcuge wwrq hosiifwpd
+TupleID:15
+content:Some college,patients who got treatment  at the right time (within 24 hours before or after their surgery) to help prevent blood clots after certain types of surgery,acute care hospitals
+TupleID:766
+content:heart failure,nan,acute care hospitals
+TupleID:152,989,675,434
+content:heart attack,heart attack patients given pci within 90 minutes of arrival,actte vxrw hlxkjfqls
+TupleID:398
+content:pneumonia,patients who got treatment  at the right time (within 24 hours before or after their surgery) to help prevent blood clots after certain types of surgery,acute care hospitals
+TupleID:69
+content:pneumonia,kntympnic pcfkqnvf srszssvs abe jlren pncujmxosewn vacwiusyyoh,nan
+TupleID:628
+content:surgical infection prevention,patients who got treatment  at the right time (within 24 hours before or after their surgery) to help prevent blood clots after certain types of surgery,acut߄e care hospitals
+TupleID:94
+content:surgical infection preventiணon,all heart surgery patients whose blood sugar (blood glucose) is kept under good control in the days right after surgery,acute care hospitals
+TupleID:91
+content:nan,kdwrt nqlludx 'ebhegus blden ak fvapgenopn od left veitrlsmlwr virtkjuc (lga) xomxtiln,acute care hospitals
+TupleID:203
+content:heart attack,lavirra fo setunim 09 nihtiw icp nevig stneitap kcatta traeh,acute care hospitals
+TupleID:51
+content:heart attack,heart attack patients given beta blocker at discharge,acute care hospitals
+TupleID:384,832,960,646,199,521,74,396,13,782,910,721,274,596,149,471,24,857,985,671,224,353,546,99,419,359,807,935,746,299,621,174,496,49,882,696,249,571,124,318
+content:pneumonia,pneumonia patients given smoking cessation advice/counseling,acute care hospitals
+TupleID:705,258,580,133,327,455,841,969,655,208,337,530,83,405,791,919,730,283,605,158,480,33,866,994,680,233,555,108,428,368,816,944,755,308,630,183,439,505,58,891
+content:heart failure,heart failure patients given discharge instructions,acute care hospitals
+TupleID:321,387,835,963,649,202,77,399,16,785,913,724,277,599,27,988,227,102,362,810,938,749,302,624,177,433,499,885,574,127
+content:heart failure,heart failure patients given an evaluation of left ventricular systolic (lvs) function,acute care hospitals
+TupleID:128,322,388,836,650,332,525,78,400,17,786,914,725,278,600,153,475,228,550,363,939,750,303,625,500,886,700,253,575
+content:heart attack,heart attack patients given pci within 90 minutes of arrival,sduet sars fpwilteld
+TupleID:523
+content:pneumonia,heart attack patients given fibrinolytic medication within 30 minutes of arrival,acute care hospitals
+TupleID:100
+content:heart attack,heart attack patients given pci within 90 minutes of arrival,acute care hospitals
+TupleID:320,386,962,648,76,784,723,276,598,151,859,987,673,226,548,421,361,809,937,748,301,176,884,698
+content:heart attack,heart attack patients given pci within 90 minutes of arrival,ackve fqwe moskitald
+TupleID:26
+content:heart attack,0,acute care hospitals
+TupleID:834,806,14
+content:surgical infection prevention,pneumonia patients assessed and given influenza vaccination,acute care hospitals
+TupleID:311
+content:heҬart attack,heart attack patients given fibrinolytic medication within 30 minutes of arrival,acute care hospitals
+TupleID:883
+content:ainomuenp,pneumonia patients given the most appropriate initial antibiotic(s),acute care hospitals
+TupleID:339,441
+content:heart failure,yewry hqilbgs kstiantr glffn dkavfaryt pnxtruetions,acute care hospitals
+TupleID:674
+content:pneumonia,pneumonia patients given the most appropriate initial antibiotic(s),nan
+TupleID:582
+content:pneumonia,pneumonia patients assessed and given pneumococcal vaccination,acnvg czre hof[pcels
+TupleID:603
+content:heart attack,nan,acute care hospitals
+TupleID:101,273
+content:pneumonia,pneumonia patients assessed and given influenza vaccination,acute care hospitals
+TupleID:708,583,136,458,844,658,211,340,533,86,408,794,922,733,286,608,161,483,36,869,997,683,558,111,431,371,819,633,442,61,894

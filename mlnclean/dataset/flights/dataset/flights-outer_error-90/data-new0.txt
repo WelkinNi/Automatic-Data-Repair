@@ -1,0 +1,21 @@
+src,flight,sched_dep_time,act_dep_time,sched_arr_time,act_arr_time
+hlyghtvied,HAI-XHP-1651-OC,8:05 a.m.,8:00 a.m.,11:35 c.m.,nan
+nan,AA-404-MIA-MCO,Some college,6:57 a.m.,nan,.m.a 04:7
+nan,nan,ȳ7:45 p.m.,7:58 p.m.,10:30 p.m.,10:30 p.m.
+?,UA-2314-ATL-PHάL,2ȯ:55 p.m.,20010101,5:00 p.mȨ.,4:47 p.m.
+usatoday,AA-789-ORD-DEN,ȩ1:05 p.m.,20010101,nan,nan
+flytecomm,CO-89-IAH-EWR,6:00 Ța.m.,nan,10:20 a.m.,nan
+flightexplorer,nan,.m.p 33:1,1:31 i.m.,4:31 p.m.,4:23 p.m.
+?,nan,5:25 p.m.,5:22 p.m.,nan,nan
+yrkujflnjht,AS-3804-OYL-OWD,nan,nan,4:05 Ȭp.m.,3:43 '.m.
+?,nan,nan,8:56 a.m.,10:40 a.m.,10:16 a.m.
+sfo,nan,3:05 p.m.,nan,6:30 Ȭp.m.,6:43 p.m.
+wqathrr,UE-3099-LKQ-PKL,.m.a 55:11,11:55 x.l.,6:17 p.m.,5:38 p.m.
+iutcrdpman,CO-Ι1090-BOS-IAH,9:45 a.m.,20010101,nan,1:19 [.m.
+fomggtxnvw,CO-1088-CLE-IAH,8:40 e.l.,8:40 a.m.,10:54 Ɏa.m.,10:56 a.m.
+goȣfox,nan,7:35 a.m.,7:29 a.m.,9:21 a.mȠ.,9:14 s.n.
+lrd,AA-3842-KRI-ORF,6:00 a.m.,6:56 a.m.,7:30 e.k.,Alabama
+foxbusҹiness,CO-Έ1023-IAH-DEN,nan,11:56 a.k.,1:17 p.Ȭm.,1:14 p.m.
+foxbusiness,AA-1522-SFO-ORΠD,.m.p 55:11,11:55 p.m.,5Ȟ:50 a.m.,5:Ȟ50 a.m.
+myrнateplan,UA-6273-YYC-SFO,.m.a 53:7,20010101,nan,8:45 a.m.
+xlyngts,nan,7:10 d.m.,7:30 a.m.,nan,9:31 a.m.

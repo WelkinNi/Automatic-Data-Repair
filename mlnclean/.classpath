@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="code/MLNClean/src/main/java"/>
+	<classpathentry kind="lib" path="code/MLNClean/lib/antlr-3.2.jar"/>
+	<classpathentry kind="lib" path="code/MLNClean/lib/args4j-2.0.12.jar"/>
+	<classpathentry kind="lib" path="code/MLNClean/lib/commons-codec-1.6.jar"/>
+	<classpathentry kind="lib" path="code/MLNClean/lib/commons-fileupload-1.3.1.jar"/>
+	<classpathentry kind="lib" path="code/MLNClean/lib/commons-io-2.2.jar"/>
+	<classpathentry kind="lib" path="code/MLNClean/lib/commons-lang3-3.0-beta-javadoc.jar"/>
+	<classpathentry kind="lib" path="code/MLNClean/lib/commons-lang3-3.0-beta.jar"/>
+	<classpathentry kind="lib" path="code/MLNClean/lib/commons-math-2.2.jar"/>
+	<classpathentry kind="lib" path="code/MLNClean/lib/java-string-similarity-1.0.1.jar"/>
+	<classpathentry kind="lib" path="code/MLNClean/lib/JavaEWAH-0.3.2.jar"/>
+	<classpathentry kind="lib" path="code/MLNClean/lib/jgrapht-jdk1.6.jar"/>
+	<classpathentry kind="lib" path="code/MLNClean/lib/json-lib-2.4-jdk15.jar"/>
+	<classpathentry kind="lib" path="code/MLNClean/lib/junit-4.9.jar"/>
+	<classpathentry kind="lib" path="code/MLNClean/lib/postgresql-8.4-701.jdbc4.jar"/>
+	<classpathentry kind="lib" path="code/MLNClean/out/artifacts/MLNClean_jar/MLNClean.jar"/>
+	<classpathentry kind="output" path="code/MLNClean/target/classes"/>
+</classpath>

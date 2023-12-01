@@ -1,0 +1,4 @@
+ounces ⇒ brewery_id
+style ⇒ brewery_name
+abv ⇒ city
+ibu ⇒ state

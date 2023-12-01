@@ -1,0 +1,4 @@
+abv ⇒ brewery_id
+style ⇒ brewery_name
+state ⇒ city
+brewery_id ⇒ state

@@ -1,0 +1,12 @@
+{
+    "source" : {
+        "type" : "csv",
+        "file" : ["/data/nw/DC_ED/References_inner_and_outer/NADEEF-master/examples/hospital.csv"]
+    },
+    "rule" : [
+        {
+            "type" : "fd",
+            "value" : ["ZIPCode | City, State"]
+        }
+    ]
+}

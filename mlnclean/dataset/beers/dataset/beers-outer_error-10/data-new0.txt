@@ -1,0 +1,21 @@
+id,beer_name,style,ounces,abv,ibu,brewery_id,brewery_name,city,state
+590,Longboard Island Lager,nan,12,nan,18,439,Kona Brewing Company,Kona,HI
+1030,Ciunggv Kaue Wlr,English Pale Ale,12,0.051,17,295,Wachusett Brewing Company,Westminster,MA
+2643,Colette,Saison / Farmhouse Ale,12,0.073,nan,6,Great Divide Brewing Company,Denver,CO
+2329,Prxzckaizt Pzlq Apc,American Pale Ale (APA),12,nan,47,149,Lonerider Brewing Company,Raleigh,NC
+2070,Luchesa Lager,Keller Bier / Zwickel Bier,12,0.048,35,184,s,Austin,TX
+1468,Wolverine Premium Lager,American Pale Lager,12,0,15,402,Wolverine State Brewing Company,Ann Arbor,MI
+1286,Bikini Beer,American IPA,12,0.027,nan,173,Evil Twin Brewiـng,Brooklyn,NY
+1718,Firemans #4 Blonde Ale (2013),American Blonde Ale,12,0.051,21,128,Real Ale Brewing Company,Blanco,TX
+2509,Porter (a/k/a Black Gold Porter),American Porter,16,0.06,23,69,Appalachian Mountain Brewery,Boone,NC
+1082,RԞecreationAle,American Pale Ale (APA),12,0.047,42,469,Terrapin Brewing Company,Athens,GA
+2050,Cream Ale,Cream Ale,12,0.042,35,238,Newburgh Brewing Company,Newburgh,nan
+20010101,nan,American Brown Ale,12,0.06,nan,378,Bold City Brewery,Jacksonville,FL
+nan,Lumberyard Red Ale,American Amber /ߣ Red Ale,12,0.058,nan,158,Lumberyard Brewing Company,Flagstaff,AZ
+29,Very Noddy Lager (Current),Schwarzbier,16,0.099,nan,530,Buckbean Brewing Company,Reno,NV
+2347,Hukny Du Whewy,American Pale Wheat Ale,12,0.048,18,142,Third Street Brewhouse,Cold Spring,MN
+1054,Pete's Wicked Summer Breਲ਼w (1997),American Pale Wheat Ale,12,0.047,nan,470,Pete's Brewing Company,San Antonio,TX
+653,nan,American IPA,16,0.066,75,80,Hopworks Urban Brewery,Portland,OR
+687,nan,English Brown Ale,12,0.067,nan,92,Jackie O's Pub & Brewery,Athens,OH
+957,Saranac Traditional Lager (2000),American Pale Lager,12,0.048,nan,299,Matt Brewing Company,Utica,NY
+2427,Suncaster Summer Wheat,Aketifet Kamf Wyect Xlc,12,0.05,28,105,Four String Brewing Company,Columbus,OH

@@ -1,0 +1,21 @@
+ID,id,beer_name,style,ounces,abv,ibu,brewery_id,brewery_name,city,state
+1185,590,Bridal Veil Rye Pale Ale,American Amber / Red Ale,12.0,0.046,18.0,439,NoDa Brewing Company,Durango,HI
+2325,2495,Country Pale Ale,American Double / Imperial IPA,12.0,0.05,nan,66,Great Crescent Brewery,Westminster,MD
+956,1276,Colette,Saison / Farmhouse Ale,16.0,0.06,nan,17,Indeed Brewing Company,Denver,CO
+1216,1021,Peacemaker Pale Ale,Märzen / Oktoberfest,12.0,0.055,nan,149,Eddyline Brewery & Restaurant,Raleigh,NC
+1516,980,Luchesa Lager,Munich Helles Lager,12.0,0.048,nan,184,Oasis Texas Brewing Company,Austin,IN
+2392,1484,Wolverine Premium Lager,American Pale Lager,12.0,0.047,nan,368,Wolverine State Brewing Company,Framingham,ID
+770,1875,Farmer John's Multi-Grain Ale,American IPA,12.0,0.027,nan,173,Evil Twin Brewing,Indianapolis,RI
+1686,2629,Firemans #4 Blonde Ale (2013),Cider,12.0,0.055,21.0,128,Real Ale Brewing Company,Denver,CA
+131,1990,Wild Onion Pumpkin Ale (2010),American Brown Ale,12.0,0.057,nan,309,Appalachian Mountain Brewery,Boone,RI
+2136,1082,Lil' Brainless Raspberries,American IPA,12.0,0.058,nan,469,Cigar City Brewing Company,Athens,GA
+1483,89,Cream Ale,Foreign / Export Stout,12.0,0.059,35.0,254,21st Amendment Brewery,Chicago,MA
+331,1636,Weize Guy,American Brown Ale,12.0,0.052,nan,378,Two Brothers Brewing Company,Kona,DC
+1239,2581,Bunker Hill Blueberry Ale,American Pale Ale (APA),12.0,0.058,nan,209,Lumberyard Brewing Company,Flagstaff,AZ
+467,1171,Very Noddy Lager (Current),Schwarzbier,12.0,0.049,nan,530,Maui Brewing Company,Grand Rapids,KY
+2170,2347,Hunny Do Wheat,American Amber / Red Ale,12.0,0.048,nan,6,Caldera Brewing Company,San Francisco,MN
+1639,2099,Summer Solstice,American Pale Wheat Ale,12.0,0.047,nan,541,Latitude 42 Brewing Company,Framingham,GA
+1096,791,Hopworks IPA (2012),American IPA,16.0,0.045,nan,142,Hopworks Urban Brewery,Indianapolis,OR
+1131,2169,Chomolungma Honey Nut Brown Ale,Witbier,12.0,0.05,nan,475,Jackie O's Pub & Brewery,Indianapolis,IL
+1295,1091,Saranac Traditional Lager (2000),American Pale Ale (APA),12.0,0.08,nan,93,Sockeye Brewing Company,Broomfield,CT
+861,2427,Suncaster Summer Wheat,American Double / Imperial IPA,12.0,0.028,11.0,322,Mike Hess Brewing Company,Columbus,OH

@@ -1,0 +1,8 @@
+ProviderID,HospitalName,Address,City,State,ZIPCode,CountyName,PhoneNumber,MeasureName,MeasureID,Score,MeasureStartDate,MeasureEndDate
+City(valueCity)
+State(valueState)
+ZIPCode(valueZIPCode)
+PhoneNumber(valuePhoneNumber)
+MeasureID(valueMeasureID)
+MeasureName(valueMeasureName)
+CountyName(valueCountyName)

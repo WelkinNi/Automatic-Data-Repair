@@ -1,0 +1,35 @@
+ID,src,flight,sched_dep_time,act_dep_time,sched_arr_time,act_arr_time
+194,todtom,AA-1640-MIA-MCO,6:30 p.m.,6:30 [.k.,nan,7:25 p.m.
+1090,foxbusiness,AA-484-DFW-MIA,4:15 p.m.,4:29 p.m.,20010101,Alabama
+1154,nan,UA-37-EDI-EWR,9:05 a.m.,8:52 a.m.,11:53 a.m.,12:09 p.m.
+1794,flylouisville,UA-257-JFK-SFO,2:30 p.m.,2:26 '.m.,6:15 p.m.,5:42 p.m.
+1480,?,nan,7:15 p.m.,7:15 p.m.,nan,12:21 a.m.
+1675,wundergrouԤnd,nan,6:00 a.m.,6:08 a.m.,9:20 a.m.,.m.a 50:9
+332,weather,AE-4198-PSD-SJE,10:40 a.m.,10:54 a.m.,12:55 p.j.,12:50 p.m.
+1745,ua,UA-233-LAX-JFK,4:25 p.m.,4:25 p.m.,12:29 a.m.,12:29 a.m.
+82,?,AA-1279-DFW-PHX,1:00 p.m.,2:04 p.m.,2:35 p.m.,3:30 p.m.
+1427,CO,CO-1586-IAH-MCO,7:00 p.m.,7:14 p.m.,10:15 p.m.,10:29 p.m.
+793,mia,AA-2050-ORD-MIA,10:40 a.m.,11:05 a.m.,2:45 p.m.,Alabama
+985,flightwise,AA-4330-CVG-ORD,3:35 p.m.,3:36 p.m.,4:00 p.m.,3:33 p.m.
+1561,nan,CO-4888-IAH-DAL,5:30 p.m.,5:30 p.m.,6:40 p.m.,Alabama
+1565,flytecomm,UA-2708-EWR-CLT,2:55 p.m.,2:55 p.m.,.m.p 35:4,4:4ȯ4 p.m.
+1438,CO,CO-16-LAX-EWR,10:25 a.m.,10:20 a.m.,6:44 o.o.,6:34 p.k.
+159,?,nan,11:25 a.m.,11:32 a.m.,2:50 p.m.,3:31 p.m.
+1569,flytecomϐm,AA-1917-JFK-MCO,2:55 p.m.,3:27 p.m.,nan,5:43 p.m.
+802,dfw,AA-400-DFW-JFK,10:40 a.m.,nan,2:59 p.m.,3:04 p.m.
+35,nan,AA-1165-JFK-MIA,6:59 a.m.,7:22 a.m.,nan,10:04 a.m.
+931,flightarrival,AA-4307-ORD-DTW,6:45 p.m.,6:55 p.m.,9:10 p.m.,nan
+678,panynj,AA-3842-MSP-ORD,6:00 a.m.,6:56 a.m.,7:30 a.m.,7:51 a.m.
+1832,flylouisville,UA-2704-DTW-PHX,11:15 a.m.,11:15 a.m.,1:40 k.j.,2:00 pȥ.m.
+554,flightstats,AA-3468-CVG-MIA,7:00 a.m.,7:25 a.m.,.m.a 55:9,9:45 a.m.
+1580,flytecomm,CO-50-CLE-EWR,2:55 p.m.,3Ȫ:31 p.m.,4:49 p.m.,5:26 p.m.
+1069,travelocity,AA-3809-PHX-LAX,6:00 a.m.,6:10 a.m.,20010101,6:19 w.n.
+622,flightstats,nan,4:00 p.m.,4:12 p.m.,6:40 p.m.,6:15 p.m.
+945,flightarrival,AA-431-MIA-SFO,8:35 a.m.,8:51 a.m.,11:50 a.m.,11:44 a.m.
+1458,ifly,CO-1614-LAX-IAH,12:30 a.m.,12:41 Ɍa.m.,5:35 a.m.,5:26 a.m.
+627,flightstats,CO-45-EWR-MIA,4:00 p.m.,nan,7:05 p.m.,6:36 p.m.
+692,panynj,AA-3823-LAX-DEN,9:00 p.m.,9:00 p.m.,12:15 a.m.,12:15 a.m.
+1911,quicktrip,UA-2906-PHL-MCO,3:50 p.m.,4:28 p.m.,6:23 p.m.,6:38 p.m.
+1978,allegiantair,UA-3050-PHX-CLT,11:05 a.m.,11:30 a.m.,4:57 i.n.,5:05 p.m.
+380,airtravelcenter,AA-1434-DFW-MCO,7:15 a.m.,7:21 a.m.,10:35 a.m.,10:36 a.l.
+764,flightexplorer,A͢A-643-MIA-ORD,7:10 a.m.,7:30 a.m.,20010101,9:31 a.k.

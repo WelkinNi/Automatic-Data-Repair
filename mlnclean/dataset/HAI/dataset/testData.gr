@@ -1,0 +1,7 @@
+5.00	!ZIPCode(valueZIPCode) v CountyName(valueCountyName)
+5.00	!PhoneNumber(valuePhoneNumber) v City(valueCity)
+5.00	!ProviderID(valueProviderID) v City(valueCity) v PhoneNumber(valuePhoneNumber)
+5.00	!PhoneNumber(valuePhoneNumber) v ZIPCode(valueZIPCode)
+5.00	!ZIPCode(valueZIPCode) v City(valueCity)
+5.00	!PhoneNumber(valuePhoneNumber) v State(valueState)
+5.00	!ZIPCode(valueZIPCode) v State(valueState)

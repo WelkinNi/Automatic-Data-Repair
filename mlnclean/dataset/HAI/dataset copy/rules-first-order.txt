@@ -1,0 +1,7 @@
+!ZIPCode(valueZIPCode) v CountyName(valueCountyName)
+!PhoneNumber(valuePhoneNumber) v City(valueCity)
+!PhoneNumber(valuePhoneNumber) v ZIPCode(valueZIPCode)
+!PhoneNumber(valuePhoneNumber) v State(valueState)
+!ZIPCode(valueZIPCode) v City(valueCity)
+!ZIPCode(valueZIPCode) v State(valueState)
+!ProviderID(valueProviderID) v City(valueCity) v PhoneNumber(valuePhoneNumber)

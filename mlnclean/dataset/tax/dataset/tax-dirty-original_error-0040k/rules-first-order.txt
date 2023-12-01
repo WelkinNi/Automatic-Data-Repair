@@ -1,0 +1,8 @@
+!zip(valuezip) v city(valuecity)
+!zip(valuezip) v state(valuestate)
+!zip(valuezip) v !has_child(valuehas_child) v child_exemp(valuechild_exemp)
+!zip(valuezip) v !marital_status(valuemarital_status) v single_exemp(valuesingle_exemp)
+!zip(valuezip) v !marital_status(valuemarital_status) v married_exemp(valuemarried_exemp)
+!f_name(valuef_name) v gender(valuegender)
+!area_code(valuearea_code) v state(valuestate)
+!phone(valuephone) v !zip(valuezip) v area_code(valuearea_code)

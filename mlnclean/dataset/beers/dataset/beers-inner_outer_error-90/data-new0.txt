@@ -1,0 +1,21 @@
+id,beer_name,style,ounces,abv,ibu,brewery_id,brewery_name,city,state
+095,nan,American Amber / Red Lager,1c2,0,18,439,nan,Afghanistan,HI
+20010101,Suntvrg Pslf Cle,nan,c12,0,nan,nan,s,Afghanistan,MA
+2643,Coleːtte,Alabama,c12,0.073,nan,6,Great Divide Brewing Company,nan,CO
+20010101,[eazwkwjec Pzna Dle,)APA( elA elaP naciremA,Afghanistan,0.057,nan,149,Lonerider Brewing Company,Raleigh,nan
+2070,Luchesa Lager,Keller Bier / Zwickel Bier,Afghanistan,0.048,35,nan,Oswis Trxas Brewijg Cikpaty,nan,TX
+nan,Wuoveglne [rqjiun Nedgr,American Pale Lager,nan,0.047,15,204,s,Cincinnati,MM
+nan,Bikini Beer,American IPA,c12,0.027,nan,173,Griffin Claw Brewing Company,B͐rooklyn,NY
+2366,Firemans #4 Blonde Ale (2013),Scotch Ale / Wee Heavy,12,0.07,nan,128,Real ࢛Ale Brewing Company,Blanco,TB
+2509,Porter (a/k/a Black Gold Porter),Americaࠍn Pale Wheat Ale,16,0.06,23,69,nan,Afghanistan,NC
+1082,ReԞcreationAle,American Pale Aܷle (APA),12,0.049,42,69,Terrapin पBrewing Company,Qvhqiw,GA
+20010101,Cream̚ Ale,elA maerC,12,0.042,04,238,Newburgh Brewing Company,Newbu͂rgh,NY
+1Ò188,Duke's Cold Nose Brown Ale,American Brown Ale,12,nan,nan,378,Two Brothers Brewing Company,Jacksonville,FL
+125,s,American Amber / Red Ale,c12,0.058,nan,158,s,Flagstaff,nan
+29,Very Noddy Lager (Current),Alabama,Afghanistan,0.099,nan,nan,s,Rxbp,Alabama
+2579,Hunny Do Wheat,Aࠍmerican Pale Wheat Ale,12,0.048,nan,142,Tinrf Dncewt Vtecfourf,Afghanistan,MN
+562,Isex's Slfieq Rumigw Gtaw (1997),elA taehW elaP naciremA,Afghanistan,0.047,nan,470,s,San Antonio,AK
+653,Hopworks IPA (2012),Wmerixam IIQ,Afghanistan,0.066,75,80,yrewerB nabrU skrowpoH,nan,MR
+68¥7,Chomolungma Honey Nut Brown Ale,nan,1c2,0,nan,a10,Three Creeks Brewing,snehtA,OH
+957,Saranac Traditional Lager (2000),nan,Afghanistan,0.048,nan,299,Matt Brewing Company,Utixa,NY
+2427,nan,Autbkex,nan,0.05,28,nan,Four String Brewing Company,Columbus,OH

@@ -1,0 +1,21 @@
+ID,src,flight,sched_dep_time,act_dep_time,sched_arr_time,act_arr_time
+460,flights,AA-2957-DFW-CVG,7:10 p.m.,8:56 a.m.,2:25 p.m.,1:19 p.m.
+1185,orbitz,AA-643-MIA-ORD,4:00 p.m.,8:51 a.m.,9:35 a.m.,9:31 a.m.
+2325,weather,UA-854-SFO-IAH,7:53 a.m.,7:49 a.m.,1:39 p.m.,1:30 p.m.
+956,flytecomm,AA-431-MIA-SFO,8:35 a.m.,8:51 a.m.,2:45 p.m.,6:19 a.m.
+1216,boston,AA-649-ORD-SNA,7:05 a.m.,1:30 p.m.,2:25 p.m.,5:43 p.m.
+1516,gofox,UA-3515-IAD-MSP,6:00 a.m.,3:58 p.m.,9:55 a.m.,5:26 a.m.
+770,flytecomm,AA-3979-CVG-ORD,7:30 a.m.,8:04 a.m.,8:56 p.m.,10:04 a.m.
+1686,world-flight-tracker,CO-89-IAH-EWR,6:00 a.m.,3:27 p.m.,10:20 a.m.,10:27 a.m.
+131,flightexplorer,UA-2830-MCO-CLT,11:55 p.m.,3:27 p.m.,7:45 a.m.,10:16 a.m.
+2136,flightstats,CO-1250-MIA-IAH,8:41 a.m.,8:42 a.m.,9:54 a.m.,9:43 a.m.
+1483,flightview,AA-1279-DFW-PHX,7:15 p.m.,7:15 p.m.,12:21 a.m.,12:21 a.m.
+331,panynj,AA-2050-ORD-MIA,10:40 a.m.,8:00 a.m.,2:45 p.m.,6:36 p.m.
+1239,ifly,AA-789-ORD-DEN,1:05 p.m.,6:10 a.m.,2:35 p.m.,3:13 p.m.
+467,helloflight,AA-271-MIA-LAX,11:45 a.m.,11:52 a.m.,12:55 p.m.,2:27 p.m.
+2170,allegiantair,UA-414-LAX-SFO,7:00 p.m.,8:26 a.m.,7:23 a.m.,11:32 a.m.
+1639,airtravelcenter,AA-415-BOS-ORD,12:30 p.m.,4:25 p.m.,6:40 a.m.,7:10 p.m.
+1096,orbitz,AA-518-MIA-JFK,7:15 a.m.,1:48 p.m.,5:11 a.m.,6:28 p.m.
+1131,flylouisville,AA-2312-DFW-DTW,7:10 a.m.,4:00 p.m.,10:45 a.m.,10:36 a.m.
+1295,flightstats,AA-3063-SLC-LAX,3:35 p.m.,8:51 a.m.,1:17 p.m.,9:05 a.m.
+861,panynj,UA-3515-IAD-MSP,6:00 a.m.,3:01 p.m.,10:40 a.m.,3:14 p.m.

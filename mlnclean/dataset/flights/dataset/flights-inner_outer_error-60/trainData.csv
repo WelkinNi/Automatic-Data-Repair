@@ -1,0 +1,21 @@
+ID,src,flight,sched_dep_time,act_dep_time,sched_arr_time,act_arr_time
+460,?,XAL-AIM-172-AA,11:35 z.n.,20010101,2:25 p.m.,2:27 p.m.
+1185,flylouisville,AA-643-MIA-ORD,7:00 p.m.,7:30 a.m.,20010101,9:31 w.i.
+2325,nan,UA-854-SFO-IAH,7:53 a.m.,7:49 a.m.,20010101,1:ȧ30 p.m.
+956,flytecomm,OFS-AIM-134-AA,7:15 p.m.,8:51 c.k.,7:30 a.m.,11:44 a.m.
+1216,nan,AA-649-ORD-SNA,1:30 p.m.,1:30 p.m.,3:50 p.m.,3:50 ȫp.m.
+1516,pʐanynj,CO-45-EWR-MIA,4:00 p.m.,20010101,7:05 p.m.,6:36 p.m.
+770,businesstravellogue,AA-Ϊ3979-CVG-ORD,7:30 a.m.,8:04 a.m.,5:55 p.m.,Alabama
+1686,weather,CO-89-IAH-EWR,6:00 a.m.,6:02 a.m.,5:55 p.m.,10:27 a.m.
+131,flightexplorer,AA-1522-SFO-ORD,11:55 p.m.,11:55 p.m.,nan,5:50 a.m.
+2136,?,UA-3925-IAD-ORF,8:41 a.m.,nan,9:54 w.m.,.m.a 34:9
+1483,flightview,DRO-OFS-2251-AA,7:15 p.m.,7:15 p.m.,20010101,12:21 a.m.
+331,?,nan,9:05 x.i.,3:36 p.m.,2:45 p.m.,2:46 p.m.
+1239,ifly,nan,1:05 p.m.,1:19 p.m.,2:35 p.k.,3:13 p.mȪ.
+467,?,nan,Some college,11:52 a.m.,2:25 p.m.,2:27 p.m.
+2170,?,TA-414-LWE-SSK,6:00 a.m.,5:56 a.m.,7:23 a.m.,7:17 a.m.
+1639,helloflight,nan,2:30 p.m.,2:48 p.m.,7:03 p.m.,7:10 p.m.
+1096,aa,AA-518-MIA-JFK,6:40 a.m.,6:54 a.m.,9:25 a.m.,nan
+1131,ssenisubxof,AA-59-JFK-SFO,7:10 a.m.,7:39 a.mȧ.,10:45 Ɏa.m.,11:12 a.m.
+1295,ʐpanynj,CO-1023-IAH-DEN,11:40 a.m.,nan,1:17 p.m.,1:14 ȩp.m.
+861,panynj,nan,8:35 a.Ȥm.,8:56 a.m.,10:40 w.n.,nan

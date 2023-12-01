@@ -1,0 +1,21 @@
+ID,id,beer_name,style,ounces,abv,ibu,brewery_id,brewery_name,city,state
+1185,590,Longboard Island Lager,American Amber / Red Lager,12.0,0.07,nan,107,Kona Brewing Company,Kona,HI
+2325,1030,Country Pale Ale,English Pale Ale,12.0,0.061,17.0,131,Mustang Brewing Company,Westminster,MA
+956,2643,Black Bear Dark Lager,Saison / Farmhouse Ale,12.0,0.073,nan,6,Great Divide Brewing Company,Denver,CA
+1216,2329,Peacemaker Pale Ale,American Pale Ale (APA),12.0,0.057,115.0,190,Lonerider Brewing Company,Raleigh,NC
+1516,2070,Luchesa Lager,Keller Bier / Zwickel Bier,12.0,0.048,35.0,133,Jailbreak Brewing Company,Austin,TX
+2392,1510,Wolverine Premium Lager,American IPA,12.0,0.047,15.0,402,Four String Brewing Company,Ann Arbor,PA
+770,1286,Worthy IPA,American IPA,12.0,0.027,nan,110,Evil Twin Brewing,Brooklyn,NY
+1686,1718,Summer Paradise,Witbier,12.0,0.051,nan,128,Real Ale Brewing Company,Blanco,TX
+131,2509,Porter (a/k/a Black Gold Porter),American Porter,12.0,0.06,nan,380,Uinta Brewing Company,Portland,NC
+2136,608,RecreationAle,Cider,16.0,0.047,42.0,390,Terrapin Brewing Company,Athens,GA
+1483,2050,Cream Ale,Cream Ale,12.0,0.078,nan,238,Newburgh Brewing Company,Kona,IA
+331,1355,Duke's Cold Nose Brown Ale,American Brown Ale,12.0,0.06,nan,237,Bold City Brewery,Jacksonville,FL
+1239,2224,Lumberyard Red Ale,American Amber / Red Ale,12.0,0.058,nan,158,Creature Comforts,Flagstaff,AZ
+467,456,Honey Wheat,Schwarzbier,16.0,0.088,nan,530,Buckbean Brewing Company,Reno,CO
+2170,2347,Whitecap Wit,American Pilsner,12.0,0.056,nan,142,Third Street Brewhouse,Cold Spring,MN
+1639,1054,Pete's Wicked Summer Brew (1997),American Pale Wheat Ale,12.0,0.047,nan,237,Forgotten Boardwalk,San Antonio,ID
+1096,653,Hopworks IPA (2012),German Pilsener,16.0,nan,75.0,405,Hopworks Urban Brewery,Portland,OR
+1131,687,Chomolungma Honey Nut Brown Ale,English Brown Ale,16.0,0.067,nan,92,Jackie O's Pub & Brewery,Athens,OH
+1295,957,Supergoose IPA,American Pale Ale (APA),12.0,0.052,nan,1,Matt Brewing Company,Utica,OK
+861,2427,Suncaster Summer Wheat,American Pale Wheat Ale,12.0,0.055,28.0,382,Mother Earth Brew Company,Anchorage,OH

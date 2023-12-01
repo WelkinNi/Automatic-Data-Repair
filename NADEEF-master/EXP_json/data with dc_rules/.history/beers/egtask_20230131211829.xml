@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<task>
+    <!-- ****************************************************
+                      DATABASES
+    **************************************************** -->
+    <source>
+        <!-- The (optional) source database stores tables that 
+        cannot be modified (for example master data) 
+        BART will not introduce changes in these tables -->
+        <type>DBMS</type>
+        <access-configuration>
+            <driver>org.postgresql.Driver</driver>
+            <uri>jdbc:postgresql:bart_beers</uri>
+            <schema>source</schema>
+            <login>niwei</login>
+            <password>123456</password>
+        </access-configuration>
+        <import>
+            <input type="csv" separator="," table="md">clean.csv</input>
+        </import>
+    </source>
+
+    <target> 
+        <type>DBMS</type>
+        <access-configuration>
+            <driver>org.postgresql.Driver</driver>
+            <uri>jdbc:postgresql:bart_beers</uri>
+            <schema>target</schema>
+            <login>niwei</login>
+            <password>123456</password>
+        </access-configuration>
+        <import>
+            <input type="csv" separator="," table="person">clean.csv</input>
+        </import>
+    </target>
+
+    <!-- ****************************************************
+                    DEPENDENCIES
+    **************************************************** -->
+    <dependencies>
+<![CDATA[
+DCs:
+// FD: Zip -> City
+// e1: person(ssn: $ssn1, name: $n1, surname: $s1, city: $c1, zip: $z1), 
+// person(ssn: $ssn2, name: $n2, surname: $s2, city: $c2, zip: $z2), 
+//     $z1 == $z2, $c1 != $c2 -> #fail.
+]]>
+    </dependencies>
+
+    <!-- ****************************************************
+                      CONFIGURATION
+    **************************************************** -->
+    <configuration>
+        <!-- To print extra information in the ouput (default = false) -->
+        <printLog>true</printLog>
+
+        <!-- To load DB every time on start (default = false) -->
+        <recreateDBOnStart>true</recreateDBOnStart>
+
+        <!-- To apply the changes (default = false) -->
+        <applyCellChanges>true</applyCellChanges>
+
+        <!-- To  apply cell changes on a copy of the original target, with a custom suffix (default = true) -->
+        <cloneTargetSchema>true</cloneTargetSchema>
+        <cloneSuffix>_dirty</cloneSuffix>
+
+        <!-- To export the dirty db -->
+        <exportDirtyDB>true</exportDirtyDB>
+        <exportDirtyDBPath>/Temp/bart/example/</exportDirtyDBPath>
+        <exportDirtyDBType>CSV</exportDirtyDBType>
+
+        <!-- To export the changes -->
+        <exportCellChanges>true</exportCellChanges>
+        <exportCellChangesPath>/Temp/bart/example/changes.csv</exportCellChangesPath>
+
+        <!-- To compute an estimate of the reparability (default = false) -->
+        <estimateRepairability>true</estimateRepairability>
+
+        <!-- To generate all possible changes (default = false - slow, only for toy examples)-->
+        <generateAllChanges>false</generateAllChanges>
+
+        <!-- To avoid interactions among changes. (default = true) -->
+        <avoidInteractions>true</avoidInteractions>
+
+        <!-- To check, at the end of the process, if changes are detectable. (default = false) -->
+        <checkChanges>true</checkChanges>
+
+        <!-- To compute an estimate of the repairability. Requires checkChanges = true. (default = false) -->
+        <estimateRepairability>true</estimateRepairability>
+
+        <!-- To use an optimized strategy for updates. (default = true) -->
+        <useDeltaDBForChanges>true</useDeltaDBForChanges>
+
+        <Errors>
+            <tables>
+                <table name="md">
+                    <percentage>10</percentage>
+                    <defaultStrategy>
+                        <strategy chars="*" charsToAdd="3">TypoAddString</strategy>
+                    </defaultStrategy> 
+                    <attribute table="md" name="beer_name">
+                        <strategy charsToRemove="3">TypoRemoveString</strategy>
+                        <strategy charsToSwitch="3">TypoSwitchValue</strategy>
+                        <strategy>TypoActiveDomain</strategy>
+                        <strategy>TypoRandom</strategy>
+                    </attribute>
+                </table>
+            </tables>
+        </Errors>
+
+    </configuration>
+</task>

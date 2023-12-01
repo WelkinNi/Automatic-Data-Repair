@@ -1,0 +1,51 @@
+index,id,beer_name,style,ounces,abv,ibu,brewery_id,brewery_name,city,state
+1,1436,Pub Beer,American Pale Lager,12.0 oz,0.05,N/A,408,10 Barrel Brewing Company,Bend,OR
+2,2265,Devil's Cup,American Pale Ale (APA),12.0 oz.,0.066,N/A,177,18th Street Brewery,Gary,IN
+3,2264,Rise of the Phoenix,American IPA,12.0 ounce,0.071,N/A,177,18th Street Brewery,Gary,IN
+4,2263,Sinister,American Double / Imperial IPA,12.0 oz,0.09%,N/A,177,18th Street Brewery,Gary,IN
+5,2262,Sex and Candy,American IPA,12.0 OZ.,0.075,N/A,177,18th Street Brewery,Gary,IN
+6,2261,Black Exodus,Oatmeal Stout,12.0 oz,0.077,N/A,177,18th Street Brewery,Gary,IN
+7,2260,Lake Street Express,American Pale Ale (APA),12.0 oz.,0.05%,N/A,177,18th Street Brewery,Gary,IN
+8,2259,Foreman,American Porter,12.0 ounce,0.065,N/A,177,18th Street Brewery,Gary,IN
+9,2258,Jade,American Pale Ale (APA),12.0 oz.,0.055,N/A,177,18th Street Brewery,Gary,IN
+10,2131,Cone Crusher,American Double / Imperial IPA,12.0 ounce,0.086,N/A,177,18th Street Brewery,Gary,IN
+11,2099,Sophomoric Saison,Saison / Farmhouse Ale,12.0 oz.,0.072,N/A,177,18th Street Brewery,Gary,IN
+12,2098,Regional Ring Of Fire,Saison / Farmhouse Ale,12.0 oz.,0.073,N/A,177,18th Street Brewery,Gary,IN
+13,2097,Garce Sel¨¦,Saison / Farmhouse Ale,12.0 OZ.,0.07%,N/A,177,18th Street Brewery,Gary,IN
+14,1980,Troll Destroyer,Belgian IPA,12.0 oz.,0.085,N/A,177,18th Street Brewery,Gary,IN
+15,1979,Bitter Bitch,American Pale Ale (APA),12.0 ounce,0.06%,60,177,18th Street Brewery,Gary,IN
+16,2318,Ginja Ninja,Cider,12.0 ounce,0.06,N/A,154,2 Towns Ciderhouse,Corvallis,OR
+17,2170,Cherried Away,Cider,12.0 oz.,0.06,N/A,154,2 Towns Ciderhouse,Corvallis,OR
+18,2169,Rhubarbarian,Cider,12.0 oz. Alumi-Tek,0.06,N/A,154,2 Towns Ciderhouse,Corvallis,OR
+19,1502,BrightCider,Cider,12.0 ounce,0.06,N/A,154,2 Towns Ciderhouse,Corvallis,OR
+20,1593,He Said Baltic-Style Porter,Baltic Porter,12.0 oz.,0.082,N/A,368,21st Amendment Brewery,San Francisco,CA
+21,1592,He Said Belgian-Style Tripel,Tripel,12.0 oz.,0.082,N/A,368,21st Amendment Brewery,San Francisco,CA
+22,1036,Lower De Boom,American Barleywine,8.4 ounce,0.099,92,368,21st Amendment Brewery,San Francisco,CA
+23,1024,Fireside Chat,Winter Warmer,12.0 OZ.,0.079,45,368,21st Amendment Brewery,San Francisco,CA
+24,976,Marooned On Hog Island,American Stout,12.0 oz.,0.079,N/A,368,21st Amendment Brewery,San Francisco,CA
+25,876,Bitter American,American Pale Ale (APA),12.0 oz,0.044,42,368,21st Amendment Brewery,San Francisco,CA
+26,802,Hell or High Watermelon Wheat (2009),Fruit / Vegetable Beer,12.0 ounce,0.049,17,368,21st Amendment Brewery,San Francisco,CA
+27,801,Hell or High Watermelon Wheat (2009),Fruit / Vegetable Beer,12.0 oz.,0.05%,17,368,21st Amendment Brewery,San Francisco,CA
+28,800,21st Amendment Watermelon Wheat Beer (2006),Fruit / Vegetable Beer,12.0 oz.,0.049,17,368,21st Amendment Brewery,San Francisco,CA
+29,799,21st Amendment IPA (2006),American IPA,12.0 oz.,0.07,70,368,21st Amendment Brewery,San Francisco,CA
+30,797,Brew Free! or Die IPA (2008),American IPA,12.0 OZ.,0.07%,70,368,21st Amendment Brewery,San Francisco,CA
+31,796,Brew Free! or Die IPA (2009),American IPA,12.0 oz.,0.07%,70,368,21st Amendment Brewery,San Francisco,CA
+32,531,Special Edition: Allies Win The War!,English Strong Ale,12.0 oz.,0.085,52,368,21st Amendment Brewery,San Francisco,CA
+33,432,Hop Crisis,American Double / Imperial IPA,12.0 oz.,0.097,94,368,21st Amendment Brewery,San Francisco,CA
+34,353,Bitter American (2011),American Pale Ale (APA),12.0 oz,0.044,42,368,21st Amendment Brewery,San Francisco,CA
+35,321,Fireside Chat (2010),Winter Warmer,12.0 ounce,0.08%,45,368,21st Amendment Brewery,San Francisco,CA
+36,173,Back in Black,American Black Ale,12.0 ounce,0.07%,65,368,21st Amendment Brewery,San Francisco,CA
+37,11,Monk's Blood,Belgian Dark Ale,12.0 OZ.,0.083,35,368,21st Amendment Brewery,San Francisco,CA
+38,10,Brew Free! or Die IPA,American IPA,12.0 oz.,0.07,65,368,21st Amendment Brewery,San Francisco,CA
+39,9,Hell or High Watermelon Wheat,Fruit / Vegetable Beer,12.0 oz.,0.049,17,368,21st Amendment Brewery,San Francisco,CA
+40,2519,Bimini Twist,American IPA,12.0 ounce,0.07,82,67,3 Daughters Brewing,St Petersburg,FL
+41,2518,Beach Blonde,American Blonde Ale,12.0 oz.,0.05,N/A,67,3 Daughters Brewing,St Petersburg,FL
+42,2517,Rod Bender Red,American Amber / Red Ale,12.0 oz.,0.059,N/A,67,3 Daughters Brewing,St Petersburg,FL
+43,2545,Passion Fruit Prussia,Berliner Weissbier,12.0 oz,0.035,11,60,4 Hands Brewing Company,Saint Louis,MO
+44,2544,Send Help,American Blonde Ale,12.0 oz,0.05%,18,60,4 Hands Brewing Company,Saint Louis,MO
+45,2324,Cast Iron Oatmeal Brown,American Brown Ale,12.0 oz,0.06%,N/A,60,4 Hands Brewing Company,Saint Louis,MO
+46,2288,Reprise Centennial Red,American Amber / Red Ale,12.0 oz.,0.06,N/A,60,4 Hands Brewing Company,Saint Louis,MO
+47,2287,Alter Ego,American Black Ale,12.0 oz.,0.06%,N/A,60,4 Hands Brewing Company,Saint Louis,MO
+48,2286,Divided Sky,American IPA,12.0 oz,0.065,N/A,60,4 Hands Brewing Company,Saint Louis MO,
+49,2285,Resurrected,American IPA,12.0 oz.,0.065,N/A,60,4 Hands Brewing Company,Saint Louis,MO
+50,1870,Contact High,American Pale Wheat Ale,12.0 oz.,0.05,28,60,4 Hands Brewing Company,Saint Louis,MO

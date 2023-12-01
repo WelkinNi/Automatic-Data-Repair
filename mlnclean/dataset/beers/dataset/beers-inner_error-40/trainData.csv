@@ -1,0 +1,21 @@
+ID,id,beer_name,style,ounces,abv,ibu,brewery_id,brewery_name,city,state
+1185,590,Longboard Island Lager,American Amber / Red Lager,12.0,0.08,18.0,439,Kona Brewing Company,Kona,MA
+2325,1209,Country Pale Ale,English Pale Ale,12.0,0.054,17.0,295,Hopworks Urban Brewery,Westminster,MA
+956,2643,Colette,American IPA,12.0,0.06,nan,6,Great Divide Brewing Company,Denver,CO
+1216,2329,Peacemaker Pale Ale,American Pale Ale (APA),12.0,0.055,47.0,110,Lonerider Brewing Company,Raleigh,NC
+1516,2070,Firewater India Pale Ale,Winter Warmer,12.0,0.05,60.0,184,Summit Brewing Company,Austin,TN
+2392,1468,Roller Dam Red Ale,American Pale Lager,12.0,0.048,15.0,25,Wolverine State Brewing Company,Ann Arbor,MI
+770,1286,Bikini Beer,American Double / Imperial IPA,12.0,0.065,nan,173,Evil Twin Brewing,Louisville,NY
+1686,1718,Firemans #4 Blonde Ale (2013),American Stout,12.0,0.051,60.0,13,Real Ale Brewing Company,Cambridge,TX
+131,139,Porter (a/k/a Black Gold Porter),American Porter,16.0,0.054,nan,69,Marshall Wharf Brewing Company,Boone,NC
+2136,1082,RecreationAle,American Pale Ale (APA),12.0,0.071,42.0,469,Terrapin Brewing Company,Athens,GA
+1483,2050,SUM'R,American Black Ale,12.0,0.042,35.0,238,Oakshire Brewing,Newburgh,NY
+331,2252,Duke's Cold Nose Brown Ale,Gose,12.0,0.06,nan,378,Bold City Brewery,Jacksonville,CA
+1239,125,Lumberyard Red Ale,American Amber / Red Ale,12.0,0.058,nan,158,Lumberyard Brewing Company,Brooklyn,AZ
+467,29,Very Noddy Lager (Current),Schwarzbier,12.0,0.099,nan,530,Buckbean Brewing Company,Houghton,NV
+2170,2347,Grand Trunk Bohemian Pils,American Pale Wheat Ale,12.0,0.048,130.0,299,Third Street Brewhouse,Columbus,MN
+1639,1054,Second Wind Pale Ale,American Black Ale,12.0,0.047,nan,470,Astoria Brewing Company,Marietta,TX
+1096,1858,Hopworks IPA (2012),American IPA,16.0,0.066,75.0,80,Burn 'Em Brewing,Tampa,OR
+1131,687,Chomolungma Honey Nut Brown Ale,English Brown Ale,12.0,0.099,nan,331,Jackie O's Pub & Brewery,Menominie,OH
+1295,1248,Self Starter,American Pale Lager,12.0,0.048,nan,299,Brewery Vivant,Utica,MI
+861,2427,Huber,American Pale Wheat Ale,12.0,0.05,28.0,131,Four String Brewing Company,Columbus,OH

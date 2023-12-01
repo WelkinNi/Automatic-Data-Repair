@@ -1,0 +1,8 @@
+t1&t2&EQ(t1.zip,t2.zip)&IQ(t1.city,t2.city)
+t1&t2&EQ(t1.zip,t2.zip)&IQ(t1.state,t2.state)
+t1&t2&EQ(t1.zip,t2.zip)&EQ(t1.has_child,t2.has_child)&IQ(t1.child_exemp,t2.child_exemp)
+t1&t2&EQ(t1.zip,t2.zip)&EQ(t1.marital_status,t2.marital_status)&IQ(t1.single_exemp,t2.single_exemp)
+t1&t2&EQ(t1.zip,t2.zip)&EQ(t1.marital_status,t2.marital_status)&IQ(t1.married_exemp,t2.married_exemp)
+t1&t2&EQ(t1.f_name,t2.f_name)&IQ(t1.gender,t2.gender)
+t1&t2&EQ(t1.area_code,t2.area_code)&IQ(t1.state,t2.state)
+t1&t2&EQ(t1.phone,t2.phone)&EQ(t1.zip,t2.zip)&IQ(t1.area_code,t2.area_code)

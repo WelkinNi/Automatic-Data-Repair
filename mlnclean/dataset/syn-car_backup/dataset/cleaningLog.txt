@@ -1,0 +1,22 @@
+fack learnwt Time: 106.44s
+
+outlier Merging Time: .29 s
+
+
+*******Domain 1*******
+
+*******Domain 2*******
+
+>>>>>>Reliability Score Analysis<<<<<<
+
+rs precision = 0.9247672590980535
+
+rs recall = 0.9248231666767427
+
+cleaning Time: 3.30s
+cleanedDataSet.txt stored in=/data/nw/DC_ED/References_inner_and_outer/mlnclean/dataset/syn-car_backup/dataset/RDBSCleaner_cleaned.txt
+Total Time: 109.73s
+Precision = 0.9923761118170267
+Recall = 0.9689826302729528
+F1 = 0.9805398618957941
+finished

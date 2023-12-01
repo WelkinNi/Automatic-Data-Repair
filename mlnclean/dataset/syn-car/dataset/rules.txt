@@ -1,0 +1,2 @@
+make("acura"),type(valuetype) => doors(valuedoors)
+model(valuemodel),type(valuetype) => make(valuemake)

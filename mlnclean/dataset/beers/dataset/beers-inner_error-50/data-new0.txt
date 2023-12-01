@@ -1,0 +1,21 @@
+id,beer_name,style,ounces,abv,ibu,brewery_id,brewery_name,city,state
+590,Longboard Island Lager,American Amber / Red Lager,12.0,0.05,18.0,479,Kona Brewing Company,Kona,VT
+1506,Country Pale Ale,Irish Red Ale,12.0,0.051,55.0,295,Wachusett Brewing Company,Westminster,MA
+547,Colette,Saison / Farmhouse Ale,12.0,0.073,nan,6,The Alchemist,Morganton,CO
+1872,Peacemaker Pale Ale,American Pale Ale (APA),12.0,0.047,nan,272,Lonerider Brewing Company,Raleigh,NC
+2070,Hayride Autumn Ale,Keller Bier / Zwickel Bier,16.0,0.032,35.0,43,Oasis Texas Brewing Company,Chicago,TX
+2221,Wolverine Premium Lager,American Pale Lager,12.0,0.047,nan,402,Wolverine State Brewing Company,Austin,CO
+1286,Bikini Beer,American IPA,16.0,0.027,nan,173,Great Divide Brewing Company,Lahaina,NY
+1718,40 Mile IPA,American Blonde Ale,12.0,0.051,46.0,384,Real Ale Brewing Company,Blanco,TX
+2509,Porter (a/k/a Black Gold Porter),American Pale Wheat Ale,16.0,0.06,nan,164,Appalachian Mountain Brewery,Jackson,DC
+2196,Might As Well IPL,American Pale Ale (APA),12.0,0.047,42.0,469,Warped Wing Brewing Company,Athens,AK
+2050,Cream Ale,Cream Ale,12.0,0.042,35.0,449,Newburgh Brewing Company,Newburgh,NY
+1538,Duke's Cold Nose Brown Ale,American Brown Ale,12.0,0.056,nan,378,Bold City Brewery,Jacksonville,FL
+125,Lumberyard Red Ale,American Amber / Red Ale,12.0,0.045,nan,158,Lumberyard Brewing Company,Flagstaff,LA
+29,Main St. Virginia Ale,Pumpkin Ale,12.0,0.099,nan,530,Buckbean Brewing Company,Reno,CO
+2414,Ghose Drifter Pale Ale,American Pale Wheat Ale,12.0,0.05,18.0,160,Southern Star Brewing Company,Cold Spring,MN
+1054,Pete's Wicked Summer Brew (1997),American Wild Ale,12.0,0.047,nan,470,Catawba Island Brewing,San Antonio,TX
+653,Bomber Mountain Amber Ale (2013),American IPA,12.0,0.066,85.0,80,Hopworks Urban Brewery,Austin,OR
+687,Vertex IPA,English Brown Ale,12.0,0.067,nan,165,Jackie O's Pub & Brewery,Athens,OH
+957,Three Way Pale Ale,American IPA,12.0,0.048,nan,299,Matt Brewing Company,Utica,NY
+2427,Suncaster Summer Wheat,American Pale Wheat Ale,12.0,nan,20.0,105,Sockeye Brewing Company,Columbus,CO

@@ -1,0 +1,4 @@
+HospitalName ⇒ ZipCode
+City ⇒ CountyName
+ZipCode ⇒ City
+ZipCode ⇒ State

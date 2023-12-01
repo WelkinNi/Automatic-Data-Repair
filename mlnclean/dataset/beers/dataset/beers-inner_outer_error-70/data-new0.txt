@@ -1,0 +1,21 @@
+id,beer_name,style,ounces,abv,ibu,brewery_id,brewery_name,city,state
+707,Longboard Island Lager,American Amber / Red Lager,21,0,nan,nan,s,ƉKona,HI
+1030,nan,Alabama,12,0.051,17,29 5,Wachusett Brewing Company,Westminster,MA
+2643,Colette,Saison /޸ Farmhouse Ale,nan,nan,nan,66,Great Divide Brewing Company,Denver,RP
+23Ð29,nan,Saison / Farmhouse Ale,12,nan,nan,149,nan,Raleigh,NC
+Ð2149,Luchesa Lager,nan,12,0.048,35,184,Oasis Texas Brewing Company,nitsuA,TX
+1468,Hell or High Watermelon Wheat,American Pale Lager,Afghanistan,0.047,nan,402,Wolverine State Brewing Company,nan,MI
+1286,Bikini Beer,American IPA,Afghanistan,0.055,nan,nan,nan,Brooklyn,§NY
+8171,s,American Blonde Ale,12,0.051,21,nan,Real Ale Brewing Company,Blanco,TX
+2509,Porter (a/k/a Black Gold Porter),American Porter,Afghanistan,0.06,23,69,nan,otnemarcaS,NC
+1082,RecreationAle,American Pale Ale (APA),12,0.047,42,nan,Terrapin Brewing Company,ɣAthens,GA
+2050,elA maerC,nan,Afghanistan,0.042,35,nan,s,nan,Alabama
+1188,nan,American Brown Ale,12,0.045,nan,nan,Bold City Brewery,Jacksonville,FL
+2292,Lumberyard Redڄ Ale,American Amber / Red Ale,12,0.058,nan,851,Lumberyard Brewing Company,Flagstaff,Alabama
+29,Very Noddy Lager (Current),Alabama,16,0,nan,nan,Buckbean Brewing Coऀmpany,Reno,NF
+20010101,Hunny Do Wheat,American Pale Wheat Ale,12,nan,18,nan,s,Cold Spring,MN
+1054,nan,American Pale Wheat Ale,12,0ù.047,nan,470,Pete's Brewing Compࠍany,San Antonio,T¬X
+653,)2102( API skrowpoH,American IPA,nan,0,nan,80,nan,Portland,Alabama
+687,Chomolungma Honey Nut Brown Ale,American IPA,16,0,nan,nan,Jackie O's Pub & Brewery,Athens,nan
+1127,Saranac Traditional Lager (2000),American Blonde Ale,12,0.048,nan,64,Armstrong Brewing Company,Utica,N§Y
+2427,s,American Pale Wheat Ale,nan,0,2j8,nan,Four String Brewing Company,Columbus,UH

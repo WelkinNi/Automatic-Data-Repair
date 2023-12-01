@@ -1,0 +1,21 @@
+ID,id,beer_name,style,ounces,abv,ibu,brewery_id,brewery_name,city,state
+1185,1160,Great Crescent Dark Lager,American Amber / Red Lager,12.0,0.073,nan,10,Kona Brewing Company,San Diego,PA
+2325,978,Jah Mon,English Pale Ale,12.0,0.051,17.0,295,Wachusett Brewing Company,Westminster,MA
+956,550,Southern Drawl Pale Lager,American Pale Ale (APA),12.0,0.068,nan,118,Great Divide Brewing Company,Moab,OR
+1216,364,Peacemaker Pale Ale,American Pale Ale (APA),12.0,0.055,75.0,50,Hawai'i Nui Brewing Co.,Kona,NC
+1516,1311,Jack Stout,Witbier,12.0,0.048,nan,449,Mogollon Brewing Company,Austin,TX
+2392,1468,HopArt,American Pale Lager,12.0,0.06,nan,402,Wolverine State Brewing Company,Springfield,MI
+770,1286,Bikini Beer,American IPA,12.0,0.027,nan,379,Ipswich Ale Brewery,Brooklyn,NY
+1686,1263,Pamola Xtra Pale Ale,American Blonde Ale,16.0,0.051,8.0,128,Morgan Street Brewery,Tampa,CO
+131,2087,Clean Shave IPA,American Porter,16.0,0.08,23.0,69,Real Ale Brewing Company,Boone,NC
+2136,618,Peaches & Cream,American Pale Ale (APA),12.0,0.05,20.0,361,Mike Hess Brewing Company,Athens,CO
+1483,150,Cream Ale,Cream Ale,12.0,0.06,nan,238,Lucette Brewing Company,Houston,NY
+331,1188,Duke's Cold Nose Brown Ale,American Double / Imperial IPA,12.0,0.054,nan,371,Bold City Brewery,Jacksonville,MA
+1239,125,Alloy,American Amber / Red Ale,12.0,0.058,nan,271,Lumberyard Brewing Company,Flagstaff,AZ
+467,28,Very Noddy Lager (Current),English Stout,16.0,0.099,nan,530,21st Amendment Brewery,Blanco,NV
+2170,2347,Centennial State Pale Ale,Rye Beer,12.0,0.048,55.0,143,Third Street Brewhouse,Valparaiso,CO
+1639,1937,Third Eye Pale Ale,American Double / Imperial IPA,12.0,0.047,nan,135,Pete's Brewing Company,Hayward,CO
+1096,1098,Bodacious Bock,American Pale Ale (APA),16.0,0.066,75.0,37,Mikerphone Brewing,Portland,TX
+1131,687,Chomolungma Honey Nut Brown Ale,English Brown Ale,12.0,0.075,nan,83,Jackie O's Pub & Brewery,Athens,OH
+1295,957,Point the Way IPA,German Pilsener,12.0,0.06,nan,301,Martin House Brewing Company,Utica,NE
+861,2427,Suncaster Summer Wheat,American Pale Wheat Ale,12.0,0.065,28.0,91,Four String Brewing Company,Halethorpe,OH

@@ -1,0 +1,21 @@
+src,flight,sched_dep_time,act_dep_time,sched_arr_time,act_arr_time
+wunderground,AA-271-MIA-LAX,4:00 p.m.,11:52 a.m.,5:35 a.m.,2:27 p.m.
+flylouisville,AA-643-MIA-ORD,2:30 p.m.,3:36 p.m.,11:10 a.m.,9:31 a.m.
+foxbusiness,UA-854-SFO-IAH,7:53 a.m.,7:49 a.m.,4:49 p.m.,1:30 p.m.
+flytecomm,AA-1640-MIA-MCO,12:57 p.m.,2:55 p.m.,11:50 a.m.,11:44 a.m.
+orbitz,AA-649-ORD-SNA,1:30 p.m.,1:30 p.m.,2:35 p.m.,11:06 a.m.
+panynj,AA-4330-CVG-ORD,2:30 p.m.,2:55 p.m.,7:05 p.m.,8:03 p.m.
+businesstravellogue,AA-3979-CVG-ORD,7:30 a.m.,8:04 a.m.,8:00 a.m.,8:06 a.m.
+travelocity,CO-89-IAH-EWR,6:00 a.m.,6:02 a.m.,10:20 a.m.,10:27 a.m.
+flightexplorer,AA-1522-SFO-ORD,11:55 p.m.,11:55 p.m.,5:50 a.m.,11:01 a.m.
+wunderground,UA-3925-IAD-ORF,11:25 p.m.,12:11 p.m.,9:54 a.m.,9:43 a.m.
+flightview,CO-1694-LAX-IAH,7:10 a.m.,7:15 p.m.,12:21 a.m.,8:03 p.m.
+orbitz,AA-2050-ORD-MIA,10:40 a.m.,11:05 a.m.,2:45 p.m.,2:46 p.m.
+orbitz,UA-2708-EWR-CLT,1:05 p.m.,1:19 p.m.,8:00 a.m.,9:32 a.m.
+helloflight,AA-271-MIA-LAX,7:00 a.m.,8:26 a.m.,12:21 a.m.,2:27 p.m.
+foxbusiness,UA-414-LAX-SFO,6:00 a.m.,5:56 a.m.,7:23 a.m.,5:05 p.m.
+helloflight,UA-1500-IAH-GUA,2:30 p.m.,2:48 p.m.,7:03 p.m.,7:10 p.m.
+aa,AA-518-MIA-JFK,6:40 a.m.,6:54 a.m.,9:25 a.m.,9:28 a.m.
+flylouisville,AA-204-LAX-MCO,6:45 p.m.,7:39 a.m.,10:45 a.m.,7:51 a.m.
+panynj,CO-1023-IAH-DEN,10:40 a.m.,11:56 a.m.,1:17 p.m.,8:53 p.m.
+panynj,AA-4330-CVG-ORD,8:35 a.m.,8:56 a.m.,4:05 p.m.,10:16 a.m.

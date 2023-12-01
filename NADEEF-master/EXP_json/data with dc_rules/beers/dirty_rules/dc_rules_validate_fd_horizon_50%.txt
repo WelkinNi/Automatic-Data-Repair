@@ -1,0 +1,4 @@
+state ⇒ brewery_id
+ounces ⇒ brewery_name
+brewery_id ⇒ city
+brewery_id ⇒ state

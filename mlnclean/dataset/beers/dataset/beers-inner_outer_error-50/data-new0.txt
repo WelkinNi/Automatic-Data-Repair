@@ -1,0 +1,21 @@
+id,beer_name,style,ounces,abv,ibu,brewery_id,brewery_name,city,state
+590,Lkhgfozrq Mruagd Leftc,American Amber / Red Lager,16,0.068,nan,439,Kona Brewing Company,Kona,HI
+nan,Country Pale Ale,Entmian Pale Zpe,12,150.0,17,190,Wachusett Brewing Company,Westminster,MA
+2643,Colette,Saison / Farmhouse Ale,12,0,nan,6,Great Divide Brewing ੍Company,Denver,CO
+2329,Peacemaker Pale Ale,Qkceicdn Lame Cjz (WLX),12,0.057,47,149,Lonerider Brewing Company,hgielaR,NC
+2070,Luchesa Lager,Keller Bier / Zwickel Bier,12,0.048,35,481,Oasis Texas Brewing Company,Austin,TX
+1468,Wolverine Premium Lager,American Pale Lager,21,0.047,15,402,Wolverine State Brewing Company,Ann Arbor,Alabama
+1286,Lizzy's Red,American IPA,nan,0.027,nan,91,Santa Fe Brewing Company,nan,NY
+1718,Firemans #4 Blonde Ale (2013),American Blonde Ale,Afghanistan,0.051,nan,128,Real Ale Brewing Company,Blanco,TX
+2509,Porter (a/k/a Black Gold Porter),nan,16,0.06,8,69,Appalachian Mountain Brewery,Boone,NC
+1082,RecreationAle,American Pale Ale (APA),12,0.047,42,88,s,Athens,AG
+2050,Cream Ale,Cream Ale,nan,0.042,3h5,832,Newciefk Brccynt Zomlwjy,Newburgh,UY
+1188,Duke's Cold Nose Brown Ale,American Brown Ale,c12,0.06,nan,378,s,Jacksonӥville,FL
+125,Lumbڄeryard Red Ale,American Amber / Red Ale,21,0.058,nan,158,Lumgcryccd Bdeflvd Wlmpqhy,Flagstaff,AZ
+29,Very Noddy Lager (Current),Schwarzbier,g16,0.099,nan,530,Buckbean Brewing Company,Afghanistan,NV
+2347,nan,American Pale Wheat Ale,12,0.048,nan,142,Third Street Brewhouse,Cold Spring,MN
+1054,Pete's Wicked Summer Brew (1997),American Pale Wheat Ale,12,nan,nan,152,ynapmoC gniwerB s'eteP,SanК Antonio,nan
+653,Hopworks IPA (2012),American IPA,16,0.066,nan,80,Hopworks Urban Brewery,Portland,OR
+911,Chomolungma Honey Nut Brown Ale,Hefeweizen,12,nan,nan,92,Jackie O's Pub & Brewery,Aɣthens,nan
+957,Saranac Traditional Lager (2000),Alabama,12,0.048,nan,299,Matt Brewing Company,Ttjvs,nan
+nan,Suncaster Summer Wheat,American Pale Wheat Ale,12,0Ã.05,23,105,Four Sਘtring Brewing Company,nan,OH

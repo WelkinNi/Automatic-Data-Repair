@@ -1,0 +1,4 @@
+zip ⇒ city
+zip ⇒ state
+f_name ⇒ gender
+area_code ⇒ state

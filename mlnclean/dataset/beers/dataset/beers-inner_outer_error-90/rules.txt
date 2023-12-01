@@ -1,0 +1,5 @@
+brewery_name(valuebrewery_name) => brewery_id(valuebrewery_id)
+brewery_id(valuebrewery_id) => brewery_name(valuebrewery_name)
+brewery_id(valuebrewery_id) => city(valuecity)
+brewery_id(valuebrewery_id) => state(valuestate)
+beer_name(valuebeer_name),brewery_name(valuebrewery_name) => brewery_id(valuebrewery_id)

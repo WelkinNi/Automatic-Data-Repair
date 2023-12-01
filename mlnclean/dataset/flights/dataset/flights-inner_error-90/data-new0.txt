@@ -1,0 +1,21 @@
+src,flight,sched_dep_time,act_dep_time,sched_arr_time,act_arr_time
+flightstats,UA-3925-IAD-ORF,11:35 a.m.,6:57 a.m.,2:25 p.m.,2:27 p.m.
+flytecomm,CO-4888-IAH-DAL,6:30 p.m.,7:30 a.m.,9:35 a.m.,3:43 p.m.
+flightwise,AA-4198-ORD-CLE,9:05 a.m.,3:27 p.m.,1:39 p.m.,8:02 a.m.
+world-flight-tracker,CO-1694-LAX-IAH,8:35 a.m.,11:56 a.m.,6:55 a.m.,3:14 p.m.
+flylouisville,AA-649-ORD-SNA,1:30 p.m.,1:30 p.m.,5:00 p.m.,4:44 p.m.
+panynj,CO-1090-BOS-IAH,4:00 p.m.,11:40 a.m.,7:05 p.m.,6:36 p.m.
+flightarrival,CO-4888-IAH-DAL,7:05 a.m.,10:19 a.m.,9:10 p.m.,8:06 a.m.
+CO,CO-89-IAH-EWR,11:55 p.m.,6:02 a.m.,11:45 a.m.,3:14 p.m.
+flightexplorer,AA-1522-SFO-ORD,6:00 a.m.,11:55 p.m.,10:20 a.m.,5:50 a.m.
+flightstats,AA-2957-DFW-CVG,10:15 a.m.,8:42 a.m.,11:45 a.m.,11:32 a.m.
+flightview,CO-1586-IAH-MCO,7:15 p.m.,2:04 p.m.,4:57 p.m.,12:21 a.m.
+flightview,AA-404-MIA-MCO,10:40 a.m.,2:55 p.m.,4:57 p.m.,2:46 p.m.
+airtravelcenter,AA-789-ORD-DEN,9:00 p.m.,8:56 a.m.,1:39 p.m.,3:13 p.m.
+helloflight,AA-271-MIA-LAX,11:35 a.m.,11:55 a.m.,2:25 p.m.,1:43 p.m.
+boston,CO-1250-MIA-IAH,8:35 a.m.,11:32 a.m.,7:23 a.m.,11:58 a.m.
+helloflight,CO-62-IAH-EWR,8:20 p.m.,2:48 p.m.,7:03 p.m.,9:56 a.m.
+helloflight,AA-518-MIA-JFK,6:40 a.m.,6:54 a.m.,6:15 p.m.,9:28 a.m.
+airtravelcenter,UA-248-PHX-ORD,7:10 a.m.,11:30 a.m.,4:05 p.m.,11:12 a.m.
+panynj,AA-4307-ORD-DTW,11:40 a.m.,9:00 p.m.,7:45 a.m.,10:16 a.m.
+orbitz,AA-3-JFK-LAX,11:55 p.m.,7:21 a.m.,10:30 p.m.,10:16 a.m.

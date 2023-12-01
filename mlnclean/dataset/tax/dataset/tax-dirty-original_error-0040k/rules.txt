@@ -1,0 +1,8 @@
+zip(valuezip) => city(valuecity)
+zip(valuezip) => state(valuestate)
+zip(valuezip),has_child(valuehas_child) => child_exemp(valuechild_exemp)
+zip(valuezip),marital_status(valuemarital_status) => single_exemp(valuesingle_exemp)
+zip(valuezip),marital_status(valuemarital_status) => married_exemp(valuemarried_exemp)
+f_name(valuef_name) => gender(valuegender)
+area_code(valuearea_code) => state(valuestate)
+phone(valuephone),zip(valuezip) => area_code(valuearea_code)

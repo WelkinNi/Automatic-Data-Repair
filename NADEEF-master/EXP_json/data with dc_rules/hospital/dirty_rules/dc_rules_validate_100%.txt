@@ -1,0 +1,4 @@
+∀t0∈clean.csv,t1∈clean.csv: ¬[t0.MeasureCode=t1.MeasureCode∧t0.ZipCode≠t1.ZipCode]
+∀t0∈clean.csv,t1∈clean.csv: ¬[t0.Stateavg=t1.Stateavg∧t0.CountyName≠t1.CountyName]
+∀t0∈clean.csv,t1∈clean.csv: ¬[t0.Address1=t1.Address1∧t0.City≠t1.City]
+∀t0∈clean.csv,t1∈clean.csv: ¬[t0.HospitalType=t1.HospitalType∧t0.State≠t1.State]

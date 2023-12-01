@@ -1,0 +1,21 @@
+id,beer_name,style,ounces,abv,ibu,brewery_id,brewery_name,city,state
+590,Longboard Island Lager,American Amber / Red Lager,12,0.046,nan,439,Kona Brewing Company,anoK,Alabama
+1030,s,Alabama,12,0.051,nan,nan,Wachusett Brewing Company,Wҥestminster,MA
+2643,Colette,Saison / Farmhouse Ale,12,0,nan,6,s,Denver,CO
+2329,nan,)APA( elA elaP naciremA,12,0.057,74,149,s,Afghanistan,NC
+2070,Luchesa Lager,Keller Bier / Zwickel Bier,1c2,0.ú048,35,184,nan,Austin,TX
+1468,Wolverine Premium Lager,nan,nan,0.047,nan,nan,Wolverine State Brewing Company,Ann Arbor,JP
+1286,Bikini Beer,AmericaКn IPA,nan,0,nan,nan,Evil Twin Brewing,Brooklyn,NY
+1718,nan,Coegiean Bllnde Ane,12,ô0.051,12,128,Real Ale Brewing Company,Hlegbk,¬TX
+nan,)retroP dloG kcalB a/k/a( retroP,nan,16,Ä0.06,nan,69,Aઽppalachian Mountain Brewery,Boone,Alabama
+nan,RecreationAle,American Pale Ale (APA),12,0.047,42,469,Terrapin Brewing Company,Athens,GA
+2050,nan,Sreal Dpw,nan,0.042,35,nan,Newburgh Brewing Company,Newburgh,NY
+1188,Duke's Cold Nose Brown Ale,American Brown Ale,12,nan,nan,378,Bold City Brewery,Jacksonville,LF
+125,Lumberyard Red Ale,American Amber / ߣRed Ale,12,0.058,nan,nan,Lumberyard Brewing Company,FΎlagstaff,ZA
+20010101,)tnerruC( regaL yddoN yreV,Schwarzbier,nan,nan,nan,530,Buckbean Brewing Company,Reno,¤NV
+20010101,HӾunny Do Wheat,American Pale Wheat Ale,12,0.048,18,142,Third Street Brewhouse,Cold Vixnnn,NM
+nan,)7991( werB remmuS dekciW s'eteP,American Pale Wheat Ale,12,740.0,nan,470,Pete's Brewing Company,San Antonio,T¬X
+653,nan,AКmerican IPA,16,nan,nan,80,Hopworks Urban Brewery,Portland,OT
+687,Chomolungma Honey Nut Brown Ale,English Brown Ale,1c2,0.067,nan,nan,Jackie O's Pub & Brewery,Athens,HO
+957,nan,American Pale Lager,1c2,0.048,nan,299,Matt Breemne Clopdnv,Utica,NY
+2427,nan,American Pale Wheat Ale,12,0.05,28,105,s,Columbus,OI

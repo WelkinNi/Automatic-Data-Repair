@@ -1,0 +1,7 @@
+ZIPCode(valueZIPCode) => CountyName(valueCountyName)
+PhoneNumber(valuePhoneNumber) => City(valueCity)
+PhoneNumber(valuePhoneNumber) => ZIPCode(valueZIPCode)
+PhoneNumber(valuePhoneNumber) => State(valueState)
+ZIPCode(valueZIPCode) => City(valueCity)
+ZIPCode(valueZIPCode) => State(valueState)
+ProviderID(valueProviderID) => City(valueCity) , PhoneNumber(valuePhoneNumber)

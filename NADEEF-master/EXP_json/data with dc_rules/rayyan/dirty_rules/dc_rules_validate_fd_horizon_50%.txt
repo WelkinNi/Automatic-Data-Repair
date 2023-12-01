@@ -1,0 +1,4 @@
+article_jvolumn ⇒ journal_issn
+author_list ⇒ journal_title
+jounral_abbreviation ⇒ journal_issn
+journal_issn ⇒ journal_title

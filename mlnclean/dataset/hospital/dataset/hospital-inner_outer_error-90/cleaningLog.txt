@@ -1,0 +1,336 @@
+fack learnwt Time: 75.62s
+
+outlier Merging Time: .32 s
+
+
+*******Domain 1*******
+
+*******Domain 2*******
+
+*******Domain 3*******
+
+*******Domain 4*******
+
+*******Domain 5*******
+
+*******Domain 6*******
+
+*******Domain 7*******
+
+*******Domain 8*******
+
+*******Domain 9*******
+
+*******Domain 10*******
+
+*******Domain 11*******
+
+*******Domain 12*******
+
+>>>>>>Reliability Score Analysis<<<<<<
+
+rs precision = 0.10926665265812145
+
+rs recall = 0.16663996154462427
+
+cleaning Time: 7.49s
+cleanedDataSet.txt stored in=/data/nw/DC_ED/References_inner_and_outer/mlnclean/dataset/hospital/dataset/hospital-inner_outer_error-90/RDBSCleaner_cleaned.txt
+Total Time: 83.12s
+Precision = 0.8178694158075601
+Recall = 0.04595038131093735
+F1 = 0.08701215611004479
+finished
+fack learnwt Time: 38.33s
+
+outlier Merging Time: .27 s
+
+
+*******Domain 1*******
+
+*******Domain 2*******
+
+*******Domain 3*******
+
+*******Domain 4*******
+
+*******Domain 5*******
+
+*******Domain 6*******
+
+*******Domain 7*******
+
+*******Domain 8*******
+
+*******Domain 9*******
+
+*******Domain 10*******
+
+*******Domain 11*******
+
+*******Domain 12*******
+
+>>>>>>Reliability Score Analysis<<<<<<
+
+rs precision = 0.10954731645835522
+
+rs recall = 0.1671206537413876
+
+cleaning Time: 5.82s
+cleanedDataSet.txt stored in=/data/nw/DC_ED/References_inner_and_outer/mlnclean/dataset/hospital/dataset/hospital-inner_outer_error-90/RDBSCleaner_cleaned.txt
+Total Time: 44.15s
+Precision = 0.7850162866449512
+Recall = 0.046529587798050005
+F1 = 0.08785200036453113
+finished
+fack learnwt Time: 68.57s
+
+outlier Merging Time: .31 s
+
+
+*******Domain 1*******
+
+*******Domain 2*******
+
+*******Domain 3*******
+
+*******Domain 4*******
+
+*******Domain 5*******
+
+*******Domain 6*******
+
+*******Domain 7*******
+
+*******Domain 8*******
+
+*******Domain 9*******
+
+*******Domain 10*******
+
+*******Domain 11*******
+
+*******Domain 12*******
+
+>>>>>>Reliability Score Analysis<<<<<<
+
+rs precision = 0.10926665265812145
+
+rs recall = 0.16663996154462427
+
+cleaning Time: 6.26s
+cleanedDataSet.txt stored in=/data/nw/DC_ED/References_inner_and_outer/mlnclean/dataset/hospital/dataset/hospital-inner_outer_error-90/RDBSCleaner_cleaned.txt
+Total Time: 74.82s
+Precision = 0.8178694158075601
+Recall = 0.04595038131093735
+F1 = 0.08701215611004479
+finished
+fack learnwt Time: 31.68s
+
+outlier Merging Time: .22 s
+
+
+*******Domain 1*******
+
+*******Domain 2*******
+
+*******Domain 3*******
+
+*******Domain 4*******
+
+*******Domain 5*******
+
+*******Domain 6*******
+
+*******Domain 7*******
+
+*******Domain 8*******
+
+*******Domain 9*******
+
+*******Domain 10*******
+
+*******Domain 11*******
+
+*******Domain 12*******
+
+>>>>>>Reliability Score Analysis<<<<<<
+
+rs precision = 0.10954731645835522
+
+rs recall = 0.1671206537413876
+
+cleaning Time: 4.41s
+cleanedDataSet.txt stored in=/data/nw/DC_ED/References_inner_and_outer/mlnclean/dataset/hospital/dataset/hospital-inner_outer_error-90/RDBSCleaner_cleaned.txt
+Total Time: 36.09s
+Precision = 0.7850162866449512
+Recall = 0.046529587798050005
+F1 = 0.08785200036453113
+finished
+fack learnwt Time: 28.13s
+
+outlier Merging Time: .21 s
+
+
+*******Domain 1*******
+
+*******Domain 2*******
+
+*******Domain 3*******
+
+*******Domain 4*******
+
+*******Domain 5*******
+
+*******Domain 6*******
+
+*******Domain 7*******
+
+*******Domain 8*******
+
+*******Domain 9*******
+
+*******Domain 10*******
+
+*******Domain 11*******
+
+*******Domain 12*******
+
+>>>>>>Reliability Score Analysis<<<<<<
+
+rs precision = 0.10926665265812145
+
+rs recall = 0.16663996154462427
+
+cleaning Time: 4.32s
+cleanedDataSet.txt stored in=/data/nw/DC_ED/References_inner_and_outer/mlnclean/dataset/hospital/dataset/hospital-inner_outer_error-90/RDBSCleaner_cleaned.txt
+Total Time: 32.45s
+Precision = 0.8161512027491409
+Recall = 0.045853846896418575
+F1 = 0.08682935746275479
+finished
+fack learnwt Time: 44.81s
+
+outlier Merging Time: .22 s
+
+
+*******Domain 1*******
+
+*******Domain 2*******
+
+*******Domain 3*******
+
+*******Domain 4*******
+
+*******Domain 5*******
+
+*******Domain 6*******
+
+*******Domain 7*******
+
+*******Domain 8*******
+
+*******Domain 9*******
+
+*******Domain 10*******
+
+*******Domain 11*******
+
+*******Domain 12*******
+
+>>>>>>Reliability Score Analysis<<<<<<
+
+rs precision = 0.10954731645835522
+
+rs recall = 0.1671206537413876
+
+cleaning Time: 4.63s
+cleanedDataSet.txt stored in=/data/nw/DC_ED/References_inner_and_outer/mlnclean/dataset/hospital/dataset/hospital-inner_outer_error-90/RDBSCleaner_cleaned.txt
+Total Time: 49.44s
+Precision = 0.7814029363784666
+Recall = 0.04623998455449368
+F1 = 0.08731316077287642
+finished
+fack learnwt Time: 28.90s
+
+outlier Merging Time: .19 s
+
+
+*******Domain 1*******
+
+*******Domain 2*******
+
+*******Domain 3*******
+
+*******Domain 4*******
+
+*******Domain 5*******
+
+*******Domain 6*******
+
+*******Domain 7*******
+
+*******Domain 8*******
+
+*******Domain 9*******
+
+*******Domain 10*******
+
+*******Domain 11*******
+
+*******Domain 12*******
+
+>>>>>>Reliability Score Analysis<<<<<<
+
+rs precision = 0.10954731645835522
+
+rs recall = 0.1671206537413876
+
+cleaning Time: 5.44s
+cleanedDataSet.txt stored in=/data/nw/DC_ED/References_inner_and_outer/mlnclean/dataset/hospital/dataset/hospital-inner_outer_error-90/RDBSCleaner_cleaned.txt
+Total Time: 34.34s
+Precision = 0.7853658536585366
+Recall = 0.04662612221256878
+F1 = 0.08802624384909787
+finished
+fack learnwt Time: 46.09s
+
+outlier Merging Time: .26 s
+
+
+*******Domain 1*******
+
+*******Domain 2*******
+
+*******Domain 3*******
+
+*******Domain 4*******
+
+*******Domain 5*******
+
+*******Domain 6*******
+
+*******Domain 7*******
+
+*******Domain 8*******
+
+*******Domain 9*******
+
+*******Domain 10*******
+
+*******Domain 11*******
+
+*******Domain 12*******
+
+>>>>>>Reliability Score Analysis<<<<<<
+
+rs precision = 0.10954731645835522
+
+rs recall = 0.1671206537413876
+
+cleaning Time: 4.87s
+cleanedDataSet.txt stored in=/data/nw/DC_ED/References_inner_and_outer/mlnclean/dataset/hospital/dataset/hospital-inner_outer_error-90/RDBSCleaner_cleaned.txt
+Total Time: 50.95s
+Precision = 0.7814029363784666
+Recall = 0.04623998455449368
+F1 = 0.08731316077287642
+finished

@@ -1,0 +1,21 @@
+id,beer_name,style,ounces,abv,ibu,brewery_id,brewery_name,city,state
+590,Oovgbozcd Islsbd Oabrr,Alabama,12,0.046,81,439,Kona Brewing Company,Kona,HI
+1030,nan,English P֞ale Ale,12,nan,nan,2 95,nan,Westminster,Alabama
+2643,Colette,Saison / Farmhouse Ale,12,0.073,nan,6,Great Divide B੍rewing Company,Denver,OC
+2329,s,Alabama,12,0.057,nan,149,Lonerider Brewing Company,nan,NC
+2070,Luchesa Lager,Keplew Byee / Vwjsjtu Vucf,12,0.048,35,184,s,Afghanistan,T¬X
+1468,s,nan,12,0.047,nan,nan,Wolverine State Brewing Company,Ann Arbor,MI
+1286,s,Alabama,12,0.027,nan,173,Evpl Uflk Bsesinn,Brooklyn,NY
+1718,Firemans #4 Bࢉlonde Ale (2013),American Blonde Ale,c12,0.051,12,128,s,Blanco,Alabama
+2509,Porter (ષa/k/a Black Gold Porter),American Porter,16,0,nan,nan,nan,Afghanistan,NC
+1082,VzcrecvhihAoc,American Pale Ale (APA),Afghanistan,0.047,24,469,Terrapin Brewing Company,Athens,GA
+2050,elA maerC,Cream Ale,12,0.042,nan,238,nan,Merbiwgh,NY
+nan,Duke's Cold Nose Brown Ale,Alabama,12,0.06,nan,378,Bolc Dytg Bcdcdsf,Jacksonville,FL
+125,Lumberyard Red Ale,elA deR / rebmA naciremA,12,0,nan,158,Lumberyard Brewing Company,Afghanistan,AZ
+nan,Very Noddy Lager (Current),nan,16,0.09Ā9,nan,nan,Buckbean Brewing Company,Afghanistan,NV
+2347,Hunny Do Wheat,Cketiwat Lzme Whgat Wle,Afghanistan,0.048,18,142,nan,nan,nan
+1054,Pete's Wicked Summer Brew (1997),nan,12,0.047,nan,470,Pete's Brewing Company,San Antonio,TX
+653,Hopworks IPA (2012),American IPA,16,0.066,nan,nan,Hopworks Urban Brewery,dnaltroP,OR
+687,Chomolungma Honey Nut Brown Ale,English Brown Ale,21,0.067,nan,92,Jackie O's Pub & Brewery,nan,nan
+nan,Saranac Traditional Lager (2000),American Pale Lager,12,0,nan,299,Matt Brewing Company,Utica,NY
+20010101,Suncaster Summer Wheat,nan,12,0,28,105,nan,Columbus,OH

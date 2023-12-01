@@ -1,0 +1,4 @@
+model(valuemodel)
+make(valuemake)
+type(valuetype)
+doors(valuedoors)

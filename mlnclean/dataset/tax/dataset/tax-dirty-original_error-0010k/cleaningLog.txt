@@ -1,0 +1,34 @@
+fack learnwt Time: 13.96s
+
+outlier Merging Time: 1.26 s
+
+
+*******Domain 1*******
+
+*******Domain 2*******
+
+*******Domain 3*******
+
+*******Domain 4*******
+
+*******Domain 5*******
+
+*******Domain 6*******
+
+*******Domain 7*******
+
+*******Domain 8*******
+
+>>>>>>Reliability Score Analysis<<<<<<
+
+rs precision = 0.5634559144244313
+
+rs recall = 0.5613846362088495
+
+cleaning Time: 18.89s
+cleanedDataSet.txt stored in=/data/nw/DC_ED/References_inner_and_outer/mlnclean/dataset/tax/dataset/tax-dirty-original_error-0010k/RDBSCleaner_cleaned.txt
+Total Time: 32.84s
+Precision = 0.7936507936507936
+Recall = 0.010611205432937181
+F1 = 0.020942408376963352
+finished

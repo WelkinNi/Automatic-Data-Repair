@@ -1,0 +1,5 @@
+act_dep_time ⇒ act_arr_time
+act_dep_time ⇒ sched_arr_time
+act_arr_time ⇒ flight
+act_arr_time ⇒ sched_dep_time
+sched_dep_time ⇒ act_arr_time

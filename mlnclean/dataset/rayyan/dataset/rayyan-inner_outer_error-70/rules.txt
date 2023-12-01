@@ -1,0 +1,7 @@
+article_jvolumn(valuearticle_jvolumn),article_pagination(valuearticle_pagination) => article_language(valuearticle_language),article_jcreated_at(valuearticle_jcreated_at) => jounral_abbreviation(valuejounral_abbreviation)
+article_jcreated_at(valuearticle_jcreated_at),jounral_abbreviation(valuejounral_abbreviation) => article_language(valuearticle_language)
+article_jcreated_at(valuearticle_jcreated_at),jounral_abbreviation(valuejounral_abbreviation) => journal_issn(valuejournal_issn)
+article_language(valuearticle_language),journal_issn(valuejournal_issn) => article_language(valuearticle_language),article_jcreated_at(valuearticle_jcreated_at) => journal_title(valuejournal_title) => journal_issn(valuejournal_issn)
+jounral_abbreviation(valuejounral_abbreviation) => journal_title(valuejournal_title)
+jounral_abbreviation(valuejounral_abbreviation) => journal_issn(valuejournal_issn)
+journal_issn(valuejournal_issn) => journal_title(valuejournal_title)

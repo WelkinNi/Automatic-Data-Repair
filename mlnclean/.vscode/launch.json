@@ -1,0 +1,135 @@
+{
+    // 使用 IntelliSense 了解相关属性。 
+    // 悬停以查看现有属性的描述。
+    // 欲了解更多信息，请访问: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Java",
+            "request": "launch",
+            "mainClass": "${file}",
+            "args": ["syn-car/dataset", "trainData.csv", "testData.csv", 1, 0]
+        },
+        {
+            "type": "java",
+            "name": "DBSCAN",
+            "request": "launch",
+            "mainClass": "clustering.DBSCAN",
+            "projectName": "MLNClean"
+        },
+        {
+            "type": "java",
+            "name": "Kmeans",
+            "request": "launch",
+            "mainClass": "clustering.Kmeans",
+            "projectName": "MLNClean"
+        },
+        {
+            "type": "java",
+            "name": "AVLTree",
+            "request": "launch",
+            "mainClass": "crowdPartialOrder.AVLTree",
+            "projectName": "MLNClean"
+        },
+        {
+            "type": "java",
+            "name": "Group",
+            "request": "launch",
+            "mainClass": "crowdPartialOrder.Group",
+            "projectName": "MLNClean"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "crowdPartialOrder.Main",
+            "projectName": "MLNClean"
+        },
+        {
+            "type": "java",
+            "name": "OutlierAnalyse",
+            "request": "launch",
+            "mainClass": "main.OutlierAnalyse",
+            "projectName": "MLNClean"
+        },
+        {
+            "type": "java",
+            "name": "PickData",
+            "request": "launch",
+            "mainClass": "main.PickData",
+            "projectName": "MLNClean"
+        },
+        {
+            "type": "java",
+            "name": "SimilarTest",
+            "request": "launch",
+            "mainClass": "main.SimilarTest",
+            "projectName": "MLNClean"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "main.Test",
+            "projectName": "MLNClean"
+        },
+        {
+            "type": "java",
+            "name": "LevensteinDistance",
+            "request": "launch",
+            "mainClass": "spellchecker.LevensteinDistance",
+            "projectName": "MLNClean"
+        },
+        {
+            "type": "java",
+            "name": "SpellChecker",
+            "request": "launch",
+            "mainClass": "spellchecker.SpellChecker",
+            "projectName": "MLNClean"
+        },
+        {
+            "type": "java",
+            "name": "Main(1)",
+            "request": "launch",
+            "mainClass": "tuffy.learn.Main",
+            "projectName": "MLNClean"
+        },
+        {
+            "type": "java",
+            "name": "PlotMan",
+            "request": "launch",
+            "mainClass": "tuffy.util.PlotMan",
+            "projectName": "MLNClean"
+        },
+        {
+            "type": "java",
+            "name": "ConvertRule",
+            "request": "launch",
+            "mainClass": "util.ConvertRule",
+            "projectName": "MLNClean"
+        },
+        {
+            "type": "java",
+            "name": "DataAnalysis",
+            "request": "launch",
+            "mainClass": "util.DataAnalysis",
+            "projectName": "MLNClean"
+        },
+        {
+            "type": "java",
+            "name": "Duplicate",
+            "request": "launch",
+            "mainClass": "util.Duplicate",
+            "projectName": "MLNClean"
+        },
+        {
+            "type": "java",
+            "name": "Similarity",
+            "request": "launch",
+            "mainClass": "util.Similarity",
+            "projectName": "MLNClean"
+        },
+        "args": ["arg1",],
+    ]
+}

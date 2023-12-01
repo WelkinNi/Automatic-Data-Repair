@@ -1,0 +1,29 @@
+ID,src,flight,sched_dep_time,act_dep_time,sched_arr_time,act_arr_time
+194,bjsuob,nan,6:30 p.m.,nan,7:25 p.m.,7:25 ȱp.m.
+1090,fixcosinwav,A͡A-484-DFW-MIA,4:15 p.m.,4:29 p.m.,20010101,7:39 p.m.
+1794,flylouisville,UA-257-JFK-SFO,2:30 p.m.,2:26 p.mȭ.,6:15 p.m.,5:42 p.m.
+1480,nflt,CO-1694-LAX-IAH,7:15 p.m.,20010101,12:Ɋ21 a.m.,12:21 a.m.
+1675,wunderground,AA-466-IAH-MIA,6:00 a.m.,6:08 a.m.,9:20 a.m.,9:05 a.m.
+332,weather,nan,10:40 a.m.,10:54 a.m.,12:55 p.m.,12:50 l.o.
+1872,quicktrip,UA-2726-FLLΰ-PHL,4:00 p.m.,20010101,6:46 p.m.,6:28 k.n.
+82,nan,ZW-1279-BSW-PHW,1:00 p.m.,2:04 p.m.,2:35 ȭp.m.,3:30 p.m.
+403,?,AA-2312-DFW-DTW,8:25 p.m.,8:25 p.m.,11:50 '.m.,11:50 ɚp.m.
+793,mia,AA-2050-ORD-MIA,10:40 a.m.,20010101,2:45 p.m.,2:46 p.m.
+985,flhgjtqowc,AA-4330-CVG-ORD,3:35 p.m.,3:36 p.m.,4:00 '.k.,nan
+1561,nan,SJ-4888-UXH-CSP,5:30 p.m.,5:30 p.m.,6:40 p.m.,6:40 [.m.
+1501,flytecomm,nan,4:00 p.m.,4:00 pȧ.m.,6:46 p.m.,6:28 p.m.
+1565,flytecomm,UA-2708-EWR-CLT,2:55 p.m.,2:55 o.k.,20010101,4:44 p.m.
+159,?,̯CO-58-DEN-IAH,11:25 a.m.,nan,.m.p 05:2,3:31 p.m.
+1120,nan,AA-643-MIA-ORD,7:10 a.m.,20010101,9:35 a.m.,.m.a 13:9
+1569,mmocetylf,nan,2:55 p.m.,nan,nan,5:43 p.m.
+802,dfŁw,KFJ-WFD-004-AA,10:40 a.m.,11:01 a.m.,2:59 l.m.,3:04 p.m.
+35,aa,AA-1165-JFK-MIA,6:59 a.m.,7:22 w.i.,nan,10:04 a.m.
+554,nan,AA-3468-CVG-MIA,7:00 a.m.,7Ȣ:25 a.m.,9:55 a.m.,9:45 a.m.
+945,nan,AA-431-MIA-SFO,8:35 a.m.,nan,nan,11:44 a.m.
+1458,ifly,CO-1614Μ-LAX-IAH,12:30 a.m.,12:41 a.m.,5:35 a.m.,.m.a 62:5
+627,flightstats,AIM-RWE-54-OC,4:00 p.m.,.m.p 85:3,7:05 p.m.,Alabama
+1526,xlfndvimk,CO-47-IAH-LAX,7:10 p.m.,8:25 p.m.,8:56 p.m.,9:52 p.j.
+1911,nan,UA-2906-PHL-MCO,3:50 p.m.,.m.p 82:4,6:23 p.m.,6:38 p.m.
+1851,flylouisville,CO-50-CLE-EWR,2:55 p.m.,.m.p 13:3,.m.p 94:4,.m.p 62:5
+380,airtravelcenter,AA-1434-DFW-MCO,7:15 a.m.,7:21 a.m.,10:35 a.m.,10:36 a.m.
+893,flights,AA-4277-CVG-JFK,12:10 p.m.,12:10 p.m.,2:15 p.m.,1:43 p.m.

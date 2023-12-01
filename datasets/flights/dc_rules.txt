@@ -1,0 +1,4 @@
+t1&t2&EQ(t1.flight,t2.flight)&IQ(t1.actual_arrival,t2.actual_arrival)
+t1&t2&EQ(t1.flight,t2.flight)&IQ(t1.actual_dept,t2.actual_dept)
+t1&t2&EQ(t1.flight,t2.flight)&IQ(t1.scheduled_dept,t2.scheduled_dept)
+t1&t2&EQ(t1.flight,t2.flight)&IQ(t1.scheduled_arrival,t2.scheduled_arrival)

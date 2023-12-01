@@ -1,0 +1,180 @@
+fack learnwt Time: 8.02s
+
+outlier Merging Time: .22 s
+
+
+*******Domain 1*******
+
+*******Domain 2*******
+
+*******Domain 3*******
+
+*******Domain 4*******
+
+*******Domain 5*******
+
+*******Domain 6*******
+
+>>>>>>Reliability Score Analysis<<<<<<
+
+rs precision = 0.1560271574362697
+
+rs recall = 0.24640906332186932
+
+cleaning Time: 2.81s
+cleanedDataSet.txt stored in=/data/nw/DC_ED/References_inner_and_outer/mlnclean/dataset/flights/dataset/flights-inner_error-70/RDBSCleaner_cleaned.txt
+Total Time: 10.82s
+Precision = 0.35247836349331235
+Recall = 0.06356413166855845
+F1 = 0.10770525303522058
+finished
+fack learnwt Time: 8.29s
+
+outlier Merging Time: .18 s
+
+
+*******Domain 1*******
+
+*******Domain 2*******
+
+*******Domain 3*******
+
+*******Domain 4*******
+
+*******Domain 5*******
+
+*******Domain 6*******
+
+>>>>>>Reliability Score Analysis<<<<<<
+
+rs precision = 0.1560271574362697
+
+rs recall = 0.24640906332186932
+
+cleaning Time: 2.94s
+cleanedDataSet.txt stored in=/data/nw/DC_ED/References_inner_and_outer/mlnclean/dataset/flights/dataset/flights-inner_error-70/RDBSCleaner_cleaned.txt
+Total Time: 11.23s
+Precision = 0.3598425196850394
+Recall = 0.0648410896708286
+F1 = 0.1098821832171195
+finished
+fack learnwt Time: 9.53s
+
+outlier Merging Time: .19 s
+
+
+*******Domain 1*******
+
+*******Domain 2*******
+
+*******Domain 3*******
+
+*******Domain 4*******
+
+*******Domain 5*******
+
+*******Domain 6*******
+
+>>>>>>Reliability Score Analysis<<<<<<
+
+rs precision = 0.1560271574362697
+
+rs recall = 0.24640906332186932
+
+cleaning Time: 2.91s
+cleanedDataSet.txt stored in=/data/nw/DC_ED/References_inner_and_outer/mlnclean/dataset/flights/dataset/flights-inner_error-70/RDBSCleaner_cleaned.txt
+Total Time: 12.44s
+Precision = 0.35899450117831894
+Recall = 0.0648410896708286
+F1 = 0.10984256699915876
+finished
+fack learnwt Time: 9.41s
+
+outlier Merging Time: .19 s
+
+
+*******Domain 1*******
+
+*******Domain 2*******
+
+*******Domain 3*******
+
+*******Domain 4*******
+
+*******Domain 5*******
+
+*******Domain 6*******
+
+>>>>>>Reliability Score Analysis<<<<<<
+
+rs precision = 0.1560271574362697
+
+rs recall = 0.24640906332186932
+
+cleaning Time: 3.70s
+cleanedDataSet.txt stored in=/data/nw/DC_ED/References_inner_and_outer/mlnclean/dataset/flights/dataset/flights-inner_error-70/RDBSCleaner_cleaned.txt
+Total Time: 13.12s
+Precision = 0.3584905660377358
+Recall = 0.06469920544835414
+F1 = 0.10961538461538461
+finished
+fack learnwt Time: 10.64s
+
+outlier Merging Time: .17 s
+
+
+*******Domain 1*******
+
+*******Domain 2*******
+
+*******Domain 3*******
+
+*******Domain 4*******
+
+*******Domain 5*******
+
+*******Domain 6*******
+
+>>>>>>Reliability Score Analysis<<<<<<
+
+rs precision = 0.1560271574362697
+
+rs recall = 0.24640906332186932
+
+cleaning Time: 2.63s
+cleanedDataSet.txt stored in=/data/nw/DC_ED/References_inner_and_outer/mlnclean/dataset/flights/dataset/flights-inner_error-70/RDBSCleaner_cleaned.txt
+Total Time: 13.27s
+Precision = 0.36958234830575254
+Recall = 0.06654370034052214
+F1 = 0.11278105085968498
+finished
+fack learnwt Time: 9.14s
+
+outlier Merging Time: .17 s
+
+
+*******Domain 1*******
+
+*******Domain 2*******
+
+*******Domain 3*******
+
+*******Domain 4*******
+
+*******Domain 5*******
+
+*******Domain 6*******
+
+>>>>>>Reliability Score Analysis<<<<<<
+
+rs precision = 0.1560271574362697
+
+rs recall = 0.24640906332186932
+
+cleaning Time: 5.00s
+cleanedDataSet.txt stored in=/data/nw/DC_ED/References_inner_and_outer/mlnclean/dataset/flights/dataset/flights-inner_error-70/RDBSCleaner_cleaned.txt
+Total Time: 14.14s
+Precision = 0.3718553459119497
+Recall = 0.06711123723041998
+F1 = 0.11370192307692308
+finished

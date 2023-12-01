@@ -1,0 +1,6 @@
+flight(valueflight) => act_arr_time(valueact_arr_time)
+flight(valueflight) => sched_arr_time(valuesched_arr_time)
+flight(valueflight) => act_dep_time(valueact_dep_time)
+flight(valueflight) => sched_dep_time(valuesched_dep_time)
+sched_arr_time(valuesched_arr_time) => act_arr_time(valueact_arr_time)
+sched_dep_time(valuesched_dep_time) => act_dep_time(valueact_dep_time)

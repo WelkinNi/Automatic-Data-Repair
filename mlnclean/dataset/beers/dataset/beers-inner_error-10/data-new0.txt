@@ -1,0 +1,21 @@
+id,beer_name,style,ounces,abv,ibu,brewery_id,brewery_name,city,state
+590,Longboard Island Lager,American Amber / Red Lager,12.0,0.046,18.0,439,Kona Brewing Company,Kona,HI
+1030,Country Pale Ale,English Pale Ale,12.0,0.051,17.0,295,Wachusett Brewing Company,Michigan City,MA
+2643,Colette,Saison / Farmhouse Ale,12.0,0.073,nan,6,Great Divide Brewing Company,Denver,CO
+2329,Peacemaker Pale Ale,American Pale Ale (APA),12.0,0.057,47.0,149,Lonerider Brewing Company,Raleigh,NC
+2070,Luchesa Lager,Keller Bier / Zwickel Bier,16.0,0.048,35.0,184,Oasis Texas Brewing Company,Austin,TX
+1468,Wolverine Premium Lager,American Pale Lager,12.0,0.047,15.0,402,Wolverine State Brewing Company,Ann Arbor,MI
+1286,Bikini Beer,American IPA,12.0,0.027,nan,173,Evil Twin Brewing,Brooklyn,NY
+1718,Firemans #4 Blonde Ale (2013),American Blonde Ale,12.0,0.051,21.0,166,Real Ale Brewing Company,Arvada,TX
+2509,Pepper in the Rye,American Porter,16.0,0.06,23.0,69,Appalachian Mountain Brewery,Boone,NC
+1082,Fresh Slice White IPA,American Pale Ale (APA),12.0,0.047,42.0,469,Terrapin Brewing Company,Aurora,GA
+2050,Cream Ale,Cream Ale,16.0,0.042,nan,507,Newburgh Brewing Company,Newburgh,NY
+2188,Duke's Cold Nose Brown Ale,American Brown Ale,12.0,0.06,nan,378,Bold City Brewery,Jacksonville,FL
+125,Lumberyard Red Ale,American Amber / Red Ale,12.0,0.045,nan,158,Lumberyard Brewing Company,Flagstaff,AZ
+29,Very Noddy Lager (Current),American Pale Ale (APA),16.0,0.099,nan,530,Dolores River Brewery,Reno,NV
+2347,Hunny Do Wheat,American Pale Wheat Ale,12.0,0.048,18.0,142,Third Street Brewhouse,Cold Spring,MN
+1054,Pete's Wicked Summer Brew (1997),American Pale Wheat Ale,12.0,0.047,nan,470,Pete's Brewing Company,San Antonio,TX
+653,Hopworks IPA (2012),American IPA,16.0,0.066,75.0,80,Hopworks Urban Brewery,Slippery Rock,OR
+687,Chomolungma Honey Nut Brown Ale,English Brown Ale,12.0,0.067,nan,92,Jackie O's Pub & Brewery,Athens,OH
+957,Saranac Traditional Lager (2000),American Pale Lager,12.0,0.048,nan,299,Matt Brewing Company,Utica,NY
+2427,Suncaster Summer Wheat,American Pale Wheat Ale,12.0,0.05,28.0,105,Four String Brewing Company,Columbus,OH

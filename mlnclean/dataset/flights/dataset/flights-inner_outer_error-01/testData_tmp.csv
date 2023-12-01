@@ -1,0 +1,31 @@
+ID,src,flight,sched_dep_time,act_dep_time,sched_arr_time,act_arr_time
+194,boston,AA-1640-MIA-MCO,6:30 p.m.,Not Available,7:25 p.m.,Not Available
+1090,foxbusiness,AA-484-DFW-MIA,4:15 p.m.,4:30 p.m.,7:55 p.m.,7:39 p.m.
+1794,flylouisville,UA-257-JFK-SFO,2:30 p.m.,2:26 p.m.,6:15 p.m.,5:42 p.m.
+1480,ifly,CO-1694-LAX-IAH,7:15 p.m.,7:15 p.m. (Estimated),12:21 a.m.,12:21 a.m. (Estimated)
+1675,wunderground,AA-466-IAH-MIA,6:00 a.m.,6:08 a.m.,8:51 a.m.,8:50 a.m.
+332,weather,AA-4198-ORD-CLE,10:40 a.m.,nan,12:55 p.m.,nan
+1872,quicktrip,UA-2726-FLL-PHL,4:00 p.m.,3:58 p.m.,6:46 p.m.,6:28 p.m.
+1745,ua,UA-233-LAX-JFK,4:25 p.m.,4:25 p.m.,Fri Dec 2 12:29 a.m.,Fri Dec 2 12:29 a.m.
+1427,CO,CO-1586-IAH-MCO,7:00 p.m.,7:14 p.m.,10:15 p.m.,10:29 p.m.
+727,panynj,AA-3809-PHX-LAX,6:00 a.m.,6:11 a.m.,6:40 a.m.,6:19 a.m.
+985,flightwise,AA-4330-CVG-ORD,3:35 p.m.,3:36 p.m.,3:50 p.m.,3:26 p.m.
+1438,CO,CO-16-LAX-EWR,10:25 a.m.,10:20 a.m.,6:44 p.m.,6:34 p.m.
+1120,foxbusiness,AA-643-MIA-ORD,7:10 a.m.,7:31 a.m.,9:35 a.m.,9:29 a.m.
+802,dfw,AA-400-DFW-JFK,10:40 a.m.,nan,nan,nan
+35,aa,AA-1165-JFK-MIA,6:59 a.m.,7:22 a.m.,10:34 a.m.,10:04 a.m.
+931,flightarrival,AA-4307-ORD-DTW,6:45 p.m.,6:55 p.m.,9:10 p.m.,8:53 p.m.
+678,panynj,AA-3842-MSP-ORD,6:00 a.m.,6:57 a.m.,7:30 a.m.,7:51 a.m.
+554,flightstats,AA-3468-CVG-MIA,7:00 a.m.,7:25 a.m.,9:55 a.m.,9:45 a.m.
+1580,flytecomm,CO-50-CLE-EWR,2:55 p.m.,nan,4:49 p.m.,nan
+1069,travelocity,AA-3809-PHX-LAX,6:00 a.m.,5:56 a.m.,6:40 a.m.,6:19 a.m.
+622,flightstats,AA-3786-IAH-ORD,4:00 p.m.,4:12 p.m.,6:40 p.m.,6:15 p.m.
+945,flightarrival,AA-431-MIA-SFO,8:35 a.m.,8:52 a.m.,11:50 a.m.,11:40 a.m.
+1458,ifly,CO-1614-LAX-IAH,12:30 a.m.,12:41 a.m.,5:35 a.m.,5:26 a.m.
+627,flightstats,CO-45-EWR-MIA,4:00 p.m.,3:58 p.m.,7:05 p.m.,6:36 p.m.
+692,panynj,AA-3823-LAX-DEN,9:00 p.m.,nan,12:15 a.m. Dec 02,nan
+1716,wunderground,AA-1917-JFK-MCO,2:55 p.m.,3:27 p.m.,5:17 p.m.,5:39 p.m.
+1526,flytecomm,CO-47-IAH-LAX,7:10 p.m.,nan,8:56 p.m.,nan
+1911,quicktrip,UA-2906-PHL-MCO,3:50 p.m.,4:28 p.m.,6:23 p.m.,6:38 p.m.
+1978,allegiantair,UA-3050-PHX-CLT,11:05 a.m.,11:45 a.m.,4:57 p.m.,5:03 p.m.
+893,flights,AA-4277-CVG-JFK,12:10 p.m.,12:10 p.m.,2:15 p.m.,1:43 p.m.

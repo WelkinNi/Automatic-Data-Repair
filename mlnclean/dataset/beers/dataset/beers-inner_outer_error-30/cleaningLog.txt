@@ -1,0 +1,156 @@
+fack learnwt Time: 7.23s
+
+outlier Merging Time: .20 s
+
+
+*******Domain 1*******
+
+*******Domain 2*******
+
+*******Domain 3*******
+
+*******Domain 4*******
+
+>>>>>>Reliability Score Analysis<<<<<<
+
+rs precision = 0.3626135285346347
+
+rs recall = 0.39222873900293254
+
+cleaning Time: 2.19s
+cleanedDataSet.txt stored in=/data/nw/DC_ED/References_inner_and_outer/mlnclean/dataset/beers/dataset/beers-inner_outer_error-30/RDBSCleaner_cleaned.txt
+Total Time: 9.41s
+Precision = 0.7146932952924394
+Recall = 0.09149013878743609
+F1 = 0.1622146673142302
+finished
+fack learnwt Time: 6.63s
+
+outlier Merging Time: .17 s
+
+
+*******Domain 1*******
+
+*******Domain 2*******
+
+*******Domain 3*******
+
+*******Domain 4*******
+
+>>>>>>Reliability Score Analysis<<<<<<
+
+rs precision = 0.3626135285346347
+
+rs recall = 0.39222873900293254
+
+cleaning Time: 2.75s
+cleanedDataSet.txt stored in=/data/nw/DC_ED/References_inner_and_outer/mlnclean/dataset/beers/dataset/beers-inner_outer_error-30/RDBSCleaner_cleaned.txt
+Total Time: 9.38s
+Precision = 0.7155049786628734
+Recall = 0.09185536888239591
+F1 = 0.1628095161029293
+finished
+fack learnwt Time: 8.62s
+
+outlier Merging Time: .18 s
+
+
+*******Domain 1*******
+
+*******Domain 2*******
+
+*******Domain 3*******
+
+*******Domain 4*******
+
+>>>>>>Reliability Score Analysis<<<<<<
+
+rs precision = 0.3626135285346347
+
+rs recall = 0.39222873900293254
+
+cleaning Time: 2.02s
+cleanedDataSet.txt stored in=/data/nw/DC_ED/References_inner_and_outer/mlnclean/dataset/beers/dataset/beers-inner_outer_error-30/RDBSCleaner_cleaned.txt
+Total Time: 10.65s
+Precision = 0.7155049786628734
+Recall = 0.09185536888239591
+F1 = 0.1628095161029293
+finished
+fack learnwt Time: 6.61s
+
+outlier Merging Time: .25 s
+
+
+*******Domain 1*******
+
+*******Domain 2*******
+
+*******Domain 3*******
+
+*******Domain 4*******
+
+>>>>>>Reliability Score Analysis<<<<<<
+
+rs precision = 0.3626135285346347
+
+rs recall = 0.39222873900293254
+
+cleaning Time: 2.78s
+cleanedDataSet.txt stored in=/data/nw/DC_ED/References_inner_and_outer/mlnclean/dataset/beers/dataset/beers-inner_outer_error-30/RDBSCleaner_cleaned.txt
+Total Time: 9.39s
+Precision = 0.7155049786628734
+Recall = 0.09185536888239591
+F1 = 0.1628095161029293
+finished
+fack learnwt Time: 8.73s
+
+outlier Merging Time: .14 s
+
+
+*******Domain 1*******
+
+*******Domain 2*******
+
+*******Domain 3*******
+
+*******Domain 4*******
+
+>>>>>>Reliability Score Analysis<<<<<<
+
+rs precision = 0.3626135285346347
+
+rs recall = 0.39222873900293254
+
+cleaning Time: 2.24s
+cleanedDataSet.txt stored in=/data/nw/DC_ED/References_inner_and_outer/mlnclean/dataset/beers/dataset/beers-inner_outer_error-30/RDBSCleaner_cleaned.txt
+Total Time: 10.97s
+Precision = 0.7155049786628734
+Recall = 0.09185536888239591
+F1 = 0.1628095161029293
+finished
+fack learnwt Time: 8.34s
+
+outlier Merging Time: .20 s
+
+
+*******Domain 1*******
+
+*******Domain 2*******
+
+*******Domain 3*******
+
+*******Domain 4*******
+
+>>>>>>Reliability Score Analysis<<<<<<
+
+rs precision = 0.3626135285346347
+
+rs recall = 0.39222873900293254
+
+cleaning Time: 2.28s
+cleanedDataSet.txt stored in=/data/nw/DC_ED/References_inner_and_outer/mlnclean/dataset/beers/dataset/beers-inner_outer_error-30/RDBSCleaner_cleaned.txt
+Total Time: 10.62s
+Precision = 0.7155049786628734
+Recall = 0.09185536888239591
+F1 = 0.1628095161029293
+finished

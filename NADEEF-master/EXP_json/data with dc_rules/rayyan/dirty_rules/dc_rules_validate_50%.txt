@@ -1,0 +1,4 @@
+∀t0∈clean.csv,t1∈clean.csv: ¬[t0.journal_issn≠t1.journal_issn∧t0.article_jvolumn=t1.article_jvolumn]
+∀t0∈clean.csv,t1∈clean.csv: ¬[t0.author_list=t1.author_list∧t0.journal_title≠t1.journal_title]
+∀t0∈clean.csv,t1∈clean.csv: ¬[t0.jounral_abbreviation=t1.jounral_abbreviation∧t0.journal_issn≠t1.journal_issn]
+∀t0∈clean.csv,t1∈clean.csv: ¬[t0.journal_issn=t1.journal_issn∧t0.journal_title≠t1.journal_title]

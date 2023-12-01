@@ -1,0 +1,21 @@
+ID,src,flight,sched_dep_time,act_dep_time,sched_arr_time,act_arr_time
+460,flightview,CO-1561-PHX-IAH,nan,8:18 a.m.,nan,11:32 a.m.
+1185,usatoday,AA-404-MIA-MCO,6:45 a.m.,6:57 a.m.,7:45 a.m.,7:40 a.m.
+2325,world-flight-tracker,AA-1733-ORD-PHX,7:45 p.m.,7:58 p.m.,10:30 p.m.,10:30 p.m. (Estimated)
+956,flightarrival,UA-2314-ATL-PHL,2:55 p.m.,nan,5:00 p.m.,nan
+1216,usatoday,AA-789-ORD-DEN,1:05 p.m.,1:19 p.m.,2:35 p.m.,3:13 p.m.
+1516,flytecomm,CO-89-IAH-EWR,6:00 a.m.,nan,10:20 a.m.,nan
+770,flightexplorer,UA-664-ORD-PHL,nan,1:46 p.m.,nan,4:20 p.m.
+1686,wunderground,CO-63-EWR-IAH,5:25 p.m.,5:38 p.m.,8:04 p.m.,7:43 p.m.
+131,helloflight,AA-3804-PHL-ORD,nan,2:44 p.m.,nan,3:36 p.m.
+2136,businesstravellogue,AA-415-BOS-ORD,nan,8:56 a.m.,nan,10:16 a.m.
+1483,sfo,AA-85-JFK-SFO,nan,nan,6:30 p.m.,nan
+331,weather,UA-3099-PHX-PHL,11:55 a.m.,nan,6:17 p.m.,nan
+1239,myrateplan,CO-1090-BOS-IAH,9:45 a.m.,nan,1:16 p.m.,nan
+467,flightview,CO-1088-CLE-IAH,nan,9:01 a.m.,nan,10:56 a.m.
+2170,gofox,CO-52-IAH-LAX,nan,7:56 a.m.,nan,9:09 a.m.
+1639,ord,AA-3842-MSP-ORD,6:00 a.m.,nan,7:30 a.m.,nan
+1096,foxbusiness,CO-1023-IAH-DEN,nan,12:06 p.m.,nan,1:14 p.m.
+1131,foxbusiness,AA-1522-SFO-ORD,11:55 p.m.,nan,5:50 a.m. Dec 02,nan
+1295,myrateplan,UA-6273-YYC-SFO,nan,7:41 a.m.,nan,8:33 a.m.
+861,flights,AA-643-MIA-ORD,7:10 a.m.,7:30 a.m.,9:35 a.m.,9:31 a.m.

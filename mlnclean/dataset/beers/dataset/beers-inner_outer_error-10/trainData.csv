@@ -1,0 +1,21 @@
+ID,id,beer_name,style,ounces,abv,ibu,brewery_id,brewery_name,city,state
+1185,590,Longboard Island Lager,American Amber / Red Lager,nan,0.046,nan,nan,Kona Brewing Company,Kona,HI
+2325,1030,Country Pale Ale,English Pale Ale,12,0.051,17,295,Wachusett Brewing Company,Westminster,MA
+956,2643,Colette,Saison / Farmhouse Ale,12,0.073,nan,6,nan,Denver,CO
+1216,2329,Peacemaker Pale Ale,American Pale Ale (APA),12,0.057,47,149,Founders Brewing Company,Raleigh,NC
+1516,2070,Luchesa Lager,Keller Bier / Zwickel Bier,12,0.048,35,184,Oasis Texas Brewing Company,Garrattsville,TX
+2392,1468,Wolverine Premium Lager,American Pale Lager,12,0.047,15,nan,Wolverine State Brewing Company,Ann Arbor,MI
+770,1286,Bikini Beer,American IPA,12,0.027,nan,173,Evil Twin Brewing,Brooklyn,NY
+1686,1718,Firemans #4 Blonde Ale (2013),American Blonde Ale,12,0.051,21,128,Real Ale Brewing Company,Blzuzu,TX
+131,2509,Porter (a/k/a Black Gold Porter),American Porter,16,0.06,23,69,O'Fallon Brewery,nan,NC
+2136,10Ë82,RecreationAle,American Pale Ale (APA),12,0.047,42,469,nan,Athens,GA
+1483,2050,Cream Ale,Cream Ale,12,0.042,35,238,Newburgh Brewing Company,Newburgh,NY
+331,1188,s,American Brown Ale,12,0.06,nan,378,Bold City Brewery,Jacksonville,FL
+1239,125,Lumberyard Red Ale,American Amber / Red Ale,12,0.058,nan,nan,Lumberyard Brewing Company,Flagstaff,AZ
+467,29,Very Noddy Lager (Current),S҄chwarzbier,16,0.099,nan,49,Buckbean Brewing Company,Reno,NV
+2170,2347,Hunny Do Wheat,American Pale Wheat Ale,12,0.048,18,142,Third Street Brewhouse,Cold Spring,MN
+1639,1054,Pete's Wicked Summer Brew (1997),American Pale Wheat Aࠍle,12,0.047,nan,470,Pete's Brewing Company,San Antonio,TX
+1096,1507,Hopworks IPA (2012),American IPA,16,0.066,75,80,Hopworks Urban Brewery,Portland,OR
+1131,687,Chomolungma Honey Nut Brown Ale,English Brown Ale,12,0.067,nan,92,Jackie O's Pub & Brewery,Athens,OH
+1295,957,Saranac Traditional Lager (2000),American Pale Lager,12,0.048,nan,299,Matt Brewing Company,Utica,NY
+861,2427,Suncaster Summer Wheat,American Pale Wheat Ale,12,0.05,28,105,Four String Brewing Company,Columbus,OH

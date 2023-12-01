@@ -1,0 +1,60 @@
+{
+    "source" : {
+        "type" : "csv",
+        "file" : ["/data/nw/DC_ED/References_inner_and_outer/NADEEF-master/EXP_json/data with dc_rules/rayyan/noise/rayyan_inner_outer_error_70.csv"]
+    },
+
+
+    "rule" : [
+        {
+            "name" : "rayyanDC1",
+            "type" : "dc",
+            "value" : ["not(t1.article_jvolumn=t2.article_jvolumn&t1.article_pagination=t2.article_pagination)"]
+        },
+        {
+            "name" : "rayyanDC2",
+            "type" : "dc",
+            "value" : ["not(t1.article_language=t2.article_language&t1.article_jcreated_at=t2.article_jcreated_at&t1.jounral_abbreviation!=t2.jounral_abbreviation)"]
+        },
+        {
+            "name" : "rayyanDC3",
+            "type" : "dc",
+            "value" : ["not(t1.article_jcreated_at=t2.article_jcreated_at&t1.jounral_abbreviation=t2.jounral_abbreviation&t1.article_language!=t2.article_language)"]
+        },
+        {
+            "name" : "rayyanDC4",
+            "type" : "dc",
+            "value" : ["not(t1.article_jcreated_at=t2.article_jcreated_at&t1.jounral_abbreviation=t2.jounral_abbreviation&t1.journal_issn!=t2.journal_issn)"]
+        },
+        {
+            "name" : "rayyanDC5",
+            "type" : "dc",
+            "value" : ["not(t1.article_jvolumn>t2.article_jvolumn&t1.article_language=t2.article_language&t1.journal_issn=t2.journal_issn&t1.article_jissue<=t2.article_jissue)"]
+        },
+        {
+            "name" : "rayyanDC6",
+            "type" : "dc",
+            "value" : ["not(t1.id>=t2.id&t1.article_language=t2.article_language&t1.article_jcreated_at=t2.article_jcreated_at)"]
+        },
+        {
+            "name" : "rayyanDC7",
+            "type" : "dc",
+            "value" : ["not(t1.journal_title=t2.journal_title&t1.journal_issn!=t2.journal_issn)"]
+        },
+        {
+            "name" : "rayyanDC8",
+            "type" : "dc",
+            "value" : ["not(t1.jounral_abbreviation=t2.jounral_abbreviation&t1.journal_title!=t2.journal_title)"]
+        },
+        {
+            "name" : "rayyanDC9",
+            "type" : "dc",
+            "value" : ["not(t1.jounral_abbreviation=t2.jounral_abbreviation&t1.journal_issn!=t2.journal_issn)"]
+        },
+        {
+            "name" : "rayyanDC10",
+            "type" : "dc",
+            "value" : ["not(t1.journal_issn=t2.journal_issn&t1.journal_title!=t2.journal_title)"]
+        }
+    ]
+}

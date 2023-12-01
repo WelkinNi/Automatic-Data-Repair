@@ -1,0 +1,5 @@
+∀t0∈clean.csv,t1∈clean.csv: ¬[t0.brewery_name=t1.brewery_name∧t0.brewery_id≠t1.brewery_id]
+∀t0∈clean.csv,t1∈clean.csv: ¬[t0.brewery_id=t1.brewery_id∧t0.brewery_name≠t1.brewery_name]
+∀t0∈clean.csv,t1∈clean.csv: ¬[t0.brewery_id=t1.brewery_id∧t0.city≠t1.city]
+∀t0∈clean.csv,t1∈clean.csv: ¬[t0.brewery_id=t1.brewery_id∧t0.state≠t1.state]
+∀t0∈clean.csv,t1∈clean.csv: ¬[t0.beer_name=t1.beer_name∧t0.brewery_name=t1.brewery_name∧t0.brewery_id≠t1.brewery_id]

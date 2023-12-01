@@ -1,0 +1,21 @@
+ID,id,beer_name,style,ounces,abv,ibu,brewery_id,brewery_name,city,state
+1185,590,Longboard Island Lager,American Amber / Red Lager,12.0,0.046,18.0,439,Kona Brewing Company,Kona,TX
+2325,1030,Country Pale Ale,American Pale Ale (APA),12.0,0.051,17.0,295,The Black Tooth Brewing Company,Westminster,MA
+956,2643,Colette,Saison / Farmhouse Ale,12.0,0.073,nan,6,Minhas Craft Brewery,Denver,CO
+1216,2329,Peacemaker Pale Ale,American Pale Ale (APA),12.0,0.057,47.0,336,Lonerider Brewing Company,Raleigh,NC
+1516,2070,Luchesa Lager,Keller Bier / Zwickel Bier,12.0,0.07,35.0,118,Oasis Texas Brewing Company,Stevens Point,TX
+2392,1468,Wolverine Premium Lager,American Pale Lager,12.0,0.047,15.0,402,Wolverine State Brewing Company,Ann Arbor,MI
+770,1286,Bikini Beer,American IPA,12.0,0.042,nan,173,Evil Twin Brewing,Brooklyn,NY
+1686,1718,Firemans #4 Blonde Ale (2013),American Blonde Ale,12.0,0.051,21.0,128,Real Ale Brewing Company,Blanco,TX
+131,2509,Porter (a/k/a Black Gold Porter),American Porter,16.0,0.06,23.0,143,Occidental Brewing Company,Boone,NC
+2136,1082,RecreationAle,California Common / Steam Beer,12.0,0.047,nan,469,Terrapin Brewing Company,Athens,GA
+1483,2050,Cream Ale,Cream Ale,12.0,0.049,35.0,238,Tallgrass Brewing Company,Newburgh,NY
+331,1188,Duke's Cold Nose Brown Ale,American Brown Ale,12.0,0.06,nan,378,Bold City Brewery,Jacksonville,FL
+1239,125,Lumberyard Red Ale,American Amber / Red Ale,12.0,0.058,nan,158,Lumberyard Brewing Company,Flagstaff,AZ
+467,29,Very Noddy Lager (Current),Schwarzbier,16.0,0.099,nan,187,Buckbean Brewing Company,Minneapolis,NV
+2170,2347,Walloon (2014),American Pale Wheat Ale,12.0,0.08,18.0,142,Third Street Brewhouse,Cold Spring,WA
+1639,1054,Pete's Wicked Summer Brew (1997),American Pale Wheat Ale,12.0,0.057,nan,470,Pete's Brewing Company,San Antonio,TX
+1096,653,Giant DIPA,American IPA,16.0,0.066,75.0,80,Hopworks Urban Brewery,Portland,OR
+1131,687,Great Falls Select Pale Ale,Cider,12.0,0.067,nan,92,Wynkoop Brewing Company,San Francisco,OH
+1295,957,Saranac Traditional Lager (2000),American Pale Lager,12.0,0.048,nan,299,Great River Brewery,Utica,NY
+861,2427,Suncaster Summer Wheat,American Pale Wheat Ale,12.0,0.05,28.0,105,Four String Brewing Company,Columbus,OH

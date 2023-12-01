@@ -1,0 +1,4 @@
+author_list ⇒ journal_issn
+article_jissue ⇒ journal_title
+article_pagination ⇒ journal_issn
+journal_issn ⇒ journal_title

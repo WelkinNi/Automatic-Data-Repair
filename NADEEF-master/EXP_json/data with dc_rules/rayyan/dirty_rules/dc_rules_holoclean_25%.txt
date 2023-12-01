@@ -1,0 +1,4 @@
+t1&t2&IQ(t1.journal_issn,t2.journal_issn)&EQ(t1.article_title,t2.article_title)
+t1&t2&EQ(t1.jounral_abbreviation,t2.jounral_abbreviation)&IQ(t1.journal_title,t2.journal_title)
+t1&t2&EQ(t1.jounral_abbreviation,t2.jounral_abbreviation)&IQ(t1.journal_issn,t2.journal_issn)
+t1&t2&EQ(t1.journal_issn,t2.journal_issn)&IQ(t1.journal_title,t2.journal_title)

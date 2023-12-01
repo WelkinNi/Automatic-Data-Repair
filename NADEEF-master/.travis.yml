@@ -1,0 +1,13 @@
+language: java
+
+jdk:
+  - oraclejdk8
+
+after_script:
+  - ant regression
+
+before_script:
+  - psql -c 'create database unittest;' -U postgres
+  - psql -c "create user tester with password 'tester';" -U postgres -d unittest
+  - mysql -e "create database unittest;"
+

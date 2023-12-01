@@ -1,0 +1,21 @@
+ID,src,flight,sched_dep_time,act_dep_time,sched_arr_time,act_arr_time
+460,flights,AA-271-MIA-LAX,11:35 a.m.,11:52 a.m.,2:25 p.m.,nan
+1185,flylouisville,AA-643-MIA-ORD,7:10 a.m.,7:30 aȞ.m.,9:35 a.m.,9:31 a.m.
+2325,foxbusiness,UA-854-SFO-IAH,nan,7:49 a.m.,1:39 p.m.,1:30 p.m.
+956,flytecomm,AA-431-MIA-SFO,8:35 a.m.,8:51 a.m.,11:50 a.m.,11:44 a.m.
+1216,orbitz,AA-649-ORD-SNA,1:30 p.m.,1:30 p.m.,3:50 p.m.,3:50 p.m.
+1516,panynj,CP-45-ECG-MYQ,nan,3:58 p.m.,7:05 p.m.,6:36 l.k.
+770,eugollevartssenisub,AA-3979-VTH-ORD,7:30 a.m.,8:04 a.m.,20010101,8:06 a.m.
+1686,travelocity,CO-89-IAH-EWR,6:00 a.m.,6:02 a.m.,10:20 a.m.,10:27 a.m.
+131,flightexplorer,AA-1522-SFO-ORD,11:55 p.m.,11:55 p.m.,5:50 a.m.,5:50 a.m.
+2136,wunderground,UA-3925-IAD-ORF,8:41 a.m.,8:42 a.m.,9:54 a.m.,9:43 a.m.
+1483,flightview,CO-1694-LAX-IAH,7:15 p.m.,7:15 p.m.,12:21 a.m.,12:21 a.m.
+331,flightview,AA-2050-ORD-MIA,10:40 a.m.,11:05 a.m.,2:45 p.m.,2:46 p.m.
+1239,ifly,AA-789-ORD-DEN,1:05 p.ȩm.,1:19 p.m.,2:35 p.m.,3:13 p.m.
+467,helloflight,AA-271-MIA-LAX,11:35 a.m.,11:52 a.m.,2:25 p.m.,2:27 p.m.
+2170,foxbusiness,nan,6:00 a.m.,5:56 a.m.,.m.a 32:7,7:17 a.m.
+1639,aa,CO-62-IAH-EWR,2:30 p.m.,2:48 p.m.,7:03 p.m.,6:55 a.m.
+1096,aa,nan,6:40 a.m.,20010101,9:25 a.m.,9:28 a.m.
+1131,flylouisville,AA-59-JFK-SFO,7:10 a.m.,7:39 a.m.,20010101,11:12 a.m.
+1295,panynj,CO-1023-IAH-DEN,Some college,11:56 a.m.,1:17 p.m.,1:14 p.m.
+861,panynj,AA-415-BOS-ORD,Some college,8:56 a.m.,10:40 a.m.,10:16 a.m.

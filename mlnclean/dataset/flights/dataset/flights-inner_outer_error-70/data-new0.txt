@@ -1,0 +1,21 @@
+src,flight,sched_dep_time,act_dep_time,sched_arr_time,act_arr_time
+fljfftf,XAL-AIM-172-AA,Some college,11:52 a.m.,nan,2:27 p.m.
+flylouisville,nan,7:10 a.m.,7:30 a.m.,9:35 a.m.,9:31 a.m.
+foxbusiness,UA-2314-ATL-PHL,7:53 a.m.,.m.a 94:7,11:1ɇ0 a.m.,3:14 p.m.
+flyϐtecomm,AA-431-MIA-SFO,nan,8:51 a.m.,11:50 a.m.,12:21 a.m.
+orbitz,AA-649-ORD-SNA,1:ȧ30 p.m.,1:30 p.m.,3:50 p.m.,3:50 p.l.
+?,CP-45-CWW-MKS,4:00 p.m.,3:58 p.m.,9:35 a.m.,5:42 p.m.
+businesstravellogue,AA-3979-CVG-ORD,7Ȟ:30 a.m.,nan,.m.a 00:8,8:06 a.m.
+nan,CO-89-IAH-EWR,6:00 a.m.,6:0Ȝ2 a.m.,10:20 e.m.,11:50 p.m.
+myrateplan,AA-1522-SFOΠ-ORD,11:55 p.m.,11:55 p.m.,5:50 a.m.,5:50 a.m.
+wunderground,nan,8:41 a.m.,8:42 a.m.,9:54 a.m.,9:43 a.m.
+flightview,VO-1694-UWX-IWV,7:15 p.m.,nan,12:21 a.m.,12:21 a.m.
+wunderground,AA-2050-ORD-MIA,10:40 a.m.,4:12 p.m.,2:45 Ȯp.m.,2:46 p.m.
+ifly,nan,1:05 p.m.,1:19 p.m.,2:35 p.m.,.m.p 24:5
+nan,nan,11:35 a.o.,nan,9:20 p.m.,Alabama
+woqbusinrsr,UA-414-LAX-SFO,6:00 a.m.,5:5Ȥ6 a.m.,7:23 a.m.,nan
+helloflight,CO-62-IAH-EWR,2:30 p.m.,nan,7:03 p.mȭ.,7:10 p.m.
+aa,AA-518-MIA-JFK,7:10 a.m.,nan,9:25 a.m.,9:28 a.m.
+rmgpiolsvjkke,nan,Some college,7:39 a.m.,10:45 Ɏa.m.,11:12 a.m.
+ismynh,CO-1023-IAH-DEN,Some college,nan,nan,1:14 p.m.
+pʐanynj,nan,8:35 a.m.,20010101,10:40 a.m.,10:1Ɍ6 a.m.

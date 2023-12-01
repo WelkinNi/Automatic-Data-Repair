@@ -1,0 +1,8 @@
+ZipCode ⇒ State
+ZipCode ⇒ City 
+ZipCode ⇒ CountyName
+City ⇒ ZipCode
+City ⇒ CountyName
+CountyName ⇒ State
+PhoneNumber ⇒ ZipCode
+ProviderNumber ⇒ City

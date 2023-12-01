@@ -1,0 +1,5 @@
+!brewery_name(valuebrewery_name) v brewery_id(valuebrewery_id)
+!brewery_id(valuebrewery_id) v brewery_name(valuebrewery_name)
+!brewery_id(valuebrewery_id) v city(valuecity)
+!brewery_id(valuebrewery_id) v state(valuestate)
+!beer_name(valuebeer_name) v !brewery_name(valuebrewery_name) v brewery_id(valuebrewery_id)

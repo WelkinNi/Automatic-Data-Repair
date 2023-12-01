@@ -1,0 +1,7 @@
+2
+salary
+salary
+<
+tax
+tax
+>

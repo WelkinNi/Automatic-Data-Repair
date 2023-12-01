@@ -1,0 +1,16 @@
+{
+    "source" : {
+        "type" : "csv",
+        "file" : [
+            "/data/nw/DC_ED/References_inner_and_outer/NADEEF-master/examples/bank1.csv",
+            "/data/nw/DC_ED/References_inner_and_outer/NADEEF-master/examples/tran1.csv"
+        ]
+    },
+    "rule" : [
+        {
+            "type" : "udf",
+            "target" : ["bank1", "tran1"],
+            "value" : ["MyRule"]
+        }
+    ]
+}

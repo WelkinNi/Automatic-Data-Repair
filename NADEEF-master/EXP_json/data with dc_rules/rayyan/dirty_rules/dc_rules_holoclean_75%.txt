@@ -1,0 +1,4 @@
+t1&t2&IQ(t1.journal_issn,t2.journal_issn)&EQ(t1.author_list,t2.author_list)
+t1&t2&EQ(t1.article_jissue,t2.article_jissue)&IQ(t1.journal_title,t2.journal_title)
+t1&t2&EQ(t1.article_pagination,t2.article_pagination)&IQ(t1.journal_issn,t2.journal_issn)
+t1&t2&EQ(t1.journal_issn,t2.journal_issn)&IQ(t1.journal_title,t2.journal_title)

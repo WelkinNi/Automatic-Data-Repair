@@ -1,0 +1,192 @@
+fack learnwt Time: 20.96s
+
+outlier Merging Time: .15 s
+
+
+*******Domain 1*******
+
+*******Domain 2*******
+
+*******Domain 3*******
+
+*******Domain 4*******
+
+*******Domain 5*******
+
+*******Domain 6*******
+
+*******Domain 7*******
+
+>>>>>>Reliability Score Analysis<<<<<<
+
+rs precision = 0.2679245283018868
+
+rs recall = 0.2734437975817286
+
+cleaning Time: 4.44s
+cleanedDataSet.txt stored in=/data/nw/DC_ED/References_inner_and_outer/mlnclean/dataset/rayyan/dataset/rayyan-outer_error-30/RDBSCleaner_cleaned.txt
+Total Time: 25.40s
+Precision = 0.3930635838150289
+Recall = 0.028850233347475603
+F1 = 0.053754940711462446
+finished
+fack learnwt Time: 14.88s
+
+outlier Merging Time: .12 s
+
+
+*******Domain 1*******
+
+*******Domain 2*******
+
+*******Domain 3*******
+
+*******Domain 4*******
+
+*******Domain 5*******
+
+*******Domain 6*******
+
+*******Domain 7*******
+
+>>>>>>Reliability Score Analysis<<<<<<
+
+rs precision = 0.2679245283018868
+
+rs recall = 0.2734437975817286
+
+cleaning Time: 2.54s
+cleanedDataSet.txt stored in=/data/nw/DC_ED/References_inner_and_outer/mlnclean/dataset/rayyan/dataset/rayyan-outer_error-30/RDBSCleaner_cleaned.txt
+Total Time: 17.43s
+Precision = 0.3930635838150289
+Recall = 0.028850233347475603
+F1 = 0.053754940711462446
+finished
+fack learnwt Time: 18.04s
+
+outlier Merging Time: .12 s
+
+
+*******Domain 1*******
+
+*******Domain 2*******
+
+*******Domain 3*******
+
+*******Domain 4*******
+
+*******Domain 5*******
+
+*******Domain 6*******
+
+*******Domain 7*******
+
+>>>>>>Reliability Score Analysis<<<<<<
+
+rs precision = 0.2679245283018868
+
+rs recall = 0.2734437975817286
+
+cleaning Time: 2.64s
+cleanedDataSet.txt stored in=/data/nw/DC_ED/References_inner_and_outer/mlnclean/dataset/rayyan/dataset/rayyan-outer_error-30/RDBSCleaner_cleaned.txt
+Total Time: 20.68s
+Precision = 0.3930635838150289
+Recall = 0.028850233347475603
+F1 = 0.053754940711462446
+finished
+fack learnwt Time: 15.29s
+
+outlier Merging Time: .14 s
+
+
+*******Domain 1*******
+
+*******Domain 2*******
+
+*******Domain 3*******
+
+*******Domain 4*******
+
+*******Domain 5*******
+
+*******Domain 6*******
+
+*******Domain 7*******
+
+>>>>>>Reliability Score Analysis<<<<<<
+
+rs precision = 0.22150065818341377
+
+rs recall = 0.22606359158083297
+
+cleaning Time: 2.71s
+cleanedDataSet.txt stored in=/data/nw/DC_ED/References_inner_and_outer/mlnclean/dataset/rayyan/dataset/rayyan-outer_error-30/RDBSCleaner_cleaned.txt
+Total Time: 18.01s
+Precision = 0.40828402366863903
+Recall = 0.02927450148493848
+F1 = 0.05463182897862233
+finished
+fack learnwt Time: 14.48s
+
+outlier Merging Time: .11 s
+
+
+*******Domain 1*******
+
+*******Domain 2*******
+
+*******Domain 3*******
+
+*******Domain 4*******
+
+*******Domain 5*******
+
+*******Domain 6*******
+
+*******Domain 7*******
+
+>>>>>>Reliability Score Analysis<<<<<<
+
+rs precision = 0.2679245283018868
+
+rs recall = 0.2734437975817286
+
+cleaning Time: 2.54s
+cleanedDataSet.txt stored in=/data/nw/DC_ED/References_inner_and_outer/mlnclean/dataset/rayyan/dataset/rayyan-outer_error-30/RDBSCleaner_cleaned.txt
+Total Time: 17.02s
+Precision = 0.3930635838150289
+Recall = 0.028850233347475603
+F1 = 0.053754940711462446
+finished
+fack learnwt Time: 14.29s
+
+outlier Merging Time: .18 s
+
+
+*******Domain 1*******
+
+*******Domain 2*******
+
+*******Domain 3*******
+
+*******Domain 4*******
+
+*******Domain 5*******
+
+*******Domain 6*******
+
+*******Domain 7*******
+
+>>>>>>Reliability Score Analysis<<<<<<
+
+rs precision = 0.2679245283018868
+
+rs recall = 0.2734437975817286
+
+cleaning Time: 3.41s
+cleanedDataSet.txt stored in=/data/nw/DC_ED/References_inner_and_outer/mlnclean/dataset/rayyan/dataset/rayyan-outer_error-30/RDBSCleaner_cleaned.txt
+Total Time: 17.70s
+Precision = 0.3930635838150289
+Recall = 0.028850233347475603
+F1 = 0.053754940711462446
+finished

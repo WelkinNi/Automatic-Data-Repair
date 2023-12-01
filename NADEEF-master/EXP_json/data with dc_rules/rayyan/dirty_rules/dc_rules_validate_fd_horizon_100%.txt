@@ -1,0 +1,4 @@
+article_language ⇒ journal_issn
+author_list ⇒ journal_title
+article_jcreated_at ⇒ journal_issn
+article_jissue ⇒ journal_title

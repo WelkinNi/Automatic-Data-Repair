@@ -1,0 +1,12 @@
+{
+    "source" : {
+        "type" : "csv",
+        "file" : ["/data/nw/DC_ED/References_inner_and_outer/NADEEF-master/examples/inctest.csv"]
+    },
+    "rule" : [
+        {
+            "type" : "udf",
+            "value" : ["qa.qcri.nadeef.test.udf.IncPairRule1"]
+        }
+    ]
+}
