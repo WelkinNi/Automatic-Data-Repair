@@ -10,7 +10,7 @@ done
 
 for CNT in "${CNTS_LIST[@]}"
 do
-    PYTHON="./BigDansing_Holistic/holistic.py"
+    PYTHON="./BigDansing/holistic.py"
     # Loop through error rates and run holoclean_run.py on dataset
     for NUM in "${NUMS_LIST[@]}"
     do
