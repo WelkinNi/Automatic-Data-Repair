@@ -9,7 +9,7 @@ done
 
 for CNT in "${CNTS_LIST[@]}"
 do
-    PYTHON="/data/nw/DC_ED/References_inner_and_outer/Daisy/daisy.py"
+    PYTHON="./Daisy/daisy.py"
     # Loop through error rates and run holoclean_run.py on dataset
     for NUM in "${NUMS_LIST[@]}"
     do

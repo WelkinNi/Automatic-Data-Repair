@@ -10,7 +10,7 @@ do
     RULE="./data_with_rules/${TASK}/dc_rules-validate-fd-horizon.txt"
     NUMS_LIST=('01')
     CNTS_LIST=(1 2 3)
-    PYTHON="./Relative_Trust/relative.py"
+    PYTHON="/data/nw/DC_ED/References_inner_and_outer/Relative_Trust/relative.py"
 
     # Loop through error rates and run holoclean_run.py on dataset
     for NUM in "${NUMS_LIST[@]}"

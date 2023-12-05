@@ -1,14 +1,16 @@
 #!/bin/bash
 TASK_LIST=("tax")
 CNTS_LIST=(1 2 3)
+NUMS_LIST=()
 for ((i=10; i<=50; i+=10)); 
 do
   NUMS_LIST+=("$(printf "%04d" $i)k") 
 done
+# echo "${NUMS_LIST[@]}"
 
 for CNT in "${CNTS_LIST[@]}"
 do
-    PYTHON="./Unified/Unified.py"
+    PYTHON="/data/nw/DC_ED/References_inner_and_outer/BigDansing/bigdansing.py"
     # Loop through error rates and run holoclean_run.py on dataset
     for NUM in "${NUMS_LIST[@]}"
     do
@@ -17,7 +19,7 @@ do
         do 
             DIRTY_DATA="./data_with_rules/tax/split_data/tax-dirty-original_error-${NUM}.csv"
             CLEAN_DATA="./data_with_rules/tax/split_data/tax-clean-clean_data_ori-${NUM}.csv"
-            RULE="./data_with_rules/${TASK}/dc_rules-validate-fd-horizon.txt"
+            RULE="./data_with_rules/${TASK}/dc_rules_holoclean.txt"
                     
             TASK_NAME="${TASK}${CNT}"
             DIRTY_DATA_PATH=${DIRTY_DATA}

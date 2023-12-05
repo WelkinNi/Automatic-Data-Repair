@@ -4,7 +4,7 @@ CNTS_LIST=(1 2 3)
 for CNT in "${CNTS_LIST[@]}"
 do
     NUMS_LIST=('01')
-    PYTHON="./BigDansing/bigdansing.py"
+    PYTHON="/data/nw/DC_ED/References_inner_and_outer/BigDansing/bigdansing.py"
     # Loop through error rates and run holoclean_run.py on dataset
     for NUM in "${NUMS_LIST[@]}"
     do        

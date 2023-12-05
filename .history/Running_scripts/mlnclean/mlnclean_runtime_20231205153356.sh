@@ -18,7 +18,7 @@ do
             DIRTY_DATA_PATH="${DIRTY_DATA}${TASK_NAME}"
             echo "Hello, world!"
             echo "${DIRTY_DATA_PATH}"
-            cd ./mlnclean/code/MLNClean; 
+            cd /data/nw/DC_ED/References_inner_and_outer/mlnclean/code/MLNClean; 
             /usr/bin/env /usr/lib/jvm/java-8-openjdk-amd64/bin/java -cp /tmp/cp_21mkjr659r871u00zg8emw14c.jar main.Test "${DIRTY_DATA_PATH}" "trainData.csv" "testData.csv" 1 0 > ./mln-runtime-output.txt 2>&1 || true
         done
     done

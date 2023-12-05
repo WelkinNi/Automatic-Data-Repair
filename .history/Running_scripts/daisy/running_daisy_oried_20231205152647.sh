@@ -9,10 +9,10 @@ do
     do        
         for CNT in "${CNTS_LIST[@]}"
         do
-            DIRTY_DATA="./data_with_rules/${TASK}/noise/${TASK}-inner_outer_error-"
-            CLEAN_DATA="./data_with_rules/${TASK}/clean.csv"
-            RULE="./data_with_rules/${TASK}/dc_rules_holoclean.txt"
-            PYTHON="./Daisy/daisy.py"           
+            DIRTY_DATA="/data/nw/DC_ED/References/DATASET/data_with_rules/${TASK}/noise/${TASK}-inner_outer_error-"
+            CLEAN_DATA="/data/nw/DC_ED/References/DATASET/data_with_rules/${TASK}/clean.csv"
+            RULE="/data/nw/DC_ED/References/DATASET/data_with_rules/${TASK}/dc_rules_holoclean.txt"
+            PYTHON="/data/nw/DC_ED/References_inner_and_outer/Daisy/daisy.py"           
             TASK_NAME="${TASK}${CNT}"
             DIRTY_DATA_PATH="${DIRTY_DATA}${NUM}.csv"
             

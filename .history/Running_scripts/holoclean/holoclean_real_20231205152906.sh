@@ -4,7 +4,7 @@ CNTS_LIST=(1 2 3)
 for CNT in "${CNTS_LIST[@]}"
 do
     NUMS_LIST=('01')
-    PYTHON="./holoclean-master/holoclean_run.py"
+    PYTHON="/data/nw/DC_ED/References_inner_and_outer/holoclean-master/holoclean_run.py"
 
     # Loop through error rates and run holoclean_run.py on dataset
     for TASK in "${TASK_LIST[@]}"
