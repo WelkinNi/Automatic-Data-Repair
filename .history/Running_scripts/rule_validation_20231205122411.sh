@@ -1,5 +1,0 @@
-/home/dell/anaconda3/envs/torch110/bin/python ./check_rules.py --rule_path "/data/nw/DC_ED/References/DATASET/data_with_rules/hospital/dc_rules.txt" --clean_file_path "/data/nw/DC_ED/References/DATASET/data_with_rules/hospital/clean.csv" &
-/home/dell/anaconda3/envs/torch110/bin/python ./check_rules.py --rule_path "/data/nw/DC_ED/References/DATASET/data_with_rules/flights/dc_rules.txt" --clean_file_path "/data/nw/DC_ED/References/DATASET/data_with_rules/flights/clean.csv" &
-/home/dell/anaconda3/envs/torch110/bin/python ./check_rules.py --rule_path "/data/nw/DC_ED/References/DATASET/data_with_rules/rayyan/dc_rules.txt" --clean_file_path "/data/nw/DC_ED/References/DATASET/data_with_rules/rayyan/clean.csv" &
-/home/dell/anaconda3/envs/torch110/bin/python ./check_rules.py --rule_path "/data/nw/DC_ED/References/DATASET/data_with_rules/tax/dc_rules.txt" --clean_file_path "/data/nw/DC_ED/References/DATASET/data_with_rules/tax/clean.csv" &
-/home/dell/anaconda3/envs/torch110/bin/python ./check_rules.py --rule_path "/data/nw/DC_ED/References/DATASET/data_with_rules/beers/dc_rules.txt" --clean_file_path "/data/nw/DC_ED/References/DATASET/data_with_rules/beers/clean.csv"
