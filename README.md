@@ -1,6 +1,6 @@
 # Automatic-Data-Repair
 
-The running environment requirements are in `torch110.yml`
+The running environment requirements are in `environment.yml`
 
 You can use scripts in `/Running_scripts` to run all the data repair experiments
 
