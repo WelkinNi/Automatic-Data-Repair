@@ -32,13 +32,3 @@ do
     done
 done
 
-
-# for pid in "${pids[@]}"
-# do
-#     wait $pid
-#     exit_code=$?
-#     if [ $exit_code -eq 124 ]; then
-#         echo "COMMAND time out: ${COMMAND}" >> "./aggre_results/timeout_log.txt"
-#     fi
-# done
-# pids=()
