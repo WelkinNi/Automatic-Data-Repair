@@ -11,15 +11,11 @@
 
 ########################################
 import os
-import re
 import io
 import sys
 import math
-import argparse
-import pandas as pd
 import json
 import time
-import shutil
 import pickle
 import difflib
 import unicodedata
@@ -36,25 +32,6 @@ import sklearn.naive_bayes
 import sklearn.linear_model
 
 import raha
-import warnings
-warnings.filterwarnings("ignore")
-
-from detection import Detection
-import signal
-from datetime import datetime
-
-def check_string(string: str):
-    if re.search(r"-inner_error-", string):
-        return "-inner_error-" + string[-6:-4]
-    elif re.search(r"-outer_error-", string):
-        return "-outer_error-" + string[-6:-4]
-    elif re.search(r"-inner_outer_error-", string):
-        return "-inner_outer_error-" + string[-6:-4]
-    elif re.search(r"-dirty-original_error-", string):
-        return "-original_error-" + string[-9:-4]
-
-def handler(signum, frame):
-    raise TimeoutError("Time exceeded")
 ########################################
 
 
@@ -73,9 +50,9 @@ class Correction:
         self.CLASSIFICATION_MODEL = "ABC"   # ["ABC", "DTC", "GBC", "GNB", "KNC" ,"SGDC", "SVC"]
         self.IGNORE_SIGN = "<<<IGNORE_THIS_VALUE>>>"
         self.VERBOSE = False
-        self.SAVE_RESULTS = False
+        self.SAVE_RESULTS = True
         self.ONLINE_PHASE = False
-        self.LABELING_BUDGET = 20
+        self.LABELING_BUDGET = 11
         self.MIN_CORRECTION_CANDIDATE_PROBABILITY = 0.0
         self.MIN_CORRECTION_OCCURRENCE = 2
         self.MAX_VALUE_LENGTH = 50
@@ -523,7 +500,6 @@ class Correction:
         """
         This method predicts
         """
-        
         for j in d.column_errors:
             x_train = []
             y_train = []
@@ -531,10 +507,7 @@ class Correction:
             test_cell_correction_list = []
             for k, cell in enumerate(d.column_errors[j]):
                 if cell in d.pair_features:
-                    candidates_set = []
-                    actual_errors = d.clean_dataframe
                     for correction in d.pair_features[cell]:
-                        candidates_set.append(correction)
                         if cell in d.labeled_cells and d.labeled_cells[cell][0] == 1:
                             x_train.append(d.pair_features[cell][correction])
                             y_train.append(int(correction == d.labeled_cells[cell][1]))
@@ -542,8 +515,6 @@ class Correction:
                         else:
                             x_test.append(d.pair_features[cell][correction])
                             test_cell_correction_list.append([cell, correction])
-                    if d.clean_dataframe.iloc[cell[0], cell[1]] in candidates_set:
-                        clean_in_cands.append(cell)
             if self.CLASSIFICATION_MODEL == "ABC":
                 classification_model = sklearn.ensemble.AdaBoostClassifier(n_estimators=100)
             if self.CLASSIFICATION_MODEL == "DTC":
@@ -608,14 +579,12 @@ class Correction:
             print("------------------------------------------------------------------------\n"
                   "--------------Iterative Tuple Sampling, Labeling, and Learning----------\n"
                   "------------------------------------------------------------------------")
-        # while len(d.labeled_tuples) < self.LABELING_BUDGET:
-        #     self.sample_tuple(d)
-        #     if d.has_ground_truth:
-        #         self.label_with_ground_truth(d)
+        while len(d.labeled_tuples) < self.LABELING_BUDGET:
+            self.sample_tuple(d)
+            if d.has_ground_truth:
+                self.label_with_ground_truth(d)
             # else:
             #   In this case, user should label the tuple interactively as shown in the Jupyter notebook.
-        for si in d.labeled_tuples:
-            d.sampled_tuple = si
             self.update_models(d)
             self.generate_features(d)
             self.predict_corrections(d)
@@ -626,161 +595,31 @@ class Correction:
                 print("------------------------------------------------------------------------\n"
                       "---------------------------Storing the Results--------------------------\n"
                       "------------------------------------------------------------------------")
-            # self.store_results(d)
+            self.store_results(d)
         return d.corrected_cells
 ########################################
 
 
 ########################################
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser()
-    parser.add_argument('--clean_path', type=str, default=None)
-    parser.add_argument('--dirty_path', type=str, default=None)
-    parser.add_argument('--task_name', type=str, default=None)
-    args = parser.parse_args()
-    dirty_path = args.dirty_path
-    clean_path = args.clean_path
-    task_name = args.task_name
-
-    # task_name = "tax1"
-    # clean_path = "./data_with_rules/tax/clean.csv"
-    # dirty_path = "./data_with_rules/tax/split_data/tax-dirty-original_error-0001k.csv"
-
-    stra_path = "./data_with_rules/" + task_name[:-1] + "/noise/raha-baran-results-" + task_name + check_string(dirty_path)
-    if os.path.exists(stra_path):
-        shutil.rmtree(stra_path)
-    stra_path = "./DATASET/data_with_rules/" + task_name[:-1] + "/noise/raha-baran-results-" + task_name + check_string(dirty_path)
-    if os.path.exists(stra_path):
-        shutil.rmtree(stra_path)
-    stra_path = "./data_with_rules/tax/split_data/raha-baran-results-" + task_name + check_string(dirty_path)
-    if os.path.exists(stra_path):
-        shutil.rmtree(stra_path)
-    stra_path = "./data_with_rules/tax/split_data/raha-baran-results-" + task_name + check_string(dirty_path)
-    if os.path.exists(stra_path):
-        shutil.rmtree(stra_path)
-    dataset_name = task_name
-    
+    dataset_name = "hospital"
+    time_start=time.time()
     dataset_dictionary = {
-        "name": task_name + check_string(dirty_path),
-        "path": dirty_path,
-        "clean_path": clean_path
+        "name": dataset_name,
+        # "path": os.path.abspath(os.path.join(os.path.dirname(__file__), os.pardir, "datasets", dataset_name, "dirty.csv")),
+        # "clean_path": os.path.abspath(os.path.join(os.path.dirname(__file__), os.pardir, "datasets", dataset_name, "clean.csv"))
+        "path": "/data/nw/DC_ED/datasets/hospital/dirty.csv",
+        "clean_path": "/data/nw/DC_ED/datasets/hospital/clean.csv"
     }
-    time_limit = 24*3600
-    signal.signal(signal.SIGALRM, handler)
-    signal.alarm(time_limit)
-    clean_in_cands = []
-    try:
-        # get Raha result
-        time_start = time.time()
-        app1 = Detection()
-        detected_cells = app1.run(dataset_dictionary)
-        p, r, f = app1.d.get_data_cleaning_evaluation(detected_cells)[:3]
-        time_end = time.time()
-
-        out_path = "./Exp_result/raha_baran/" + task_name[:-1] + "/onlyED_" + task_name + check_string(dirty_path) + ".txt"
-        f = open(out_path, 'w')
-        sys.stdout = f
-        print("{}\n{}\n{}".format(p, r, f))
-        print(time_end-time_start)
-        f.close()
-
-        time_start = time.time()
-        data = raha.dataset.Dataset(dataset_dictionary)
-        app = Correction()
-        correction_dictionary = app.run(app1.d)
-        p, r, f = data.get_data_cleaning_evaluation(correction_dictionary)[-3:]
-
-        out_path = "./Exp_result/raha_baran/" + task_name[:-1] + "/oriED+EC_" + task_name + check_string(dirty_path) + ".txt"
-        res_path = "./Repaired_res/raha_baran/" + task_name[:-1] + "/repaired_" + task_name + check_string(dirty_path) + ".csv"
-        repaired_df = pd.read_csv(dirty_path)
-        for cell, value in correction_dictionary.items():
-            repaired_df.iloc[cell[0], cell[1]] = value
-        repaired_df.to_csv(res_path, index=False, columns=list(repaired_df.columns))
-
-        f = open(out_path, 'w')
-        sys.stdout = f
-        print("{}\n{}\n{}".format(p, r, str(f)))
-        time_end = time.time()
-        print(time_end-time_start)
-        f.close()
-        # --------------------
-        # app.extract_revisions(wikipedia_dumps_folder="../wikipedia-data")
-        # app.pretrain_value_based_models(revision_data_folder="../wikipedia-data/revision-data")
-
-        sys.stdout = sys.__stdout__ 
-        out_path = "./Exp_result/raha_baran/" + task_name[:-1] + "/all_compute_" + task_name + check_string(dirty_path) + ".txt"
-        f = open(out_path, 'w')
-        sys.stdout = f
-        actual_errors = data.get_actual_errors_dictionary()
-        actual_errors_list = list(actual_errors.keys())
-        repaired_cells = list(correction_dictionary.keys())
-        right2wrong = 0
-        right2right = 0
-        wrong2right = 0
-        wrong2wrong = 0
-        rep_right = 0
-        rec_right = 0
-
-        rep_total = len(repaired_cells)
-        wrong_cells = len(actual_errors_list)
-        repair_right_cells = []
-        for cell in repaired_cells:
-            try:
-                if correction_dictionary[cell] == actual_errors[cell]:
-                    repair_right_cells.append(cell)
-                    rep_right += 1
-            except:
-                continue
-
-        for cell in actual_errors_list:
-            try:
-                if cell in repaired_cells:
-                    if correction_dictionary[cell] == actual_errors[cell]:
-                        rec_right += 1
-            except:
-                continue
-
-        for cell in repair_right_cells:
-            if cell in actual_errors_list:
-                wrong2right += 1
-            else:
-                right2right += 1
-
-        print("rep_right:"+str(rep_right))
-        print("rec_right:"+str(rec_right))
-        print("wrong_cells:"+str(wrong_cells))
-        print("prec:"+str(p))
-        print("rec:"+str(r))
-        print("wrong2right:"+str(wrong2right))
-        print("right2right:"+str(right2right))
-        repair_wrong_cells = [i for i in repaired_cells if i not in repair_right_cells]
-        for cell in repair_wrong_cells:
-            if cell in actual_errors_list:
-                wrong2wrong += 1
-            else:
-                right2wrong += 1
-        print("wrong2wrong:"+str(wrong2wrong))
-        print("right2wrong:"+str(right2wrong))
-        print("clean_in_cands BEFORE filter:"+str(len(clean_in_cands)))
-        clean_in_cands = list(set(clean_in_cands))
-        for cell in clean_in_cands:
-            if cell not in repaired_cells:
-                clean_in_cands.remove(cell)
-        print("clean_in_cands AFTER filter:"+str(len(clean_in_cands)))
-        print("proportion of clean value in candidates:"+str(len(clean_in_cands)/(rep_total+1e-8)))
-        clean_in_cands_repair_right = []
-        for cell in clean_in_cands:
-            if cell in repair_right_cells:
-                clean_in_cands_repair_right.append(cell)
-        print("proportion of clean value in candidates and selected correctly:"+str(len(clean_in_cands_repair_right)/(len(clean_in_cands)+1e-8)))
-        f.close()
-    ########################################
-    except TimeoutError as e: 
-        print("Time exceeded:", e, task_name, dirty_path)
-        out_file = open("./aggre_results/timeout_log.txt", "a")
-        now = datetime.now()
-        out_file.write(now.strftime("%Y-%m-%d %H:%M:%S"))
-        out_file.write("Baran with Raha.py: ")
-        out_file.write(f" {task_name}")
-        out_file.write(f" {dirty_path}\n")
-        out_file.close()
+    data = raha.dataset.Dataset(dataset_dictionary)
+    data.detected_cells = dict(data.get_actual_errors_dictionary())
+    app = Correction()
+    correction_dictionary = app.run(data)
+    p, r, f = data.get_data_cleaning_evaluation(correction_dictionary)[-3:]
+    print("Baran's performance on {}:\nPrecision = {:.2f}\nRecall = {:.2f}\nF1 = {:.2f}".format(data.name, p, r, f))
+    time_end=time.time()
+    print('time cost',time_end-time_start,'s')
+    # --------------------
+    # app.extract_revisions(wikipedia_dumps_folder="../wikipedia-data")
+    # app.pretrain_value_based_models(revision_data_folder="../wikipedia-data/revision-data")
+########################################

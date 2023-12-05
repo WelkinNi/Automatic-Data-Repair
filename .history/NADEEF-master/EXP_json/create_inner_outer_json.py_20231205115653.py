@@ -5,7 +5,7 @@ trans_error = 'outer_error'
 def file_transfer(input_dir):
     # Loop through all JSON files in input dir
     for filename in os.listdir(input_dir):
-        if filename.endswith('.json') and filename.startwith('tax'):
+        if filename.endswith('.json'):
             # Load JSON file
             with open(os.path.join(input_dir, filename)) as f:
                 data = json.load(f)
@@ -21,5 +21,5 @@ def file_transfer(input_dir):
                 json.dump(data, f, indent=4)
             
 if __name__ == '__main__':
-    input_dir = './NADEEF-master/EXP_json'
+    input_dir = '/data/nw/DC_ED/References_inner_and_outer/NADEEF-master/EXP_json'
     file_transfer(input_dir)

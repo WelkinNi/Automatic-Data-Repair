@@ -559,6 +559,15 @@ if __name__ == "__main__":
     rule_path = args.rule_path
     ONLYED = args.onlyed
     PERFECTED = args.perfected
+    
+    # dirty_path = "/data/nw/DC_ED/References_inner_and_outer/SCAREd/dirty.csv"
+    # dirty_path = "./data_with_rules/flights/noise/flights-outer_error-10.csv"
+    # rule_path = "./data_with_rules/flights/dc_rules-validate-fd-horizon.txt"
+    # clean_path = "./data_with_rules/flights/clean.csv"
+    # clean_path = "/data/nw/DC_ED/References_inner_and_outer/SCAREd/clean.csv"
+    # task_name = "flights1"
+    # ONLYED = 1
+    # PERFECTED = 0
 
     start_time = time.time()
     logging.basicConfig(level=logging.DEBUG)

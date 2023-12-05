@@ -21,5 +21,5 @@ def file_transfer(input_dir):
                 json.dump(data, f, indent=4)
             
 if __name__ == '__main__':
-    input_dir = './NADEEF-master/EXP_json'
+    input_dir = '/data/nw/DC_ED/References_inner_and_outer/NADEEF-master/EXP_json'
     file_transfer(input_dir)

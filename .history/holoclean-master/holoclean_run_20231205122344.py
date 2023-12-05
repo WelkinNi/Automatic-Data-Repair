@@ -1,6 +1,6 @@
 import sys
 import os
-path = './holoclean-master'
+path = '/data/nw/DC_ED/References_inner_and_outer/holoclean-master'
 os.chdir(path)
 sys.path.append(path)
 import holoclean
@@ -38,6 +38,15 @@ if __name__ == "__main__":
     rule_path = args.rule_path
     ONLYED = args.onlyed
     PERFECTED = args.perfected
+
+    # task = "hospital"
+    # num = 90
+    # dirty_path = "/data/nw/DC_ED/References/DATASET/data_with_rules/"+str(task)+"/noise/"+str(task)+"-inner_outer_error-" + str(num) + ".csv"
+    # clean_path = "/data/nw/DC_ED/References/DATASET/data_with_rules/"+str(task)+"/clean.csv"
+    # task_name = "hospital1"
+    # rule_path = "/data/nw/DC_ED/References/DATASET/data_with_rules/"+str(task)+"/dc_rules_holoclean.txt"
+    # ONLYED = 0
+    # PERFECTED = 0
 
     clean_df = pd.read_csv(clean_path).astype('str')
     dirty_df = pd.read_csv(dirty_path).astype('str')
@@ -95,7 +104,7 @@ if __name__ == "__main__":
     # hc.repair_errors(featurizers)
 
     # # 5. Evaluate the correctness of the results.
-    # hc.evaluate(fpath='./holoclean-master/testdata/hospital_clean.csv',
+    # hc.evaluate(fpath='/data/nw/DC_ED/References_inner_and_outer/holoclean-master/testdata/hospital_clean.csv',
     #             tid_col='tid',
     #             attr_col='attribute',
     #             val_col='correct_val')

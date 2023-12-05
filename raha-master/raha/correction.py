@@ -606,10 +606,8 @@ if __name__ == "__main__":
     time_start=time.time()
     dataset_dictionary = {
         "name": dataset_name,
-        # "path": os.path.abspath(os.path.join(os.path.dirname(__file__), os.pardir, "datasets", dataset_name, "dirty.csv")),
-        # "clean_path": os.path.abspath(os.path.join(os.path.dirname(__file__), os.pardir, "datasets", dataset_name, "clean.csv"))
-        "path": "/data/nw/DC_ED/datasets/hospital/dirty.csv",
-        "clean_path": "/data/nw/DC_ED/datasets/hospital/clean.csv"
+        "path": "./data_with_rules/hospital/dirty.csv",
+        "clean_path": "./data_with_rules/hospital/clean.csv"
     }
     data = raha.dataset.Dataset(dataset_dictionary)
     data.detected_cells = dict(data.get_actual_errors_dictionary())

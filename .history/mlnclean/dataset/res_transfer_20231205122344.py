@@ -17,7 +17,7 @@ def process_file(file_path, new_file_name):
 
 if __name__ == "__main__":
     task_name = "rayyan"
-    base_dir = f"./mlnclean/dataset/{task_name}/dataset"
+    base_dir = f"/data/nw/DC_ED/References_inner_and_outer/mlnclean/dataset/{task_name}/dataset"
     tar_dir = f"./Repaired_res/mlnclean/{task_name}"
 
     for root, subdirs, filenames in os.walk(base_dir):

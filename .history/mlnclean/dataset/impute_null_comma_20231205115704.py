@@ -38,6 +38,6 @@ def process_csv_files(folder_path):
 if __name__ == '__main__':
     # Specify the folder path where the CSV files are located
     name = "flights"
-    base_path = f"./mlnclean/dataset/{name}/dataset/"
+    base_path = f"/data/nw/DC_ED/References_inner_and_outer/mlnclean/dataset/{name}/dataset/"
     # Call the function to process the CSV files
     process_csv_files(base_path)

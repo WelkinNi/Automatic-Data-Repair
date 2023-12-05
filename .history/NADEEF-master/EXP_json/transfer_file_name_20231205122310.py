@@ -33,22 +33,22 @@ def find_violations(filepath):
 
 
 if __name__ == '__main__':
-    directory = './NADEEF-master/out'  # Replace with the path to the directory you want to search
-    json_dir = './NADEEF-master/EXP_json'
+    directory = '/data/nw/DC_ED/References_inner_and_outer/NADEEF-master/out'  # Replace with the path to the directory you want to search
+    json_dir = '/data/nw/DC_ED/References_inner_and_outer/NADEEF-master/EXP_json'
     pattern = 'violation_nadeef_'
     dataname_list = ['beers', 'flights', 'hos', 'rayyan']
     dataset_list = ['beers', 'flights', 'hospital', 'rayyan']
     data_file = {
-        'beers': './NADEEF-master/EXP_json/data_with_rules/beers/clean.csv',
-        'flights': './NADEEF-master/EXP_json/data_with_rules/flights/clean.csv',
-        'hospital': './NADEEF-master/EXP_json/data_with_rules/hospital/clean.csv',
-        'rayyan': './NADEEF-master/EXP_json/data_with_rules/rayyan/clean.csv'
+        'beers': '/data/nw/DC_ED/References_inner_and_outer/NADEEF-master/EXP_json/data_with_rules/beers/clean.csv',
+        'flights': '/data/nw/DC_ED/References_inner_and_outer/NADEEF-master/EXP_json/data_with_rules/flights/clean.csv',
+        'hospital': '/data/nw/DC_ED/References_inner_and_outer/NADEEF-master/EXP_json/data_with_rules/hospital/clean.csv',
+        'rayyan': '/data/nw/DC_ED/References_inner_and_outer/NADEEF-master/EXP_json/data_with_rules/rayyan/clean.csv'
     }
     json_file = {
-        'beers': './NADEEF-master/EXP_json/beers_inner_outer_error_01.json',
-        'flights': './NADEEF-master/EXP_json/flights_inner_outer_error_01.json',
-        'hospital': './NADEEF-master/EXP_json/hospital_inner_outer_error_01.json',
-        'rayyan': './NADEEF-master/EXP_json/rayyan_inner_outer_error_01.json'
+        'beers': '/data/nw/DC_ED/References_inner_and_outer/NADEEF-master/EXP_json/beers_inner_outer_error_01.json',
+        'flights': '/data/nw/DC_ED/References_inner_and_outer/NADEEF-master/EXP_json/flights_inner_outer_error_01.json',
+        'hospital': '/data/nw/DC_ED/References_inner_and_outer/NADEEF-master/EXP_json/hospital_inner_outer_error_01.json',
+        'rayyan': '/data/nw/DC_ED/References_inner_and_outer/NADEEF-master/EXP_json/rayyan_inner_outer_error_01.json'
     }
 
     # get cols for each dataset

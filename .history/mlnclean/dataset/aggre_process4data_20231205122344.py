@@ -128,15 +128,15 @@ def copy_files_to_subfolders(source_folder):
 
 if __name__ == '__main__':
     name = "tax"
-    base_path = f"./mlnclean/dataset/{name}/dataset/"
+    base_path = f"/data/nw/DC_ED/References_inner_and_outer/mlnclean/dataset/{name}/dataset/"
 
     # src_dirty = f"./data_with_rules/{name}/dirty.csv" 
-    # tar_dirty = f"./mlnclean/dataset/{name}/dataset/dirty.csv"
+    # tar_dirty = f"/data/nw/DC_ED/References_inner_and_outer/mlnclean/dataset/{name}/dataset/dirty.csv"
     src_clean = f"./data_with_rules/{name}/clean.csv" 
-    tar_clean = f"./mlnclean/dataset/{name}/dataset/clean.csv"
+    tar_clean = f"/data/nw/DC_ED/References_inner_and_outer/mlnclean/dataset/{name}/dataset/clean.csv"
     src_dc = f"./data_with_rules/{name}/dc_rules_holoclean.txt" 
-    tar_dc = f"./mlnclean/dataset/{name}/dataset/dc_rules_holoclean.txt"
-    tar_folder = f"./mlnclean/dataset/{name}/noise"
+    tar_dc = f"/data/nw/DC_ED/References_inner_and_outer/mlnclean/dataset/{name}/dataset/dc_rules_holoclean.txt"
+    tar_folder = f"/data/nw/DC_ED/References_inner_and_outer/mlnclean/dataset/{name}/noise"
     if name == "tax":
         src_folder = f"./data_with_rules/{name}/runtime_noise" 
     else:
@@ -146,7 +146,7 @@ if __name__ == '__main__':
     shutil.copytree(src_folder, tar_folder)
     
     # Move Data and Change Folder name
-    source_dir = f"./mlnclean/dataset/{name}"
+    source_dir = f"/data/nw/DC_ED/References_inner_and_outer/mlnclean/dataset/{name}"
     noise_dir = os.path.join(source_dir, "noise")
     dataset_dir = os.path.join(source_dir, "dataset")
     for file in os.listdir(noise_dir):

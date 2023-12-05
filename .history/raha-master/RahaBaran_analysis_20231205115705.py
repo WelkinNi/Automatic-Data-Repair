@@ -52,8 +52,8 @@ app_1 = raha.Detection()
 app_1.LABELING_BUDGET = 30
 
 app_1.VERBOSE = True
-clean_filepath = "./raha-master/datasets/hospital/clean.csv"
-dirty_filepath = "./raha-master/datasets/hospital/dirty.csv"
+clean_filepath = "/data/nw/DC_ED/References_inner_and_outer/raha-master/datasets/hospital/clean.csv"
+dirty_filepath = "/data/nw/DC_ED/References_inner_and_outer/raha-master/datasets/hospital/dirty.csv"
 
 
 
@@ -124,7 +124,7 @@ Using Fasttext to improve
 """
 # print("-"*40)
 # dimension = 300
-# wv_from_text = KeyedVectors.load_word2vec_format('./wiki-news-300d-1M.vec', binary=False,limit=1000000)
+# wv_from_text = KeyedVectors.load_word2vec_format('/data/nw/DC_ED/References_inner_and_outer/wiki-news-300d-1M.vec', binary=False,limit=1000000)
 # model = fasttext.train_unsupervised(dirty_filepath, model='skipgram',dim=dimension,lr=0.0001, epoch=10, ws=10)
 # ftvecs = None
 # for col in d.dataframe.columns:

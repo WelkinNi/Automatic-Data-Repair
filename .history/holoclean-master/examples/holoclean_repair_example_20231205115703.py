@@ -1,6 +1,6 @@
 import sys
 import os
-path = './holoclean-master'
+path = '/data/nw/DC_ED/References_inner_and_outer/holoclean-master'
 os.chdir(path)
 sys.path.append(path)
 import holoclean
@@ -30,8 +30,8 @@ hc = holoclean.HoloClean(
 ).session
 
 # 2. Load training data and denial constraints.
-hc.load_data('hospital', './holoclean-master/testdata/hospital.csv')
-hc.load_dcs('./holoclean-master/testdata/hospital_constraints.txt')
+hc.load_data('hospital', '/data/nw/DC_ED/References_inner_and_outer/holoclean-master/testdata/hospital.csv')
+hc.load_dcs('/data/nw/DC_ED/References_inner_and_outer/holoclean-master/testdata/hospital_constraints.txt')
 hc.ds.set_constraints(hc.get_dcs())
 
 # 3. Detect erroneous cells using these two detectors.
@@ -50,7 +50,7 @@ featurizers = [
 hc.repair_errors(featurizers)
 
 # 5. Evaluate the correctness of the results.
-hc.evaluate(fpath='./holoclean-master/testdata/hospital_clean.csv',
+hc.evaluate(fpath='/data/nw/DC_ED/References_inner_and_outer/holoclean-master/testdata/hospital_clean.csv',
             tid_col='tid',
             attr_col='attribute',
             val_col='correct_val')
