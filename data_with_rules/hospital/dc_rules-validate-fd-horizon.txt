@@ -1,0 +1,13 @@
+HospitalName ⇒ ZipCode
+HospitalName ⇒ PhoneNumber
+MeasureCode ⇒ MeasureName
+MeasureCode ⇒ Stateavg
+MeasureName ⇒ MeasureCode
+ProviderNumber ⇒ HospitalName
+MeasureCode ⇒ Condition
+HospitalName ⇒ Address1
+HospitalName ⇒ HospitalOwner
+HospitalName ⇒ ProviderNumber
+City ⇒ CountyName
+ZipCode ⇒ EmergencyService
+HospitalName ⇒ City

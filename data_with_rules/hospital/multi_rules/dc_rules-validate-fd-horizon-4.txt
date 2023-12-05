@@ -1,0 +1,4 @@
+HospitalName ⇒ ZipCode
+HospitalName ⇒ PhoneNumber
+MeasureCode ⇒ MeasureName
+MeasureCode ⇒ Stateavg

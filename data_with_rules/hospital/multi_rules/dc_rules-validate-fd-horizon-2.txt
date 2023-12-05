@@ -1,0 +1,2 @@
+HospitalName ⇒ ZipCode
+HospitalName ⇒ PhoneNumber

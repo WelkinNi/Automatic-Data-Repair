@@ -1,0 +1,4 @@
+journal_title ⇒ journal_issn
+jounral_abbreviation ⇒ journal_title
+jounral_abbreviation ⇒ journal_issn
+journal_issn ⇒ journal_title

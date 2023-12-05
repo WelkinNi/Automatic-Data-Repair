@@ -1,0 +1,4 @@
+MeasureCode ⇒ ZipCode
+Stateavg ⇒ CountyName
+Address1 ⇒ City
+HospitalType ⇒ State

@@ -1,0 +1,6 @@
+brewery_name ⇒ brewery_id
+brewery_id ⇒ brewery_name
+brewery_id ⇒ city
+brewery_id ⇒ state
+beer_name ⇒ brewery_id
+brewery_name ⇒ brewery_id

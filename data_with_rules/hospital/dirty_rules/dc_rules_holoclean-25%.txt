@@ -1,0 +1,4 @@
+t1&t2&EQ(t1.HospitalName,t2.HospitalName)&IQ(t1.ZipCode,t2.ZipCode)
+t1&t2&EQ(t1.City,t2.City)&IQ(t1.CountyName,t2.CountyName)
+t1&t2&EQ(t1.ZipCode,t2.ZipCode)&IQ(t1.City,t2.City)
+t1&t2&EQ(t1.ZipCode,t2.ZipCode)&IQ(t1.State,t2.State)
