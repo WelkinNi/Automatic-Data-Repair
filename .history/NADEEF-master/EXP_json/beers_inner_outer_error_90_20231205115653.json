@@ -1,0 +1,33 @@
+{
+    "source" : {
+        "type" : "csv",
+        "file" : ["/data/nw/DC_ED/References_inner_and_outer/NADEEF-master/EXP_json/data with dc_rules/beers/noise/beers_inner_outer_error_90.csv"]
+    },
+    "rule" : [
+        {
+            "name" : "beersDC1",
+            "type" : "dc",
+            "value" : ["not(t1.brewery_name=t2.brewery_name&t1.brewery_id!=t2.brewery_id)"]
+        },
+        {
+            "name" : "beersDC2",
+            "type" : "dc",
+            "value" : ["not(t1.brewery_id=t2.brewery_id&t1.brewery_name!=t2.brewery_name)"]
+        },
+        {
+            "name" : "beersDC3",
+            "type" : "dc",
+            "value" : ["not(t1.brewery_id=t2.brewery_id&t1.city!=t2.city)"]
+        },
+        {
+            "name" : "beersDC4",
+            "type" : "dc",
+            "value" : ["not(t1.brewery_id=t2.brewery_id&t1.state!=t2.state)"]
+        },
+        {
+            "name" : "beersDC5",
+            "type" : "dc",
+            "value" : ["not(t1.beer_name=t2.beer_name&t1.brewery_name=t2.brewery_name&t1.brewery_id!=t2.brewery_id)"]
+        }
+    ]
+}

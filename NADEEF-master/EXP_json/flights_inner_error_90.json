@@ -2,7 +2,7 @@
     "source": {
         "type": "csv",
         "file": [
-            "/data/nw/DC_ED/References_inner_and_outer/NADEEF-master/EXP_json/data with dc_rules/flights/noise/flights_inner_error_90.csv"
+            "/data/nw/DC_ED/References_inner_and_outer/NADEEF-master/EXP_json/data_with_rules/flights/noise/flights_inner_error_90.csv"
         ]
     },
     "rule": [
