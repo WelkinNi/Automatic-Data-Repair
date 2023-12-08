@@ -623,7 +623,7 @@ if __name__ == "__main__":
     stra_path = "./data_with_rules/" + task_name[:-1] + "/noise/raha-baran-results-" + task_name
     if os.path.exists(stra_path):
         shutil.rmtree(stra_path)
-    stra_path = "./DATASET/data_with_rules/" + task_name[:-1] + "/noise/raha-baran-results-" + task_name
+    stra_path = "./data_with_rules/" + task_name[:-1] + "/noise/raha-baran-results-" + task_name
     if os.path.exists(stra_path):
         shutil.rmtree(stra_path)
     stra_path = "./data_with_rules/tax/split_data/raha-baran-results-" + task_name

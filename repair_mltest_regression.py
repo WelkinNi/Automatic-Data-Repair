@@ -79,15 +79,15 @@ def evaluate(y_test, y_pred):
 
 
 if __name__ == "__main__":
-    dirty_path = "/data/nw/DC_ED/References_inner_and_outer/DATASET/data with dc_rules/flights/noise/flights-inner_error-20.csv"
-    clean_path = "/data/nw/DC_ED/References_inner_and_outer/DATASET/data with dc_rules/flights/clean.csv"
-    rep_path = "/data/nw/DC_ED/References_inner_and_outer/DATASET/Repaired_res/bigdansing/flights/repaired_flights1-inner_error-10.csv"
+    dirty_path = "./data_with_rules/flights/noise/flights-inner_error-20.csv"
+    clean_path = "./data_with_rules/flights/clean.csv"
+    rep_path = "./Repaired_res/bigdansing/flights/repaired_flights1-inner_error-10.csv"
 
     target_dict = {'hospital':'Score', 'beers':'abv'}
 
-    data_base_dir = "/data/nw/DC_ED/References_inner_and_outer/DATASET/data with dc_rules/"
-    rep_base_dir = "/data/nw/DC_ED/References_inner_and_outer/DATASET/Repaired_res/"
-    res_base_dir = "/data/nw/DC_ED/References_inner_and_outer/DATASET/Exp_result_downstream/"
+    data_base_dir = "./data_with_rules/"
+    rep_base_dir = "./Repaired_res/"
+    res_base_dir = "./Exp_result_downstream/"
     datasets = target_dict.keys()
     error_types = ["-outer_error-", "-inner_error-", "-inner_outer_error-"]
     error_types = ["-inner_outer_error-"]
