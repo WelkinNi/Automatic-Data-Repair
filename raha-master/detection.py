@@ -39,7 +39,8 @@ import sklearn.naive_bayes
 import sklearn.kernel_ridge
 import sklearn.neural_network
 import sklearn.feature_extraction
-
+import sys
+sys.path.append('Baseline/raha-master')
 import raha
 ########################################
 
@@ -54,7 +55,7 @@ class Detection:
         """
         The constructor.
         """
-        self.LABELING_BUDGET = 20
+        self.LABELING_BUDGET = 1
         self.USER_LABELING_ACCURACY = 1.0
         self.VERBOSE = False
         self.SAVE_RESULTS = False
@@ -451,9 +452,9 @@ if __name__ == "__main__":
     clean_path = args.clean_path
     task_name = args.task_name
 
-    # task_name = "flights"
-    # clean_path = "./data_with_rules/flights/clean.csv"
-    # dirty_path = "./data_with_rules/flights/noise/flights-inner_error-10.csv"
+    task_name = "hospital"
+    clean_path = f"./data_with_rules/{task_name}/clean.csv"
+    dirty_path = "./data_with_rules/{task_name}/noise/{task_name}-inner_error-01.csv"
     
     stra_path = "./data_with_rules/" + task_name[:-1] + "/noise/raha-baran-results-" + task_name
     if os.path.exists(stra_path):
