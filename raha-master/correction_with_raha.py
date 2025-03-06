@@ -643,19 +643,19 @@ if __name__ == "__main__":
     task_name = args.task_name
 
     # task_name = "tax1"
-    # clean_path = "./data_with_rules/tax/clean.csv"
-    # dirty_path = "./data_with_rules/tax/split_data/tax-dirty-original_error-0001k.csv"
+    # clean_path = "../data_with_rules/tax/clean.csv"
+    # dirty_path = "../data_with_rules/tax/split_data/tax-dirty-original_error-0001k.csv"
 
-    stra_path = "./data_with_rules/" + task_name[:-1] + "/noise/raha-baran-results-" + task_name + check_string(dirty_path)
+    stra_path = "../data_with_rules/" + task_name[:-1] + "/noise/raha-baran-results-" + task_name + check_string(dirty_path)
     if os.path.exists(stra_path):
         shutil.rmtree(stra_path)
     stra_path = "./DATASET/data_with_rules/" + task_name[:-1] + "/noise/raha-baran-results-" + task_name + check_string(dirty_path)
     if os.path.exists(stra_path):
         shutil.rmtree(stra_path)
-    stra_path = "./data_with_rules/tax/split_data/raha-baran-results-" + task_name + check_string(dirty_path)
+    stra_path = "../data_with_rules/tax/split_data/raha-baran-results-" + task_name + check_string(dirty_path)
     if os.path.exists(stra_path):
         shutil.rmtree(stra_path)
-    stra_path = "./data_with_rules/tax/split_data/raha-baran-results-" + task_name + check_string(dirty_path)
+    stra_path = "../data_with_rules/tax/split_data/raha-baran-results-" + task_name + check_string(dirty_path)
     if os.path.exists(stra_path):
         shutil.rmtree(stra_path)
     dataset_name = task_name
@@ -678,6 +678,7 @@ if __name__ == "__main__":
         time_end = time.time()
 
         out_path = "./Exp_result/raha_baran/" + task_name[:-1] + "/onlyED_" + task_name + check_string(dirty_path) + ".txt"
+        os.makedirs(os.path.dirname(out_path), exist_ok=True) # to create the folder
         f = open(out_path, 'w')
         sys.stdout = f
         print("{}\n{}\n{}".format(p, r, f))
@@ -692,6 +693,7 @@ if __name__ == "__main__":
 
         out_path = "./Exp_result/raha_baran/" + task_name[:-1] + "/oriED+EC_" + task_name + check_string(dirty_path) + ".txt"
         res_path = "./Repaired_res/raha_baran/" + task_name[:-1] + "/repaired_" + task_name + check_string(dirty_path) + ".csv"
+        os.makedirs(os.path.dirname(res_path), exist_ok=True)
         repaired_df = pd.read_csv(dirty_path)
         for cell, value in correction_dictionary.items():
             repaired_df.iloc[cell[0], cell[1]] = value
