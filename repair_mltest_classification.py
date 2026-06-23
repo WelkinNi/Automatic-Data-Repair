@@ -81,7 +81,7 @@ if __name__ == "__main__":
     error_types = ["-outer_error-", "-inner_error-", "-inner_outer_error-"]
     error_types = ["-inner_outer_error-",]
     
-    methods = ['bigdansing', 'holistic', 'nadeef', 'mlnclean', 'horizon', 'raha_baran', 'scared', 'holoclean', 'Unified','boostclean']
+    methods = ['bigdansing', 'holistic', 'nadeef', 'mlnclean', 'horizon', 'raha_baran', 'scared', 'holoclean', 'Unified', 'boostclean', 'iterclean']
     methods = ['daisy']
     
     for k in range(1,4):
